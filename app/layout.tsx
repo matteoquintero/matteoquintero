@@ -18,6 +18,31 @@ export const metadata: Metadata = {
   title: "Portfolio — Creative × Technical",
   description: "Senior Product Designer + Creative Technologist + Frontend Engineer",
   generator: "matteoquintero",
+  metadataBase: new URL("https://matteoquintero.com"),
+  openGraph: {
+    title: "Mateo Quintero — Portfolio",
+    description:
+      "Diseño sistemas que resuelven problemas. Senior Product Designer + Creative Technologist + Frontend Engineer",
+    url: "https://matteoquintero.com",
+    siteName: "Mateo Quintero Portfolio",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Mateo Quintero Portfolio - Creative × Technical",
+      },
+    ],
+    locale: "es_CO",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Mateo Quintero — Portfolio",
+    description:
+      "Diseño sistemas que resuelven problemas. Senior Product Designer + Creative Technologist + Frontend Engineer",
+    images: ["/og-image.jpg"],
+  },
   icons: {
     icon: [
       {
