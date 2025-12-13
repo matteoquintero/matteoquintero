@@ -102,11 +102,7 @@ export function BrainHero() {
 
       <div className="absolute top-0 left-1/2 -translate-x-1/2 z-10">
         <div className="w-16 h-16 md:w-20 md:h-20 lg:w-24 lg:h-24 rounded-full overflow-hidden border-2 border-border/30">
-          <img
-            src="/professional-portrait-bw.png"
-            alt="Mateo Quintero"
-            className="w-full h-full object-cover grayscale"
-          />
+          <img src="/profile.jpg" alt="Mateo Quintero" className="w-full h-full object-cover grayscale" />
         </div>
       </div>
 
