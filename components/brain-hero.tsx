@@ -2,13 +2,8 @@
 
 import { useEffect, useRef, useState } from "react"
 import { Linkedin, Mail, Phone } from "lucide-react"
-import type { HeroContent } from "@/lib/actions/hero"
 
-interface BrainHeroProps {
-  content: HeroContent | null
-}
-
-export function BrainHero({ content }: BrainHeroProps) {
+export function BrainHero() {
   const heroRef = useRef<HTMLElement>(null)
   const [scrollProgress, setScrollProgress] = useState(0)
   const [mousePosition, setMousePosition] = useState({ x: 0.5, y: 0.5 })
@@ -58,18 +53,6 @@ export function BrainHero({ content }: BrainHeroProps) {
     { text: "Datos", delay: "4.5s" },
   ]
 
-  const name = content?.name ?? "Mateo Quintero"
-  const role = content?.role ?? "CTO · Sistemas · Producto"
-  const headlineCreative = content?.headline_creative ?? "Diseño"
-  const headlineAction = content?.headline_action ?? "sistemas"
-  const headlineTechnical = content?.headline_technical ?? "resuelven problemas"
-  const microContext = content?.micro_context ?? "Portafolio personal"
-  const scrollText = content?.scroll_text ?? "Desliza para ver cómo llegué hasta aquí"
-  const profileImage = content?.profile_image ?? "/professional-portrait-bw.png"
-  const linkedinUrl = content?.linkedin_url ?? "https://linkedin.com/in/matteoquintero"
-  const whatsappNumber = content?.whatsapp_number ?? "573106441111"
-  const email = content?.email ?? "mateo@example.com"
-
   return (
     <section
       ref={heroRef}
@@ -78,48 +61,55 @@ export function BrainHero({ content }: BrainHeroProps) {
         opacity: 1 - scrollProgress * 0.5,
       }}
     >
-      <div className="absolute top-0 left-6 right-6 flex items-start justify-between z-10">
+      <div className="absolute top-6 left-6 right-6 flex items-start justify-between z-10">
+        {/* Name and role - top left */}
         <div className="text-left">
-          <h2 className="text-base md:text-lg font-medium text-foreground/90">{name}</h2>
-          <p className="text-xs md:text-sm text-muted-foreground/70 tracking-wide">{role}</p>
+          <h2 className="text-base md:text-lg font-medium text-foreground/90">Mateo Quintero</h2>
+          <p className="text-xs md:text-sm text-muted-foreground/70 tracking-wide">CTO · Sistemas · Producto</p>
         </div>
 
-        <div className="flex items-center gap-4">
-          <div className="hidden md:flex items-center gap-3 text-xs text-muted-foreground/60">
-            <a
-              href={linkedinUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-            >
-              <Linkedin className="w-3.5 h-3.5" />
-              <span className="hidden lg:inline">LinkedIn</span>
-            </a>
-            <span className="text-muted-foreground/30">·</span>
-            <a
-              href={`https://wa.me/${whatsappNumber}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-            >
-              <Phone className="w-3.5 h-3.5" />
-              <span className="hidden lg:inline">WhatsApp</span>
-            </a>
-            <span className="text-muted-foreground/30">·</span>
-            <a
-              href={`mailto:${email}`}
-              className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-            >
-              <Mail className="w-3.5 h-3.5" />
-              <span className="hidden lg:inline">Email</span>
-            </a>
-          </div>
-
-          <div className="w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border border-border/30">
-            <img src={profileImage || "/placeholder.svg"} alt={name} className="w-full h-full object-cover grayscale" />
-          </div>
+        {/* Contact links - top right */}
+        <div className="hidden md:flex items-center gap-3 text-xs text-muted-foreground/60">
+          <a
+            href="https://linkedin.com/in/matteoquintero"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+          >
+            <Linkedin className="w-3.5 h-3.5" />
+            <span className="hidden lg:inline">LinkedIn</span>
+          </a>
+          <span className="text-muted-foreground/30">·</span>
+          <a
+            href="https://wa.me/573106441111"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+          >
+            <Phone className="w-3.5 h-3.5" />
+            <span className="hidden lg:inline">WhatsApp</span>
+          </a>
+          <span className="text-muted-foreground/30">·</span>
+          <a
+            href="mailto:mateo@example.com"
+            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+          >
+            <Mail className="w-3.5 h-3.5" />
+            <span className="hidden lg:inline">Email</span>
+          </a>
         </div>
       </div>
+
+      <div className="absolute top-6 left-1/2 -translate-x-1/2 z-10">
+        <div className="w-16 h-16 md:w-20 md:h-20 lg:w-24 lg:h-24 rounded-full overflow-hidden border-2 border-border/30">
+          <img
+            src="/professional-portrait-bw.png"
+            alt="Mateo Quintero"
+            className="w-full h-full object-cover grayscale"
+          />
+        </div>
+      </div>
+
       {/* Brain Container */}
       <div
         className="relative w-full max-w-7xl mx-auto px-6"
@@ -357,20 +347,23 @@ export function BrainHero({ content }: BrainHeroProps) {
         >
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-light text-center max-w-4xl text-balance">
             <span style={{ fontFamily: "var(--font-creative)" }} className="text-foreground">
-              {headlineCreative}{" "}
+              Diseño{" "}
             </span>
             <span
               style={{ fontFamily: "var(--font-technical)" }}
               className="text-[var(--technical-accent)] font-bold text-4xl md:text-6xl lg:text-7xl"
             >
-              {headlineAction}
+              sistemas
             </span>
             <span className="text-foreground mx-3">que</span>
             <span style={{ fontFamily: "var(--font-creative)" }} className="text-[var(--creative-accent)]">
-              {headlineTechnical}
+              resuelven problemas
             </span>
           </h1>
-          <p className="text-[10px] md:text-xs text-muted-foreground/40 tracking-widest uppercase">{microContext}</p>
+          {/* Micro-context line */}
+          <p className="text-[10px] md:text-xs text-muted-foreground/40 tracking-widest uppercase">
+            Portafolio personal
+          </p>
         </div>
       </div>
 
@@ -381,7 +374,9 @@ export function BrainHero({ content }: BrainHeroProps) {
           animation: "fade-in-out 2s ease-in-out infinite",
         }}
       >
-        <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">{scrollText}</span>
+        <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">
+          Desliza para ver cómo llegué hasta aquí
+        </span>
         <div className="w-[1px] h-12 bg-muted-foreground/30" />
       </div>
     </section>

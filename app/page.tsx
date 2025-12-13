@@ -1,14 +1,13 @@
 import { BrainHero } from "@/components/brain-hero"
 import { Timeline } from "@/components/timeline"
 import { getTimelineItems } from "@/lib/actions/experiences"
-import { getHeroContent } from "@/lib/actions/hero"
 
 export default async function Home() {
-  const [timelineItems, heroContent] = await Promise.all([getTimelineItems(), getHeroContent()])
+  const timelineItems = await getTimelineItems()
 
   return (
     <main className="min-h-screen">
-      <BrainHero content={heroContent} />
+      <BrainHero />
       <Timeline items={timelineItems} />
     </main>
   )
