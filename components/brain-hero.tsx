@@ -386,22 +386,21 @@ export function BrainHero({ content }: BrainHeroProps) {
               {heroData.headline_action}
             </span>
           </h1>
-          {/* Micro-context line */}
-          <p className="text-[10px] md:text-xs text-muted-foreground/40 tracking-widest uppercase">
+          <p className="text-[10px] md:text-xs text-muted-foreground/60 tracking-widest uppercase">
             {heroData.micro_context}
           </p>
         </div>
       </div>
 
       <div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-muted-foreground"
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-foreground/70"
         style={{
           opacity: 1 - scrollProgress * 3,
           animation: "fade-in-out 2s ease-in-out infinite",
         }}
       >
         <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">{heroData.scroll_text}</span>
-        <div className="w-[1px] h-12 bg-muted-foreground/30" />
+        <div className="w-[1px] h-12 bg-foreground/40" />
       </div>
     </section>
   )
