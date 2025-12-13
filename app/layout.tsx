@@ -18,12 +18,12 @@ export const metadata: Metadata = {
   title: "Portfolio — Creative × Technical",
   description: "Senior Product Designer + Creative Technologist + Frontend Engineer",
   generator: "matteoquintero",
-  metadataBase: new URL("https://matteoquintero.vercel.app"),
+  metadataBase: new URL("https://matteoquintero.com"),
   openGraph: {
     title: "Mateo Quintero — Portfolio",
     description:
       "Diseño sistemas que resuelven problemas. Senior Product Designer + Creative Technologist + Frontend Engineer",
-    url: "https://matteoquintero.vercel.app",
+    url: "https://matteoquintero.com",
     siteName: "Mateo Quintero Portfolio",
     images: [
       {
