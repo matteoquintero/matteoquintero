@@ -81,7 +81,7 @@ export function BrainHero() {
           </a>
           <span className="text-muted-foreground/30">·</span>
           <a
-            href="https://wa.me/573106441111"
+            href="https://wa.me/573193888291"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
@@ -91,7 +91,7 @@ export function BrainHero() {
           </a>
           <span className="text-muted-foreground/30">·</span>
           <a
-            href="mailto:mateo@example.com"
+            href="mailto:matteoquintero@gmail.com.com"
             className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
           >
             <Mail className="w-3.5 h-3.5" />
@@ -100,7 +100,7 @@ export function BrainHero() {
         </div>
       </div>
 
-      <div className="absolute top-6 left-1/2 -translate-x-1/2 z-10">
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 z-10">
         <div className="w-16 h-16 md:w-20 md:h-20 lg:w-24 lg:h-24 rounded-full overflow-hidden border-2 border-border/30">
           <img
             src="/professional-portrait-bw.png"
