@@ -61,7 +61,7 @@ export function BrainHero() {
         opacity: 1 - scrollProgress * 0.5,
       }}
     >
-      <div className="absolute top-0 left-6 right-6 flex items-start justify-between z-10">
+      <div className="absolute top-0 left-6 right-6 flex items-center justify-between z-10">
         {/* Name and role - top left */}
         <div className="text-left">
           <h2 className="text-base md:text-lg font-medium text-foreground/90">Mateo Quintero</h2>
