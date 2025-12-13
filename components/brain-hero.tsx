@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from "react"
 export function BrainHero() {
   const heroRef = useRef<HTMLElement>(null)
   const [scrollProgress, setScrollProgress] = useState(0)
+  const [mousePosition, setMousePosition] = useState({ x: 0.5, y: 0.5 })
 
   useEffect(() => {
     const handleScroll = () => {
@@ -19,6 +20,18 @@ export function BrainHero() {
 
     window.addEventListener("scroll", handleScroll, { passive: true })
     return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
+  useEffect(() => {
+    const handleMouseMove = (e: MouseEvent) => {
+      setMousePosition({
+        x: e.clientX / window.innerWidth,
+        y: e.clientY / window.innerHeight,
+      })
+    }
+
+    window.addEventListener("mousemove", handleMouseMove, { passive: true })
+    return () => window.removeEventListener("mousemove", handleMouseMove)
   }, [])
 
   // Creative keywords
@@ -85,6 +98,8 @@ export function BrainHero() {
                   style={{
                     background: "var(--creative-accent)",
                     animation: "float 6s ease-in-out infinite",
+                    transform: `translate(${mousePosition.x * 20 - 10}px, ${mousePosition.y * 20 - 10}px)`,
+                    transition: "transform 0.3s ease-out",
                   }}
                 />
                 <div
@@ -93,6 +108,8 @@ export function BrainHero() {
                     background: "var(--creative-from)",
                     animation: "float 8s ease-in-out infinite",
                     animationDelay: "1s",
+                    transform: `translate(${mousePosition.x * -15 + 7.5}px, ${mousePosition.y * -15 + 7.5}px)`,
+                    transition: "transform 0.4s ease-out",
                   }}
                 />
               </div>
@@ -103,12 +120,13 @@ export function BrainHero() {
               {creativeKeywords.map((keyword, i) => (
                 <div
                   key={keyword.text}
-                  className="text-white/90 text-sm md:text-base font-light tracking-wide"
+                  className="text-white/50 text-sm md:text-base font-light tracking-wide transition-opacity duration-300 hover:opacity-100"
                   style={{
                     fontFamily: "var(--font-creative)",
                     animation: "float 4s ease-in-out infinite",
                     animationDelay: keyword.delay,
-                    transform: `translateX(${-20 + i * 8}px)`,
+                    transform: `translateX(${-20 + i * 8 + mousePosition.x * 10 - 5}px)`,
+                    transition: "transform 0.2s ease-out",
                   }}
                 >
                   {keyword.text}
@@ -169,7 +187,8 @@ export function BrainHero() {
                   className="absolute inset-0 border-2 opacity-30"
                   style={{
                     borderColor: "var(--technical-accent)",
-                    transform: "rotate(45deg)",
+                    transform: `rotate(${45 + Math.round(mousePosition.x * 2)}deg)`,
+                    transition: "transform 0.5s ease-out",
                   }}
                 />
                 <div
@@ -186,12 +205,13 @@ export function BrainHero() {
               {technicalKeywords.map((keyword, i) => (
                 <div
                   key={keyword.text}
-                  className="text-sm md:text-base font-mono tracking-wider uppercase"
+                  className="text-sm md:text-base font-mono tracking-wider uppercase transition-opacity duration-300 hover:opacity-100"
                   style={{
                     fontFamily: "var(--font-technical)",
                     color: "var(--technical-accent)",
-                    opacity: 0.85,
-                    transform: `translateX(${20 - i * 8}px)`,
+                    opacity: 0.5,
+                    transform: `translateX(${20 - i * 8 + Math.round(mousePosition.x * 5)}px)`,
+                    transition: "transform 0.3s ease-out",
                   }}
                 >
                   {keyword.text}
@@ -201,8 +221,45 @@ export function BrainHero() {
           </div>
         </div>
 
-        {/* Connection lines between hemispheres */}
         <div className="absolute inset-0 pointer-events-none hidden md:block">
+          {/* Irregular dividing line that creates tension */}
+          <svg className="absolute inset-0 w-full h-full" style={{ opacity: 0.4 }}>
+            <path
+              d={`
+                M ${50} ${20}
+                Q ${50 + Math.sin(Date.now() / 2000) * 2} ${30} ${50} ${40}
+                Q ${50 - Math.sin(Date.now() / 1500) * 2} ${50} ${50} ${60}
+                Q ${50 + Math.sin(Date.now() / 1800) * 2} ${70} ${50} ${80}
+              `}
+              stroke="var(--pulse-color)"
+              strokeWidth="1"
+              fill="none"
+              style={{
+                opacity: 0.6,
+              }}
+            />
+          </svg>
+
+          {/* Crossing pulses that invade from creative to technical */}
+          {[...Array(3)].map((_, i) => (
+            <svg key={`cross-${i}`} className="absolute inset-0 w-full h-full">
+              <line
+                x1="40%"
+                y1={`${35 + i * 15}%`}
+                x2="60%"
+                y2={`${35 + i * 15}%`}
+                stroke="var(--creative-accent)"
+                strokeWidth="1"
+                strokeDasharray="4 4"
+                style={{
+                  opacity: 0.3,
+                  animation: "pulse-cross 4s ease-in-out infinite",
+                  animationDelay: `${i * 0.8}s`,
+                }}
+              />
+            </svg>
+          ))}
+
           {[...Array(5)].map((_, i) => (
             <svg key={i} className="absolute inset-0 w-full h-full" style={{ opacity: 0.6 }}>
               <line
@@ -232,33 +289,37 @@ export function BrainHero() {
           ))}
         </div>
 
-        {/* Central tagline */}
         <div
           className="absolute inset-x-0 bottom-12 md:bottom-20 flex justify-center px-6"
           style={{
             opacity: 1 - scrollProgress * 2,
           }}
         >
-          <h1 className="text-2xl md:text-4xl lg:text-5xl font-light text-center max-w-4xl text-balance">
-            <span style={{ fontFamily: "var(--font-creative)" }} className="text-[var(--creative-accent)]">
-              Construyo sistemas
+          <h1 className="text-3xl md:text-5xl lg:text-6xl font-light text-center max-w-4xl text-balance">
+            <span
+              style={{ fontFamily: "var(--font-technical)" }}
+              className="text-[var(--technical-accent)] font-bold text-4xl md:text-6xl lg:text-7xl"
+            >
+              Sistemas
             </span>
             <span className="text-foreground mx-3">que</span>
-            <span style={{ fontFamily: "var(--font-technical)" }} className="text-[var(--technical-accent)]">
+            <span style={{ fontFamily: "var(--font-creative)" }} className="text-[var(--creative-accent)]">
               resuelven problemas
             </span>
           </h1>
         </div>
       </div>
 
-      {/* Scroll indicator */}
       <div
         className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-muted-foreground"
         style={{
           opacity: 1 - scrollProgress * 3,
+          animation: "fade-in-out 2s ease-in-out infinite",
         }}
       >
-        <span className="text-xs tracking-widest uppercase">Scroll</span>
+        <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">
+          Desliza para ver cómo llegué hasta aquí
+        </span>
         <div className="w-[1px] h-12 bg-muted-foreground/30" />
       </div>
     </section>
