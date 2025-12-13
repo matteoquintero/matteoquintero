@@ -13,20 +13,6 @@ export function BrainHero({ content }: BrainHeroProps) {
   const [scrollProgress, setScrollProgress] = useState(0)
   const [mousePosition, setMousePosition] = useState({ x: 0.5, y: 0.5 })
 
-  const heroData = content || {
-    name: "Mateo Quintero",
-    role: "CTO · Sistemas · Producto",
-    headline_creative: "Diseño",
-    headline_technical: "sistemas",
-    headline_action: "que resuelven problemas",
-    micro_context: "Portafolio personal",
-    scroll_text: "Desliza para ver cómo llegué hasta aquí",
-    profile_image: "/professional-portrait-bw.png",
-    linkedin_url: "https://linkedin.com/in/matteoquintero",
-    whatsapp_number: "573106441111",
-    email: "mateo@example.com",
-  }
-
   useEffect(() => {
     const handleScroll = () => {
       if (!heroRef.current) return
@@ -72,26 +58,36 @@ export function BrainHero({ content }: BrainHeroProps) {
     { text: "Datos", delay: "4.5s" },
   ]
 
+  const name = content?.name ?? "Mateo Quintero"
+  const role = content?.role ?? "CTO · Sistemas · Producto"
+  const headlineCreative = content?.headline_creative ?? "Diseño"
+  const headlineAction = content?.headline_action ?? "sistemas"
+  const headlineTechnical = content?.headline_technical ?? "resuelven problemas"
+  const microContext = content?.micro_context ?? "Portafolio personal"
+  const scrollText = content?.scroll_text ?? "Desliza para ver cómo llegué hasta aquí"
+  const profileImage = content?.profile_image ?? "/professional-portrait-bw.png"
+  const linkedinUrl = content?.linkedin_url ?? "https://linkedin.com/in/matteoquintero"
+  const whatsappNumber = content?.whatsapp_number ?? "573106441111"
+  const email = content?.email ?? "mateo@example.com"
+
   return (
     <section
       ref={heroRef}
-      className="fixed top-0 left-0 right-0 min-h-screen flex items-center justify-center overflow-hidden"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden"
       style={{
         opacity: 1 - scrollProgress * 0.5,
       }}
     >
-      <div className="absolute top-6 left-6 z-10">
+      <div className="absolute top-0 left-6 right-6 flex items-start justify-between z-10">
         <div className="text-left">
-          <h2 className="text-base md:text-lg font-medium text-foreground/90">{heroData.name}</h2>
-          <p className="text-xs md:text-sm text-muted-foreground/70 tracking-wide">{heroData.role}</p>
+          <h2 className="text-base md:text-lg font-medium text-foreground/90">{name}</h2>
+          <p className="text-xs md:text-sm text-muted-foreground/70 tracking-wide">{role}</p>
         </div>
-      </div>
 
-      <div className="absolute top-6 right-6 z-10 flex items-center gap-3 text-xs text-muted-foreground/60">
-        {heroData.linkedin_url && (
-          <>
+        <div className="flex items-center gap-4">
+          <div className="hidden md:flex items-center gap-3 text-xs text-muted-foreground/60">
             <a
-              href={heroData.linkedin_url}
+              href={linkedinUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
@@ -100,12 +96,8 @@ export function BrainHero({ content }: BrainHeroProps) {
               <span className="hidden lg:inline">LinkedIn</span>
             </a>
             <span className="text-muted-foreground/30">·</span>
-          </>
-        )}
-        {heroData.whatsapp_number && (
-          <>
             <a
-              href={`https://wa.me/${heroData.whatsapp_number}`}
+              href={`https://wa.me/${whatsappNumber}`}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
@@ -114,19 +106,21 @@ export function BrainHero({ content }: BrainHeroProps) {
               <span className="hidden lg:inline">WhatsApp</span>
             </a>
             <span className="text-muted-foreground/30">·</span>
-          </>
-        )}
-        {heroData.email && (
-          <a
-            href={`mailto:${heroData.email}`}
-            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-          >
-            <Mail className="w-3.5 h-3.5" />
-            <span className="hidden lg:inline">Email</span>
-          </a>
-        )}
-      </div>
+            <a
+              href={`mailto:${email}`}
+              className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+            >
+              <Mail className="w-3.5 h-3.5" />
+              <span className="hidden lg:inline">Email</span>
+            </a>
+          </div>
 
+          <div className="w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border border-border/30">
+            <img src={profileImage || "/placeholder.svg"} alt={name} className="w-full h-full object-cover grayscale" />
+          </div>
+        </div>
+      </div>
+      {/* Brain Container */}
       <div
         className="relative w-full max-w-7xl mx-auto px-6"
         style={{
@@ -287,16 +281,6 @@ export function BrainHero({ content }: BrainHeroProps) {
           </div>
         </div>
 
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20">
-          <div className="w-32 h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 rounded-full overflow-hidden border-4 border-background shadow-2xl">
-            <img
-              src={heroData.profile_image || "/placeholder.svg"}
-              alt={heroData.name}
-              className="w-full h-full object-cover grayscale"
-            />
-          </div>
-        </div>
-
         <div className="absolute inset-0 pointer-events-none hidden md:block">
           {/* Irregular dividing line that creates tension */}
           <svg className="absolute inset-0 w-full h-full" style={{ opacity: 0.4 }}>
@@ -373,34 +357,32 @@ export function BrainHero({ content }: BrainHeroProps) {
         >
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-light text-center max-w-4xl text-balance">
             <span style={{ fontFamily: "var(--font-creative)" }} className="text-foreground">
-              {heroData.headline_creative}{" "}
+              {headlineCreative}{" "}
             </span>
             <span
               style={{ fontFamily: "var(--font-technical)" }}
               className="text-[var(--technical-accent)] font-bold text-4xl md:text-6xl lg:text-7xl"
             >
-              {heroData.headline_technical}
+              {headlineAction}
             </span>
             <span className="text-foreground mx-3">que</span>
             <span style={{ fontFamily: "var(--font-creative)" }} className="text-[var(--creative-accent)]">
-              {heroData.headline_action}
+              {headlineTechnical}
             </span>
           </h1>
-          <p className="text-[10px] md:text-xs text-muted-foreground/60 tracking-widest uppercase">
-            {heroData.micro_context}
-          </p>
+          <p className="text-[10px] md:text-xs text-muted-foreground/40 tracking-widest uppercase">{microContext}</p>
         </div>
       </div>
 
       <div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-foreground/70"
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-muted-foreground"
         style={{
           opacity: 1 - scrollProgress * 3,
           animation: "fade-in-out 2s ease-in-out infinite",
         }}
       >
-        <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">{heroData.scroll_text}</span>
-        <div className="w-[1px] h-12 bg-foreground/40" />
+        <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">{scrollText}</span>
+        <div className="w-[1px] h-12 bg-muted-foreground/30" />
       </div>
     </section>
   )
