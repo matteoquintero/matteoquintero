@@ -2,11 +2,30 @@
 
 import { useEffect, useRef, useState } from "react"
 import { Linkedin, Mail, Phone } from "lucide-react"
+import type { HeroContent } from "@/lib/actions/hero"
 
-export function BrainHero() {
+interface BrainHeroProps {
+  content: HeroContent | null
+}
+
+export function BrainHero({ content }: BrainHeroProps) {
   const heroRef = useRef<HTMLElement>(null)
   const [scrollProgress, setScrollProgress] = useState(0)
   const [mousePosition, setMousePosition] = useState({ x: 0.5, y: 0.5 })
+
+  const heroData = content || {
+    name: "Mateo Quintero",
+    role: "CTO · Sistemas · Producto",
+    headline_creative: "Diseño",
+    headline_technical: "sistemas",
+    headline_action: "que resuelven problemas",
+    micro_context: "Portafolio personal",
+    scroll_text: "Desliza para ver cómo llegué hasta aquí",
+    profile_image: "/professional-portrait-bw.png",
+    linkedin_url: "https://linkedin.com/in/matteoquintero",
+    whatsapp_number: "573106441111",
+    email: "mateo@example.com",
+  }
 
   useEffect(() => {
     const handleScroll = () => {
@@ -61,56 +80,64 @@ export function BrainHero() {
         opacity: 1 - scrollProgress * 0.5,
       }}
     >
-      <div className="absolute top-0 left-6 right-6 flex items-start justify-between z-10">
-        {/* Name and role - top left */}
+      <div className="absolute top-6 left-6 z-10">
         <div className="text-left">
-          <h2 className="text-base md:text-lg font-medium text-foreground/90">Mateo Quintero</h2>
-          <p className="text-xs md:text-sm text-muted-foreground/70 tracking-wide">CTO · Sistemas · Producto</p>
+          <h2 className="text-base md:text-lg font-medium text-foreground/90">{heroData.name}</h2>
+          <p className="text-xs md:text-sm text-muted-foreground/70 tracking-wide">{heroData.role}</p>
+        </div>
+      </div>
+
+      <div className="absolute top-6 left-1/2 -translate-x-1/2 z-10 flex flex-col items-center gap-3">
+        <div className="w-20 h-20 md:w-28 md:h-28 lg:w-32 lg:h-32 rounded-full overflow-hidden border-2 border-border/30 shadow-lg">
+          <img
+            src={heroData.profile_image || "/placeholder.svg"}
+            alt={heroData.name}
+            className="w-full h-full object-cover grayscale"
+          />
         </div>
 
-        {/* Photo and contact - top right */}
-        <div className="flex items-center gap-4">
-          {/* Contact links */}
-          <div className="hidden md:flex items-center gap-3 text-xs text-muted-foreground/60">
+        {/* Contact links below photo */}
+        <div className="flex items-center gap-3 text-xs text-muted-foreground/60">
+          {heroData.linkedin_url && (
+            <>
+              <a
+                href={heroData.linkedin_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+              >
+                <Linkedin className="w-3.5 h-3.5" />
+                <span className="hidden lg:inline">LinkedIn</span>
+              </a>
+              <span className="text-muted-foreground/30">·</span>
+            </>
+          )}
+          {heroData.whatsapp_number && (
+            <>
+              <a
+                href={`https://wa.me/${heroData.whatsapp_number}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+              >
+                <Phone className="w-3.5 h-3.5" />
+                <span className="hidden lg:inline">WhatsApp</span>
+              </a>
+              <span className="text-muted-foreground/30">·</span>
+            </>
+          )}
+          {heroData.email && (
             <a
-              href="https://linkedin.com/in/matteoquintero"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-            >
-              <Linkedin className="w-3.5 h-3.5" />
-              <span className="hidden lg:inline">LinkedIn</span>
-            </a>
-            <span className="text-muted-foreground/30">·</span>
-            <a
-              href="https://wa.me/573106441111"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-            >
-              <Phone className="w-3.5 h-3.5" />
-              <span className="hidden lg:inline">WhatsApp</span>
-            </a>
-            <span className="text-muted-foreground/30">·</span>
-            <a
-              href="mailto:mateo@example.com"
+              href={`mailto:${heroData.email}`}
               className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
             >
               <Mail className="w-3.5 h-3.5" />
               <span className="hidden lg:inline">Email</span>
             </a>
-          </div>
-
-          {/* Personal photo */}
-          <div className="w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden border border-border/30">
-            <img
-              src="/professional-portrait-bw.png"
-              alt="Mateo Quintero"
-              className="w-full h-full object-cover grayscale"
-            />
-          </div>
+          )}
         </div>
       </div>
+
       {/* Brain Container */}
       <div
         className="relative w-full max-w-7xl mx-auto px-6"
@@ -348,22 +375,22 @@ export function BrainHero() {
         >
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-light text-center max-w-4xl text-balance">
             <span style={{ fontFamily: "var(--font-creative)" }} className="text-foreground">
-              Diseño{" "}
+              {heroData.headline_creative}{" "}
             </span>
             <span
               style={{ fontFamily: "var(--font-technical)" }}
               className="text-[var(--technical-accent)] font-bold text-4xl md:text-6xl lg:text-7xl"
             >
-              sistemas
+              {heroData.headline_technical}
             </span>
             <span className="text-foreground mx-3">que</span>
             <span style={{ fontFamily: "var(--font-creative)" }} className="text-[var(--creative-accent)]">
-              resuelven problemas
+              {heroData.headline_action}
             </span>
           </h1>
           {/* Micro-context line */}
           <p className="text-[10px] md:text-xs text-muted-foreground/40 tracking-widest uppercase">
-            Portafolio personal
+            {heroData.micro_context}
           </p>
         </div>
       </div>
@@ -375,9 +402,7 @@ export function BrainHero() {
           animation: "fade-in-out 2s ease-in-out infinite",
         }}
       >
-        <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">
-          Desliza para ver cómo llegué hasta aquí
-        </span>
+        <span className="text-xs tracking-wide text-center max-w-[180px] leading-relaxed">{heroData.scroll_text}</span>
         <div className="w-[1px] h-12 bg-muted-foreground/30" />
       </div>
     </section>

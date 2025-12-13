@@ -12,7 +12,7 @@ export function ExperienceModal({ experience, onClose }: ExperienceModalProps) {
   const isCreative = experience.type === "creative"
 
   useEffect(() => {
-    document.body.style.overflow = "hidden"
+    // document.body.style.overflow = "hidden" - removed to keep hero visible
 
     const handleEscape = (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose()
@@ -21,14 +21,14 @@ export function ExperienceModal({ experience, onClose }: ExperienceModalProps) {
     window.addEventListener("keydown", handleEscape)
 
     return () => {
-      document.body.style.overflow = "auto"
+      // document.body.style.overflow = "auto"
       window.removeEventListener("keydown", handleEscape)
     }
   }, [onClose])
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 md:p-8 bg-black/80 backdrop-blur-sm animate-in fade-in duration-300"
+      className="fixed inset-0 z-40 flex items-center justify-center p-4 md:p-8 bg-black/60 backdrop-blur-sm animate-in fade-in duration-300"
       onClick={onClose}
     >
       <div
