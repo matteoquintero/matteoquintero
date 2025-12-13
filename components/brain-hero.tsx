@@ -75,7 +75,7 @@ export function BrainHero({ content }: BrainHeroProps) {
   return (
     <section
       ref={heroRef}
-      className="relative min-h-screen flex items-center justify-center overflow-hidden"
+      className="fixed top-0 left-0 right-0 min-h-screen flex items-center justify-center overflow-hidden"
       style={{
         opacity: 1 - scrollProgress * 0.5,
       }}
@@ -87,58 +87,46 @@ export function BrainHero({ content }: BrainHeroProps) {
         </div>
       </div>
 
-      <div className="absolute top-6 left-1/2 -translate-x-1/2 z-10 flex flex-col items-center gap-3">
-        <div className="w-20 h-20 md:w-28 md:h-28 lg:w-32 lg:h-32 rounded-full overflow-hidden border-2 border-border/30 shadow-lg">
-          <img
-            src={heroData.profile_image || "/placeholder.svg"}
-            alt={heroData.name}
-            className="w-full h-full object-cover grayscale"
-          />
-        </div>
-
-        {/* Contact links below photo */}
-        <div className="flex items-center gap-3 text-xs text-muted-foreground/60">
-          {heroData.linkedin_url && (
-            <>
-              <a
-                href={heroData.linkedin_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-              >
-                <Linkedin className="w-3.5 h-3.5" />
-                <span className="hidden lg:inline">LinkedIn</span>
-              </a>
-              <span className="text-muted-foreground/30">·</span>
-            </>
-          )}
-          {heroData.whatsapp_number && (
-            <>
-              <a
-                href={`https://wa.me/${heroData.whatsapp_number}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
-              >
-                <Phone className="w-3.5 h-3.5" />
-                <span className="hidden lg:inline">WhatsApp</span>
-              </a>
-              <span className="text-muted-foreground/30">·</span>
-            </>
-          )}
-          {heroData.email && (
+      <div className="absolute top-6 right-6 z-10 flex items-center gap-3 text-xs text-muted-foreground/60">
+        {heroData.linkedin_url && (
+          <>
             <a
-              href={`mailto:${heroData.email}`}
+              href={heroData.linkedin_url}
+              target="_blank"
+              rel="noopener noreferrer"
               className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
             >
-              <Mail className="w-3.5 h-3.5" />
-              <span className="hidden lg:inline">Email</span>
+              <Linkedin className="w-3.5 h-3.5" />
+              <span className="hidden lg:inline">LinkedIn</span>
             </a>
-          )}
-        </div>
+            <span className="text-muted-foreground/30">·</span>
+          </>
+        )}
+        {heroData.whatsapp_number && (
+          <>
+            <a
+              href={`https://wa.me/${heroData.whatsapp_number}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+            >
+              <Phone className="w-3.5 h-3.5" />
+              <span className="hidden lg:inline">WhatsApp</span>
+            </a>
+            <span className="text-muted-foreground/30">·</span>
+          </>
+        )}
+        {heroData.email && (
+          <a
+            href={`mailto:${heroData.email}`}
+            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+          >
+            <Mail className="w-3.5 h-3.5" />
+            <span className="hidden lg:inline">Email</span>
+          </a>
+        )}
       </div>
 
-      {/* Brain Container */}
       <div
         className="relative w-full max-w-7xl mx-auto px-6"
         style={{
@@ -296,6 +284,16 @@ export function BrainHero({ content }: BrainHeroProps) {
                 </div>
               ))}
             </div>
+          </div>
+        </div>
+
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20">
+          <div className="w-32 h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 rounded-full overflow-hidden border-4 border-background shadow-2xl">
+            <img
+              src={heroData.profile_image || "/placeholder.svg"}
+              alt={heroData.name}
+              className="w-full h-full object-cover grayscale"
+            />
           </div>
         </div>
 
