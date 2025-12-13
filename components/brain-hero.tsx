@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useRef, useState } from "react"
+import { Linkedin, Mail, Phone } from "lucide-react"
 
 export function BrainHero() {
   const heroRef = useRef<HTMLElement>(null)
@@ -60,6 +61,51 @@ export function BrainHero() {
         opacity: 1 - scrollProgress * 0.5,
       }}
     >
+      <div className="absolute top-0 left-6 right-6 flex items-center justify-between z-10">
+        {/* Name and role - top left */}
+        <div className="text-left">
+          <h2 className="text-base md:text-lg font-medium text-foreground/90">Mateo Quintero</h2>
+          <p className="text-xs md:text-sm text-muted-foreground/70 tracking-wide">CTO · Sistemas · Producto</p>
+        </div>
+
+        {/* Contact links - top right */}
+        <div className="hidden md:flex items-center gap-3 text-xs text-muted-foreground/60">
+          <a
+            href="https://linkedin.com/in/matteoquintero"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+          >
+            <Linkedin className="w-3.5 h-3.5" />
+            <span className="hidden lg:inline">LinkedIn</span>
+          </a>
+          <span className="text-muted-foreground/30">·</span>
+          <a
+            href="https://wa.me/573193888291"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+          >
+            <Phone className="w-3.5 h-3.5" />
+            <span className="hidden lg:inline">WhatsApp</span>
+          </a>
+          <span className="text-muted-foreground/30">·</span>
+          <a
+            href="mailto:matteoquintero@gmail.com.com"
+            className="hover:text-foreground/80 transition-colors flex items-center gap-1.5"
+          >
+            <Mail className="w-3.5 h-3.5" />
+            <span className="hidden lg:inline">Email</span>
+          </a>
+        </div>
+      </div>
+
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 z-10">
+        <div className="w-16 h-16 md:w-20 md:h-20 lg:w-24 lg:h-24 rounded-full overflow-hidden border-2 border-border/30">
+          <img src="/profile.jpg" alt="Mateo Quintero" className="w-full h-full object-cover grayscale" />
+        </div>
+      </div>
+
       {/* Brain Container */}
       <div
         className="relative w-full max-w-7xl mx-auto px-6"
@@ -290,23 +336,30 @@ export function BrainHero() {
         </div>
 
         <div
-          className="absolute inset-x-0 bottom-12 md:bottom-20 flex justify-center px-6"
+          className="absolute inset-x-0 bottom-12 md:bottom-20 flex flex-col items-center justify-center gap-3 px-6"
           style={{
             opacity: 1 - scrollProgress * 2,
           }}
         >
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-light text-center max-w-4xl text-balance">
+            <span style={{ fontFamily: "var(--font-creative)" }} className="text-foreground">
+              Diseño{" "}
+            </span>
             <span
               style={{ fontFamily: "var(--font-technical)" }}
               className="text-[var(--technical-accent)] font-bold text-4xl md:text-6xl lg:text-7xl"
             >
-              Sistemas
+              sistemas
             </span>
             <span className="text-foreground mx-3">que</span>
             <span style={{ fontFamily: "var(--font-creative)" }} className="text-[var(--creative-accent)]">
               resuelven problemas
             </span>
           </h1>
+          {/* Micro-context line */}
+          <p className="text-[10px] md:text-xs text-muted-foreground/40 tracking-widest uppercase">
+            Portafolio personal
+          </p>
         </div>
       </div>
 
