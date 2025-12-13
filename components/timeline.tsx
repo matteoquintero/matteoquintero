@@ -71,6 +71,8 @@ export function Timeline({ items }: TimelineProps) {
             const exp = item.data as Experience
             const isLeft = index % 2 === 0
             const isCreative = exp.type === "creative"
+            const imageUrl =
+              exp.image || `https://placehold.co/800x600/1a1a1a/666666?text=${encodeURIComponent(exp.role)}`
 
             return (
               <div
@@ -148,7 +150,7 @@ export function Timeline({ items }: TimelineProps) {
                     >
                       <div className="absolute inset-0 bg-gradient-to-br from-background to-muted transition-opacity group-hover:opacity-80" />
                       <img
-                        src={exp.image || "/placeholder.svg"}
+                        src={imageUrl || "/placeholder.svg"}
                         alt={`${exp.company} project preview`}
                         className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                       />

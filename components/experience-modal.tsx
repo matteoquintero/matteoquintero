@@ -10,6 +10,8 @@ interface ExperienceModalProps {
 
 export function ExperienceModal({ experience, onClose }: ExperienceModalProps) {
   const isCreative = experience.type === "creative"
+  const imageUrl =
+    experience.image || `https://placehold.co/1200x675/1a1a1a/666666?text=${encodeURIComponent(experience.role)}`
 
   useEffect(() => {
     document.body.style.overflow = "hidden"
@@ -49,7 +51,7 @@ export function ExperienceModal({ experience, onClose }: ExperienceModalProps) {
         {/* Hero image */}
         <div className="relative w-full aspect-[16/9] overflow-hidden">
           <img
-            src={experience.image || "/placeholder.svg"}
+            src={imageUrl || "/placeholder.svg"}
             alt={`${experience.company} project`}
             className="w-full h-full object-cover"
           />
