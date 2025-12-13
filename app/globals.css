@@ -240,3 +240,29 @@ html {
     opacity: 0.3;
   }
 }
+
+/* Fade animation for scroll indicator */
+@keyframes fade-in-out {
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* Pulse animation for crossing lines that create tension */
+@keyframes pulse-cross {
+  0% {
+    opacity: 0;
+    stroke-dashoffset: 100;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 0;
+    stroke-dashoffset: 0;
+  }
+}
