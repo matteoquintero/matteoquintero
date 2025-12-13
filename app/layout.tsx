@@ -17,7 +17,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Portfolio — Creative × Technical",
   description: "Senior Product Designer + Creative Technologist + Frontend Engineer",
-  generator: "v0.app",
+  generator: "matteoquintero",
   icons: {
     icon: [
       {
