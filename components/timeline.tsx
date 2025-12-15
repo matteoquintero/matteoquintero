@@ -34,7 +34,7 @@ export function Timeline({ items }: TimelineProps) {
 
   return (
     <>
-      <div className="relative min-h-screen py-24 px-6" ref={timelineRef}>
+      <div className="relative min-h-screen py-24 px-6" ref={timelineRef} data-timeline-container>
         {/* Vertical timeline line */}
         <div className="absolute left-1/2 top-0 bottom-0 w-[2px] bg-border -translate-x-1/2 hidden md:block" />
 
@@ -77,9 +77,10 @@ export function Timeline({ items }: TimelineProps) {
             return (
               <div
                 key={exp.id}
+                id={`experience-${exp.id}`}
                 data-timeline-item
                 data-index={index}
-                className={`relative transition-all duration-700 ${
+                className={`relative transition-all duration-700 rounded-lg ${
                   isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-12"
                 }`}
                 style={{ transitionDelay: "0.1s" }}
@@ -107,7 +108,20 @@ export function Timeline({ items }: TimelineProps) {
                     >
                       {exp.company}
                     </h3>
-                    <p className="text-muted-foreground mb-4 text-sm md:text-base">{exp.role}</p>
+                    <p className="text-muted-foreground mb-2 text-sm md:text-base">{exp.role}</p>
+
+                    {exp.technologies && exp.technologies.length > 0 && (
+                      <div className={`flex flex-wrap gap-1.5 mb-4 ${isLeft ? "md:justify-end" : ""}`}>
+                        {exp.technologies.map((tech, idx) => (
+                          <span
+                            key={idx}
+                            className="px-2 py-0.5 text-xs rounded bg-muted/80 text-muted-foreground border border-border/50"
+                          >
+                            {tech}
+                          </span>
+                        ))}
+                      </div>
+                    )}
 
                     {/* Impact statement */}
                     <p className="text-base md:text-lg leading-relaxed mb-6 text-pretty">{exp.impact}</p>
