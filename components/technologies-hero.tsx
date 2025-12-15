@@ -120,21 +120,23 @@ export function TechnologiesHero({ experiences }: TechnologiesHeroProps) {
           )}
         </div>
 
-        <div className="flex flex-wrap gap-2">
-          {filteredTechs.map((tech) => (
-            <button
-              key={tech.name}
-              onClick={() => handleTechClick(tech.name)}
-              className={`group px-3 py-1.5 rounded-md text-sm font-mono transition-all ${
-                selectedTech === tech.name
-                  ? "bg-primary text-primary-foreground scale-95"
-                  : "bg-muted hover:bg-muted/80 text-foreground hover:scale-105 active:scale-95"
-              }`}
-            >
-              {tech.name}
-              <span className="ml-1.5 text-xs opacity-60">({tech.count})</span>
-            </button>
-          ))}
+        <div className="overflow-x-auto scrollbar-thin scrollbar-thumb-muted scrollbar-track-transparent">
+          <div className="flex gap-2 pb-2 min-w-max">
+            {filteredTechs.map((tech) => (
+              <button
+                key={tech.name}
+                onClick={() => handleTechClick(tech.name)}
+                className={`group px-3 py-1.5 rounded-md text-sm font-mono transition-all whitespace-nowrap ${
+                  selectedTech === tech.name
+                    ? "bg-primary text-primary-foreground scale-95"
+                    : "bg-muted hover:bg-muted/80 text-foreground hover:scale-105 active:scale-95"
+                }`}
+              >
+                {tech.name}
+                <span className="ml-1.5 text-xs opacity-60">({tech.count})</span>
+              </button>
+            ))}
+          </div>
         </div>
 
         {filteredTechs.length === 0 && (
