@@ -34,8 +34,7 @@ export function Timeline({ items }: TimelineProps) {
 
   return (
     <>
-      <div className="relative min-h-screen py-24 px-6" ref={timelineRef}>
-        {/* Vertical timeline line */}
+      <div className="relative min-h-screen py-24 px-6 pt-40" ref={timelineRef} data-timeline-container>
         <div className="absolute left-1/2 top-0 bottom-0 w-[2px] bg-border -translate-x-1/2 hidden md:block" />
 
         <div className="max-w-6xl mx-auto space-y-32">
@@ -71,13 +70,16 @@ export function Timeline({ items }: TimelineProps) {
             const exp = item.data as Experience
             const isLeft = index % 2 === 0
             const isCreative = exp.type === "creative"
+            const imageUrl =
+              exp.image || `https://placehold.co/800x600/1a1a1a/666666?text=${encodeURIComponent(exp.role)}`
 
             return (
               <div
                 key={exp.id}
+                id={`experience-${exp.id}`}
                 data-timeline-item
                 data-index={index}
-                className={`relative transition-all duration-700 ${
+                className={`relative transition-all duration-700 rounded-lg ${
                   isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-12"
                 }`}
                 style={{ transitionDelay: "0.1s" }}
@@ -105,7 +107,20 @@ export function Timeline({ items }: TimelineProps) {
                     >
                       {exp.company}
                     </h3>
-                    <p className="text-muted-foreground mb-4 text-sm md:text-base">{exp.role}</p>
+                    <p className="text-muted-foreground mb-2 text-sm md:text-base">{exp.role}</p>
+
+                    {exp.technologies && exp.technologies.length > 0 && (
+                      <div className={`flex flex-wrap gap-1.5 mb-4 ${isLeft ? "md:justify-end" : ""}`}>
+                        {exp.technologies.map((tech, idx) => (
+                          <span
+                            key={idx}
+                            className="px-2 py-0.5 text-xs rounded bg-muted/80 text-muted-foreground border border-border/50"
+                          >
+                            {tech}
+                          </span>
+                        ))}
+                      </div>
+                    )}
 
                     {/* Impact statement */}
                     <p className="text-base md:text-lg leading-relaxed mb-6 text-pretty">{exp.impact}</p>
@@ -148,7 +163,7 @@ export function Timeline({ items }: TimelineProps) {
                     >
                       <div className="absolute inset-0 bg-gradient-to-br from-background to-muted transition-opacity group-hover:opacity-80" />
                       <img
-                        src={exp.image || "/placeholder.svg"}
+                        src={imageUrl || "/placeholder.svg"}
                         alt={`${exp.company} project preview`}
                         className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                       />

@@ -10,6 +10,7 @@ export interface Experience {
   decision: string
   solution: string
   result: string
+  technologies?: string[]
   created_at?: string
   updated_at?: string
 }
