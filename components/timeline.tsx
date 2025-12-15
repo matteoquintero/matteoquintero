@@ -34,8 +34,7 @@ export function Timeline({ items }: TimelineProps) {
 
   return (
     <>
-      <div className="relative min-h-screen py-24 px-6" ref={timelineRef} data-timeline-container>
-        {/* Vertical timeline line */}
+      <div className="relative min-h-screen py-24 px-6 pt-40" ref={timelineRef} data-timeline-container>
         <div className="absolute left-1/2 top-0 bottom-0 w-[2px] bg-border -translate-x-1/2 hidden md:block" />
 
         <div className="max-w-6xl mx-auto space-y-32">

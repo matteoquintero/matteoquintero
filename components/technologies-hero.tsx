@@ -107,26 +107,28 @@ export function TechnologiesHero({ experiences }: TechnologiesHeroProps) {
       className="sticky top-0 z-30 bg-background/95 backdrop-blur-sm border-b border-border py-4 px-6 transition-all duration-300"
     >
       <div className="max-w-6xl mx-auto">
-        <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm font-mono uppercase tracking-wider text-muted-foreground">Tecnologías</h2>
+        <div className="flex items-center justify-between gap-4 mb-3">
+          <h2 className="text-sm font-mono uppercase tracking-wider text-muted-foreground flex-shrink-0">
+            Tecnologías
+          </h2>
           {showSearch && (
             <input
               type="text"
               placeholder="Buscar..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="px-3 py-1.5 text-sm rounded-md bg-muted border border-border focus:outline-none focus:ring-1 focus:ring-primary w-40"
+              className="px-3 py-1.5 text-sm rounded-md bg-muted border border-border focus:outline-none focus:ring-1 focus:ring-primary w-32 md:w-40"
             />
           )}
         </div>
 
-        <div className="overflow-x-auto scrollbar-thin scrollbar-thumb-muted scrollbar-track-transparent">
+        <div className="overflow-x-auto overflow-y-hidden scrollbar-thin scrollbar-thumb-muted/50 scrollbar-track-transparent hover:scrollbar-thumb-muted">
           <div className="flex gap-2 pb-2 min-w-max">
             {filteredTechs.map((tech) => (
               <button
                 key={tech.name}
                 onClick={() => handleTechClick(tech.name)}
-                className={`group px-3 py-1.5 rounded-md text-sm font-mono transition-all whitespace-nowrap ${
+                className={`group px-3 py-1.5 rounded-md text-sm font-mono transition-all whitespace-nowrap flex-shrink-0 ${
                   selectedTech === tech.name
                     ? "bg-primary text-primary-foreground scale-95"
                     : "bg-muted hover:bg-muted/80 text-foreground hover:scale-105 active:scale-95"
