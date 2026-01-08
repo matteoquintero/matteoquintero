@@ -35,7 +35,7 @@ export function Timeline({ items }: TimelineProps) {
   return (
     <>
       <div className="relative min-h-screen py-24 px-6 pt-40" ref={timelineRef} data-timeline-container>
-        <div className="absolute left-1/2 top-0 bottom-0 w-[2px] bg-border -translate-x-1/2 hidden md:block" />
+        <div className="absolute left-1/2 top-0 bottom-0 w-[2px] bg-border -translate-x-1/2" />
 
         <div className="max-w-6xl mx-auto space-y-32">
           {items.map((item, index) => {
@@ -61,8 +61,7 @@ export function Timeline({ items }: TimelineProps) {
                     </div>
                   </div>
 
-                  {/* Timeline dot for highlight */}
-                  <div className="hidden md:block absolute left-1/2 top-8 -translate-x-1/2 w-3 h-3 rounded-full border-2 border-background bg-muted z-10" />
+                  <div className="absolute left-1/2 top-8 -translate-x-1/2 w-3 h-3 rounded-full border-2 border-background bg-muted z-10" />
                 </div>
               )
             }
@@ -176,9 +175,8 @@ export function Timeline({ items }: TimelineProps) {
                   </div>
                 </div>
 
-                {/* Timeline dot */}
                 <div
-                  className="hidden md:block absolute left-1/2 top-12 -translate-x-1/2 w-4 h-4 rounded-full border-4 border-background z-10"
+                  className="absolute left-1/2 top-12 -translate-x-1/2 w-4 h-4 rounded-full border-4 border-background z-10"
                   style={{
                     background: isCreative ? "var(--creative-accent)" : "var(--technical-accent)",
                   }}
