@@ -3,13 +3,16 @@ import { Timeline } from "@/components/timeline"
 import { TechnologiesHero } from "@/components/technologies-hero"
 import { getProfile, getSiteCopy, getSiteLists } from "@/lib/actions/content"
 import { getTimelineItems } from "@/lib/actions/experiences"
+import { getRequestLocale } from "@/lib/locale"
 
 export default async function Home() {
+  const locale = await getRequestLocale()
+
   const [profile, copy, lists, timelineItems] = await Promise.all([
-    getProfile(),
-    getSiteCopy(),
-    getSiteLists(),
-    getTimelineItems(),
+    getProfile(locale),
+    getSiteCopy(locale),
+    getSiteLists(locale),
+    getTimelineItems(locale),
   ])
 
   const experiences = timelineItems
@@ -21,7 +24,7 @@ export default async function Home() {
 
   return (
     <main className="min-h-screen">
-      <BrainHero profile={profile} copy={copy} lists={lists} />
+      <BrainHero profile={profile} copy={copy} lists={lists} locale={locale} />
       <TechnologiesHero experiences={experiences} copy={copy} />
       <Timeline items={timelineItems} copy={copy} />
     </main>

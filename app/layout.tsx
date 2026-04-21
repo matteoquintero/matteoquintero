@@ -5,6 +5,7 @@ import { Analytics } from "@vercel/analytics/next"
 
 import { PortfolioLoader } from "@/components/portfolio-loader"
 import { getSiteCopy, getSiteLists } from "@/lib/actions/content"
+import { getRequestLocale } from "@/lib/locale"
 import "./globals.css"
 
 const spaceGrotesk = Space_Grotesk({
@@ -18,7 +19,8 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export async function generateMetadata(): Promise<Metadata> {
-  const copy = await getSiteCopy()
+  const locale = await getRequestLocale()
+  const copy = await getSiteCopy(locale)
   const title = copy["site.meta.title"] || "Portfolio"
   const description = copy["site.meta.description"] || ""
   const ogTitle = copy["site.meta.og_title"] || title
@@ -42,7 +44,7 @@ export async function generateMetadata(): Promise<Metadata> {
           alt: ogTitle,
         },
       ],
-      locale: "es_CO",
+      locale: locale === "en" ? "en_US" : "es_CO",
       type: "website",
     },
     twitter: {
@@ -67,10 +69,11 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
-  const [copy, lists] = await Promise.all([getSiteCopy(), getSiteLists()])
+  const locale = await getRequestLocale()
+  const [copy, lists] = await Promise.all([getSiteCopy(locale), getSiteLists(locale)])
 
   return (
-    <html lang="es" className="dark">
+    <html lang={locale} className="dark">
       <body className={`${spaceGrotesk.variable} ${jetbrainsMono.variable} font-sans antialiased`}>
         <PortfolioLoader copy={copy} lists={lists} />
         {children}
