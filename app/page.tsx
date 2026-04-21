@@ -1,4 +1,5 @@
 import { BrainHero } from "@/components/brain-hero"
+import { PortfolioFooter } from "@/components/portfolio-footer"
 import { Timeline } from "@/components/timeline"
 import { TechnologiesHero } from "@/components/technologies-hero"
 import { getProfile, getSiteCopy, getSiteLists } from "@/lib/actions/content"
@@ -24,9 +25,10 @@ export default async function Home() {
 
   return (
     <main className="min-h-screen">
-      <BrainHero profile={profile} copy={copy} lists={lists} locale={locale} />
+      <BrainHero profile={profile} copy={copy} lists={lists} />
       <TechnologiesHero experiences={experiences} copy={copy} />
       <Timeline items={timelineItems} copy={copy} />
+      <PortfolioFooter profile={profile} copy={copy} locale={locale} />
     </main>
   )
 }

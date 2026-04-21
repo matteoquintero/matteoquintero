@@ -142,6 +142,13 @@ UPDATE site_copy SET value_en = '03 · how it was solved'                       
 UPDATE site_copy SET value_en = '04 · impact'                                                  WHERE key = 'experience.section.result';
 UPDATE site_copy SET value_en = 'Close'                                                        WHERE key = 'experience.close_aria';
 
+UPDATE site_copy SET value_en = 'manifesto'                                                    WHERE key = 'footer.manifesto_label';
+UPDATE site_copy SET value_en = 'contact'                                                      WHERE key = 'footer.contact_label';
+UPDATE site_copy SET value_en = 'I can lead the architecture of a distributed system and, the same day, sit with a creative team to co-design a campaign. The crossover between engineering and narrative is where I feel most myself.' WHERE key = 'footer.pitch';
+UPDATE site_copy SET value_en = 'copy'                                                         WHERE key = 'footer.copy_label';
+UPDATE site_copy SET value_en = 'copied'                                                       WHERE key = 'footer.copied';
+-- footer.linkedin_handle identical in EN and ES → leave NULL (fallback).
+
 -- (The following keys are identical in EN and ES; leaving value_en NULL so the
 -- fallback keeps them in sync if the ES ever changes:
 --   hero.label.creative_track, hero.label.technical_track,

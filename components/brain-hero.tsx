@@ -3,21 +3,19 @@
 import { useEffect, useRef, useState } from "react"
 import { Linkedin, Mail, Phone } from "lucide-react"
 
-import { LocaleSwitcher } from "@/components/locale-switcher"
 import { CornerFrame } from "@/components/ui/corner-frame"
 import { GooeyText } from "@/components/ui/gooey-text-morphing"
 import { LiquidButton } from "@/components/ui/liquid-glass-button"
 import { WebGLShader } from "@/components/ui/web-gl-shader"
-import type { Locale, Profile, SiteCopy, SiteLists } from "@/lib/types"
+import type { Profile, SiteCopy, SiteLists } from "@/lib/types"
 
 interface BrainHeroProps {
   profile: Profile
   copy: SiteCopy
   lists: SiteLists
-  locale: Locale
 }
 
-export function BrainHero({ profile, copy, lists, locale }: BrainHeroProps) {
+export function BrainHero({ profile, copy, lists }: BrainHeroProps) {
   const heroRef = useRef<HTMLElement>(null)
   const [scrollProgress, setScrollProgress] = useState(0)
   const [mousePosition, setMousePosition] = useState({ x: 0.5, y: 0.5 })
@@ -107,11 +105,11 @@ export function BrainHero({ profile, copy, lists, locale }: BrainHeroProps) {
           </div>
         </div>
 
-        <div className="flex items-center justify-end gap-3 text-[10px] uppercase tracking-[0.2em] text-white/55">
-          <div
-            className="hidden items-center gap-3 md:flex"
-            style={{ fontFamily: "var(--font-technical)" }}
-          >
+        <div
+          className="hidden items-center justify-end gap-3 text-[10px] uppercase tracking-[0.2em] text-white/55 md:flex"
+          style={{ fontFamily: "var(--font-technical)" }}
+        >
+          <div className="flex items-center gap-3">
             {profile.linkedin_url && (
               <a
                 href={profile.linkedin_url}
@@ -149,9 +147,7 @@ export function BrainHero({ profile, copy, lists, locale }: BrainHeroProps) {
                 </a>
               </>
             )}
-            <span className="text-white/20">·</span>
           </div>
-          <LocaleSwitcher initialLocale={locale} />
         </div>
       </header>
 

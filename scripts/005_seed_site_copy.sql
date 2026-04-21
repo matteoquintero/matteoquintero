@@ -38,7 +38,14 @@ INSERT INTO site_copy (key, value_es, context) VALUES
   ('experience.section.decision',     '02 · la decisión clave',                                   'Modal section heading'),
   ('experience.section.solution',     '03 · cómo se resolvió',                                    'Modal section heading'),
   ('experience.section.result',       '04 · impacto',                                             'Modal section heading'),
-  ('experience.close_aria',           'Cerrar',                                                   'Modal close button aria-label')
+  ('experience.close_aria',           'Cerrar',                                                   'Modal close button aria-label'),
+
+  ('footer.manifesto_label',          'manifiesto',                                               'Footer left-column kicker'),
+  ('footer.contact_label',            'contacto',                                                 'Footer right-column kicker'),
+  ('footer.pitch',                    'Puedo liderar la arquitectura de un sistema distribuido y, ese mismo día, sentarme con un equipo creativo a co-diseñar una campaña. El cruce entre ingeniería y narrativa es donde me siento más yo.', 'Footer pitch — dualidad ingeniería + narrativa'),
+  ('footer.copy_label',               'copiar',                                                   'Copy-to-clipboard button'),
+  ('footer.copied',                   'copiado',                                                  'Copy-success feedback'),
+  ('footer.linkedin_handle',          'linkedin.com/in/matteoquintero',                           'LinkedIn display handle')
 ON CONFLICT (key) DO UPDATE
   SET value_es = EXCLUDED.value_es,
       context  = EXCLUDED.context,
