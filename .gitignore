@@ -25,3 +25,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude Code local state
+/.claude/
+
+# Personal notes (not part of the project)
+/DECISIONES_PRAGMATICAS.md
+/ENTREVISTA.md
+/ENTREVISTA_GENERAL.md
+/ENTREVISTA_TOOLS.md
+/GO_REFERENCIA.md
+
+# npm lockfile — pnpm-lock.yaml is the source of truth
+/package-lock.json
