@@ -2,6 +2,9 @@ import type React from "react"
 import type { Metadata } from "next"
 import { Space_Grotesk, JetBrains_Mono } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
+
+import { PortfolioLoader } from "@/components/portfolio-loader"
+import { getSiteCopy, getSiteLists } from "@/lib/actions/content"
 import "./globals.css"
 
 const spaceGrotesk = Space_Grotesk({
@@ -14,62 +17,62 @@ const jetbrainsMono = JetBrains_Mono({
   variable: "--font-technical",
 })
 
-export const metadata: Metadata = {
-  title: "Portfolio — Creative × Technical",
-  description: "Senior Product Designer + Creative Technologist + Frontend Engineer",
-  generator: "matteoquintero",
-  metadataBase: new URL("https://matteoquintero.com"),
-  openGraph: {
-    title: "Mateo Quintero — Portfolio",
-    description:
-      "Diseño sistemas que resuelven problemas. Senior Product Designer + Creative Technologist + Frontend Engineer",
-    url: "https://matteoquintero.com",
-    siteName: "Mateo Quintero Portfolio",
-    images: [
-      {
-        url: "/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Mateo Quintero Portfolio - Creative × Technical",
-      },
-    ],
-    locale: "es_CO",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Mateo Quintero — Portfolio",
-    description:
-      "Diseño sistemas que resuelven problemas. Senior Product Designer + Creative Technologist + Frontend Engineer",
-    images: ["/og-image.jpg"],
-  },
-  icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
-  },
+export async function generateMetadata(): Promise<Metadata> {
+  const copy = await getSiteCopy()
+  const title = copy["site.meta.title"] || "Portfolio"
+  const description = copy["site.meta.description"] || ""
+  const ogTitle = copy["site.meta.og_title"] || title
+  const ogDescription = copy["site.meta.og_description"] || description
+
+  return {
+    title,
+    description,
+    generator: "matteoquintero",
+    metadataBase: new URL("https://matteoquintero.com"),
+    openGraph: {
+      title: ogTitle,
+      description: ogDescription,
+      url: "https://matteoquintero.com",
+      siteName: ogTitle,
+      images: [
+        {
+          url: "/og-image.jpg",
+          width: 1200,
+          height: 630,
+          alt: ogTitle,
+        },
+      ],
+      locale: "es_CO",
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: ogTitle,
+      description: ogDescription,
+      images: ["/og-image.jpg"],
+    },
+    icons: {
+      icon: [
+        { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
+        { url: "/icon-dark-32x32.png", media: "(prefers-color-scheme: dark)" },
+        { url: "/icon.svg", type: "image/svg+xml" },
+      ],
+      apple: "/apple-icon.png",
+    },
+  }
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode
 }>) {
+  const [copy, lists] = await Promise.all([getSiteCopy(), getSiteLists()])
+
   return (
-    <html lang="en" className="dark">
+    <html lang="es" className="dark">
       <body className={`${spaceGrotesk.variable} ${jetbrainsMono.variable} font-sans antialiased`}>
+        <PortfolioLoader copy={copy} lists={lists} />
         {children}
         <Analytics />
       </body>

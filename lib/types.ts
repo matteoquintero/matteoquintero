@@ -1,3 +1,5 @@
+export type Locale = "es" | "en"
+
 export interface Experience {
   id: string
   year: string
@@ -23,4 +25,23 @@ export interface Highlight {
   updated_at?: string
 }
 
-export type TimelineItem = { type: "experience"; data: Experience } | { type: "highlight"; data: Highlight }
+export type TimelineItem =
+  | { type: "experience"; data: Experience }
+  | { type: "highlight"; data: Highlight }
+
+export interface Profile {
+  name: string
+  role: string
+  headline_creative: string
+  headline_technical: string
+  headline_action: string
+  micro_context: string
+  scroll_text: string
+  profile_image: string
+  linkedin_url: string
+  whatsapp_number: string
+  email: string
+}
+
+export type SiteCopy = Record<string, string>
+export type SiteLists = Record<string, string[]>
