@@ -98,7 +98,7 @@ export function BrainHero({ profile, copy, lists, locale }: BrainHeroProps) {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="h-11 w-11 overflow-hidden rounded-full border border-white/25 md:h-12 md:w-12">
+          <div className="h-12 w-12 overflow-hidden rounded-full border border-white/25 md:h-14 md:w-14">
             <img
               src={profile.profile_image || "/profile.jpg"}
               alt={profile.name}
@@ -156,7 +156,7 @@ export function BrainHero({ profile, copy, lists, locale }: BrainHeroProps) {
       </header>
 
       {/* Main content — centered in remaining viewport */}
-      <div className="relative z-10 mx-auto flex h-full max-w-5xl flex-col items-center justify-center px-4 pb-14 pt-24 md:pb-16 md:pt-28">
+      <div className="relative z-10 mx-auto flex h-full max-w-5xl flex-col items-center justify-center px-4 pb-12 pt-20 md:pb-14 md:pt-24">
         <CornerFrame
           className="w-full bg-black/35 p-1.5 backdrop-blur-[2px]"
           tone="bright"
