@@ -42,7 +42,7 @@ INSERT INTO site_copy (key, value_es, context) VALUES
 
   ('footer.manifesto_label',          'manifiesto',                                               'Footer left-column kicker'),
   ('footer.contact_label',            'contacto',                                                 'Footer right-column kicker'),
-  ('footer.pitch',                    'Arquitecturas distribuidas en una reunión, diseño, UX y narrativa en la siguiente. Ingeniería y creatividad no son dos mundos — son el mismo trabajo visto desde distintos lados, y en ese cruce me muevo con soltura.', 'Footer pitch — engineering + creative crossover, abierto (no literal)'),
+  ('footer.pitch',                    E'He diseñado la interfaz y escrito el pipeline de datos que la alimenta. He prototipado la experiencia y definido la arquitectura cloud que la soporta.\n\nNo en proyectos distintos. En el mismo.', 'Footer pitch — dualidad ingeniería/creatividad, frases separadas por \\n\\n (última línea es la punchline)'),
   ('footer.copy_label',               'copiar',                                                   'Copy-to-clipboard button'),
   ('footer.copied',                   'copiado',                                                  'Copy-success feedback'),
   ('footer.linkedin_handle',          'linkedin.com/in/matteoquintero',                           'LinkedIn display handle')

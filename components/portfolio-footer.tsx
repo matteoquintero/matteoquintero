@@ -62,12 +62,26 @@ export function PortfolioFooter({ profile, copy }: PortfolioFooterProps) {
               <span className="text-white/25">{`//`}</span>
               <span>{manifestoLabel}</span>
             </p>
-            <p
-              className="text-balance text-xl leading-relaxed text-white/80 md:text-2xl lg:text-[26px]"
+            <div
+              className="space-y-4 text-xl leading-relaxed md:text-2xl lg:text-[26px]"
               style={{ fontFamily: "var(--font-creative)" }}
             >
-              {pitch}
-            </p>
+              {pitch
+                .split(/\n\n+/)
+                .map((part, i, arr) => (
+                  <p
+                    key={i}
+                    className={cn(
+                      "text-balance",
+                      i === arr.length - 1 && arr.length > 1
+                        ? "font-medium text-white"
+                        : "text-white/75",
+                    )}
+                  >
+                    {part}
+                  </p>
+                ))}
+            </div>
           </div>
 
           {/* Right: contact block */}
