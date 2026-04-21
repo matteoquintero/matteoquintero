@@ -78,14 +78,17 @@ export function TechnologiesHero({ experiences, copy }: TechnologiesHeroProps) {
     setTimeout(() => setSelectedTech(null), 800)
   }
 
-  if (!isVisible) return null
-
   const showSearch = techStats.length > 18
 
   return (
     <div
       ref={heroRef}
-      className="sticky top-0 z-30 border-b border-white/10 bg-black/80 px-6 py-4 backdrop-blur-md transition-all duration-300"
+      aria-hidden={!isVisible}
+      className={cn(
+        "fixed inset-x-0 top-0 z-30 border-b border-white/10 bg-black px-6 py-4",
+        "transition-opacity duration-200 ease-out",
+        isVisible ? "opacity-100" : "pointer-events-none opacity-0",
+      )}
     >
       <div className="mx-auto max-w-6xl">
         <div className="mb-3 flex items-center justify-between gap-4">
