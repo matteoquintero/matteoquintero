@@ -3,14 +3,12 @@
 import { Linkedin } from "lucide-react"
 import { useState } from "react"
 
-import { LocaleSwitcher } from "@/components/locale-switcher"
-import type { Locale, Profile, SiteCopy } from "@/lib/types"
+import type { Profile, SiteCopy } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
 interface PortfolioFooterProps {
   profile: Profile
   copy: SiteCopy
-  locale: Locale
 }
 
 function formatColombianPhone(raw: string): string {
@@ -24,7 +22,7 @@ function formatColombianPhone(raw: string): string {
   return raw
 }
 
-export function PortfolioFooter({ profile, copy, locale }: PortfolioFooterProps) {
+export function PortfolioFooter({ profile, copy }: PortfolioFooterProps) {
   const [copied, setCopied] = useState<string | null>(null)
   const year = new Date().getFullYear()
   const phone = profile.whatsapp_number ? formatColombianPhone(profile.whatsapp_number) : ""
@@ -161,15 +159,14 @@ export function PortfolioFooter({ profile, copy, locale }: PortfolioFooterProps)
           </div>
         </div>
 
-        {/* Bottom bar */}
-        <div className="mt-12 flex flex-col-reverse items-start gap-4 border-t border-white/10 pt-6 md:mt-16 md:flex-row md:items-center md:justify-between">
+        {/* Bottom bar — copyright only, locale switcher lives in the hero */}
+        <div className="mt-12 border-t border-white/10 pt-6 md:mt-16">
           <p
             className="text-[10px] uppercase tracking-[0.2em] text-white/40"
             style={{ fontFamily: "var(--font-technical)" }}
           >
             © {year} · {profile.name || "Mateo Quintero"}
           </p>
-          <LocaleSwitcher initialLocale={locale} />
         </div>
       </div>
     </footer>

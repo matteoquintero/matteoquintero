@@ -6,6 +6,25 @@ import { useState, useTransition } from "react"
 import type { Locale } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
+const LOCALE_COOKIE_MAX_AGE = 60 * 60 * 24 * 365
+
+export function useLocaleSwitcher(initialLocale: Locale) {
+  const router = useRouter()
+  const [locale, setLocale] = useState<Locale>(initialLocale)
+  const [isPending, startTransition] = useTransition()
+
+  const pick = (next: Locale) => {
+    if (next === locale || isPending) return
+    document.cookie = `locale=${next};path=/;max-age=${LOCALE_COOKIE_MAX_AGE};samesite=lax`
+    setLocale(next)
+    startTransition(() => {
+      router.refresh()
+    })
+  }
+
+  return { locale, pick, isPending }
+}
+
 interface LocaleSwitcherProps {
   initialLocale: Locale
   className?: string
@@ -14,18 +33,7 @@ interface LocaleSwitcherProps {
 const OPTIONS: Locale[] = ["es", "en"]
 
 export function LocaleSwitcher({ initialLocale, className }: LocaleSwitcherProps) {
-  const router = useRouter()
-  const [locale, setLocale] = useState<Locale>(initialLocale)
-  const [isPending, startTransition] = useTransition()
-
-  const pick = (next: Locale) => {
-    if (next === locale || isPending) return
-    document.cookie = `locale=${next};path=/;max-age=${60 * 60 * 24 * 365};samesite=lax`
-    setLocale(next)
-    startTransition(() => {
-      router.refresh()
-    })
-  }
+  const { locale, pick, isPending } = useLocaleSwitcher(initialLocale)
 
   return (
     <div

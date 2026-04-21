@@ -3,22 +3,28 @@
 import { useEffect, useRef, useState } from "react"
 import { Linkedin, Mail, Phone } from "lucide-react"
 
+import { useLocaleSwitcher } from "@/components/locale-switcher"
 import { CornerFrame } from "@/components/ui/corner-frame"
 import { GooeyText } from "@/components/ui/gooey-text-morphing"
 import { LiquidButton } from "@/components/ui/liquid-glass-button"
 import { WebGLShader } from "@/components/ui/web-gl-shader"
-import type { Profile, SiteCopy, SiteLists } from "@/lib/types"
+import type { Locale, Profile, SiteCopy, SiteLists } from "@/lib/types"
+import { cn } from "@/lib/utils"
 
 interface BrainHeroProps {
   profile: Profile
   copy: SiteCopy
   lists: SiteLists
+  locale: Locale
 }
 
-export function BrainHero({ profile, copy, lists }: BrainHeroProps) {
+export function BrainHero({ profile, copy, lists, locale }: BrainHeroProps) {
   const heroRef = useRef<HTMLElement>(null)
   const [scrollProgress, setScrollProgress] = useState(0)
   const [mousePosition, setMousePosition] = useState({ x: 0.5, y: 0.5 })
+
+  const { locale: activeLocale, pick: pickLocale, isPending: localePending } =
+    useLocaleSwitcher(locale)
 
   useEffect(() => {
     const handleScroll = () => {
@@ -55,6 +61,12 @@ export function BrainHero({ profile, copy, lists }: BrainHeroProps) {
     ? `https://wa.me/${profile.whatsapp_number.replace(/[^\d]/g, "")}`
     : undefined
 
+  const localeButtonClass = (opt: Locale) =>
+    cn(
+      "cursor-pointer rounded-sm px-1.5 py-0.5 text-[10px] uppercase tracking-[0.25em] transition-colors",
+      activeLocale === opt ? "text-white" : "text-white/45 hover:text-white/85",
+    )
+
   return (
     <section
       ref={heroRef}
@@ -78,7 +90,7 @@ export function BrainHero({ profile, copy, lists }: BrainHeroProps) {
         }}
       />
 
-      {/* Header: 3-col grid · name | avatar centered | contacts + locale */}
+      {/* Header: 3-col grid · name | ES [avatar] EN | contacts */}
       <header className="absolute inset-x-0 top-5 z-20 grid grid-cols-3 items-center gap-4 px-5 md:top-6 md:px-8">
         <div className="min-w-0">
           <h2
@@ -95,7 +107,24 @@ export function BrainHero({ profile, copy, lists }: BrainHeroProps) {
           </p>
         </div>
 
-        <div className="flex items-center justify-center">
+        <div
+          role="group"
+          aria-label="Language"
+          className={cn(
+            "flex items-center justify-center gap-2 md:gap-3",
+            localePending && "opacity-60",
+          )}
+          style={{ fontFamily: "var(--font-technical)" }}
+        >
+          <button
+            type="button"
+            onClick={() => pickLocale("es")}
+            aria-pressed={activeLocale === "es"}
+            className={localeButtonClass("es")}
+          >
+            ES
+          </button>
+
           <div className="h-12 w-12 overflow-hidden rounded-full border border-white/25 md:h-14 md:w-14">
             <img
               src={profile.profile_image || "/profile.jpg"}
@@ -103,51 +132,58 @@ export function BrainHero({ profile, copy, lists }: BrainHeroProps) {
               className="h-full w-full object-cover grayscale"
             />
           </div>
+
+          <button
+            type="button"
+            onClick={() => pickLocale("en")}
+            aria-pressed={activeLocale === "en"}
+            className={localeButtonClass("en")}
+          >
+            EN
+          </button>
         </div>
 
         <div
           className="hidden items-center justify-end gap-3 text-[10px] uppercase tracking-[0.2em] text-white/55 md:flex"
           style={{ fontFamily: "var(--font-technical)" }}
         >
-          <div className="flex items-center gap-3">
-            {profile.linkedin_url && (
+          {profile.linkedin_url && (
+            <a
+              href={profile.linkedin_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-1.5 transition-colors hover:text-white"
+            >
+              <Linkedin className="h-3.5 w-3.5" />
+              <span className="hidden lg:inline">{copy["hero.contact.linkedin"]}</span>
+            </a>
+          )}
+          {whatsappHref && (
+            <>
+              <span className="text-white/20">·</span>
               <a
-                href={profile.linkedin_url}
+                href={whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 transition-colors hover:text-white"
               >
-                <Linkedin className="h-3.5 w-3.5" />
-                <span className="hidden lg:inline">{copy["hero.contact.linkedin"]}</span>
+                <Phone className="h-3.5 w-3.5" />
+                <span className="hidden lg:inline">{copy["hero.contact.whatsapp"]}</span>
               </a>
-            )}
-            {whatsappHref && (
-              <>
-                <span className="text-white/20">·</span>
-                <a
-                  href={whatsappHref}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-1.5 transition-colors hover:text-white"
-                >
-                  <Phone className="h-3.5 w-3.5" />
-                  <span className="hidden lg:inline">{copy["hero.contact.whatsapp"]}</span>
-                </a>
-              </>
-            )}
-            {profile.email && (
-              <>
-                <span className="text-white/20">·</span>
-                <a
-                  href={`mailto:${profile.email}`}
-                  className="flex items-center gap-1.5 transition-colors hover:text-white"
-                >
-                  <Mail className="h-3.5 w-3.5" />
-                  <span className="hidden lg:inline">{copy["hero.contact.email"]}</span>
-                </a>
-              </>
-            )}
-          </div>
+            </>
+          )}
+          {profile.email && (
+            <>
+              <span className="text-white/20">·</span>
+              <a
+                href={`mailto:${profile.email}`}
+                className="flex items-center gap-1.5 transition-colors hover:text-white"
+              >
+                <Mail className="h-3.5 w-3.5" />
+                <span className="hidden lg:inline">{copy["hero.contact.email"]}</span>
+              </a>
+            </>
+          )}
         </div>
       </header>
 

@@ -144,7 +144,7 @@ UPDATE site_copy SET value_en = 'Close'                                         
 
 UPDATE site_copy SET value_en = 'manifesto'                                                    WHERE key = 'footer.manifesto_label';
 UPDATE site_copy SET value_en = 'contact'                                                      WHERE key = 'footer.contact_label';
-UPDATE site_copy SET value_en = 'I can lead the architecture of a distributed system and, the same day, sit with a creative team to co-design a campaign. The crossover between engineering and narrative is where I feel most myself.' WHERE key = 'footer.pitch';
+UPDATE site_copy SET value_en = 'Distributed architectures in one meeting, design, UX and narrative in the next. Engineering and creativity aren''t two worlds — they''re the same work seen from different sides, and that crossover is where I move with ease.' WHERE key = 'footer.pitch';
 UPDATE site_copy SET value_en = 'copy'                                                         WHERE key = 'footer.copy_label';
 UPDATE site_copy SET value_en = 'copied'                                                       WHERE key = 'footer.copied';
 -- footer.linkedin_handle identical in EN and ES → leave NULL (fallback).
