@@ -18,7 +18,7 @@
 
   box-sizing: border-box;
   margin: 0;
-  padding: clamp(0.75rem, 2vw, 1.5rem);
+  padding: clamp(0.85rem, 2vw, 1.6rem);
   background: var(--bg);
   color: var(--white);
   font-family: var(--font-gotham), "Plus Jakarta Sans", "Montserrat", sans-serif;
@@ -29,22 +29,25 @@
   width: 100%;
   overflow: hidden;
 
+  /* masthead / 01 / 02 (fills) / 03 */
   display: grid;
   grid-template-rows: minmax(0, auto) minmax(0, auto) minmax(0, 1fr) minmax(0, auto);
-  gap: clamp(0.6rem, 1.6vh, 1.25rem);
+  gap: clamp(0.5rem, 1.4vh, 1rem);
 }
 
 .page * {
   box-sizing: border-box;
 }
 
-/* ---------- Header ---------- */
+/* ---------- Header (masthead) ---------- */
 
 .header {
   display: flex;
   align-items: center;
   gap: clamp(0.5rem, 1.5vw, 0.9rem);
   min-height: 0;
+  padding-bottom: clamp(0.5rem, 1.2vh, 0.85rem);
+  border-bottom: 1px solid var(--navy-raised);
 }
 
 .logo {
@@ -60,13 +63,40 @@
   letter-spacing: -0.01em;
 }
 
+/* ---------- Shared section label (01 / 02 / 03) ---------- */
+
+.sectionLabel {
+  display: flex;
+  align-items: center;
+  gap: clamp(0.4rem, 1vw, 0.6rem);
+}
+
+.sectionNum {
+  color: var(--lime);
+  font-weight: 700;
+  font-size: clamp(0.68rem, 1.2vw, 0.8rem);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.04em;
+  line-height: 1;
+}
+
+.sectionName {
+  margin: 0;
+  font-weight: 500;
+  font-size: clamp(0.8rem, 1.4vw, 0.95rem);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
 /* ---------- Section 1: Path ---------- */
 
 .path {
   min-height: 0;
   display: flex;
   flex-direction: column;
-  gap: clamp(0.4rem, 1.2vh, 0.7rem);
+  gap: clamp(0.45rem, 1.2vh, 0.75rem);
 }
 
 .pathHeader {
@@ -78,8 +108,7 @@
   row-gap: clamp(0.3rem, 1vh, 0.55rem);
 }
 
-.pathHeader .sectionHeading {
-  margin: 0;
+.pathHeader .sectionLabel {
   flex: 1 1 auto;
   min-width: 0;
 }
@@ -152,18 +181,19 @@
   white-space: nowrap;
 }
 
-.sectionHeading {
-  margin: 0 0 clamp(0.4rem, 1vh, 0.7rem);
-  font-weight: 500;
-  font-size: clamp(0.8rem, 1.4vw, 0.95rem);
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-}
-
 /* ---------- Section 2: Container output ---------- */
 
 .output {
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: clamp(0.4rem, 1vh, 0.7rem);
+  padding-top: clamp(0.5rem, 1.3vh, 0.9rem);
+  border-top: 1px solid var(--navy-raised);
+}
+
+.outputGrid {
+  flex: 1 1 auto;
   min-height: 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -241,6 +271,11 @@
 
 .resources {
   min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: clamp(0.4rem, 1vh, 0.7rem);
+  padding-top: clamp(0.5rem, 1.3vh, 0.9rem);
+  border-top: 1px solid var(--navy-raised);
 }
 
 .resourceList {
@@ -282,7 +317,7 @@
 /* ---------- Mobile collapse ---------- */
 
 @media (max-width: 640px) {
-  .output {
+  .outputGrid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
   }
