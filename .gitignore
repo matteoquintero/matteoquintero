@@ -38,3 +38,6 @@ next-env.d.ts
 
 # npm lockfile — pnpm-lock.yaml is the source of truth
 /package-lock.json
+
+# Playwright MCP scratch output
+.playwright-mcp/
