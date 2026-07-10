@@ -17,9 +17,10 @@ export default function AlfredChallengePage() {
   return (
     <main className={`${gotham.variable} ${styles.page}`}>
       <header className={styles.header}>
+        {/* Logo-only masthead; visually-hidden h1 keeps the heading hierarchy. */}
+        <h1 className={styles.srOnly}>Alfred Challenge</h1>
         {/* TODO: confirm final logo asset/alt text */}
         <img src="/alfred-challenge/alfred-logo-white.svg" alt="Alfred" className={styles.logo} />
-        <h1 className={styles.title}>Alfred Challenge</h1>
       </header>
 
       <section className={styles.path} aria-labelledby="path-heading">

@@ -15,6 +15,11 @@
   --muted: #8e9bb4;
   --lime: #b4fb00;
   --on-lime: #020d20;
+  --surface-mid: #111a2e; /* elevated surface for the middle section */
+
+  /* text grid: number column width + gap, reused to align the quote */
+  --num-col: clamp(1.15rem, 2.2vw, 1.55rem);
+  --label-gap: clamp(0.4rem, 1vw, 0.6rem);
 
   box-sizing: border-box;
   margin: 0;
@@ -44,23 +49,16 @@
 .header {
   display: flex;
   align-items: center;
-  gap: clamp(0.5rem, 1.5vw, 0.9rem);
+  justify-content: center;
   min-height: 0;
   padding-bottom: clamp(0.5rem, 1.2vh, 0.85rem);
   border-bottom: 1px solid var(--navy-raised);
 }
 
 .logo {
-  height: clamp(1.25rem, 3vh, 1.75rem);
+  height: clamp(1.4rem, 3.4vh, 2rem);
   width: auto;
   display: block;
-}
-
-.title {
-  margin: 0;
-  font-weight: 700;
-  font-size: clamp(1.05rem, 2.4vw, 1.5rem);
-  letter-spacing: -0.01em;
 }
 
 /* ---------- Shared section label (01 / 02 / 03) ---------- */
@@ -68,10 +66,11 @@
 .sectionLabel {
   display: flex;
   align-items: center;
-  gap: clamp(0.4rem, 1vw, 0.6rem);
+  gap: var(--label-gap);
 }
 
 .sectionNum {
+  flex: 0 0 var(--num-col);
   color: var(--lime);
   font-weight: 700;
   font-size: clamp(0.68rem, 1.2vw, 0.8rem);
@@ -161,11 +160,11 @@
   background: var(--navy-raised);
 }
 
+/* Intro quote — aligned to the section-name column (no accent bar) */
 .pathQuote {
   margin: 0;
   max-width: 62ch;
-  padding-left: clamp(0.6rem, 1.4vw, 0.9rem);
-  border-left: 3px solid var(--lime);
+  padding-left: calc(var(--num-col) + var(--label-gap));
   color: var(--muted);
   font-weight: 300;
   font-size: clamp(0.8rem, 1.5vw, 0.95rem);
@@ -181,15 +180,13 @@
   white-space: nowrap;
 }
 
-/* ---------- Section 2: Container output ---------- */
+/* ---------- Section 2: Container output (elevated card) ---------- */
 
 .output {
   min-height: 0;
   display: flex;
   flex-direction: column;
   gap: clamp(0.4rem, 1vh, 0.7rem);
-  padding-top: clamp(0.5rem, 1.3vh, 0.9rem);
-  border-top: 1px solid var(--navy-raised);
 }
 
 .outputGrid {
@@ -198,6 +195,10 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: clamp(0.5rem, 1.4vw, 1rem);
+  background: var(--surface-mid);
+  border: 1px solid var(--navy-raised);
+  border-radius: 0.75rem;
+  padding: clamp(0.5rem, 1.2vw, 0.9rem);
 }
 
 .panel {
