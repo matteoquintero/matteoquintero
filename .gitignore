@@ -41,3 +41,6 @@ next-env.d.ts
 
 # Playwright MCP scratch output
 .playwright-mcp/
+
+# Large original walkthrough recording (served as compressed entrega.mp4)
+public/alfred-challenge/entrega.mov

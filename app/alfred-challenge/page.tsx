@@ -72,9 +72,8 @@ export default function AlfredChallengePage() {
           <div className={styles.panel}>
             <div className={styles.panelTitleRow}>
               <p className={styles.panelTitle}>Deliverable PDF</p>
-              {/* TODO: replace /alfred-challenge/output.pdf with the real deliverable PDF */}
               <a
-                href="/alfred-challenge/output.pdf"
+                href="/alfred-challenge/entrega.pdf"
                 target="_blank"
                 rel="noopener"
                 aria-label="Open PDF in new tab"
@@ -84,21 +83,21 @@ export default function AlfredChallengePage() {
               </a>
             </div>
             <div className={styles.viewerWrap}>
-              {/* TODO: replace /alfred-challenge/output.pdf with the real deliverable PDF */}
               <iframe
                 title="Deliverable PDF (PDF.js)"
-                src="/pdfjs/web/viewer.html?file=%2Falfred-challenge%2Foutput.pdf#toolbar=1"
+                src="/pdfjs/web/viewer.html?file=%2Falfred-challenge%2Fentrega.pdf#toolbar=1"
               />
             </div>
           </div>
           <div className={styles.panel}>
             <p className={styles.panelTitle}>Walkthrough</p>
             <div className={styles.viewerWrap}>
-              {/* TODO: replace LOOM_ID_TODO with the real Loom embed id */}
-              <iframe
-                title="Walkthrough (Loom)"
-                src="https://www.loom.com/embed/LOOM_ID_TODO"
-                allowFullScreen
+              <video
+                title="Walkthrough"
+                src="/alfred-challenge/entrega.mp4"
+                controls
+                preload="metadata"
+                playsInline
               />
             </div>
           </div>
@@ -114,14 +113,12 @@ export default function AlfredChallengePage() {
         </div>
         <ul className={styles.resourceList}>
           <li>
-            {/* TODO: replace /alfred-challenge/video.mp4 with the real walkthrough recording */}
-            <a className={styles.resourceLink} href="/alfred-challenge/video.mp4" download>
+            <a className={styles.resourceLink} href="/alfred-challenge/entrega.mp4" download>
               Download video
             </a>
           </li>
           <li>
-            {/* TODO: replace /alfred-challenge/output.pdf with the real deliverable PDF */}
-            <a className={styles.resourceLink} href="/alfred-challenge/output.pdf" download>
+            <a className={styles.resourceLink} href="/alfred-challenge/entrega.pdf" download>
               Download PDF
             </a>
           </li>
