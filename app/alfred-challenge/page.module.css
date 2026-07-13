@@ -120,51 +120,62 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: clamp(0.25rem, 0.7vw, 0.45rem);
-  row-gap: clamp(0.25rem, 0.8vh, 0.4rem);
+  justify-content: flex-end;
+  column-gap: clamp(0.7rem, 1.6vw, 1.3rem);
+  row-gap: clamp(0.22rem, 0.7vh, 0.4rem);
   flex: 0 1 auto;
   min-width: 0;
 }
 
 .stepperItem {
-  display: inline-flex;
+  display: flex;
   align-items: center;
-  gap: clamp(0.28rem, 0.7vw, 0.45rem);
+  gap: clamp(0.3rem, 0.7vw, 0.45rem);
+  min-width: 0;
 }
 
-.stepperLabel {
-  color: var(--muted);
-  font-weight: 400;
-  font-size: clamp(0.58rem, 1vw, 0.72rem);
-  letter-spacing: 0.01em;
-  line-height: 1.1;
+/* one line: number + title + description */
+.stepperText {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  min-width: 0;
   white-space: nowrap;
 }
 
+.stepperTitle {
+  color: var(--white);
+  font-weight: 600;
+  font-size: clamp(0.55rem, 0.9vw, 0.66rem);
+  line-height: 1;
+}
+
+.stepperDesc {
+  color: var(--muted);
+  font-weight: 400;
+  font-size: clamp(0.5rem, 0.82vw, 0.6rem);
+  line-height: 1;
+}
+
 .stepperNode {
+  flex: 0 0 auto;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: clamp(1.05rem, 2.1vw, 1.35rem);
-  height: clamp(1.05rem, 2.1vw, 1.35rem);
+  width: clamp(0.85rem, 1.6vw, 1.05rem);
+  height: clamp(0.85rem, 1.6vw, 1.05rem);
   border-radius: 50%;
   border: 1px solid var(--lime);
   color: var(--lime);
   font-weight: 700;
-  font-size: clamp(0.62rem, 1.05vw, 0.75rem);
+  font-size: clamp(0.5rem, 0.85vw, 0.6rem);
   line-height: 1;
 }
 
-.stepperConnector {
-  width: clamp(0.5rem, 1.4vw, 1rem);
-  height: 1px;
-  background: var(--navy-raised);
-}
-
-/* Intro quote — aligned to the section-name column (no accent bar) */
+/* Intro quote — full-width block below the steps (single column, no accent bar) */
 .pathQuote {
   margin: 0;
-  max-width: 62ch;
+  max-width: none;
   padding-left: calc(var(--num-col) + var(--label-gap));
   color: var(--muted);
   font-weight: 300;

@@ -34,31 +34,43 @@ export default function AlfredChallengePage() {
           <ol className={styles.stepper} aria-label="Process phases">
             <li className={styles.stepperItem}>
               <span className={styles.stepperNode}>1</span>
-              {/* TODO: short phase label */}
-              <span className={styles.stepperLabel}>TODO: paso 1</span>
+              <span className={styles.stepperText}>
+                <span className={styles.stepperTitle}>Research</span>
+                <span className={styles.stepperDesc}>Reseñas + fundadores: el problema real</span>
+              </span>
             </li>
-            <li className={styles.stepperConnector} aria-hidden="true" />
             <li className={styles.stepperItem}>
               <span className={styles.stepperNode}>2</span>
-              {/* TODO: short phase label */}
-              <span className={styles.stepperLabel}>TODO: paso 2</span>
+              <span className={styles.stepperText}>
+                <span className={styles.stepperTitle}>Modelo &amp; flujo</span>
+                <span className={styles.stepperDesc}>Entidades y flujo end-to-end</span>
+              </span>
             </li>
-            <li className={styles.stepperConnector} aria-hidden="true" />
             <li className={styles.stepperItem}>
               <span className={styles.stepperNode}>3</span>
-              {/* TODO: short phase label */}
-              <span className={styles.stepperLabel}>TODO: paso 3</span>
+              <span className={styles.stepperText}>
+                <span className={styles.stepperTitle}>Arquitectura &amp; IA</span>
+                <span className={styles.stepperDesc}>Monolito, IA aislada, 2 iniciativas</span>
+              </span>
             </li>
-            <li className={styles.stepperConnector} aria-hidden="true" />
             <li className={styles.stepperItem}>
               <span className={styles.stepperNode}>4</span>
-              {/* TODO: short phase label */}
-              <span className={styles.stepperLabel}>TODO: paso 4</span>
+              <span className={styles.stepperText}>
+                <span className={styles.stepperTitle}>Documento &amp; video</span>
+                <span className={styles.stepperDesc}>PDF final + guión practicado</span>
+              </span>
             </li>
           </ol>
         </div>
-        {/* TODO: intro quote — el usuario pasará el copy */}
-        <p className={styles.pathQuote}>TODO: intro quote — el usuario pasará el copy</p>
+        <p className={styles.pathQuote}>
+          Nace de escuchar al usuario —reseñas de Google Maps, App Store y Play + entrevistas a los
+          fundadores—: dos apuestas de IA, una Vitrina B2C de aliados curados para quien disfruta
+          cuidar su carro —detailing y accesorios, nada obligatorio; pagan por pertenecer, no por
+          posición— y un Score de Salud de Flota B2B que avisa antes de que sea tarde. Todo sobre un
+          monolito modular con la IA aislada tras un gate determinístico: propone, rankea y explica,
+          pero nunca decide elegibilidad ni cobro —y si falla, los recordatorios siguen— con la
+          privacidad protegida por diseño.
+        </p>
       </section>
 
       <section className={styles.output} aria-labelledby="output-heading">
