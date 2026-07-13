@@ -126,9 +126,28 @@ export default function AlfredChallengePage() {
             </a>
           </li>
           <li>
-            {/* TODO: replace /alfred-challenge/output-detail.pdf with the real detailed PDF */}
-            <a className={styles.resourceLink} href="/alfred-challenge/output-detail.pdf" download>
-              Download output detail
+            <a className={styles.resourceLink} href="/alfred-challenge/modelo.html" target="_blank" rel="noopener">
+              Modelo conceptual
+            </a>
+          </li>
+          <li>
+            <a className={styles.resourceLink} href="/alfred-challenge/flujo.html" target="_blank" rel="noopener">
+              Flujo
+            </a>
+          </li>
+          <li>
+            <a className={styles.resourceLink} href="/alfred-challenge/arquitectura.html" target="_blank" rel="noopener">
+              Arquitectura
+            </a>
+          </li>
+          <li>
+            <a className={styles.resourceLink} href="/alfred-challenge/roadmap.html" target="_blank" rel="noopener">
+              Roadmap IA
+            </a>
+          </li>
+          <li>
+            <a className={styles.resourceLink} href="/alfred-challenge/tradeoffs.html" target="_blank" rel="noopener">
+              Trade-offs
             </a>
           </li>
         </ul>
