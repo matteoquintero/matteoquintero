@@ -337,6 +337,7 @@
 .resourceRow {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   flex-wrap: wrap;
   gap: clamp(0.6rem, 1.6vw, 1.2rem);
 }
