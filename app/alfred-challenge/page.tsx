@@ -123,43 +123,50 @@ export default function AlfredChallengePage() {
             Resources
           </h2>
         </div>
-        <ul className={styles.resourceList}>
-          <li>
-            <a className={styles.resourceLink} href="/alfred-challenge/entrega.mp4" download>
-              Download video
-            </a>
-          </li>
-          <li>
-            <a className={styles.resourceLink} href="/alfred-challenge/entrega.pdf" download>
-              Download PDF
-            </a>
-          </li>
-          <li>
-            <a className={styles.resourceLink} href="/alfred-challenge/modelo.html" target="_blank" rel="noopener">
-              Modelo conceptual
-            </a>
-          </li>
-          <li>
-            <a className={styles.resourceLink} href="/alfred-challenge/flujo.html" target="_blank" rel="noopener">
-              Flujo
-            </a>
-          </li>
-          <li>
-            <a className={styles.resourceLink} href="/alfred-challenge/arquitectura.html" target="_blank" rel="noopener">
-              Arquitectura
-            </a>
-          </li>
-          <li>
-            <a className={styles.resourceLink} href="/alfred-challenge/roadmap.html" target="_blank" rel="noopener">
-              Roadmap IA
-            </a>
-          </li>
-          <li>
-            <a className={styles.resourceLink} href="/alfred-challenge/tradeoffs.html" target="_blank" rel="noopener">
-              Trade-offs
-            </a>
-          </li>
-        </ul>
+        <div className={styles.resourceRow}>
+          <ul className={styles.resourceList}>
+            <li>
+              <a className={styles.resourceLink} href="/alfred-challenge/entrega.mp4" download>
+                Download video
+              </a>
+            </li>
+            <li>
+              <a className={styles.resourceLink} href="/alfred-challenge/entrega.pdf" download>
+                Download PDF
+              </a>
+            </li>
+          </ul>
+          <div className={styles.resourceExtra}>
+            <span className={styles.resourceExtraLabel}>Extra resources</span>
+            <ul className={styles.resourceList}>
+              <li>
+                <a className={styles.resourceLinkGhost} href="/alfred-challenge/modelo.html" target="_blank" rel="noopener">
+                  Modelo conceptual
+                </a>
+              </li>
+              <li>
+                <a className={styles.resourceLinkGhost} href="/alfred-challenge/flujo.html" target="_blank" rel="noopener">
+                  Flujo
+                </a>
+              </li>
+              <li>
+                <a className={styles.resourceLinkGhost} href="/alfred-challenge/arquitectura.html" target="_blank" rel="noopener">
+                  Arquitectura
+                </a>
+              </li>
+              <li>
+                <a className={styles.resourceLinkGhost} href="/alfred-challenge/roadmap.html" target="_blank" rel="noopener">
+                  Roadmap IA
+                </a>
+              </li>
+              <li>
+                <a className={styles.resourceLinkGhost} href="/alfred-challenge/tradeoffs.html" target="_blank" rel="noopener">
+                  Trade-offs
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
       </section>
     </main>
   )

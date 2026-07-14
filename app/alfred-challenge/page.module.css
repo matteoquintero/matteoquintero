@@ -333,12 +333,95 @@
   color: var(--on-lime);
 }
 
+/* Primary (video/PDF) vs extra (per-phase deliverables) grouping */
+.resourceRow {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: clamp(0.6rem, 1.6vw, 1.2rem);
+}
+
+.resourceExtra {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: clamp(0.4rem, 1vw, 0.6rem);
+}
+
+.resourceExtraLabel {
+  color: var(--muted);
+  font-size: clamp(0.55rem, 0.95vw, 0.66rem);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.75;
+}
+
+/* Less prominent "ghost" pill for the extra resources */
+.resourceLinkGhost {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: clamp(0.35rem, 0.9vh, 0.55rem) clamp(0.6rem, 1.4vw, 0.9rem);
+  border: 1px solid var(--navy-raised);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: clamp(0.7rem, 1.15vw, 0.8rem);
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.resourceLinkGhost:hover {
+  color: var(--white);
+  border-color: var(--muted);
+}
+
+.resourceLinkGhost:focus-visible {
+  outline: 2px solid var(--lime);
+  outline-offset: 2px;
+  color: var(--white);
+}
+
 /* ---------- Mobile collapse ---------- */
 
 @media (max-width: 640px) {
+  /* Mobile only: drop the single-screen constraint — let the page scroll. */
+  .page {
+    height: auto;
+    min-height: 100svh;
+    overflow: visible;
+    grid-template-rows: repeat(4, auto);
+  }
+
+  /* Steps in a 2x2 grid (full width, below the title). */
+  .stepper {
+    flex: 1 1 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: clamp(0.6rem, 3vw, 1rem);
+    row-gap: 0.4rem;
+  }
+
+  .stepperItem {
+    align-items: flex-start;
+  }
+
+  .stepperText {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.05rem;
+    white-space: normal;
+  }
+
+  /* Container output: PDF + video stacked, each at least 50vh; rest scrolls. */
   .outputGrid {
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: auto auto;
+  }
+
+  .viewerWrap {
+    min-height: 50vh;
   }
 
   .pathHeader {
