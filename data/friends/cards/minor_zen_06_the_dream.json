@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_06_the_dream",
+  "name": "The Dream",
+  "arcana": "Minor",
+  "number": 6,
+  "traditionalEquivalent": "Six of Wands",
+  "meaning": "Representa el estado en el que vivimos identificados con las historias que crea la mente: expectativas, deseos, miedos y la necesidad constante de reconocimiento. Como en un sueño, confundimos esas narrativas con la realidad. La carta invita a despertar y descubrir que la verdadera libertad aparece cuando dejamos de perseguir una imagen idealizada de nosotros mismos.",
+  "coreMessage": "Despierta del sueño de quien crees que debes ser para descubrir quién ya eres.",
+  "keywords": [
+    "Ilusión",
+    "Sueños",
+    "Ego",
+    "Expectativas",
+    "Despertar",
+    "Autenticidad",
+    "Conciencia",
+    "Libertad"
+  ],
+  "light": [
+    "Claridad",
+    "Autenticidad",
+    "Desapego",
+    "Lucidez",
+    "Presencia"
+  ],
+  "shadow": [
+    "Fantasía",
+    "Ego",
+    "Necesidad de aprobación",
+    "Autoengaño",
+    "Comparación"
+  ],
+  "invitation": "Observa qué expectativas dirigen tu vida. Pregúntate cuáles nacen realmente de ti y cuáles son sueños heredados o impuestos por los demás.",
+  "axes": [
+    "Despertar",
+    "Autenticidad",
+    "Conciencia",
+    "Ego",
+    "Libertad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_06_playful_01",
+        "intensity": 1,
+        "tags": ["dreams"],
+        "question": "¿Cuál ha sido el sueño más extraño que recuerdas?"
+      },
+      {
+        "id": "minor_zen_06_playful_02",
+        "intensity": 1,
+        "tags": ["childhood"],
+        "question": "¿Qué querías ser cuando eras niño?"
+      },
+      {
+        "id": "minor_zen_06_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué expectativa divertida terminó siendo completamente diferente en la realidad?"
+      },
+      {
+        "id": "minor_zen_06_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué película o libro cambió tu forma de ver la realidad?"
+      },
+      {
+        "id": "minor_zen_06_playful_05",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Qué imagen crees que los demás tienen de ti?"
+      },
+      {
+        "id": "minor_zen_06_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué sueño aún conservas desde hace muchos años?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_06_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué expectativa sobre tu vida has tenido que dejar ir?"
+      },
+      {
+        "id": "minor_zen_06_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo distingues entre un deseo auténtico y uno impuesto por el entorno?"
+      },
+      {
+        "id": "minor_zen_06_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste cuando dejaste de intentar impresionar a los demás?"
+      },
+      {
+        "id": "minor_zen_06_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo equilibras soñar con aceptar la realidad presente?"
+      },
+      {
+        "id": "minor_zen_06_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad fue construida para cumplir expectativas ajenas?"
+      },
+      {
+        "id": "minor_zen_06_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué logro imaginabas que te haría feliz y no ocurrió como esperabas?"
+      },
+      {
+        "id": "minor_zen_06_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué ilusión terminó convirtiéndose en una valiosa lección?"
+      },
+      {
+        "id": "minor_zen_06_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti despertar a la realidad?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_06_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué historia sobre ti mismo sigues creyendo aunque ya no te represente?"
+      },
+      {
+        "id": "minor_zen_06_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Quién serías si dejaras de buscar aprobación?"
+      },
+      {
+        "id": "minor_zen_06_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo sostiene la ilusión que más te cuesta abandonar?"
+      },
+      {
+        "id": "minor_zen_06_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué parte de tu vida se transformaría si dejaras de compararte con los demás?"
+      },
+      {
+        "id": "minor_zen_06_deep_05",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué verdad apareció cuando una ilusión importante se rompió?"
+      },
+      {
+        "id": "minor_zen_06_deep_06",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué experiencia te despertó de una forma de vivir que dabas por normal?"
+      },
+      {
+        "id": "minor_zen_06_deep_07",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué versión de ti necesita dejar de existir para que emerja una más auténtica?"
+      },
+      {
+        "id": "minor_zen_06_deep_08",
+        "intensity": 5,
+        "tags": ["clarity"],
+        "question": "¿Qué sueño estás persiguiendo y cómo sabes que realmente es tuyo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_06_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué expectativa puedes soltar esta semana para vivir con mayor libertad?"
+      },
+      {
+        "id": "minor_zen_06_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué creencia sobre el éxito merece ser revisada?"
+      },
+      {
+        "id": "minor_zen_06_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué decisión tomarías si nadie fuera a juzgarte?"
+      },
+      {
+        "id": "minor_zen_06_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué pensamiento recurrente puedes observar hoy sin identificarte con él?"
+      },
+      {
+        "id": "minor_zen_06_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué momento de hoy merece más atención que tus preocupaciones sobre el futuro?"
+      },
+      {
+        "id": "minor_zen_06_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué paso puedes dar para vivir más fiel a tus propios valores?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_06_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ayudó a descubrir quién eras realmente?"
+      },
+      {
+        "id": "minor_zen_06_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amigo te acepta incluso cuando dejas de aparentar?"
+      },
+      {
+        "id": "minor_zen_06_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por mostrarte una verdad que no querías ver?"
+      },
+      {
+        "id": "minor_zen_06_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué expectativa familiar decidiste dejar atrás para vivir tu propio camino?"
+      },
+      {
+        "id": "minor_zen_06_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te recuerda que no necesitas demostrar nada para ser valioso?"
+      },
+      {
+        "id": "minor_zen_06_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién puedes hablar de tus sueños más auténticos sin sentirte juzgado?"
+      }
+    ]
+  }
+}

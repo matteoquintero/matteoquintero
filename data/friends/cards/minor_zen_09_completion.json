@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_09_completion",
+  "name": "Completion",
+  "arcana": "Minor",
+  "number": 9,
+  "traditionalEquivalent": "Nine of Wands",
+  "meaning": "Representa el cierre natural de un ciclo de crecimiento. No habla únicamente de terminar algo, sino de reconocer que una etapa ha cumplido su propósito. La verdadera culminación llega cuando somos capaces de agradecer lo vivido, integrar el aprendizaje y soltar con serenidad aquello que ya dio todo lo que tenía para ofrecer.",
+  "coreMessage": "Todo final consciente abre espacio para un nuevo comienzo.",
+  "keywords": [
+    "Finalización",
+    "Integración",
+    "Cierre",
+    "Sabiduría",
+    "Plenitud",
+    "Transformación",
+    "Gratitud",
+    "Renovación"
+  ],
+  "light": [
+    "Aceptación",
+    "Madurez",
+    "Gratitud",
+    "Plenitud",
+    "Desapego"
+  ],
+  "shadow": [
+    "Resistencia al cambio",
+    "Apego",
+    "Nostalgia",
+    "Miedo a cerrar ciclos",
+    "Estancamiento"
+  ],
+  "invitation": "Honra aquello que termina. Cada experiencia que concluye deja un espacio para que algo nuevo pueda nacer con mayor conciencia.",
+  "axes": [
+    "Cierre",
+    "Transformación",
+    "Gratitud",
+    "Aceptación",
+    "Renovación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_09_playful_01",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Qué proyecto terminado recuerdas con más orgullo?"
+      },
+      {
+        "id": "minor_zen_09_playful_02",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Qué costumbre dejaste atrás y hoy no extrañas?"
+      },
+      {
+        "id": "minor_zen_09_playful_03",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué etapa de tu vida terminó mejor de lo que esperabas?"
+      },
+      {
+        "id": "minor_zen_09_playful_04",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué aprendizaje obtuviste al cerrar un capítulo importante?"
+      },
+      {
+        "id": "minor_zen_09_playful_05",
+        "intensity": 2,
+        "tags": ["gratitude"],
+        "question": "¿Qué final terminó siendo un regalo disfrazado?"
+      },
+      {
+        "id": "minor_zen_09_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué nuevo comienzo nació gracias a un cierre inesperado?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_09_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué ciclo sabes que ya terminó aunque todavía te cueste aceptarlo?"
+      },
+      {
+        "id": "minor_zen_09_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo sabes cuándo es momento de cerrar una etapa?"
+      },
+      {
+        "id": "minor_zen_09_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué parte de tu vida ha alcanzado un nivel de madurez que antes parecía imposible?"
+      },
+      {
+        "id": "minor_zen_09_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo honras el pasado sin quedarte viviendo en él?"
+      },
+      {
+        "id": "minor_zen_09_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué versión antigua de ti ya no existe?"
+      },
+      {
+        "id": "minor_zen_09_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia cambió definitivamente tu manera de vivir?"
+      },
+      {
+        "id": "minor_zen_09_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué final terminó enseñándote algo que nunca habrías aprendido de otra forma?"
+      },
+      {
+        "id": "minor_zen_09_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti cerrar un ciclo en paz?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_09_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué parte de tu vida sigue ocupando espacio aunque ya haya terminado?"
+      },
+      {
+        "id": "minor_zen_09_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué identidad necesitas dejar atrás para seguir creciendo?"
+      },
+      {
+        "id": "minor_zen_09_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué pérdida terminó transformándote profundamente?"
+      },
+      {
+        "id": "minor_zen_09_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué podrías comenzar si dejaras de aferrarte al pasado?"
+      },
+      {
+        "id": "minor_zen_09_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué enseñanza resume mejor el ciclo que estás cerrando?"
+      },
+      {
+        "id": "minor_zen_09_deep_06",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué verdad necesitas aceptar para avanzar con serenidad?"
+      },
+      {
+        "id": "minor_zen_09_deep_07",
+        "intensity": 5,
+        "tags": ["renewal"],
+        "question": "¿Qué espacio interior necesita quedar vacío para recibir algo nuevo?"
+      },
+      {
+        "id": "minor_zen_09_deep_08",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué huella dejó en ti el capítulo más importante de tu vida hasta ahora?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_09_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué asunto pendiente puedes cerrar esta semana?"
+      },
+      {
+        "id": "minor_zen_09_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué objeto, hábito o compromiso ya no representa quién eres?"
+      },
+      {
+        "id": "minor_zen_09_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué despedida has estado postergando por miedo al cambio?"
+      },
+      {
+        "id": "minor_zen_09_challenge_04",
+        "intensity": 4,
+        "tags": ["gratitude"],
+        "question": "¿Qué etapa puedes agradecer antes de dejarla ir?"
+      },
+      {
+        "id": "minor_zen_09_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué puedes hacer hoy para cerrar el día con sensación de plenitud?"
+      },
+      {
+        "id": "minor_zen_09_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué final estás listo para aceptar con valentía?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_09_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién estuvo presente durante una etapa que marcó tu vida?"
+      },
+      {
+        "id": "minor_zen_09_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amistad logró sobrevivir a grandes cambios?"
+      },
+      {
+        "id": "minor_zen_09_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién te gustaría agradecer antes de cerrar un capítulo importante?"
+      },
+      {
+        "id": "minor_zen_09_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué etapa familiar recuerdas con mayor gratitud?"
+      },
+      {
+        "id": "minor_zen_09_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te ayudó a entender que algunos finales también son necesarios?"
+      },
+      {
+        "id": "minor_zen_09_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría celebrar todo lo que han superado juntos?"
+      }
+    ]
+  }
+}

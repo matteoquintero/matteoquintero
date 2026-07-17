@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_03_experiencing",
+  "name": "Experiencing",
+  "arcana": "Minor",
+  "number": 3,
+  "traditionalEquivalent": "Three of Wands",
+  "meaning": "Representa el encuentro directo con la vida a través de los sentidos y la presencia. En lugar de analizar, interpretar o etiquetar cada experiencia, esta carta invita a vivirla plenamente. La existencia solo puede conocerse desde la experiencia; pensar sobre ella nunca será equivalente a sentirla. Es una invitación a abrirse al asombro y a la conexión inmediata con el momento presente.",
+  "coreMessage": "La vida se comprende mejor cuando se vive que cuando se explica.",
+  "keywords": [
+    "Experiencia",
+    "Presencia",
+    "Asombro",
+    "Conexión",
+    "Sensibilidad",
+    "Vitalidad",
+    "Percepción",
+    "Fluir"
+  ],
+  "light": [
+    "Presencia",
+    "Espontaneidad",
+    "Sensibilidad",
+    "Alegría",
+    "Conexión"
+  ],
+  "shadow": [
+    "Intelectualización",
+    "Desconexión",
+    "Control excesivo",
+    "Rigidez",
+    "Vivir en la mente"
+  ],
+  "invitation": "Deja de intentar comprender cada experiencia antes de vivirla. Escucha, observa, siente y permite que el momento te transforme sin necesidad de explicarlo todo.",
+  "axes": [
+    "Presencia",
+    "Experiencia",
+    "Sensibilidad",
+    "Conexión",
+    "Espontaneidad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_03_playful_01",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Qué experiencia reciente te hizo sentir realmente vivo?"
+      },
+      {
+        "id": "minor_zen_03_playful_02",
+        "intensity": 1,
+        "tags": ["nature"],
+        "question": "¿Qué paisaje podrías contemplar durante horas sin aburrirte?"
+      },
+      {
+        "id": "minor_zen_03_playful_03",
+        "intensity": 2,
+        "tags": ["senses"],
+        "question": "¿Qué sonido te transmite una sensación inmediata de paz?"
+      },
+      {
+        "id": "minor_zen_03_playful_04",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué momento recuerdas más por cómo lo sentiste que por lo que ocurrió?"
+      },
+      {
+        "id": "minor_zen_03_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué actividad siempre has querido probar simplemente por vivir la experiencia?"
+      },
+      {
+        "id": "minor_zen_03_playful_06",
+        "intensity": 2,
+        "tags": ["mindfulness"],
+        "question": "¿Qué pequeño momento cotidiano disfrutas cuando realmente le prestas atención?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_03_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con qué frecuencia dejas de vivir una experiencia por intentar documentarla o analizarla?"
+      },
+      {
+        "id": "minor_zen_03_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué actividad logra llevarte naturalmente al momento presente?"
+      },
+      {
+        "id": "minor_zen_03_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste únicamente porque te atreviste a vivir algo nuevo?"
+      },
+      {
+        "id": "minor_zen_03_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo equilibras pensar las cosas con simplemente experimentarlas?"
+      },
+      {
+        "id": "minor_zen_03_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué experiencia ha definido quién eres mucho más que cualquier teoría?"
+      },
+      {
+        "id": "minor_zen_03_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué lugar te invita naturalmente a bajar el ritmo?"
+      },
+      {
+        "id": "minor_zen_03_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué descubriste cuando dejaste de intentar controlar una situación?"
+      },
+      {
+        "id": "minor_zen_03_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti vivir plenamente una experiencia?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_03_deep_01",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿En qué parte de tu vida estás observando desde la distancia en lugar de participar realmente?"
+      },
+      {
+        "id": "minor_zen_03_deep_02",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué experiencia cambió tu forma de entender la vida sin necesidad de palabras?"
+      },
+      {
+        "id": "minor_zen_03_deep_03",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Cuándo fue la última vez que te sentiste completamente presente?"
+      },
+      {
+        "id": "minor_zen_03_deep_04",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué estás dejando de vivir por miedo a perder el control?"
+      },
+      {
+        "id": "minor_zen_03_deep_05",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué cambiaría si confiaras más en la experiencia que en las expectativas?"
+      },
+      {
+        "id": "minor_zen_03_deep_06",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué verdad solo comprendiste después de sentirla en carne propia?"
+      },
+      {
+        "id": "minor_zen_03_deep_07",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué momento de tu vida desearías haber vivido con más presencia?"
+      },
+      {
+        "id": "minor_zen_03_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué experiencia sientes que todavía está esperando por ti?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_03_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué experiencia puedes vivir hoy sin intentar fotografiarla, grabarla o compartirla?"
+      },
+      {
+        "id": "minor_zen_03_challenge_02",
+        "intensity": 4,
+        "tags": ["mindfulness"],
+        "question": "¿Qué actividad realizarás hoy prestando atención a cada uno de tus sentidos?"
+      },
+      {
+        "id": "minor_zen_03_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia nueva puedes darte permiso de probar este mes?"
+      },
+      {
+        "id": "minor_zen_03_challenge_04",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito mental puedes soltar para disfrutar más el presente?"
+      },
+      {
+        "id": "minor_zen_03_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué momento del día convertirás en un espacio de atención plena?"
+      },
+      {
+        "id": "minor_zen_03_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué experiencia has postergado demasiado por miedo a salir de tu zona de confort?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_03_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Con quién disfrutas más compartir experiencias que conversaciones?"
+      },
+      {
+        "id": "minor_zen_03_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué persona te anima a vivir nuevas aventuras?"
+      },
+      {
+        "id": "minor_zen_03_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por haberte mostrado una forma distinta de disfrutar la vida?"
+      },
+      {
+        "id": "minor_zen_03_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué experiencia compartida con tu familia recuerdas con mayor intensidad?"
+      },
+      {
+        "id": "minor_zen_03_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién logra que te sientas completamente presente cuando están juntos?"
+      },
+      {
+        "id": "minor_zen_03_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría crear un recuerdo inolvidable antes de que termine este año?"
+      }
+    ]
+  }
+}

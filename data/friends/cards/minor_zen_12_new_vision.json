@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_12_new_vision",
+  "name": "New Vision",
+  "arcana": "Minor",
+  "number": 12,
+  "traditionalEquivalent": "Knight of Wands",
+  "meaning": "Representa el momento en que la conciencia se eleva por encima de los viejos patrones y permite observar la realidad desde una perspectiva completamente nueva. Cuando dejamos de reaccionar automáticamente y ampliamos nuestra mirada, aparecen posibilidades que antes eran invisibles. Esta carta invita a trascender las limitaciones del pasado y actuar desde una comprensión más amplia.",
+  "coreMessage": "Cuando cambia tu perspectiva, cambia todo tu mundo.",
+  "keywords": [
+    "Nueva perspectiva",
+    "Expansión",
+    "Conciencia",
+    "Transformación",
+    "Claridad",
+    "Visión",
+    "Creatividad",
+    "Evolución"
+  ],
+  "light": [
+    "Perspectiva",
+    "Innovación",
+    "Claridad",
+    "Apertura",
+    "Sabiduría"
+  ],
+  "shadow": [
+    "Visión limitada",
+    "Rigidez",
+    "Resistencia al cambio",
+    "Estancamiento",
+    "Pensamiento repetitivo"
+  ],
+  "invitation": "Da un paso atrás antes de actuar. Observa la situación desde un ángulo diferente y pregúntate qué posibilidad aún no has considerado.",
+  "axes": [
+    "Perspectiva",
+    "Conciencia",
+    "Expansión",
+    "Creatividad",
+    "Transformación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_12_playful_01",
+        "intensity": 1,
+        "tags": ["curiosity"],
+        "question": "¿Qué lugar cambió completamente cuando lo viste desde otro punto de vista?"
+      },
+      {
+        "id": "minor_zen_12_playful_02",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Cuál ha sido la idea más original que se te ha ocurrido?"
+      },
+      {
+        "id": "minor_zen_12_playful_03",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué problema resolviste cuando dejaste de insistir en la misma solución?"
+      },
+      {
+        "id": "minor_zen_12_playful_04",
+        "intensity": 2,
+        "tags": ["travel"],
+        "question": "¿Qué viaje transformó tu forma de ver el mundo?"
+      },
+      {
+        "id": "minor_zen_12_playful_05",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué opinión cambiaste por completo con el tiempo?"
+      },
+      {
+        "id": "minor_zen_12_playful_06",
+        "intensity": 2,
+        "tags": ["creativity"],
+        "question": "¿Qué actividad despierta más tu imaginación?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_12_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué situación actual podría verse de otra manera?"
+      },
+      {
+        "id": "minor_zen_12_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué creencia limita tu capacidad de encontrar nuevas soluciones?"
+      },
+      {
+        "id": "minor_zen_12_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia amplió más tu manera de pensar?"
+      },
+      {
+        "id": "minor_zen_12_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo escuchas opiniones diferentes sin perder tu criterio?"
+      },
+      {
+        "id": "minor_zen_12_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué aspecto de ti mismo has descubierto recientemente?"
+      },
+      {
+        "id": "minor_zen_12_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué decisión tomaste después de cambiar de perspectiva?"
+      },
+      {
+        "id": "minor_zen_12_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué persona suele ayudarte a ver las cosas de otra manera?"
+      },
+      {
+        "id": "minor_zen_12_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti tener una mente abierta?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_12_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué historia sobre tu vida cambiaría si la observaras desde una perspectiva más amplia?"
+      },
+      {
+        "id": "minor_zen_12_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad necesita expandirse para seguir creciendo?"
+      },
+      {
+        "id": "minor_zen_12_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué posibilidad sigues sin ver porque estás demasiado cerca del problema?"
+      },
+      {
+        "id": "minor_zen_12_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué cambiaría si dejaras de interpretar la realidad desde tus viejas heridas?"
+      },
+      {
+        "id": "minor_zen_12_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué verdad comprendiste solo después de mirar el pasado con distancia?"
+      },
+      {
+        "id": "minor_zen_12_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué nueva visión tienes hoy de ti mismo que antes era imposible imaginar?"
+      },
+      {
+        "id": "minor_zen_12_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué cambio de perspectiva transformaría por completo una relación importante?"
+      },
+      {
+        "id": "minor_zen_12_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué aspecto de la realidad sientes que apenas estás empezando a comprender?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_12_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué problema puedes abordar desde un enfoque completamente distinto?"
+      },
+      {
+        "id": "minor_zen_12_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué opinión estás dispuesto a cuestionar hoy?"
+      },
+      {
+        "id": "minor_zen_12_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad nueva ampliaría significativamente tus posibilidades?"
+      },
+      {
+        "id": "minor_zen_12_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué situación merece que escuches una perspectiva diferente antes de decidir?"
+      },
+      {
+        "id": "minor_zen_12_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué puedes observar hoy con más curiosidad que juicio?"
+      },
+      {
+        "id": "minor_zen_12_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué idea innovadora te atreverías a poner en práctica?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_12_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha cambiado profundamente tu forma de ver la vida?"
+      },
+      {
+        "id": "minor_zen_12_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué conversación con un amigo transformó tu perspectiva?"
+      },
+      {
+        "id": "minor_zen_12_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por desafiar respetuosamente tus ideas?"
+      },
+      {
+        "id": "minor_zen_12_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué enseñanza familiar sigues viendo de manera diferente con el paso del tiempo?"
+      },
+      {
+        "id": "minor_zen_12_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te inspira a crecer más allá de tus propios límites?"
+      },
+      {
+        "id": "minor_zen_12_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría explorar una nueva etapa de tu vida?"
+      }
+    ]
+  }
+}

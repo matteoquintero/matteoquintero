@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_08_innocence",
+  "name": "Innocence",
+  "arcana": "Minor",
+  "number": 8,
+  "traditionalEquivalent": "Eight of Wands",
+  "meaning": "Representa el regreso a una inocencia consciente. No se trata de ingenuidad ni de desconocimiento, sino de recuperar la capacidad de mirar la vida con apertura, curiosidad y asombro después de haber atravesado experiencias y aprendizajes. La sabiduría auténtica no endurece el corazón; lo vuelve más simple, libre y compasivo.",
+  "coreMessage": "La verdadera inocencia nace después de la experiencia, no antes de ella.",
+  "keywords": [
+    "Inocencia",
+    "Sabiduría",
+    "Asombro",
+    "Sencillez",
+    "Autenticidad",
+    "Curiosidad",
+    "Compasión",
+    "Presencia"
+  ],
+  "light": [
+    "Apertura",
+    "Humildad",
+    "Compasión",
+    "Espontaneidad",
+    "Sabiduría"
+  ],
+  "shadow": [
+    "Cinismo",
+    "Desconfianza",
+    "Ingenuidad",
+    "Amargura",
+    "Pérdida de la capacidad de asombro"
+  ],
+  "invitation": "Permítete mirar el mundo como si fuera la primera vez. La experiencia puede darte sabiduría sin robarte la capacidad de sorprenderte y confiar.",
+  "axes": [
+    "Sabiduría",
+    "Asombro",
+    "Sencillez",
+    "Compasión",
+    "Presencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_08_playful_01",
+        "intensity": 1,
+        "tags": ["childhood"],
+        "question": "¿Qué actividad disfrutabas de niño y todavía te hace feliz?"
+      },
+      {
+        "id": "minor_zen_08_playful_02",
+        "intensity": 1,
+        "tags": ["nature"],
+        "question": "¿Qué cosa sencilla todavía logra sorprenderte?"
+      },
+      {
+        "id": "minor_zen_08_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué momento reciente despertó tu curiosidad como cuando eras pequeño?"
+      },
+      {
+        "id": "minor_zen_08_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué juego o pasatiempo nunca has dejado de disfrutar?"
+      },
+      {
+        "id": "minor_zen_08_playful_05",
+        "intensity": 2,
+        "tags": ["gratitude"],
+        "question": "¿Qué detalle cotidiano sigue haciéndote sonreír?"
+      },
+      {
+        "id": "minor_zen_08_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué te gustaría aprender solo por el placer de descubrir algo nuevo?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_08_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué parte de tu capacidad de asombro has perdido con los años?"
+      },
+      {
+        "id": "minor_zen_08_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Cómo ha cambiado tu forma de confiar en las personas?"
+      },
+      {
+        "id": "minor_zen_08_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué diferencia encuentras entre ser inocente y ser ingenuo?"
+      },
+      {
+        "id": "minor_zen_08_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo proteges tu corazón sin dejar que se endurezca?"
+      },
+      {
+        "id": "minor_zen_08_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué cualidad de tu infancia te gustaría recuperar?"
+      },
+      {
+        "id": "minor_zen_08_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia te enseñó que la sensibilidad también puede ser una fortaleza?"
+      },
+      {
+        "id": "minor_zen_08_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué descubriste cuando dejaste de intentar parecer fuerte todo el tiempo?"
+      },
+      {
+        "id": "minor_zen_08_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti conservar un corazón inocente?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_08_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué experiencia hizo que dejaras de confiar en algo o alguien?"
+      },
+      {
+        "id": "minor_zen_08_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti sigue siendo exactamente igual que cuando eras niño?"
+      },
+      {
+        "id": "minor_zen_08_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué herida te cuesta más evitar que defina tu manera de relacionarte?"
+      },
+      {
+        "id": "minor_zen_08_deep_04",
+        "intensity": 5,
+        "tags": ["compassion"],
+        "question": "¿Cómo sería tu vida si pudieras mirar a los demás con menos juicio y más comprensión?"
+      },
+      {
+        "id": "minor_zen_08_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué aprendizaje difícil terminó haciéndote una persona más amable?"
+      },
+      {
+        "id": "minor_zen_08_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué parte de tu esencia nunca debería perderse, sin importar lo que vivas?"
+      },
+      {
+        "id": "minor_zen_08_deep_07",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿Qué te impide maravillarte más con la vida que tienes hoy?"
+      },
+      {
+        "id": "minor_zen_08_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué significa para ti alcanzar una sabiduría que no destruya la inocencia?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_08_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué actividad puedes hacer esta semana solo por diversión, sin buscar productividad?"
+      },
+      {
+        "id": "minor_zen_08_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué prejuicio puedes dejar de lado para conocer mejor a una persona?"
+      },
+      {
+        "id": "minor_zen_08_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué nueva experiencia aceptarías con la curiosidad de un principiante?"
+      },
+      {
+        "id": "minor_zen_08_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué momento del día puedes observar hoy con ojos completamente nuevos?"
+      },
+      {
+        "id": "minor_zen_08_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué preocupación puedes dejar descansar por unas horas para disfrutar el presente?"
+      },
+      {
+        "id": "minor_zen_08_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué parte sensible de ti estás listo para mostrar sin miedo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_08_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién conserva una capacidad de asombro que admiras profundamente?"
+      },
+      {
+        "id": "minor_zen_08_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amigo logra sacar tu lado más espontáneo?"
+      },
+      {
+        "id": "minor_zen_08_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por recordarte que la vida también puede ser ligera?"
+      },
+      {
+        "id": "minor_zen_08_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué recuerdo familiar conserva intacta tu sensación de inocencia?"
+      },
+      {
+        "id": "minor_zen_08_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te hace sentir seguro para mostrarte tal como eres?"
+      },
+      {
+        "id": "minor_zen_08_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría volver a vivir un momento de auténtico asombro?"
+      }
+    ]
+  }
+}

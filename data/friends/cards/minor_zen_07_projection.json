@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_07_projection",
+  "name": "Projection",
+  "arcana": "Minor",
+  "number": 7,
+  "traditionalEquivalent": "Seven of Wands",
+  "meaning": "Representa la tendencia de la mente a proyectar sobre los demás nuestros deseos, miedos, heridas y expectativas. Con frecuencia no vemos a las personas como realmente son, sino como queremos o tememos que sean. Esta carta invita a retirar esas proyecciones para descubrir la autenticidad del otro y de nosotros mismos.",
+  "coreMessage": "Cuando dejas de proyectar, puedes empezar a ver con claridad.",
+  "keywords": [
+    "Proyección",
+    "Percepción",
+    "Relaciones",
+    "Conciencia",
+    "Claridad",
+    "Autenticidad",
+    "Expectativas",
+    "Espejo"
+  ],
+  "light": [
+    "Objetividad",
+    "Empatía",
+    "Claridad",
+    "Autoconocimiento",
+    "Honestidad"
+  ],
+  "shadow": [
+    "Idealización",
+    "Juicios",
+    "Expectativas irreales",
+    "Autoengaño",
+    "Dependencia emocional"
+  ],
+  "invitation": "Antes de sacar conclusiones sobre alguien, pregúntate cuánto de esa historia pertenece realmente a la otra persona y cuánto proviene de ti. La claridad comienza cuando distingues los hechos de tus interpretaciones.",
+  "axes": [
+    "Conciencia",
+    "Relaciones",
+    "Percepción",
+    "Autenticidad",
+    "Claridad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_07_playful_01",
+        "intensity": 1,
+        "tags": ["relationships"],
+        "question": "¿Alguna vez una persona terminó siendo completamente diferente a la primera impresión que tuviste?"
+      },
+      {
+        "id": "minor_zen_07_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Sueles confiar mucho en tu intuición sobre las personas?"
+      },
+      {
+        "id": "minor_zen_07_playful_03",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué prejuicio descubriste que era totalmente equivocado?"
+      },
+      {
+        "id": "minor_zen_07_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué personaje de ficción te recuerda algo de ti?"
+      },
+      {
+        "id": "minor_zen_07_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué cualidad admiras más en otras personas?"
+      },
+      {
+        "id": "minor_zen_07_playful_06",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué amistad nació después de descubrir que estabas completamente equivocado sobre alguien?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_07_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué expectativas suelen influir más en la forma en que ves a los demás?"
+      },
+      {
+        "id": "minor_zen_07_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo identificas cuándo estás interpretando en lugar de observar?"
+      },
+      {
+        "id": "minor_zen_07_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué relación mejoró cuando dejaste de idealizar a la otra persona?"
+      },
+      {
+        "id": "minor_zen_07_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo mantienes expectativas saludables sin dejar de confiar en alguien?"
+      },
+      {
+        "id": "minor_zen_07_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué rasgo que criticas en otros también reconoces en ti?"
+      },
+      {
+        "id": "minor_zen_07_thoughtful_06",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué aprendiste sobre el amor cuando dejaste de idealizar a una persona?"
+      },
+      {
+        "id": "minor_zen_07_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué situación cambió completamente cuando escuchaste la versión de la otra persona?"
+      },
+      {
+        "id": "minor_zen_07_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti ver a alguien tal como es?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_07_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué historia sobre alguien podría existir solo dentro de tu mente?"
+      },
+      {
+        "id": "minor_zen_07_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti proyectas con más frecuencia sobre otras personas?"
+      },
+      {
+        "id": "minor_zen_07_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo influye en la forma en que interpretas las acciones de los demás?"
+      },
+      {
+        "id": "minor_zen_07_deep_04",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué relación cambiaría si dejaras de esperar que la otra persona cumpliera una imagen ideal?"
+      },
+      {
+        "id": "minor_zen_07_deep_05",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Quién eres cuando dejas de buscar que otros confirmen tu valor?"
+      },
+      {
+        "id": "minor_zen_07_deep_06",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué experiencia te enseñó que las apariencias pueden engañar?"
+      },
+      {
+        "id": "minor_zen_07_deep_07",
+        "intensity": 5,
+        "tags": ["clarity"],
+        "question": "¿Qué verdad podrías descubrir si observaras una relación sin expectativas?"
+      },
+      {
+        "id": "minor_zen_07_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué parte de tu vida necesita menos interpretación y más observación?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_07_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué conversación puedes tener antes de asumir que sabes lo que la otra persona piensa?"
+      },
+      {
+        "id": "minor_zen_07_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué juicio reciente merece ser revisado con mayor apertura?"
+      },
+      {
+        "id": "minor_zen_07_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué expectativa puedes soltar para permitir que una relación evolucione naturalmente?"
+      },
+      {
+        "id": "minor_zen_07_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué emoción podrías reconocer como propia antes de atribuírsela a alguien más?"
+      },
+      {
+        "id": "minor_zen_07_challenge_05",
+        "intensity": 4,
+        "tags": ["relationships"],
+        "question": "¿Qué persona merece que la vuelvas a conocer sin las etiquetas que le has puesto?"
+      },
+      {
+        "id": "minor_zen_07_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué creencia sobre alguien te atreverías a cuestionar hoy?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_07_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ha visto tal como eres, sin idealizarte ni juzgarte?"
+      },
+      {
+        "id": "minor_zen_07_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amistad se fortaleció cuando ambos dejaron de fingir?"
+      },
+      {
+        "id": "minor_zen_07_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por ayudarte a descubrir un punto ciego sobre ti mismo?"
+      },
+      {
+        "id": "minor_zen_07_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué miembro de tu familia te enseñó que las personas siempre son más complejas de lo que parecen?"
+      },
+      {
+        "id": "minor_zen_07_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién suele invitarte a mirar una situación desde otra perspectiva?"
+      },
+      {
+        "id": "minor_zen_07_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría empezar una relación nueva, dejando atrás las viejas etiquetas?"
+      }
+    ]
+  }
+}

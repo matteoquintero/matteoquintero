@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_04_participation",
+  "name": "Participation",
+  "arcana": "Minor",
+  "number": 4,
+  "traditionalEquivalent": "Four of Wands",
+  "meaning": "Representa la armonía que surge cuando dejamos de sentirnos separados y comenzamos a participar plenamente en la danza de la existencia. Cada ser aporta algo único al conjunto, y la verdadera belleza aparece cuando colaboramos sin competir ni buscar protagonismo. Esta carta invita a experimentar el sentido de pertenencia, cooperación y celebración compartida.",
+  "coreMessage": "La vida florece cuando dejas de ser espectador y decides formar parte de ella.",
+  "keywords": [
+    "Participación",
+    "Comunidad",
+    "Colaboración",
+    "Unidad",
+    "Celebración",
+    "Armonía",
+    "Contribución",
+    "Pertenencia"
+  ],
+  "light": [
+    "Cooperación",
+    "Conexión",
+    "Generosidad",
+    "Integración",
+    "Alegría compartida"
+  ],
+  "shadow": [
+    "Aislamiento",
+    "Individualismo",
+    "Competencia",
+    "Sentirse excluido",
+    "Indiferencia"
+  ],
+  "invitation": "Observa dónde puedes contribuir en lugar de competir. Descubre el valor de construir junto a otros y reconoce que también eres una pieza importante del todo.",
+  "axes": [
+    "Comunidad",
+    "Colaboración",
+    "Pertenencia",
+    "Unidad",
+    "Contribución"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_04_playful_01",
+        "intensity": 1,
+        "tags": ["friendship"],
+        "question": "¿En qué actividad disfrutas más trabajar en equipo que hacerlo solo?"
+      },
+      {
+        "id": "minor_zen_04_playful_02",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Qué celebración compartida recuerdas con más cariño?"
+      },
+      {
+        "id": "minor_zen_04_playful_03",
+        "intensity": 2,
+        "tags": ["community"],
+        "question": "¿En qué grupo sientes que puedes ser tú mismo?"
+      },
+      {
+        "id": "minor_zen_04_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué talento disfrutas poner al servicio de los demás?"
+      },
+      {
+        "id": "minor_zen_04_playful_05",
+        "intensity": 2,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona siempre logra integrar a quienes se sienten fuera del grupo?"
+      },
+      {
+        "id": "minor_zen_04_playful_06",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Cuál ha sido el mejor proyecto que construiste junto a otras personas?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_04_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti sentir que perteneces a un lugar?"
+      },
+      {
+        "id": "minor_zen_04_thoughtful_02",
+        "intensity": 3,
+        "tags": ["community"],
+        "question": "¿Qué comunidad ha influido más en la persona que eres hoy?"
+      },
+      {
+        "id": "minor_zen_04_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste trabajando con personas muy diferentes a ti?"
+      },
+      {
+        "id": "minor_zen_04_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo encuentras equilibrio entre aportar al grupo y cuidar tus propias necesidades?"
+      },
+      {
+        "id": "minor_zen_04_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué rol sueles asumir naturalmente cuando formas parte de un equipo?"
+      },
+      {
+        "id": "minor_zen_04_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia te hizo comprender el valor de la colaboración?"
+      },
+      {
+        "id": "minor_zen_04_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué cambió cuando dejaste de intentar hacerlo todo por tu cuenta?"
+      },
+      {
+        "id": "minor_zen_04_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué tipo de personas sacan lo mejor de ti?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_04_deep_01",
+        "intensity": 5,
+        "tags": ["connection"],
+        "question": "¿Dónde sigues sintiéndote separado cuando en realidad podrías conectar?"
+      },
+      {
+        "id": "minor_zen_04_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti solo puede desarrollarse plenamente en relación con otras personas?"
+      },
+      {
+        "id": "minor_zen_04_deep_03",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué contribución única sientes que puedes ofrecer al mundo?"
+      },
+      {
+        "id": "minor_zen_04_deep_04",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo aparece cuando tienes que confiar en un equipo?"
+      },
+      {
+        "id": "minor_zen_04_deep_05",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué cambiaría si dejaras de compararte con los demás y comenzaras a complementarlos?"
+      },
+      {
+        "id": "minor_zen_04_deep_06",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué experiencia te enseñó que el éxito compartido puede ser más satisfactorio que el individual?"
+      },
+      {
+        "id": "minor_zen_04_deep_07",
+        "intensity": 5,
+        "tags": ["community"],
+        "question": "¿Qué clase de comunidad te gustaría ayudar a construir durante tu vida?"
+      },
+      {
+        "id": "minor_zen_04_deep_08",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Cómo te gustaría que las personas se sintieran después de haber compartido un proyecto contigo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_04_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué proyecto podrías fortalecer invitando a alguien más a participar?"
+      },
+      {
+        "id": "minor_zen_04_challenge_02",
+        "intensity": 4,
+        "tags": ["community"],
+        "question": "¿Qué comunidad necesita hoy un poco más de tu tiempo o energía?"
+      },
+      {
+        "id": "minor_zen_04_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué podrías aprender si trabajaras con alguien que piensa muy diferente a ti?"
+      },
+      {
+        "id": "minor_zen_04_challenge_04",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué actitud individualista puedes transformar en cooperación?"
+      },
+      {
+        "id": "minor_zen_04_challenge_05",
+        "intensity": 4,
+        "tags": ["generosity"],
+        "question": "¿Qué talento puedes poner al servicio de otras personas esta semana?"
+      },
+      {
+        "id": "minor_zen_04_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué primer paso puedes dar para sentirte parte de una comunidad que admiras?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_04_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te hace sentir que perteneces sin tener que demostrar nada?"
+      },
+      {
+        "id": "minor_zen_04_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amistad ha demostrado el verdadero significado de colaborar?"
+      },
+      {
+        "id": "minor_zen_04_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por haberte abierto las puertas de una comunidad importante para ti?"
+      },
+      {
+        "id": "minor_zen_04_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué tradición familiar te hace sentir profundamente conectado con los tuyos?"
+      },
+      {
+        "id": "minor_zen_04_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién siempre consigue unir a las personas cuando hay diferencias?"
+      },
+      {
+        "id": "minor_zen_04_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría construir algo que ninguno de los dos podría lograr por separado?"
+      }
+    ]
+  }
+}

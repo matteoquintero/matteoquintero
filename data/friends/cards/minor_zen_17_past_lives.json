@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_17_past_lives",
+  "name": "Past Lives",
+  "arcana": "Minor",
+  "number": 17,
+  "traditionalEquivalent": "Ninguno (Carta Zen)",
+  "meaning": "Representa la influencia del pasado sobre el presente. Más allá de si se interpreta de forma literal o simbólica, la carta señala que viejas experiencias, heridas, patrones y memorias siguen condicionando nuestras decisiones actuales. Invita a reconocer aquello que ya cumplió su propósito para dejar de revivirlo y abrir espacio a una vida elegida conscientemente.",
+  "coreMessage": "No estás condenado a repetir tu historia; puedes aprender de ella y escribir una nueva.",
+  "keywords": [
+    "Pasado",
+    "Memoria",
+    "Patrones",
+    "Sanación",
+    "Aprendizaje",
+    "Liberación",
+    "Conciencia",
+    "Renacimiento"
+  ],
+  "light": [
+    "Sabiduría",
+    "Integración",
+    "Sanación",
+    "Comprensión",
+    "Liberación"
+  ],
+  "shadow": [
+    "Repetición",
+    "Nostalgia",
+    "Heridas no resueltas",
+    "Apego",
+    "Culpa"
+  ],
+  "invitation": "Honra tu historia sin convertirla en tu identidad. El pasado puede ser un maestro, pero no necesita seguir siendo quien conduce tu vida.",
+  "axes": [
+    "Sanación",
+    "Memoria",
+    "Conciencia",
+    "Liberación",
+    "Transformación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_17_playful_01",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Qué recuerdo de tu infancia siempre logra sacarte una sonrisa?"
+      },
+      {
+        "id": "minor_zen_17_playful_02",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Qué costumbre antigua aún conservas con cariño?"
+      },
+      {
+        "id": "minor_zen_17_playful_03",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué error del pasado terminó enseñándote algo valioso?"
+      },
+      {
+        "id": "minor_zen_17_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué etapa de tu vida recuerdas con más gratitud?"
+      },
+      {
+        "id": "minor_zen_17_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué versión de ti mismo te gustaría volver a conocer por un día?"
+      },
+      {
+        "id": "minor_zen_17_playful_06",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Qué aspecto de tu personalidad ha cambiado más con los años?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_17_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué experiencia pasada sigue influyendo en tus decisiones actuales?"
+      },
+      {
+        "id": "minor_zen_17_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué patrón has descubierto que se repite en tu vida?"
+      },
+      {
+        "id": "minor_zen_17_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendizaje del pasado te acompaña todos los días?"
+      },
+      {
+        "id": "minor_zen_17_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo recuerdas tu historia sin quedar atrapado en ella?"
+      },
+      {
+        "id": "minor_zen_17_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu historia ha fortalecido más tu identidad?"
+      },
+      {
+        "id": "minor_zen_17_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué decisión habría sido diferente si hubieras tenido la experiencia que tienes hoy?"
+      },
+      {
+        "id": "minor_zen_17_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué significado nuevo le has dado a una experiencia difícil del pasado?"
+      },
+      {
+        "id": "minor_zen_17_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti sanar una herida?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_17_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué parte de tu pasado sigue pidiendo ser escuchada en lugar de ignorada?"
+      },
+      {
+        "id": "minor_zen_17_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué historia sobre ti mismo has repetido durante años y ya no deseas seguir creyendo?"
+      },
+      {
+        "id": "minor_zen_17_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué herida ha influido más en la persona que eres hoy?"
+      },
+      {
+        "id": "minor_zen_17_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué peso del pasado estás listo para dejar de cargar?"
+      },
+      {
+        "id": "minor_zen_17_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué experiencia dolorosa terminó convirtiéndose en una de tus mayores fuentes de sabiduría?"
+      },
+      {
+        "id": "minor_zen_17_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Quién serías si dejaras de definirte por lo que te ocurrió?"
+      },
+      {
+        "id": "minor_zen_17_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué ciclo deseas cerrar definitivamente en tu vida?"
+      },
+      {
+        "id": "minor_zen_17_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué parte de tu historia merece ser recordada con compasión en lugar de juicio?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_17_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué hábito repetido por años puedes comenzar a cambiar hoy?"
+      },
+      {
+        "id": "minor_zen_17_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué recuerdo necesita una nueva interpretación para dejar de limitarte?"
+      },
+      {
+        "id": "minor_zen_17_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué patrón familiar o personal estás dispuesto a romper?"
+      },
+      {
+        "id": "minor_zen_17_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué emoción antigua aparece con frecuencia y merece ser comprendida?"
+      },
+      {
+        "id": "minor_zen_17_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué puedes hacer hoy para responder desde el presente y no desde una herida pasada?"
+      },
+      {
+        "id": "minor_zen_17_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué capítulo de tu historia estás listo para cerrar con gratitud?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_17_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha sido clave en tu proceso de sanar el pasado?"
+      },
+      {
+        "id": "minor_zen_17_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amigo conoce una versión de ti que casi nadie más conoce?"
+      },
+      {
+        "id": "minor_zen_17_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por ayudarte a superar una etapa difícil?"
+      },
+      {
+        "id": "minor_zen_17_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué historia familiar merece ser recordada con orgullo?"
+      },
+      {
+        "id": "minor_zen_17_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te recuerda cuánto has crecido desde tus momentos más difíciles?"
+      },
+      {
+        "id": "minor_zen_17_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría conversar sobre una etapa importante de tu vida para verla desde otra perspectiva?"
+      }
+    ]
+  }
+}

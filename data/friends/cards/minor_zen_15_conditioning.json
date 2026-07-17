@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_15_conditioning",
+  "name": "Conditioning",
+  "arcana": "Minor",
+  "number": 15,
+  "traditionalEquivalent": "Ninguno (Carta Zen)",
+  "meaning": "Representa las creencias, normas y expectativas que hemos absorbido desde la infancia y que moldean nuestra forma de pensar, sentir y actuar. Muchas veces vivimos siguiendo guiones heredados sin cuestionarlos. Esta carta invita a reconocer esos condicionamientos para recuperar la libertad de elegir quién quieres ser realmente.",
+  "coreMessage": "Solo puedes ser verdaderamente libre cuando reconoces aquello que ha estado decidiendo por ti.",
+  "keywords": [
+    "Condicionamiento",
+    "Creencias",
+    "Programación",
+    "Libertad",
+    "Autenticidad",
+    "Conciencia",
+    "Identidad",
+    "Despertar"
+  ],
+  "light": [
+    "Autoconocimiento",
+    "Libertad",
+    "Pensamiento crítico",
+    "Autenticidad",
+    "Transformación"
+  ],
+  "shadow": [
+    "Conformismo",
+    "Creencias limitantes",
+    "Dependencia de la aprobación",
+    "Miedo al rechazo",
+    "Falta de autenticidad"
+  ],
+  "invitation": "Observa qué ideas gobiernan tu vida sin que las hayas elegido conscientemente. Pregúntate cuáles siguen representándote y cuáles es momento de dejar atrás.",
+  "axes": [
+    "Libertad",
+    "Identidad",
+    "Conciencia",
+    "Creencias",
+    "Autenticidad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_15_playful_01",
+        "intensity": 1,
+        "tags": ["childhood"],
+        "question": "¿Qué regla de tu infancia hoy te parece curiosa o divertida?"
+      },
+      {
+        "id": "minor_zen_15_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Qué costumbre heredaste de tu familia sin darte cuenta?"
+      },
+      {
+        "id": "minor_zen_15_playful_03",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué opinión cambiaste por completo al crecer?"
+      },
+      {
+        "id": "minor_zen_15_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué tradición disfrutas mantener porque realmente conecta contigo?"
+      },
+      {
+        "id": "minor_zen_15_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué creencia común siempre te ha parecido extraña?"
+      },
+      {
+        "id": "minor_zen_15_playful_06",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué hábito decidiste cambiar porque ya no tenía sentido para ti?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_15_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué creencia heredada ha influido más en tu vida?"
+      },
+      {
+        "id": "minor_zen_15_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo distingues entre tus propias ideas y las que aprendiste de otros?"
+      },
+      {
+        "id": "minor_zen_15_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué enseñanza familiar decidiste transformar en lugar de repetir?"
+      },
+      {
+        "id": "minor_zen_15_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo honras tus raíces sin perder tu individualidad?"
+      },
+      {
+        "id": "minor_zen_15_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad elegiste conscientemente?"
+      },
+      {
+        "id": "minor_zen_15_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia te hizo cuestionar todo lo que dabas por cierto?"
+      },
+      {
+        "id": "minor_zen_15_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué norma social crees que merece ser replanteada?"
+      },
+      {
+        "id": "minor_zen_15_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti vivir con autenticidad?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_15_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué decisión importante de tu vida estuvo más influenciada por expectativas ajenas que por tu propia voz?"
+      },
+      {
+        "id": "minor_zen_15_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Quién serías si dejaras de intentar cumplir el papel que otros esperan de ti?"
+      },
+      {
+        "id": "minor_zen_15_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo mantiene vivo un condicionamiento que ya no te sirve?"
+      },
+      {
+        "id": "minor_zen_15_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué aspecto de tu vida cambiaría si confiaras plenamente en tu propio criterio?"
+      },
+      {
+        "id": "minor_zen_15_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué verdad descubriste cuando comenzaste a cuestionar tus creencias?"
+      },
+      {
+        "id": "minor_zen_15_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué parte de tu personalidad sientes que nunca tuvo espacio para expresarse?"
+      },
+      {
+        "id": "minor_zen_15_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué patrón familiar deseas que termine contigo?"
+      },
+      {
+        "id": "minor_zen_15_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Cuál ha sido el mayor acto de libertad interior que has realizado?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_15_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué creencia puedes poner a prueba esta semana en lugar de aceptarla automáticamente?"
+      },
+      {
+        "id": "minor_zen_15_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito mantienes únicamente porque 'siempre ha sido así'?"
+      },
+      {
+        "id": "minor_zen_15_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué decisión tomarías si nadie fuera a juzgarte?"
+      },
+      {
+        "id": "minor_zen_15_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué pensamiento automático puedes observar sin obedecerlo?"
+      },
+      {
+        "id": "minor_zen_15_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué elección puedes hacer hoy desde tu autenticidad y no desde la costumbre?"
+      },
+      {
+        "id": "minor_zen_15_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué aspecto de tu vida estás listo para redefinir por ti mismo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_15_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ha dado la libertad de ser tú mismo sin intentar cambiarte?"
+      },
+      {
+        "id": "minor_zen_15_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amigo desafía tus ideas de la mejor manera?"
+      },
+      {
+        "id": "minor_zen_15_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por enseñarte a pensar con independencia?"
+      },
+      {
+        "id": "minor_zen_15_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué legado familiar deseas conservar y cuál transformar?"
+      },
+      {
+        "id": "minor_zen_15_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te anima a seguir tu propio camino incluso cuando es diferente al de los demás?"
+      },
+      {
+        "id": "minor_zen_15_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién puedes hablar de tus verdaderas convicciones sin sentirte juzgado?"
+      }
+    ]
+  }
+}

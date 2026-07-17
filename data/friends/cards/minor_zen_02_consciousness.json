@@ -1,0 +1,325 @@
+{
+  "id": "minor_zen_02_consciousness",
+  "name": "Consciousness",
+  "arcana": "Minor",
+  "number": 2,
+  "traditionalEquivalent": "Two of Wands",
+  "meaning": "Representa el despertar de la conciencia que observa sin juzgar. La mente suele dividir la realidad entre bueno y malo, éxito y fracaso, correcto e incorrecto. La conciencia, en cambio, simplemente presencia. Esta carta invita a salir de la identificación con los pensamientos para descubrir un estado de claridad, equilibrio y libertad interior.",
+  "coreMessage": "No eres tus pensamientos; eres quien puede observarlos.",
+  "keywords": [
+    "Conciencia",
+    "Observación",
+    "Presencia",
+    "Claridad",
+    "Despertar",
+    "Equilibrio",
+    "Lucidez",
+    "Testigo"
+  ],
+  "light": [
+    "Presencia",
+    "Claridad",
+    "Serenidad",
+    "Aceptación",
+    "Lucidez"
+  ],
+  "shadow": [
+    "Identificación con la mente",
+    "Reactividad",
+    "Juicio constante",
+    "Confusión",
+    "Piloto automático"
+  ],
+  "invitation": "Haz una pausa antes de reaccionar. Observa tus pensamientos, emociones y sensaciones como si fueran nubes pasando por el cielo. Descubre el espacio silencioso desde donde puedes elegir cómo responder.",
+  "axes": [
+    "Conciencia",
+    "Presencia",
+    "Observación",
+    "Claridad",
+    "Equilibrio"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_02_playful_01",
+        "intensity": 1,
+        "tags": [
+          "personality"
+        ],
+        "question": "¿En qué momentos descubres que estabas pensando en otra cosa mientras hacías una tarea?"
+      },
+      {
+        "id": "minor_zen_02_playful_02",
+        "intensity": 1,
+        "tags": [
+          "habits"
+        ],
+        "question": "¿Qué hábito haces casi siempre en automático?"
+      },
+      {
+        "id": "minor_zen_02_playful_03",
+        "intensity": 2,
+        "tags": [
+          "mindfulness"
+        ],
+        "question": "¿Cuál fue la última vez que disfrutaste plenamente un momento sin prisas?"
+      },
+      {
+        "id": "minor_zen_02_playful_04",
+        "intensity": 2,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué actividad logra que pierdas la noción del tiempo?"
+      },
+      {
+        "id": "minor_zen_02_playful_05",
+        "intensity": 2,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Qué pequeño detalle suele llamar tu atención y a otros les pasa desapercibido?"
+      },
+      {
+        "id": "minor_zen_02_playful_06",
+        "intensity": 2,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Qué haces para volver al presente cuando tu mente se dispersa?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_02_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué diferencia notas entre reaccionar impulsivamente y responder con calma?"
+      },
+      {
+        "id": "minor_zen_02_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Cómo reconoces que tu mente está creando una historia que quizá no sea cierta?"
+      },
+      {
+        "id": "minor_zen_02_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué práctica te ayuda a conocerte mejor?"
+      },
+      {
+        "id": "minor_zen_02_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Cómo recuperas la calma cuando una emoción intensa aparece?"
+      },
+      {
+        "id": "minor_zen_02_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué has descubierto sobre ti al observarte con más atención?"
+      },
+      {
+        "id": "minor_zen_02_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "life"
+        ],
+        "question": "¿En qué momento reciente actuaste con plena conciencia en lugar de hacerlo por costumbre?"
+      },
+      {
+        "id": "minor_zen_02_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "perspective"
+        ],
+        "question": "¿Qué cambia cuando observas una emoción sin intentar eliminarla?"
+      },
+      {
+        "id": "minor_zen_02_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué significa para ti vivir con conciencia?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_02_deep_01",
+        "intensity": 5,
+        "tags": [
+          "consciousness"
+        ],
+        "question": "¿Qué pensamiento recurrente ha tenido más poder sobre tu vida del que realmente merece?"
+      },
+      {
+        "id": "minor_zen_02_deep_02",
+        "intensity": 5,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Quién eres cuando dejas de definirte por tus logros, tus errores o tus roles?"
+      },
+      {
+        "id": "minor_zen_02_deep_03",
+        "intensity": 5,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué emoción suele tomar el control antes de que seas consciente de ella?"
+      },
+      {
+        "id": "minor_zen_02_deep_04",
+        "intensity": 5,
+        "tags": [
+          "freedom"
+        ],
+        "question": "¿Qué cambiaría si dejaras de creer automáticamente todo lo que piensas?"
+      },
+      {
+        "id": "minor_zen_02_deep_05",
+        "intensity": 5,
+        "tags": [
+          "presence"
+        ],
+        "question": "¿Cuándo fue la última vez que sentiste una presencia total en el aquí y el ahora?"
+      },
+      {
+        "id": "minor_zen_02_deep_06",
+        "intensity": 5,
+        "tags": [
+          "wisdom"
+        ],
+        "question": "¿Qué experiencia te enseñó el valor de observar antes de actuar?"
+      },
+      {
+        "id": "minor_zen_02_deep_07",
+        "intensity": 5,
+        "tags": [
+          "clarity"
+        ],
+        "question": "¿Qué verdad aparece cuando haces silencio por unos minutos?"
+      },
+      {
+        "id": "minor_zen_02_deep_08",
+        "intensity": 5,
+        "tags": [
+          "awakening"
+        ],
+        "question": "¿Qué parte de tu vida necesita más conciencia y menos automatismo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_02_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "action"
+        ],
+        "question": "¿Qué actividad cotidiana puedes realizar hoy con atención plena?"
+      },
+      {
+        "id": "minor_zen_02_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "mindfulness"
+        ],
+        "question": "¿Qué pensamiento puedes observar hoy sin reaccionar inmediatamente?"
+      },
+      {
+        "id": "minor_zen_02_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué hábito automático merece ser cuestionado?"
+      },
+      {
+        "id": "minor_zen_02_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué situación merece una pausa antes de responder?"
+      },
+      {
+        "id": "minor_zen_02_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Qué señal puedes usar como recordatorio para volver al momento presente?"
+      },
+      {
+        "id": "minor_zen_02_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "discipline"
+        ],
+        "question": "¿Qué práctica diaria de cinco minutos fortalecería tu conciencia?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_02_connection_01",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Quién transmite calma simplemente con su presencia?"
+      },
+      {
+        "id": "minor_zen_02_connection_02",
+        "intensity": 3,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Qué persona te ayuda a ver las situaciones con más claridad?"
+      },
+      {
+        "id": "minor_zen_02_connection_03",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿A quién agradeces por enseñarte a reaccionar menos y observar más?"
+      },
+      {
+        "id": "minor_zen_02_connection_04",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Qué enseñanza de tu familia valoras más con el paso de los años?"
+      },
+      {
+        "id": "minor_zen_02_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Con quién puedes ser completamente auténtico, sin necesidad de aparentar?"
+      },
+      {
+        "id": "minor_zen_02_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué conversación reciente te hizo tomar mayor conciencia sobre ti mismo?"
+      }
+    ]
+  }
+}

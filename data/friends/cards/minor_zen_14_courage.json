@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_14_courage",
+  "name": "Courage",
+  "arcana": "Minor",
+  "number": 14,
+  "traditionalEquivalent": "King of Wands",
+  "meaning": "Representa el valor de crecer hacia lo desconocido. El verdadero coraje no consiste en la ausencia de miedo, sino en avanzar a pesar de él. Como una semilla que rompe su propia cáscara para convertirse en árbol, esta carta habla de confiar en la transformación, abandonar la comodidad y permitir que la vida se expanda a través de nosotros.",
+  "coreMessage": "El coraje comienza cuando dejas de elegir la seguridad por encima de tu crecimiento.",
+  "keywords": [
+    "Coraje",
+    "Valentía",
+    "Crecimiento",
+    "Transformación",
+    "Confianza",
+    "Expansión",
+    "Cambio",
+    "Autenticidad"
+  ],
+  "light": [
+    "Valentía",
+    "Determinación",
+    "Confianza",
+    "Resiliencia",
+    "Expansión"
+  ],
+  "shadow": [
+    "Miedo",
+    "Comodidad",
+    "Parálisis",
+    "Duda",
+    "Resistencia al cambio"
+  ],
+  "invitation": "Pregúntate qué parte de tu vida ha quedado pequeña para la persona en la que te estás convirtiendo. El siguiente paso puede dar miedo, pero también puede contener la versión más auténtica de ti.",
+  "axes": [
+    "Valentía",
+    "Transformación",
+    "Crecimiento",
+    "Confianza",
+    "Autenticidad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_14_playful_01",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Cuál ha sido la decisión más valiente que has tomado por impulso?"
+      },
+      {
+        "id": "minor_zen_14_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Te consideras una persona arriesgada o prudente?"
+      },
+      {
+        "id": "minor_zen_14_playful_03",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué reto te hizo sentir más orgulloso al superarlo?"
+      },
+      {
+        "id": "minor_zen_14_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo has logrado convertir en motivación?"
+      },
+      {
+        "id": "minor_zen_14_playful_05",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué momento recuerdas como un gran salto de fe?"
+      },
+      {
+        "id": "minor_zen_14_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué aventura aceptarías si supieras que todo saldrá bien?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_14_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo está frenando actualmente tu crecimiento?"
+      },
+      {
+        "id": "minor_zen_14_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo distingues entre prudencia y miedo?"
+      },
+      {
+        "id": "minor_zen_14_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia te enseñó que el crecimiento exige incomodidad?"
+      },
+      {
+        "id": "minor_zen_14_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo decides cuándo vale la pena asumir un riesgo?"
+      },
+      {
+        "id": "minor_zen_14_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué aspecto de ti se fortalece cuando enfrentas un desafío?"
+      },
+      {
+        "id": "minor_zen_14_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué oportunidad lamentas haber dejado pasar por miedo?"
+      },
+      {
+        "id": "minor_zen_14_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué has descubierto al salir de tu zona de confort?"
+      },
+      {
+        "id": "minor_zen_14_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti vivir con coraje?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_14_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué parte de tu vida sabes que debe cambiar, aunque aún no te atrevas a hacerlo?"
+      },
+      {
+        "id": "minor_zen_14_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Quién podrías llegar a ser si el miedo dejara de dirigir tus decisiones?"
+      },
+      {
+        "id": "minor_zen_14_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué conversación llevas tiempo evitando por temor a sus consecuencias?"
+      },
+      {
+        "id": "minor_zen_14_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué ganarías si confiaras más en tu capacidad para adaptarte?"
+      },
+      {
+        "id": "minor_zen_14_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué experiencia te enseñó que el miedo puede ser una puerta y no un muro?"
+      },
+      {
+        "id": "minor_zen_14_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué decisión reflejaría con mayor honestidad la persona que realmente eres?"
+      },
+      {
+        "id": "minor_zen_14_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué parte de tu antigua vida necesita quedarse atrás para que puedas evolucionar?"
+      },
+      {
+        "id": "minor_zen_14_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué harías mañana si supieras que el fracaso también forma parte del camino?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_14_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué paso pequeño pero valiente puedes dar hoy?"
+      },
+      {
+        "id": "minor_zen_14_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo merece dejar de decidir por ti?"
+      },
+      {
+        "id": "minor_zen_14_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué oportunidad aceptarás aunque no tengas todas las respuestas?"
+      },
+      {
+        "id": "minor_zen_14_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué excusa puedes dejar de usar para no avanzar?"
+      },
+      {
+        "id": "minor_zen_14_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué decisión puedes tomar desde la confianza y no desde el temor?"
+      },
+      {
+        "id": "minor_zen_14_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué desafío estás listo para abrazar esta semana?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_14_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te inspira a ser más valiente?"
+      },
+      {
+        "id": "minor_zen_14_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amigo siempre te anima a intentar aquello que temes?"
+      },
+      {
+        "id": "minor_zen_14_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por creer en ti antes de que tú mismo lo hicieras?"
+      },
+      {
+        "id": "minor_zen_14_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué ejemplo de valentía heredaste de tu familia?"
+      },
+      {
+        "id": "minor_zen_14_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién ha estado contigo en tus momentos de mayor incertidumbre?"
+      },
+      {
+        "id": "minor_zen_14_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría compartir el próximo gran salto de tu vida?"
+      }
+    ]
+  }
+}

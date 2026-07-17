@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_10_change",
+  "name": "Change",
+  "arcana": "Minor",
+  "number": 10,
+  "traditionalEquivalent": "Ten of Wands",
+  "meaning": "Representa la naturaleza cambiante de toda existencia. Nada permanece igual: las emociones, las circunstancias, las relaciones y nosotros mismos estamos en constante transformación. El sufrimiento surge cuando intentamos aferrarnos a lo que inevitablemente cambiará. Esta carta invita a fluir con los ciclos de la vida y confiar en que cada transformación abre nuevas posibilidades.",
+  "coreMessage": "Resistirse al cambio genera sufrimiento; aceptarlo abre el camino hacia la evolución.",
+  "keywords": [
+    "Cambio",
+    "Transformación",
+    "Impermanencia",
+    "Fluidez",
+    "Evolución",
+    "Adaptación",
+    "Ciclos",
+    "Renovación"
+  ],
+  "light": [
+    "Flexibilidad",
+    "Aceptación",
+    "Renovación",
+    "Resiliencia",
+    "Confianza"
+  ],
+  "shadow": [
+    "Resistencia",
+    "Apego",
+    "Miedo al cambio",
+    "Rigidez",
+    "Incertidumbre"
+  ],
+  "invitation": "Observa qué estás intentando mantener igual por miedo a lo desconocido. La vida nunca deja de moverse; cuando aprendes a acompañar ese movimiento, también descubres nuevas versiones de ti mismo.",
+  "axes": [
+    "Transformación",
+    "Impermanencia",
+    "Aceptación",
+    "Evolución",
+    "Fluidez"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_10_playful_01",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Cuál ha sido el cambio más inesperado que terminó beneficiándote?"
+      },
+      {
+        "id": "minor_zen_10_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Te emociona más empezar algo nuevo o terminar lo que ya conoces?"
+      },
+      {
+        "id": "minor_zen_10_playful_03",
+        "intensity": 2,
+        "tags": ["travel"],
+        "question": "¿Qué lugar visitaste que cambió tu forma de ver el mundo?"
+      },
+      {
+        "id": "minor_zen_10_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito cambiaste y hoy agradeces haber dejado atrás?"
+      },
+      {
+        "id": "minor_zen_10_playful_05",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué cambio pequeño terminó teniendo un gran impacto en tu vida?"
+      },
+      {
+        "id": "minor_zen_10_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué cambio te gustaría experimentar durante el próximo año?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_10_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué aspecto de tu vida está pidiendo transformarse?"
+      },
+      {
+        "id": "minor_zen_10_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo reaccionas normalmente cuando las cosas no salen como planeabas?"
+      },
+      {
+        "id": "minor_zen_10_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué cambio personal te costó aceptar pero terminó fortaleciéndote?"
+      },
+      {
+        "id": "minor_zen_10_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo encuentras estabilidad en medio de la incertidumbre?"
+      },
+      {
+        "id": "minor_zen_10_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿En qué sentido eres muy diferente a la persona que eras hace cinco años?"
+      },
+      {
+        "id": "minor_zen_10_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué etapa de tu vida transformó más profundamente tu manera de pensar?"
+      },
+      {
+        "id": "minor_zen_10_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué has aprendido sobre aceptar aquello que no puedes controlar?"
+      },
+      {
+        "id": "minor_zen_10_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti evolucionar?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_10_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿A qué parte de tu vida sigues aferrándote aunque ya haya cambiado?"
+      },
+      {
+        "id": "minor_zen_10_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué versión de ti necesita transformarse para dar paso a la siguiente?"
+      },
+      {
+        "id": "minor_zen_10_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo aparece cuando imaginas un cambio importante en tu vida?"
+      },
+      {
+        "id": "minor_zen_10_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué ganarías si dejaras de resistirte a lo inevitable?"
+      },
+      {
+        "id": "minor_zen_10_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué transformación te convirtió en una persona más consciente?"
+      },
+      {
+        "id": "minor_zen_10_deep_06",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué cambio aún no has logrado perdonar o aceptar?"
+      },
+      {
+        "id": "minor_zen_10_deep_07",
+        "intensity": 5,
+        "tags": ["renewal"],
+        "question": "¿Qué oportunidad podría estar escondida dentro del cambio que hoy temes?"
+      },
+      {
+        "id": "minor_zen_10_deep_08",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿Cómo cambiaría tu vida si confiaras más en el proceso que en el resultado?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_10_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué pequeño cambio puedes hacer hoy para acercarte a la vida que deseas?"
+      },
+      {
+        "id": "minor_zen_10_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito ha cumplido su ciclo y merece ser reemplazado?"
+      },
+      {
+        "id": "minor_zen_10_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué decisión has estado aplazando por miedo al cambio?"
+      },
+      {
+        "id": "minor_zen_10_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué puedes hacer esta semana para adaptarte mejor a una situación nueva?"
+      },
+      {
+        "id": "minor_zen_10_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué cambio puedes aceptar hoy sin intentar controlarlo?"
+      },
+      {
+        "id": "minor_zen_10_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué transformación personal estás listo para abrazar?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_10_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha estado contigo durante tus cambios más importantes?"
+      },
+      {
+        "id": "minor_zen_10_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amistad ha evolucionado contigo a lo largo de los años?"
+      },
+      {
+        "id": "minor_zen_10_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por apoyarte cuando tu vida cambió por completo?"
+      },
+      {
+        "id": "minor_zen_10_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué cambio familiar marcó profundamente tu historia?"
+      },
+      {
+        "id": "minor_zen_10_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te inspira a aceptar los cambios con mayor serenidad?"
+      },
+      {
+        "id": "minor_zen_10_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría compartir el próximo gran capítulo de tu vida?"
+      }
+    ]
+  }
+}

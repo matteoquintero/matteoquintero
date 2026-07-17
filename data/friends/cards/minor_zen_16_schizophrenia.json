@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_16_schizophrenia",
+  "name": "Schizophrenia",
+  "arcana": "Minor",
+  "number": 16,
+  "traditionalEquivalent": "Ninguno (Carta Zen)",
+  "meaning": "Representa el conflicto interno que aparece cuando una parte de nosotros quiere avanzar mientras otra permanece aferrada al pasado. La sensación de estar dividido suele generar indecisión, agotamiento y ansiedad. Esta carta no habla de un diagnóstico clínico, sino de la experiencia humana de vivir desconectados de nuestro propio centro. La invitación es dejar de intentar satisfacer todas las voces internas y volver a aquello que realmente resuena contigo.",
+  "coreMessage": "La paz aparece cuando dejas de dividirte y eliges desde tu verdad.",
+  "keywords": [
+    "Conflicto interno",
+    "Indecisión",
+    "Coherencia",
+    "Integración",
+    "Claridad",
+    "Conciencia",
+    "Elección",
+    "Unidad"
+  ],
+  "light": [
+    "Coherencia",
+    "Integración",
+    "Decisión",
+    "Claridad",
+    "Equilibrio interior"
+  ],
+  "shadow": [
+    "Indecisión",
+    "Contradicción",
+    "Ansiedad",
+    "Confusión",
+    "Parálisis"
+  ],
+  "invitation": "Escucha todas tus voces internas, pero no permitas que gobiernen al mismo tiempo. Encuentra cuál nace del miedo y cuál nace de tu autenticidad, y elige desde ese lugar.",
+  "axes": [
+    "Unidad",
+    "Coherencia",
+    "Conciencia",
+    "Decisión",
+    "Integración"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_16_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Te cuesta más elegir un restaurante o tomar decisiones importantes?"
+      },
+      {
+        "id": "minor_zen_16_playful_02",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Cuál ha sido la decisión más difícil que terminaste resolviendo con facilidad?"
+      },
+      {
+        "id": "minor_zen_16_playful_03",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué decisión pequeña siempre tardas demasiado en tomar?"
+      },
+      {
+        "id": "minor_zen_16_playful_04",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué elección te enseñó a confiar más en ti?"
+      },
+      {
+        "id": "minor_zen_16_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué harías primero si dejaras de dudar por un día?"
+      },
+      {
+        "id": "minor_zen_16_playful_06",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué decisión impulsiva terminó saliendo mejor de lo esperado?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_16_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿En qué aspecto de tu vida sientes que estás dividido?"
+      },
+      {
+        "id": "minor_zen_16_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué suele generar más conflicto entre lo que piensas y lo que sientes?"
+      },
+      {
+        "id": "minor_zen_16_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste de una etapa en la que no sabías qué camino tomar?"
+      },
+      {
+        "id": "minor_zen_16_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo encuentras claridad cuando tienes opiniones opuestas dentro de ti?"
+      },
+      {
+        "id": "minor_zen_16_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué decisión reciente estuvo más alineada con quien realmente eres?"
+      },
+      {
+        "id": "minor_zen_16_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué situación te enseñó el costo de intentar complacer a todos?"
+      },
+      {
+        "id": "minor_zen_16_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué diferencia existe entre escuchar consejos y entregar tus decisiones a otros?"
+      },
+      {
+        "id": "minor_zen_16_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti vivir con coherencia?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_16_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué voces internas compiten hoy por dirigir tu vida?"
+      },
+      {
+        "id": "minor_zen_16_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti lleva demasiado tiempo siendo ignorada?"
+      },
+      {
+        "id": "minor_zen_16_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo alimenta tu indecisión más importante?"
+      },
+      {
+        "id": "minor_zen_16_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué elegirías si confiaras plenamente en tu intuición?"
+      },
+      {
+        "id": "minor_zen_16_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué experiencia te enseñó que no puedes vivir dividido para siempre?"
+      },
+      {
+        "id": "minor_zen_16_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Dónde estás siendo fiel a las expectativas de otros en lugar de a tu verdad?"
+      },
+      {
+        "id": "minor_zen_16_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué decisión podría unificar tu vida en lugar de seguir fragmentándola?"
+      },
+      {
+        "id": "minor_zen_16_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Cómo reconocerías que finalmente estás viviendo desde un solo corazón?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_16_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué decisión has postergado y merece una respuesta esta semana?"
+      },
+      {
+        "id": "minor_zen_16_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué compromiso puedes abandonar porque ya no representa tus valores?"
+      },
+      {
+        "id": "minor_zen_16_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué paso concreto puedes dar para actuar con mayor coherencia?"
+      },
+      {
+        "id": "minor_zen_16_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué conflicto interno puedes observar sin intentar resolverlo de inmediato?"
+      },
+      {
+        "id": "minor_zen_16_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué práctica te ayuda a volver a tu centro cuando aparece la confusión?"
+      },
+      {
+        "id": "minor_zen_16_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué elección requiere hoy más honestidad que valentía?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_16_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ayuda a encontrar claridad cuando dudas?"
+      },
+      {
+        "id": "minor_zen_16_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amigo siempre te recuerda quién eres realmente?"
+      },
+      {
+        "id": "minor_zen_16_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por acompañarte en una etapa de gran confusión?"
+      },
+      {
+        "id": "minor_zen_16_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué enseñanza familiar te ha ayudado a tomar mejores decisiones?"
+      },
+      {
+        "id": "minor_zen_16_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te escucha sin intentar decidir por ti?"
+      },
+      {
+        "id": "minor_zen_16_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién puedes hablar con total honestidad sobre tus dudas más profundas?"
+      }
+    ]
+  }
+}
