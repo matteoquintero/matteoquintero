@@ -8,7 +8,7 @@ import { deriveFacets } from "@/lib/friends/search"
 // Standalone card explorer. Not linked from the public site nav — must not
 // be indexed by search engines (same convention as app/alfred-challenge).
 export const metadata: Metadata = {
-  title: "Friends",
+  title: "Mala Pata — The Conversation Project",
   robots: {
     index: false,
     follow: false,
@@ -26,7 +26,7 @@ export default async function FriendsPage() {
       <div className="relative mx-auto flex max-w-5xl flex-col gap-8">
         <header className="flex flex-col gap-2">
           <p className="font-[family-name:var(--font-technical)] text-xs uppercase tracking-[0.2em] text-muted-foreground">
-            Friends
+            Mala Pata — The Conversation Project
           </p>
           <h1 className="font-[family-name:var(--font-creative)] text-3xl text-foreground sm:text-4xl">
             Explora el mazo

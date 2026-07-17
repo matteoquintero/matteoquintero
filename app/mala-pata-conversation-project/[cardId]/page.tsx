@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: CardPageProps): Promise<Metad
   const card = await getCardById(cardId)
 
   return {
-    title: card ? `${card.name} — Friends` : "Friends",
+    title: card ? `${card.name} — Mala Pata` : "Mala Pata — The Conversation Project",
     robots: {
       index: false,
       follow: false,
