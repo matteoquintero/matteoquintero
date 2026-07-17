@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_01_consciousness",
+  "name": "Consciousness",
+  "arcana": "Minor",
+  "number": 1,
+  "traditionalEquivalent": "Ace of Swords",
+  "meaning": "Representa el nacimiento de una nueva claridad mental. Es el momento en el que la conciencia atraviesa el ruido de los pensamientos y permite ver la realidad con honestidad. Esta carta habla del despertar de una comprensión profunda, de esas verdades que transforman la manera en que vivimos y tomamos decisiones.",
+  "coreMessage": "La claridad no aparece cuando piensas más, sino cuando empiezas a ver con mayor conciencia.",
+  "keywords": [
+    "Conciencia",
+    "Claridad",
+    "Verdad",
+    "Despertar",
+    "Comprensión",
+    "Perspectiva",
+    "Lucidez",
+    "Presencia"
+  ],
+  "light": [
+    "Claridad mental",
+    "Discernimiento",
+    "Sabiduría",
+    "Objetividad",
+    "Conciencia plena"
+  ],
+  "shadow": [
+    "Confusión",
+    "Negación",
+    "Autoengaño",
+    "Ruido mental",
+    "Falta de perspectiva"
+  ],
+  "invitation": "Detente un momento antes de reaccionar. Muchas respuestas aparecen cuando observas con calma en lugar de responder por impulso.",
+  "axes": [
+    "Conciencia",
+    "Verdad",
+    "Claridad",
+    "Perspectiva",
+    "Presencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_01_playful_01",
+        "intensity": 1,
+        "tags": ["curiosity"],
+        "question": "¿Qué descubrimiento reciente te hizo decir: '¿Cómo no me había dado cuenta antes?'"
+      },
+      {
+        "id": "minor_clouds_01_playful_02",
+        "intensity": 1,
+        "tags": ["learning"],
+        "question": "¿Qué dato aprendiste hace poco que te sorprendió?"
+      },
+      {
+        "id": "minor_clouds_01_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué idea cambió completamente tu forma de ver algo cotidiano?"
+      },
+      {
+        "id": "minor_clouds_01_playful_04",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Cuál ha sido el malentendido más gracioso que has tenido?"
+      },
+      {
+        "id": "minor_clouds_01_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué opinión cambiaste por completo durante los últimos años?"
+      },
+      {
+        "id": "minor_clouds_01_playful_06",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Sueles decidir rápido o necesitas tiempo para entender una situación?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_01_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué experiencia te dio una nueva perspectiva sobre la vida?"
+      },
+      {
+        "id": "minor_clouds_01_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué verdad te costó aceptar, pero terminó haciéndote bien?"
+      },
+      {
+        "id": "minor_clouds_01_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo sabes cuándo estás pensando con claridad?"
+      },
+      {
+        "id": "minor_clouds_01_thoughtful_04",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Qué conversación cambió tu forma de entender un tema importante?"
+      },
+      {
+        "id": "minor_clouds_01_thoughtful_05",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué hábito te ayuda a ordenar tus pensamientos?"
+      },
+      {
+        "id": "minor_clouds_01_thoughtful_06",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué haces cuando notas que estás reaccionando más desde la emoción que desde la claridad?"
+      },
+      {
+        "id": "minor_clouds_01_thoughtful_07",
+        "intensity": 3,
+        "tags": ["mindset"],
+        "question": "¿Qué creencia has reemplazado por una más útil?"
+      },
+      {
+        "id": "minor_clouds_01_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué situación te enseñó el valor de observar antes de juzgar?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_01_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué verdad sobre ti transformó la forma en que vives?"
+      },
+      {
+        "id": "minor_clouds_01_deep_02",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué aspecto de tu vida estás empezando a ver con mayor claridad?"
+      },
+      {
+        "id": "minor_clouds_01_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué ilusión tuviste que abandonar para crecer?"
+      },
+      {
+        "id": "minor_clouds_01_deep_04",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué momento marcó un antes y un después en tu forma de pensar?"
+      },
+      {
+        "id": "minor_clouds_01_deep_05",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué verdad evitas porque sabes que implicaría hacer cambios importantes?"
+      },
+      {
+        "id": "minor_clouds_01_deep_06",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué decisión habría sido diferente si hubieras tenido la claridad que tienes hoy?"
+      },
+      {
+        "id": "minor_clouds_01_deep_07",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué pensamiento repetitivo ya no representa quién eres?"
+      },
+      {
+        "id": "minor_clouds_01_deep_08",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué comprensión reciente cambió la dirección de tu vida?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_01_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué situación merece que la observes desde una perspectiva completamente distinta?"
+      },
+      {
+        "id": "minor_clouds_01_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué historia necesitas dejar de contarte?"
+      },
+      {
+        "id": "minor_clouds_01_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué conversación has evitado por miedo a descubrir una verdad incómoda?"
+      },
+      {
+        "id": "minor_clouds_01_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué podrías comprender mejor si escucharas más y hablaras menos?"
+      },
+      {
+        "id": "minor_clouds_01_challenge_05",
+        "intensity": 4,
+        "tags": ["clarity"],
+        "question": "¿Qué decisión deberías posponer hasta tener mayor claridad?"
+      },
+      {
+        "id": "minor_clouds_01_challenge_06",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué práctica puedes incorporar para cultivar una mente más consciente?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_01_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ha ayudado a ver una verdad que tú no lograbas reconocer?"
+      },
+      {
+        "id": "minor_clouds_01_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién disfrutas tener conversaciones que te hacen pensar?"
+      },
+      {
+        "id": "minor_clouds_01_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona amplió más tu forma de entender el mundo?"
+      },
+      {
+        "id": "minor_clouds_01_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué enseñanza familiar sigues valorando por la claridad que te dio?"
+      },
+      {
+        "id": "minor_clouds_01_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién suele ayudarte a poner los pies sobre la tierra cuando estás confundido?"
+      },
+      {
+        "id": "minor_clouds_01_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría tener una conversación completamente honesta?"
+      }
+    ]
+  }
+}

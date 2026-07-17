@@ -1,0 +1,257 @@
+{
+  "id": "major_12_new_vision",
+  "name": "New Vision",
+  "arcana": "Major",
+  "number": 12,
+  "traditionalEquivalent": "The Hanged Man",
+  "meaning": "Representa la capacidad de cambiar la perspectiva antes de intentar cambiar la realidad. Invita a detenerse, observar desde otro ángulo y descubrir que muchas veces el verdadero cambio ocurre en la forma de mirar, no en las circunstancias.",
+  "coreMessage": "Cuando cambia tu perspectiva, cambia el mundo que experimentas.",
+  "keywords": [
+    "Perspectiva",
+    "Claridad",
+    "Cambio",
+    "Reflexión",
+    "Consciencia",
+    "Apertura",
+    "Comprensión",
+    "Sabiduría"
+  ],
+  "light": [
+    "Flexibilidad mental",
+    "Empatía",
+    "Claridad",
+    "Aceptación",
+    "Aprendizaje"
+  ],
+  "shadow": [
+    "Rigidez",
+    "Victimismo",
+    "Terquedad",
+    "Juicio apresurado",
+    "Resistencia"
+  ],
+  "invitation": "Antes de intentar cambiar lo que ocurre, intenta cambiar la forma en que lo observas.",
+  "axes": [
+    "Perspectiva",
+    "Empatía",
+    "Cambio",
+    "Aprendizaje",
+    "Consciencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_12_playful_01",
+        "intensity": 1,
+        "tags": ["perspective"],
+        "question": "¿Qué opinión cambiaste completamente después de conocer mejor un tema?"
+      },
+      {
+        "id": "major_12_playful_02",
+        "intensity": 1,
+        "tags": ["curiosity"],
+        "question": "¿Qué cosa antes no entendías y ahora te parece obvia?"
+      },
+      {
+        "id": "major_12_playful_03",
+        "intensity": 2,
+        "tags": ["learning"],
+        "question": "¿Qué viaje o experiencia cambió tu forma de ver el mundo?"
+      },
+      {
+        "id": "major_12_playful_04",
+        "intensity": 2,
+        "tags": ["mindset"],
+        "question": "¿Qué libro, película o persona te hizo cambiar de opinión sobre algo importante?"
+      },
+      {
+        "id": "major_12_playful_05",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué consejo no entendías cuando eras joven y hoy tiene todo el sentido?"
+      },
+      {
+        "id": "major_12_playful_06",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué situación parecía terrible en su momento y hoy agradeces haber vivido?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_12_thoughtful_01",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué problema reciente comenzó a resolverse cuando cambiaste tu forma de verlo?"
+      },
+      {
+        "id": "major_12_thoughtful_02",
+        "intensity": 3,
+        "tags": ["empathy"],
+        "question": "¿Cuándo entendiste el comportamiento de alguien después de conocer su historia?"
+      },
+      {
+        "id": "major_12_thoughtful_03",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué situación te enseñó que siempre existen varias versiones de una misma historia?"
+      },
+      {
+        "id": "major_12_thoughtful_04",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendizaje cambió una decisión importante en tu vida?"
+      },
+      {
+        "id": "major_12_thoughtful_05",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué creencia personal has empezado a cuestionar recientemente?"
+      },
+      {
+        "id": "major_12_thoughtful_06",
+        "intensity": 3,
+        "tags": ["change"],
+        "question": "¿Qué parte de tu vida necesita menos reacción y más observación?"
+      },
+      {
+        "id": "major_12_thoughtful_07",
+        "intensity": 3,
+        "tags": ["understanding"],
+        "question": "¿Qué conversación cambió la forma en que veías a una persona?"
+      },
+      {
+        "id": "major_12_thoughtful_08",
+        "intensity": 3,
+        "tags": ["wisdom"],
+        "question": "¿Qué has aprendido gracias a escuchar opiniones distintas a la tuya?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_12_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué historia sobre ti mismo sigues creyendo aunque ya no sea cierta?"
+      },
+      {
+        "id": "major_12_deep_02",
+        "intensity": 5,
+        "tags": ["ego"],
+        "question": "¿Qué idea te cuesta soltar porque se ha convertido en parte de tu identidad?"
+      },
+      {
+        "id": "major_12_deep_03",
+        "intensity": 5,
+        "tags": ["perspective"],
+        "question": "¿Qué situación podría verse completamente distinta desde el punto de vista de la otra persona?"
+      },
+      {
+        "id": "major_12_deep_04",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué realidad sería más fácil aceptar si dejaras de luchar contra ella?"
+      },
+      {
+        "id": "major_12_deep_05",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste sobre ti cuando dejaste de culpar a las circunstancias?"
+      },
+      {
+        "id": "major_12_deep_06",
+        "intensity": 5,
+        "tags": ["truth"],
+        "question": "¿Qué verdad apareció cuando decidiste mirar una situación con honestidad?"
+      },
+      {
+        "id": "major_12_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué cambio interior transformó más tu vida que cualquier cambio externo?"
+      },
+      {
+        "id": "major_12_deep_08",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué parte de tu vida cambiaría inmediatamente si cambiaras la forma de interpretarla?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_12_challenge_01",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué conflicto merece que escuches la otra versión antes de sacar conclusiones?"
+      },
+      {
+        "id": "major_12_challenge_02",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué opinión podrías revisar con más curiosidad que certeza?"
+      },
+      {
+        "id": "major_12_challenge_03",
+        "intensity": 4,
+        "tags": ["empathy"],
+        "question": "¿Con quién podrías intentar ponerte verdaderamente en sus zapatos esta semana?"
+      },
+      {
+        "id": "major_12_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué situación estás interpretando de una sola manera?"
+      },
+      {
+        "id": "major_12_challenge_05",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué cambiaría si dejaras de preguntar '¿por qué me pasa esto?' y empezaras a preguntar '¿qué puedo aprender de esto?'?"
+      },
+      {
+        "id": "major_12_challenge_06",
+        "intensity": 4,
+        "tags": ["perspective"],
+        "question": "¿Qué harás esta semana para exponerte a una forma diferente de pensar?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_12_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha cambiado más tu manera de ver la vida?"
+      },
+      {
+        "id": "major_12_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te ayudó a entender una situación desde otra perspectiva?"
+      },
+      {
+        "id": "major_12_connection_03",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Qué conversación con alguien cercano nunca olvidarás porque transformó tu forma de pensar?"
+      },
+      {
+        "id": "major_12_connection_04",
+        "intensity": 3,
+        "tags": ["empathy"],
+        "question": "¿Quién te enseñó a escuchar antes de juzgar?"
+      },
+      {
+        "id": "major_12_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Qué persona suele ofrecerte una perspectiva diferente cuando más la necesitas?"
+      },
+      {
+        "id": "major_12_connection_06",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Con quién disfrutas conversar porque siempre amplía tu forma de ver las cosas?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "minor_fire_09_exhaustion",
+  "name": "Exhaustion",
+  "arcana": "Minor",
+  "number": 9,
+  "traditionalEquivalent": "Nine of Wands",
+  "meaning": "Representa el agotamiento que aparece cuando vivimos únicamente desde la obligación y el esfuerzo constante. Invita a cuestionar si la carga que llevamos sigue teniendo sentido o si es momento de recuperar el equilibrio, delegar y reconectar con lo que realmente importa.",
+  "coreMessage": "No naciste para sobrevivir cada día, sino para vivirlo plenamente.",
+  "keywords": [
+    "Agotamiento",
+    "Sobrecarga",
+    "Descanso",
+    "Límites",
+    "Equilibrio",
+    "Resiliencia",
+    "Prioridades",
+    "Renovación"
+  ],
+  "light": [
+    "Resiliencia",
+    "Autocuidado",
+    "Claridad",
+    "Límites saludables",
+    "Recuperación"
+  ],
+  "shadow": [
+    "Burnout",
+    "Obsesión",
+    "Perfeccionismo",
+    "Cansancio",
+    "Autoexigencia"
+  ],
+  "invitation": "No confundas estar ocupado con estar viviendo. Descansar también es avanzar.",
+  "axes": [
+    "Equilibrio",
+    "Descanso",
+    "Límites",
+    "Bienestar",
+    "Prioridades"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_fire_09_playful_01",
+        "intensity": 1,
+        "tags": ["rest"],
+        "question": "¿Cuál es tu plan perfecto para un día sin ninguna obligación?"
+      },
+      {
+        "id": "minor_fire_09_playful_02",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué actividad te recarga más rápido después de una semana pesada?"
+      },
+      {
+        "id": "minor_fire_09_playful_03",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Qué haces primero cuando por fin tienes tiempo libre?"
+      },
+      {
+        "id": "minor_fire_09_playful_04",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Cuál ha sido la excusa más absurda que has usado porque estabas demasiado cansado?"
+      },
+      {
+        "id": "minor_fire_09_playful_05",
+        "intensity": 2,
+        "tags": ["routine"],
+        "question": "¿Qué pequeño lujo cotidiano nunca negocias porque mejora tu día?"
+      },
+      {
+        "id": "minor_fire_09_playful_06",
+        "intensity": 2,
+        "tags": ["wellbeing"],
+        "question": "¿Qué lugar te transmite paz apenas llegas?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_fire_09_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Cómo sabes que estás llegando al límite de tu energía?"
+      },
+      {
+        "id": "minor_fire_09_thoughtful_02",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué hábito te ayuda a evitar el agotamiento?"
+      },
+      {
+        "id": "minor_fire_09_thoughtful_03",
+        "intensity": 3,
+        "tags": ["work"],
+        "question": "¿Qué responsabilidad consumes más energía de la que devuelve?"
+      },
+      {
+        "id": "minor_fire_09_thoughtful_04",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste de una etapa en la que trabajabas demasiado?"
+      },
+      {
+        "id": "minor_fire_09_thoughtful_05",
+        "intensity": 3,
+        "tags": ["priorities"],
+        "question": "¿Qué actividad merece más espacio en tu vida porque te llena de energía?"
+      },
+      {
+        "id": "minor_fire_09_thoughtful_06",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué suele agotarte más: lo físico, lo mental o lo emocional?"
+      },
+      {
+        "id": "minor_fire_09_thoughtful_07",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué cambió cuando empezaste a cuidar más de ti?"
+      },
+      {
+        "id": "minor_fire_09_thoughtful_08",
+        "intensity": 3,
+        "tags": ["wellbeing"],
+        "question": "¿Qué significa para ti descansar de verdad?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_fire_09_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu vida lleva demasiado tiempo funcionando únicamente por inercia?"
+      },
+      {
+        "id": "minor_fire_09_deep_02",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué esfuerzo dejaría de tener sentido si fueras completamente honesto contigo?"
+      },
+      {
+        "id": "minor_fire_09_deep_03",
+        "intensity": 5,
+        "tags": ["boundaries"],
+        "question": "¿Qué límite debiste haber puesto hace mucho tiempo?"
+      },
+      {
+        "id": "minor_fire_09_deep_04",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué has sacrificado por mantener un ritmo que ya no quieres?"
+      },
+      {
+        "id": "minor_fire_09_deep_05",
+        "intensity": 5,
+        "tags": ["wellbeing"],
+        "question": "¿Qué aspecto de tu vida necesita más descanso que esfuerzo?"
+      },
+      {
+        "id": "minor_fire_09_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué seguirías haciendo si dejaras de sentir la obligación de demostrar tu valor?"
+      },
+      {
+        "id": "minor_fire_09_deep_07",
+        "intensity": 5,
+        "tags": ["balance"],
+        "question": "¿Qué tendría que cambiar para que tu vida se sintiera sostenible durante muchos años?"
+      },
+      {
+        "id": "minor_fire_09_deep_08",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué parte de tu energía merece ser protegida con más decisión?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_fire_09_challenge_01",
+        "intensity": 4,
+        "tags": ["boundaries"],
+        "question": "¿A qué deberías decirle 'no' antes de aceptar otra responsabilidad?"
+      },
+      {
+        "id": "minor_fire_09_challenge_02",
+        "intensity": 4,
+        "tags": ["rest"],
+        "question": "¿Qué descanso llevas demasiado tiempo posponiendo?"
+      },
+      {
+        "id": "minor_fire_09_challenge_03",
+        "intensity": 4,
+        "tags": ["priorities"],
+        "question": "¿Qué obligación podrías eliminar sin que realmente pase nada grave?"
+      },
+      {
+        "id": "minor_fire_09_challenge_04",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué parte de tu agenda refleja más expectativas ajenas que decisiones propias?"
+      },
+      {
+        "id": "minor_fire_09_challenge_05",
+        "intensity": 4,
+        "tags": ["wellbeing"],
+        "question": "¿Qué pequeño cambio tendría el mayor impacto positivo en tu energía diaria?"
+      },
+      {
+        "id": "minor_fire_09_challenge_06",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué harás esta semana para cuidar de ti con la misma seriedad con la que cuidas tus responsabilidades?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_fire_09_connection_01",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién nota antes que nadie cuando estás agotado?"
+      },
+      {
+        "id": "minor_fire_09_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes pasar horas sin sentir que te desgastas?"
+      },
+      {
+        "id": "minor_fire_09_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién ha cargado parte de tu peso cuando más lo necesitabas?"
+      },
+      {
+        "id": "minor_fire_09_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién te recuerda que descansar no es perder el tiempo?"
+      },
+      {
+        "id": "minor_fire_09_connection_05",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué persona te transmite tranquilidad con solo estar presente?"
+      },
+      {
+        "id": "minor_fire_09_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría compartir un tiempo de verdadera desconexión?"
+      }
+    ]
+  }
+}

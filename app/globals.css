@@ -266,3 +266,14 @@ html {
     stroke-dashoffset: 0;
   }
 }
+
+/* Slow ambient drift for CSS-only backgrounds (e.g. Friends Deck Explorer) */
+@keyframes ambient-drift {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(4%, 6%) scale(1.08);
+  }
+}

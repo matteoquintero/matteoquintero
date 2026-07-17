@@ -1,0 +1,257 @@
+{
+  "id": "major_03_inner_voice",
+  "name": "Inner Voice",
+  "arcana": "Major",
+  "number": 3,
+  "traditionalEquivalent": "The High Priestess",
+  "meaning": "Representa la sabiduría que surge cuando el ruido exterior se silencia. Invita a confiar en la intuición, escuchar la propia conciencia y distinguir la voz auténtica del miedo, el ego o las expectativas de los demás.",
+  "coreMessage": "Las respuestas más importantes suelen hablar en voz baja.",
+  "keywords": [
+    "Intuición",
+    "Sabiduría",
+    "Silencio",
+    "Consciencia",
+    "Escucha",
+    "Claridad",
+    "Verdad",
+    "Confianza"
+  ],
+  "light": [
+    "Intuición clara",
+    "Calma mental",
+    "Discernimiento",
+    "Autoconocimiento",
+    "Serenidad"
+  ],
+  "shadow": [
+    "Confusión",
+    "Ruido mental",
+    "Ignorar la intuición",
+    "Dependencia de opiniones",
+    "Duda constante"
+  ],
+  "invitation": "Haz espacio para escucharte antes de buscar respuestas en el mundo exterior.",
+  "axes": [
+    "Intuición",
+    "Silencio",
+    "Claridad",
+    "Autoconocimiento",
+    "Confianza"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_03_playful_01",
+        "intensity": 1,
+        "tags": ["intuition"],
+        "question": "¿Cuál fue la última corazonada que terminó siendo cierta?"
+      },
+      {
+        "id": "major_03_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Eres de los que decide con la cabeza, con el corazón o con el estómago?"
+      },
+      {
+        "id": "major_03_playful_03",
+        "intensity": 2,
+        "tags": ["silence"],
+        "question": "¿Dónde encuentras más fácilmente un momento de paz?"
+      },
+      {
+        "id": "major_03_playful_04",
+        "intensity": 2,
+        "tags": ["music"],
+        "question": "¿Qué canción te ayuda a escucharte mejor?"
+      },
+      {
+        "id": "major_03_playful_05",
+        "intensity": 2,
+        "tags": ["habits"],
+        "question": "¿Qué haces cuando necesitas ordenar tus pensamientos?"
+      },
+      {
+        "id": "major_03_playful_06",
+        "intensity": 2,
+        "tags": ["mind"],
+        "question": "Si pudieras apagar un solo pensamiento repetitivo por un día, ¿cuál sería?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_03_thoughtful_01",
+        "intensity": 3,
+        "tags": ["intuition"],
+        "question": "¿Cómo sabes que una decisión se siente correcta antes de poder explicarla?"
+      },
+      {
+        "id": "major_03_thoughtful_02",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué haces para aclarar tu mente cuando todo parece confuso?"
+      },
+      {
+        "id": "major_03_thoughtful_03",
+        "intensity": 3,
+        "tags": ["values"],
+        "question": "¿Qué verdad sobre ti descubriste escuchándote en silencio?"
+      },
+      {
+        "id": "major_03_thoughtful_04",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué consejo ignoraste y luego descubriste que ya te lo habías dado a ti mismo?"
+      },
+      {
+        "id": "major_03_thoughtful_05",
+        "intensity": 3,
+        "tags": ["clarity"],
+        "question": "¿Qué suele nublar más tu criterio?"
+      },
+      {
+        "id": "major_03_thoughtful_06",
+        "intensity": 3,
+        "tags": ["trust"],
+        "question": "¿Qué tan fácil te resulta confiar en tu intuición?"
+      },
+      {
+        "id": "major_03_thoughtful_07",
+        "intensity": 3,
+        "tags": ["silence"],
+        "question": "¿Qué aprendiste durante un momento de soledad que nadie pudo enseñarte?"
+      },
+      {
+        "id": "major_03_thoughtful_08",
+        "intensity": 3,
+        "tags": ["decisions"],
+        "question": "¿Qué decisión importante tomaste siguiendo más tu intuición que la lógica?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_03_deep_01",
+        "intensity": 5,
+        "tags": ["intuition"],
+        "question": "¿Cuándo ignoraste tu intuición y qué consecuencias tuvo?"
+      },
+      {
+        "id": "major_03_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué voz ocupa más espacio en tu mente: la tuya o la de los demás?"
+      },
+      {
+        "id": "major_03_deep_03",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué verdad sobre tu vida has evitado escuchar?"
+      },
+      {
+        "id": "major_03_deep_04",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué descubres de ti cuando desaparecen todas las distracciones?"
+      },
+      {
+        "id": "major_03_deep_05",
+        "intensity": 5,
+        "tags": ["truth"],
+        "question": "¿Qué decisión sabes que debes tomar aunque todavía no quieras aceptarla?"
+      },
+      {
+        "id": "major_03_deep_06",
+        "intensity": 5,
+        "tags": ["clarity"],
+        "question": "¿Qué pensamiento regresa una y otra vez porque aún no ha sido escuchado?"
+      },
+      {
+        "id": "major_03_deep_07",
+        "intensity": 5,
+        "tags": ["peace"],
+        "question": "¿Qué significa para ti estar verdaderamente en paz contigo mismo?"
+      },
+      {
+        "id": "major_03_deep_08",
+        "intensity": 5,
+        "tags": ["inner_voice"],
+        "question": "Si tu voz interior pudiera decirte solo una frase hoy, ¿cuál crees que sería?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_03_challenge_01",
+        "intensity": 4,
+        "tags": ["mindfulness"],
+        "question": "¿Qué podrías dejar de escuchar para empezar a escucharte más?"
+      },
+      {
+        "id": "major_03_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Cuándo fue la última vez que estuviste diez minutos en completo silencio?"
+      },
+      {
+        "id": "major_03_challenge_03",
+        "intensity": 4,
+        "tags": ["trust"],
+        "question": "¿Qué decisión podrías tomar hoy confiando un poco más en tu intuición?"
+      },
+      {
+        "id": "major_03_challenge_04",
+        "intensity": 4,
+        "tags": ["clarity"],
+        "question": "¿Qué conversación contigo mismo llevas demasiado tiempo postergando?"
+      },
+      {
+        "id": "major_03_challenge_05",
+        "intensity": 4,
+        "tags": ["truth"],
+        "question": "¿Qué verdad necesitas admitir antes de seguir avanzando?"
+      },
+      {
+        "id": "major_03_challenge_06",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué harás esta semana para crear un espacio de silencio solo para ti?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_03_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién es la persona cuya opinión escuchas incluso cuando no está presente?"
+      },
+      {
+        "id": "major_03_connection_02",
+        "intensity": 3,
+        "tags": ["trust"],
+        "question": "¿Con quién puedes hablar sin sentir que debes explicar cada pensamiento?"
+      },
+      {
+        "id": "major_03_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te enseñó el valor de escuchar antes de responder?"
+      },
+      {
+        "id": "major_03_connection_04",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Con qué persona disfrutas más los silencios?"
+      },
+      {
+        "id": "major_03_connection_05",
+        "intensity": 3,
+        "tags": ["wisdom"],
+        "question": "¿A quién acudirías si necesitaras un consejo verdaderamente honesto?"
+      },
+      {
+        "id": "major_03_connection_06",
+        "intensity": 3,
+        "tags": ["listening"],
+        "question": "¿Quién te hace sentir realmente escuchado?"
+      }
+    ]
+  }
+}

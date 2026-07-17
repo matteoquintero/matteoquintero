@@ -1,0 +1,257 @@
+{
+  "id": "minor_fire_08_traveling",
+  "name": "Traveling",
+  "arcana": "Minor",
+  "number": 8,
+  "traditionalEquivalent": "Eight of Wands",
+  "meaning": "Representa el movimiento constante de la vida. Habla de avanzar sin aferrarse al pasado ni obsesionarse con el destino. Cada experiencia, encuentro y cambio forman parte del viaje. La carta invita a abrazar la incertidumbre con curiosidad y confianza.",
+  "coreMessage": "La vida no es un lugar al que se llega, sino un viaje que se aprende a disfrutar.",
+  "keywords": [
+    "Viaje",
+    "Movimiento",
+    "Cambio",
+    "Fluir",
+    "Evolución",
+    "Camino",
+    "Descubrimiento",
+    "Libertad"
+  ],
+  "light": [
+    "Adaptabilidad",
+    "Curiosidad",
+    "Confianza",
+    "Apertura",
+    "Flexibilidad"
+  ],
+  "shadow": [
+    "Resistencia al cambio",
+    "Impaciencia",
+    "Estancamiento",
+    "Apego",
+    "Miedo a lo desconocido"
+  ],
+  "invitation": "No vivas esperando llegar. Aprende a disfrutar el camino mientras sucede.",
+  "axes": [
+    "Cambio",
+    "Movimiento",
+    "Crecimiento",
+    "Exploración",
+    "Libertad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_fire_08_playful_01",
+        "intensity": 1,
+        "tags": ["travel"],
+        "question": "¿Cuál ha sido el viaje más improvisado que has hecho?"
+      },
+      {
+        "id": "minor_fire_08_playful_02",
+        "intensity": 1,
+        "tags": ["adventure"],
+        "question": "¿Qué destino tienes pendiente desde hace años?"
+      },
+      {
+        "id": "minor_fire_08_playful_03",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué lugar visitarías solo por vivir algo completamente diferente?"
+      },
+      {
+        "id": "minor_fire_08_playful_04",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué viaje cambió por completo porque algo salió distinto al plan?"
+      },
+      {
+        "id": "minor_fire_08_playful_05",
+        "intensity": 2,
+        "tags": ["exploration"],
+        "question": "¿Prefieres viajar con un itinerario o descubrir sobre la marcha?"
+      },
+      {
+        "id": "minor_fire_08_playful_06",
+        "intensity": 2,
+        "tags": ["dreams"],
+        "question": "Si pudieras despertarte mañana en cualquier ciudad del mundo, ¿cuál elegirías?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_fire_08_thoughtful_01",
+        "intensity": 3,
+        "tags": ["change"],
+        "question": "¿Qué cambio inesperado terminó llevándote a algo mejor?"
+      },
+      {
+        "id": "minor_fire_08_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué etapa de tu vida sientes que fue un verdadero viaje de aprendizaje?"
+      },
+      {
+        "id": "minor_fire_08_thoughtful_03",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué has aprendido sobre ti al salir de los lugares conocidos?"
+      },
+      {
+        "id": "minor_fire_08_thoughtful_04",
+        "intensity": 3,
+        "tags": ["adaptability"],
+        "question": "¿Cómo reaccionas cuando los planes cambian a última hora?"
+      },
+      {
+        "id": "minor_fire_08_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué etapa de tu vida disfrutaste más mientras la estabas viviendo?"
+      },
+      {
+        "id": "minor_fire_08_thoughtful_06",
+        "intensity": 3,
+        "tags": ["future"],
+        "question": "¿Hacia dónde te gustaría que te llevara el próximo año?"
+      },
+      {
+        "id": "minor_fire_08_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué experiencia te enseñó que el camino puede ser más importante que el resultado?"
+      },
+      {
+        "id": "minor_fire_08_thoughtful_08",
+        "intensity": 3,
+        "tags": ["curiosity"],
+        "question": "¿Qué cambio has terminado agradeciendo con el tiempo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_fire_08_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué versión de ti quedó atrás durante el camino hasta quien eres hoy?"
+      },
+      {
+        "id": "minor_fire_08_deep_02",
+        "intensity": 5,
+        "tags": ["change"],
+        "question": "¿Qué cambio te costó aceptar pero terminó transformando tu vida?"
+      },
+      {
+        "id": "minor_fire_08_deep_03",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Hacia dónde sientes que se dirige realmente tu vida en este momento?"
+      },
+      {
+        "id": "minor_fire_08_deep_04",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué parte del camino has disfrutado menos por estar demasiado enfocado en llegar?"
+      },
+      {
+        "id": "minor_fire_08_deep_05",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué tendrías que soltar para avanzar con más ligereza?"
+      },
+      {
+        "id": "minor_fire_08_deep_06",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Cuál ha sido el viaje interior más importante de tu vida?"
+      },
+      {
+        "id": "minor_fire_08_deep_07",
+        "intensity": 5,
+        "tags": ["trust"],
+        "question": "¿Qué necesitas aprender para confiar más en el rumbo que está tomando tu vida?"
+      },
+      {
+        "id": "minor_fire_08_deep_08",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "Si vieras tu vida como un viaje, ¿en qué parte del recorrido dirías que estás hoy?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_fire_08_challenge_01",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué cambio has estado evitando por miedo a salir de lo conocido?"
+      },
+      {
+        "id": "minor_fire_08_challenge_02",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué primer paso podrías dar hacia la vida que imaginas?"
+      },
+      {
+        "id": "minor_fire_08_challenge_03",
+        "intensity": 4,
+        "tags": ["adaptability"],
+        "question": "¿Qué pasaría si dejaras de intentar controlar cada detalle del camino?"
+      },
+      {
+        "id": "minor_fire_08_challenge_04",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué destino persigues sin disfrutar el proceso?"
+      },
+      {
+        "id": "minor_fire_08_challenge_05",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia nueva merece un espacio en tu vida este año?"
+      },
+      {
+        "id": "minor_fire_08_challenge_06",
+        "intensity": 4,
+        "tags": ["freedom"],
+        "question": "¿Qué equipaje emocional podrías dejar atrás para avanzar más ligero?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_fire_08_connection_01",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién harías un viaje sin importar el destino?"
+      },
+      {
+        "id": "minor_fire_08_connection_02",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué persona ha acompañado más etapas importantes de tu camino?"
+      },
+      {
+        "id": "minor_fire_08_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién cambió el rumbo de tu vida con una sola conversación?"
+      },
+      {
+        "id": "minor_fire_08_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué viaje compartido con tu familia recuerdas con más cariño?"
+      },
+      {
+        "id": "minor_fire_08_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién siempre te anima a seguir adelante cuando dudas del camino?"
+      },
+      {
+        "id": "minor_fire_08_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría compartir la próxima gran aventura de tu vida?"
+      }
+    ]
+  }
+}

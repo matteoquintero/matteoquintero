@@ -1,0 +1,257 @@
+{
+  "id": "major_09_aloneness",
+  "name": "Aloneness",
+  "arcana": "Major",
+  "number": 9,
+  "traditionalEquivalent": "The Hermit",
+  "meaning": "Representa la capacidad de disfrutar la propia compañía sin sentirse incompleto. Distingue entre la soledad que duele y la soledad elegida que fortalece. Invita a conocerte profundamente, encontrar paz contigo mismo y descubrir que estar solo no significa estar aislado.",
+  "coreMessage": "Cuando disfrutas de tu propia compañía, las relaciones dejan de llenar vacíos y comienzan a enriquecer tu vida.",
+  "keywords": [
+    "Soledad",
+    "Autoconocimiento",
+    "Paz interior",
+    "Independencia",
+    "Reflexión",
+    "Madurez",
+    "Calma",
+    "Plenitud"
+  ],
+  "light": [
+    "Autonomía",
+    "Serenidad",
+    "Reflexión",
+    "Independencia emocional",
+    "Sabiduría"
+  ],
+  "shadow": [
+    "Miedo a estar solo",
+    "Aislamiento",
+    "Dependencia emocional",
+    "Vacío interior",
+    "Evasión"
+  ],
+  "invitation": "Aprende a disfrutar de tu propia compañía. Desde ahí, todas las relaciones se vuelven una elección y no una necesidad.",
+  "axes": [
+    "Soledad",
+    "Autoconocimiento",
+    "Independencia",
+    "Paz interior",
+    "Reflexión"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_09_playful_01",
+        "intensity": 1,
+        "tags": ["alone_time"],
+        "question": "¿Cuál es tu plan favorito para disfrutar completamente solo?"
+      },
+      {
+        "id": "major_09_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Recargas energía estando con personas o pasando tiempo contigo mismo?"
+      },
+      {
+        "id": "major_09_playful_03",
+        "intensity": 2,
+        "tags": ["peace"],
+        "question": "¿Qué lugar visitarías solo sin pensarlo dos veces?"
+      },
+      {
+        "id": "major_09_playful_04",
+        "intensity": 2,
+        "tags": ["habits"],
+        "question": "¿Qué actividad disfrutas tanto que ni siquiera necesitas compañía?"
+      },
+      {
+        "id": "major_09_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿En qué momento del día disfrutas más el silencio?"
+      },
+      {
+        "id": "major_09_playful_06",
+        "intensity": 2,
+        "tags": ["comfort"],
+        "question": "¿Qué pequeño ritual haces solo y nunca cambiarías?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_09_thoughtful_01",
+        "intensity": 3,
+        "tags": ["self_knowledge"],
+        "question": "¿Qué has descubierto sobre ti durante un periodo de soledad?"
+      },
+      {
+        "id": "major_09_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste cuando dejaste de depender tanto de la compañía de otros?"
+      },
+      {
+        "id": "major_09_thoughtful_03",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué tipo de pensamientos aparecen cuando finalmente estás en silencio?"
+      },
+      {
+        "id": "major_09_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo sabes cuándo necesitas tiempo para ti?"
+      },
+      {
+        "id": "major_09_thoughtful_05",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Cómo cambia tu forma de relacionarte cuando primero cuidas tu espacio personal?"
+      },
+      {
+        "id": "major_09_thoughtful_06",
+        "intensity": 3,
+        "tags": ["peace"],
+        "question": "¿Qué significa sentirte realmente en paz contigo mismo?"
+      },
+      {
+        "id": "major_09_thoughtful_07",
+        "intensity": 3,
+        "tags": ["independence"],
+        "question": "¿Qué decisión importante tomaste completamente por ti mismo?"
+      },
+      {
+        "id": "major_09_thoughtful_08",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu personalidad aparece solo cuando estás solo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_09_deep_01",
+        "intensity": 5,
+        "tags": ["loneliness"],
+        "question": "¿Qué es lo que más temes encontrar cuando te quedas completamente a solas contigo mismo?"
+      },
+      {
+        "id": "major_09_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Quién eres cuando nadie espera nada de ti y no tienes que impresionar a nadie?"
+      },
+      {
+        "id": "major_09_deep_03",
+        "intensity": 5,
+        "tags": ["self_acceptance"],
+        "question": "¿Qué aspecto de ti aprendiste a aceptar gracias al tiempo que pasaste solo?"
+      },
+      {
+        "id": "major_09_deep_04",
+        "intensity": 5,
+        "tags": ["emotions"],
+        "question": "¿Qué emoción intentas evitar manteniéndote constantemente ocupado?"
+      },
+      {
+        "id": "major_09_deep_05",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Alguna vez permaneciste en una relación por miedo a estar solo?"
+      },
+      {
+        "id": "major_09_deep_06",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿En qué momento descubriste que la soledad también puede sentirse como libertad?"
+      },
+      {
+        "id": "major_09_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué conversación contigo mismo llevas demasiado tiempo evitando?"
+      },
+      {
+        "id": "major_09_deep_08",
+        "intensity": 5,
+        "tags": ["inner_peace"],
+        "question": "¿Qué tendría que ocurrir para que disfrutaras plenamente de tu propia compañía?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_09_challenge_01",
+        "intensity": 4,
+        "tags": ["independence"],
+        "question": "¿Qué plan podrías hacer completamente solo esta semana?"
+      },
+      {
+        "id": "major_09_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué aprenderías si pasaras una hora sin pantallas ni distracciones?"
+      },
+      {
+        "id": "major_09_challenge_03",
+        "intensity": 4,
+        "tags": ["self_care"],
+        "question": "¿Qué puedes hacer para disfrutar más de tu propia compañía?"
+      },
+      {
+        "id": "major_09_challenge_04",
+        "intensity": 4,
+        "tags": ["boundaries"],
+        "question": "¿Qué compromiso con otros necesita dejar espacio para ti?"
+      },
+      {
+        "id": "major_09_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Cuándo fue la última vez que elegiste estar solo por gusto y no por obligación?"
+      },
+      {
+        "id": "major_09_challenge_06",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué descubrirías de ti si pasaras más tiempo escuchándote?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_09_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién respeta mejor tu necesidad de tener tiempo para ti?"
+      },
+      {
+        "id": "major_09_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes pasar horas en silencio sin sentir incomodidad?"
+      },
+      {
+        "id": "major_09_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te enseñó que estar solo no significa sentirse solo?"
+      },
+      {
+        "id": "major_09_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién entiende cuándo necesitas espacio sin tomárselo como algo personal?"
+      },
+      {
+        "id": "major_09_connection_05",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién te ayudó a sentirte suficiente por ti mismo?"
+      },
+      {
+        "id": "major_09_connection_06",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Con quién puedes compartir tanto la compañía como el silencio?"
+      }
+    ]
+  }
+}

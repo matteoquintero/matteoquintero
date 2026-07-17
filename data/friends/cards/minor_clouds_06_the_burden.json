@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_06_the_burden",
+  "name": "The Burden",
+  "arcana": "Minor",
+  "number": 6,
+  "traditionalEquivalent": "Six of Swords",
+  "meaning": "Representa el peso de las responsabilidades, las expectativas y las historias que cargamos sin cuestionar. Muchas veces no son las circunstancias las que nos agotan, sino nuestra incapacidad para soltar aquello que ya no nos corresponde. Esta carta invita a distinguir entre el compromiso saludable y la carga innecesaria, recordándonos que pedir ayuda o dejar algo atrás también es un acto de fortaleza.",
+  "coreMessage": "No todo lo que puedes cargar es algo que debas seguir cargando.",
+  "keywords": [
+    "Carga",
+    "Responsabilidad",
+    "Estrés",
+    "Desapego",
+    "Prioridades",
+    "Límites",
+    "Libertad",
+    "Equilibrio"
+  ],
+  "light": [
+    "Responsabilidad consciente",
+    "Fortaleza",
+    "Límites saludables",
+    "Delegar",
+    "Alivio"
+  ],
+  "shadow": [
+    "Sobrecarga",
+    "Agotamiento",
+    "Control excesivo",
+    "Sacrificio constante",
+    "Dificultad para pedir ayuda"
+  ],
+  "invitation": "Revisa qué cargas elegiste llevar y cuáles simplemente aceptaste por costumbre. Liberarte de un peso innecesario puede darte la energía que necesitas para avanzar.",
+  "axes": [
+    "Responsabilidad",
+    "Límites",
+    "Prioridades",
+    "Libertad",
+    "Equilibrio"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_06_playful_01",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Cuál es la mochila o bolso más pesado que has cargado?"
+      },
+      {
+        "id": "minor_clouds_06_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Eres de pedir ayuda fácilmente o prefieres hacerlo todo tú?"
+      },
+      {
+        "id": "minor_clouds_06_playful_03",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Qué responsabilidad pequeña haces parecer un proyecto gigantesco?"
+      },
+      {
+        "id": "minor_clouds_06_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué tarea siempre termina cayendo en tus manos?"
+      },
+      {
+        "id": "minor_clouds_06_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué hiciste una vez que resultó mucho más sencillo de lo que imaginabas?"
+      },
+      {
+        "id": "minor_clouds_06_playful_06",
+        "intensity": 2,
+        "tags": ["balance"],
+        "question": "¿Qué actividad te ayuda a sentir que descansas de verdad?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_06_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué responsabilidad te consume más energía actualmente?"
+      },
+      {
+        "id": "minor_clouds_06_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste la última vez que delegaste una tarea importante?"
+      },
+      {
+        "id": "minor_clouds_06_thoughtful_03",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo sabes cuándo estás asumiendo más de lo que puedes manejar?"
+      },
+      {
+        "id": "minor_clouds_06_thoughtful_04",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué carga emocional llevas por costumbre más que por necesidad?"
+      },
+      {
+        "id": "minor_clouds_06_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué obligación te gustaría simplificar?"
+      },
+      {
+        "id": "minor_clouds_06_thoughtful_06",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué significa para ti ser responsable sin sacrificar tu bienestar?"
+      },
+      {
+        "id": "minor_clouds_06_thoughtful_07",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿En qué situaciones sientes que debes demostrar que puedes con todo?"
+      },
+      {
+        "id": "minor_clouds_06_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué cambiaría en tu rutina si priorizaras mejor tu energía?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_06_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué carga llevas porque sientes que nadie más la asumirá?"
+      },
+      {
+        "id": "minor_clouds_06_deep_02",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué responsabilidad aceptaste por amor, pero terminó pesando demasiado?"
+      },
+      {
+        "id": "minor_clouds_06_deep_03",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué parte de tu agotamiento proviene de expectativas que tú mismo te impones?"
+      },
+      {
+        "id": "minor_clouds_06_deep_04",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubrirías sobre ti si dejaras de intentar controlarlo todo?"
+      },
+      {
+        "id": "minor_clouds_06_deep_05",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué peso emocional ha dejado de tener sentido seguir cargando?"
+      },
+      {
+        "id": "minor_clouds_06_deep_06",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué vale tanto para ti que cargarlo sigue teniendo sentido?"
+      },
+      {
+        "id": "minor_clouds_06_deep_07",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Cómo cambiaría tu vida si aceptaras que no puedes resolver todo?"
+      },
+      {
+        "id": "minor_clouds_06_deep_08",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué dejarías atrás hoy si supieras que no te hace una peor persona?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_06_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué responsabilidad puedes compartir con alguien esta semana?"
+      },
+      {
+        "id": "minor_clouds_06_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué carga ya no te corresponde seguir llevando?"
+      },
+      {
+        "id": "minor_clouds_06_challenge_03",
+        "intensity": 4,
+        "tags": ["boundaries"],
+        "question": "¿En qué situación necesitas decir 'no' para proteger tu bienestar?"
+      },
+      {
+        "id": "minor_clouds_06_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué podrías dejar de controlar para recuperar tranquilidad?"
+      },
+      {
+        "id": "minor_clouds_06_challenge_05",
+        "intensity": 4,
+        "tags": ["balance"],
+        "question": "¿Qué espacio puedes reservar esta semana únicamente para descansar?"
+      },
+      {
+        "id": "minor_clouds_06_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué ayuda necesitas pedir y aún no has pedido?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_06_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién suele ayudarte cuando sientes que ya no puedes con todo?"
+      },
+      {
+        "id": "minor_clouds_06_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién compartirías una carga sin sentir culpa?"
+      },
+      {
+        "id": "minor_clouds_06_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona hizo más ligero un momento muy difícil de tu vida?"
+      },
+      {
+        "id": "minor_clouds_06_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué responsabilidad familiar recuerdas haber compartido con orgullo?"
+      },
+      {
+        "id": "minor_clouds_06_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te recuerda que no tienes que resolverlo todo solo?"
+      },
+      {
+        "id": "minor_clouds_06_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿A quién podrías ofrecer ayuda para aliviar una carga que está llevando?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "major_16_thunderbolt",
+  "name": "Thunderbolt",
+  "arcana": "Major",
+  "number": 16,
+  "traditionalEquivalent": "The Tower",
+  "meaning": "Representa esos momentos en los que una verdad, una crisis o un acontecimiento inesperado derrumba estructuras que parecían inquebrantables. Aunque inicialmente puede sentirse como una pérdida, el verdadero propósito del Thunderbolt es destruir aquello que ya no era auténtico para crear espacio para algo más real.",
+  "coreMessage": "A veces lo que parece un desastre es simplemente la vida quitando aquello que ya no podía sostenerse.",
+  "keywords": [
+    "Crisis",
+    "Despertar",
+    "Cambio radical",
+    "Verdad",
+    "Liberación",
+    "Reconstrucción",
+    "Resiliencia",
+    "Renacimiento"
+  ],
+  "light": [
+    "Honestidad",
+    "Resiliencia",
+    "Renovación",
+    "Claridad",
+    "Fortaleza"
+  ],
+  "shadow": [
+    "Negación",
+    "Miedo al cambio",
+    "Apego",
+    "Caos",
+    "Resistencia"
+  ],
+  "invitation": "No preguntes por qué todo se derrumbó. Pregunta qué ya no podía seguir sosteniéndose.",
+  "axes": [
+    "Cambio",
+    "Resiliencia",
+    "Verdad",
+    "Reconstrucción",
+    "Crisis"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_16_playful_01",
+        "intensity": 1,
+        "tags": ["surprise"],
+        "question": "¿Cuál ha sido la mayor sorpresa que terminó saliendo mejor de lo esperado?"
+      },
+      {
+        "id": "major_16_playful_02",
+        "intensity": 1,
+        "tags": ["plans"],
+        "question": "¿Qué plan cambió por completo en el último momento y terminó siendo divertido?"
+      },
+      {
+        "id": "major_16_playful_03",
+        "intensity": 2,
+        "tags": ["adaptability"],
+        "question": "¿Qué situación inesperada te obligó a improvisar?"
+      },
+      {
+        "id": "major_16_playful_04",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué momento parecía un desastre y hoy recuerdas con una sonrisa?"
+      },
+      {
+        "id": "major_16_playful_05",
+        "intensity": 2,
+        "tags": ["change"],
+        "question": "¿Qué decisión tomada de un día para otro terminó cambiando mucho tu vida?"
+      },
+      {
+        "id": "major_16_playful_06",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia inesperada terminó enseñándote una habilidad nueva?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_16_thoughtful_01",
+        "intensity": 3,
+        "tags": ["change"],
+        "question": "¿Qué acontecimiento inesperado cambió el rumbo de tu vida?"
+      },
+      {
+        "id": "major_16_thoughtful_02",
+        "intensity": 3,
+        "tags": ["resilience"],
+        "question": "¿Qué descubriste sobre ti durante un momento difícil?"
+      },
+      {
+        "id": "major_16_thoughtful_03",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué pérdida terminó convirtiéndose en una oportunidad?"
+      },
+      {
+        "id": "major_16_thoughtful_04",
+        "intensity": 3,
+        "tags": ["truth"],
+        "question": "¿Qué verdad apareció cuando una situación salió completamente diferente a lo esperado?"
+      },
+      {
+        "id": "major_16_thoughtful_05",
+        "intensity": 3,
+        "tags": ["adaptation"],
+        "question": "¿Cómo reaccionas normalmente cuando pierdes el control de una situación?"
+      },
+      {
+        "id": "major_16_thoughtful_06",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Qué aprendizaje importante llegó después de una crisis?"
+      },
+      {
+        "id": "major_16_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué problema terminó enseñándote algo que nunca habrías aprendido de otra manera?"
+      },
+      {
+        "id": "major_16_thoughtful_08",
+        "intensity": 3,
+        "tags": ["renewal"],
+        "question": "¿Qué aspecto de tu vida reconstruiste desde cero?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_16_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu vida tuvo que derrumbarse para que pudieras convertirte en quien eres hoy?"
+      },
+      {
+        "id": "major_16_deep_02",
+        "intensity": 5,
+        "tags": ["truth"],
+        "question": "¿Qué verdad cambió por completo la forma en que entendías tu vida?"
+      },
+      {
+        "id": "major_16_deep_03",
+        "intensity": 5,
+        "tags": ["resilience"],
+        "question": "¿Cuál ha sido la tormenta más difícil que lograste atravesar?"
+      },
+      {
+        "id": "major_16_deep_04",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué estructura de tu vida temes perder porque no sabes qué vendrá después?"
+      },
+      {
+        "id": "major_16_deep_05",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué versión de ti nació después de uno de tus peores momentos?"
+      },
+      {
+        "id": "major_16_deep_06",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué crisis terminó mostrándote lo que realmente era importante?"
+      },
+      {
+        "id": "major_16_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué derrumbe emocional terminó siendo el inicio de una vida más auténtica?"
+      },
+      {
+        "id": "major_16_deep_08",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "Si pudieras agradecer una crisis de tu vida, ¿cuál sería y por qué?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_16_challenge_01",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué estructura de tu vida ya muestra señales de que necesita cambiar?"
+      },
+      {
+        "id": "major_16_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué estás intentando sostener solo por costumbre?"
+      },
+      {
+        "id": "major_16_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué podrías reconstruir de una manera mucho mejor si empezaras hoy?"
+      },
+      {
+        "id": "major_16_challenge_04",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué verdad necesitas aceptar antes de seguir avanzando?"
+      },
+      {
+        "id": "major_16_challenge_05",
+        "intensity": 4,
+        "tags": ["resilience"],
+        "question": "¿Qué miedo perdería fuerza si dejaras de intentar controlar todo?"
+      },
+      {
+        "id": "major_16_challenge_06",
+        "intensity": 4,
+        "tags": ["renewal"],
+        "question": "¿Qué primer ladrillo pondrías para construir una mejor versión de esa parte de tu vida?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_16_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién estuvo contigo durante uno de los momentos más difíciles de tu vida?"
+      },
+      {
+        "id": "major_16_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te ayudó a reconstruirte cuando sentías que todo se había derrumbado?"
+      },
+      {
+        "id": "major_16_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué persona te enseñó que incluso las crisis pueden tener un propósito?"
+      },
+      {
+        "id": "major_16_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Con quién podrías contar si mañana tu vida cambiara por completo?"
+      },
+      {
+        "id": "major_16_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué conversación cambió tu manera de afrontar los momentos difíciles?"
+      },
+      {
+        "id": "major_16_connection_06",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Quién ha sido un ejemplo de resiliencia para ti?"
+      }
+    ]
+  }
+}

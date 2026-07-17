@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_10_harmony",
+  "name": "Harmony",
+  "arcana": "Minor",
+  "number": 10,
+  "traditionalEquivalent": "Ten of Cups",
+  "meaning": "Representa el estado de equilibrio que surge cuando pensamientos, emociones y acciones dejan de competir entre sí. La armonía no significa ausencia de conflictos, sino la capacidad de vivir en coherencia con uno mismo y con quienes nos rodean. Es una invitación a construir una vida donde la paz interior sea consecuencia de la autenticidad.",
+  "coreMessage": "La verdadera armonía nace cuando lo que piensas, sientes y haces caminan en la misma dirección.",
+  "keywords": [
+    "Armonía",
+    "Equilibrio",
+    "Paz",
+    "Coherencia",
+    "Plenitud",
+    "Bienestar",
+    "Unidad",
+    "Gratitud"
+  ],
+  "light": [
+    "Paz interior",
+    "Coherencia",
+    "Plenitud",
+    "Equilibrio emocional",
+    "Conexiones sanas"
+  ],
+  "shadow": [
+    "Conflicto interno",
+    "Desconexión",
+    "Incoherencia",
+    "Tensión",
+    "Insatisfacción constante"
+  ],
+  "invitation": "Observa si tu vida refleja realmente lo que valoras. La armonía aparece cuando dejas de vivir dividido entre lo que quieres y lo que haces.",
+  "axes": [
+    "Equilibrio",
+    "Coherencia",
+    "Relaciones",
+    "Paz",
+    "Autenticidad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_10_playful_01",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Qué momento del día te hace sentir más tranquilo?"
+      },
+      {
+        "id": "minor_water_10_playful_02",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué pequeña rutina mejora automáticamente tu estado de ánimo?"
+      },
+      {
+        "id": "minor_water_10_playful_03",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Prefieres una mañana tranquila o una noche silenciosa?"
+      },
+      {
+        "id": "minor_water_10_playful_04",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Cuál ha sido uno de los días más tranquilos que recuerdas?"
+      },
+      {
+        "id": "minor_water_10_playful_05",
+        "intensity": 2,
+        "tags": ["nature"],
+        "question": "¿En qué lugar sientes que todo parece estar en equilibrio?"
+      },
+      {
+        "id": "minor_water_10_playful_06",
+        "intensity": 2,
+        "tags": ["joy"],
+        "question": "¿Qué actividad hace que pierdas la noción del tiempo porque simplemente la disfrutas?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_10_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti vivir en armonía?"
+      },
+      {
+        "id": "minor_water_10_thoughtful_02",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué aspecto de tu vida necesita más equilibrio?"
+      },
+      {
+        "id": "minor_water_10_thoughtful_03",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué personas aportan paz a tu vida?"
+      },
+      {
+        "id": "minor_water_10_thoughtful_04",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué hábito ha mejorado más tu bienestar emocional?"
+      },
+      {
+        "id": "minor_water_10_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué decisión reciente te hizo sentir que estabas en el camino correcto?"
+      },
+      {
+        "id": "minor_water_10_thoughtful_06",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo notas cuando estás perdiendo el equilibrio?"
+      },
+      {
+        "id": "minor_water_10_thoughtful_07",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué aspecto de tu vida te genera mayor sensación de paz actualmente?"
+      },
+      {
+        "id": "minor_water_10_thoughtful_08",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Qué decisiones suelen acercarte a la vida que deseas construir?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_10_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿En qué parte de tu vida sientes que eres completamente tú mismo?"
+      },
+      {
+        "id": "minor_water_10_deep_02",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué incoherencia entre lo que piensas y haces te gustaría resolver?"
+      },
+      {
+        "id": "minor_water_10_deep_03",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué tendría que cambiar para que sintieras una paz más profunda?"
+      },
+      {
+        "id": "minor_water_10_deep_04",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué relación contribuye más a tu equilibrio emocional?"
+      },
+      {
+        "id": "minor_water_10_deep_05",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué has sacrificado por mantener una paz que en realidad no era auténtica?"
+      },
+      {
+        "id": "minor_water_10_deep_06",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste sobre ti cuando finalmente encontraste un periodo de calma?"
+      },
+      {
+        "id": "minor_water_10_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Cómo imaginas una vida verdaderamente alineada con tus valores?"
+      },
+      {
+        "id": "minor_water_10_deep_08",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué significa para ti sentir que estás exactamente donde necesitas estar?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_10_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué cambio pequeño podrías hacer hoy para vivir con más equilibrio?"
+      },
+      {
+        "id": "minor_water_10_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué compromiso contigo mismo has dejado pendiente?"
+      },
+      {
+        "id": "minor_water_10_challenge_03",
+        "intensity": 4,
+        "tags": ["relationships"],
+        "question": "¿Qué conversación podría traer más armonía a una relación importante?"
+      },
+      {
+        "id": "minor_water_10_challenge_04",
+        "intensity": 4,
+        "tags": ["balance"],
+        "question": "¿Qué actividad deberías reducir para recuperar tiempo para lo que realmente importa?"
+      },
+      {
+        "id": "minor_water_10_challenge_05",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué decisión reflejaría mejor la persona que quieres ser?"
+      },
+      {
+        "id": "minor_water_10_challenge_06",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué harás esta semana para cuidar tanto tu bienestar como tus relaciones?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_10_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te transmite una sensación inmediata de paz?"
+      },
+      {
+        "id": "minor_water_10_connection_02",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué tradición compartida con tu familia te genera felicidad?"
+      },
+      {
+        "id": "minor_water_10_connection_03",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes compartir un silencio sin sentir incomodidad?"
+      },
+      {
+        "id": "minor_water_10_connection_04",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona ha contribuido más a tu paz interior?"
+      },
+      {
+        "id": "minor_water_10_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién suele ayudarte a recuperar el equilibrio cuando atraviesas momentos difíciles?"
+      },
+      {
+        "id": "minor_water_10_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría construir una vida llena de armonía y propósito?"
+      }
+    ]
+  }
+}

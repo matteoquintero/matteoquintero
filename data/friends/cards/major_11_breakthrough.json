@@ -1,0 +1,257 @@
+{
+  "id": "major_11_breakthrough",
+  "name": "Breakthrough",
+  "arcana": "Major",
+  "number": 11,
+  "traditionalEquivalent": "Justice",
+  "meaning": "Representa el momento en que una verdad rompe una vieja estructura y permite un nuevo comienzo. Habla de enfrentar la realidad con honestidad, atravesar las barreras internas y transformar la forma en que ves tu vida. Todo gran crecimiento comienza con un cambio de perspectiva.",
+  "coreMessage": "Los mayores avances ocurren cuando te atreves a cuestionar aquello que dabas por cierto.",
+  "keywords": [
+    "Revelación",
+    "Transformación",
+    "Verdad",
+    "Cambio de perspectiva",
+    "Liberación",
+    "Claridad",
+    "Despertar",
+    "Evolución"
+  ],
+  "light": [
+    "Claridad",
+    "Honestidad",
+    "Liberación",
+    "Aprendizaje",
+    "Transformación"
+  ],
+  "shadow": [
+    "Negación",
+    "Autoengaño",
+    "Resistencia al cambio",
+    "Rigidez",
+    "Miedo a la verdad"
+  ],
+  "invitation": "No temas descubrir que estabas equivocado. Ahí suele comenzar el verdadero crecimiento.",
+  "axes": [
+    "Verdad",
+    "Cambio",
+    "Perspectiva",
+    "Aprendizaje",
+    "Transformación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_11_playful_01",
+        "intensity": 1,
+        "tags": ["learning"],
+        "question": "¿Qué creías de niño que hoy sabes que era completamente falso?"
+      },
+      {
+        "id": "major_11_playful_02",
+        "intensity": 1,
+        "tags": ["surprise"],
+        "question": "¿Qué descubrimiento reciente te sorprendió más?"
+      },
+      {
+        "id": "major_11_playful_03",
+        "intensity": 2,
+        "tags": ["perspective"],
+        "question": "¿Qué opinión cambiaste completamente con el paso del tiempo?"
+      },
+      {
+        "id": "major_11_playful_04",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad aprendiste que al principio parecía imposible?"
+      },
+      {
+        "id": "major_11_playful_05",
+        "intensity": 2,
+        "tags": ["mindset"],
+        "question": "¿Qué libro, película o conversación te hizo pensar diferente?"
+      },
+      {
+        "id": "major_11_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué tema cambió por completo tu forma de ver el mundo?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_11_thoughtful_01",
+        "intensity": 3,
+        "tags": ["truth"],
+        "question": "¿Qué verdad te costó aceptar, pero terminó ayudándote a crecer?"
+      },
+      {
+        "id": "major_11_thoughtful_02",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué experiencia cambió definitivamente tu forma de pensar?"
+      },
+      {
+        "id": "major_11_thoughtful_03",
+        "intensity": 3,
+        "tags": ["beliefs"],
+        "question": "¿Qué creencia heredaste y luego decidiste cuestionar?"
+      },
+      {
+        "id": "major_11_thoughtful_04",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué error terminó enseñándote una lección invaluable?"
+      },
+      {
+        "id": "major_11_thoughtful_05",
+        "intensity": 3,
+        "tags": ["honesty"],
+        "question": "¿Qué aspecto de ti entendiste mejor durante el último año?"
+      },
+      {
+        "id": "major_11_thoughtful_06",
+        "intensity": 3,
+        "tags": ["change"],
+        "question": "¿Qué conversación marcó un antes y un después en tu vida?"
+      },
+      {
+        "id": "major_11_thoughtful_07",
+        "intensity": 3,
+        "tags": ["clarity"],
+        "question": "¿Qué situación terminó siendo muy distinta a como la imaginabas?"
+      },
+      {
+        "id": "major_11_thoughtful_08",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué aprendiste al intentar comprender el punto de vista de otra persona?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_11_deep_01",
+        "intensity": 5,
+        "tags": ["truth"],
+        "question": "¿Qué verdad sobre tu vida has estado evitando enfrentar?"
+      },
+      {
+        "id": "major_11_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad nació después de una crisis importante?"
+      },
+      {
+        "id": "major_11_deep_03",
+        "intensity": 5,
+        "tags": ["beliefs"],
+        "question": "¿Qué idea sobre ti mismo necesita romperse para que puedas avanzar?"
+      },
+      {
+        "id": "major_11_deep_04",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Cuál ha sido el mayor punto de inflexión de tu vida?"
+      },
+      {
+        "id": "major_11_deep_05",
+        "intensity": 5,
+        "tags": ["ego"],
+        "question": "¿Qué te resulta más difícil admitir cuando descubres que estabas equivocado?"
+      },
+      {
+        "id": "major_11_deep_06",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué descubrimiento cambió para siempre la forma en que entiendes la vida?"
+      },
+      {
+        "id": "major_11_deep_07",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿De qué idea o expectativa necesitas liberarte para crecer?"
+      },
+      {
+        "id": "major_11_deep_08",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué parte de tu vida está esperando un verdadero punto de quiebre?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_11_challenge_01",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué opinión podrías cuestionar antes de defenderla otra vez?"
+      },
+      {
+        "id": "major_11_challenge_02",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué error podrías convertir en una oportunidad de aprendizaje?"
+      },
+      {
+        "id": "major_11_challenge_03",
+        "intensity": 4,
+        "tags": ["honesty"],
+        "question": "¿Qué verdad necesitas reconocer aunque resulte incómoda?"
+      },
+      {
+        "id": "major_11_challenge_04",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué perspectiva diferente podrías explorar esta semana?"
+      },
+      {
+        "id": "major_11_challenge_05",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué decisión sería distinta si aceptaras todos los hechos tal como son?"
+      },
+      {
+        "id": "major_11_challenge_06",
+        "intensity": 4,
+        "tags": ["transformation"],
+        "question": "¿Qué estructura de tu vida necesita romperse para dejar espacio a algo mejor?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_11_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién cambió tu forma de pensar con una sola conversación?"
+      },
+      {
+        "id": "major_11_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién tuvo el valor de decirte una verdad que necesitabas escuchar?"
+      },
+      {
+        "id": "major_11_connection_03",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Qué persona ha sido tu mayor maestro sin proponérselo?"
+      },
+      {
+        "id": "major_11_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién estuvo contigo durante uno de tus mayores cambios personales?"
+      },
+      {
+        "id": "major_11_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién disfrutas tener conversaciones que desafían tus ideas?"
+      },
+      {
+        "id": "major_11_connection_06",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿A quién le agradecerías haber impulsado un cambio importante en tu vida?"
+      }
+    ]
+  }
+}

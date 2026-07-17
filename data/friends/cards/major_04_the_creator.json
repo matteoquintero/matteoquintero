@@ -1,0 +1,257 @@
+{
+  "id": "major_04_the_creator",
+  "name": "The Creator",
+  "arcana": "Major",
+  "number": 4,
+  "traditionalEquivalent": "The Empress",
+  "meaning": "Representa el impulso natural de crear, dar vida y expresar lo que llevas dentro. No habla únicamente de arte, sino de la capacidad de transformar ideas, relaciones, proyectos y experiencias en algo nuevo. Invita a dejar de consumir la vida y empezar a construirla.",
+  "coreMessage": "Todo lo que existe comenzó siendo una idea que alguien decidió crear.",
+  "keywords": [
+    "Creatividad",
+    "Expresión",
+    "Inspiración",
+    "Abundancia",
+    "Creación",
+    "Imaginación",
+    "Potencial",
+    "Manifestación"
+  ],
+  "light": [
+    "Inspiración",
+    "Originalidad",
+    "Productividad",
+    "Abundancia",
+    "Expresión auténtica"
+  ],
+  "shadow": [
+    "Bloqueo creativo",
+    "Perfeccionismo",
+    "Miedo a mostrar tu trabajo",
+    "Procrastinación",
+    "Consumir más de lo que creas"
+  ],
+  "invitation": "Deja de esperar el momento perfecto. Lo que creas imperfectamente hoy vale más que la idea perfecta que nunca nació.",
+  "axes": [
+    "Creatividad",
+    "Expresión",
+    "Acción",
+    "Abundancia",
+    "Legado"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_04_playful_01",
+        "intensity": 1,
+        "tags": ["creativity"],
+        "question": "Si pudieras inventar cualquier objeto, ¿qué problema resolvería?"
+      },
+      {
+        "id": "major_04_playful_02",
+        "intensity": 1,
+        "tags": ["imagination"],
+        "question": "¿Qué idea absurda has tenido que, en secreto, todavía te parece brillante?"
+      },
+      {
+        "id": "major_04_playful_03",
+        "intensity": 2,
+        "tags": ["expression"],
+        "question": "¿Qué actividad despierta tu lado más creativo?"
+      },
+      {
+        "id": "major_04_playful_04",
+        "intensity": 2,
+        "tags": ["childhood"],
+        "question": "¿Qué te encantaba construir o inventar cuando eras niño?"
+      },
+      {
+        "id": "major_04_playful_05",
+        "intensity": 2,
+        "tags": ["dreams"],
+        "question": "Si tuvieras un presupuesto ilimitado para crear un proyecto, ¿qué harías?"
+      },
+      {
+        "id": "major_04_playful_06",
+        "intensity": 2,
+        "tags": ["ideas"],
+        "question": "¿Dónde suelen aparecerte tus mejores ideas?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_04_thoughtful_01",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Qué has creado en tu vida de lo que te sientes realmente orgulloso?"
+      },
+      {
+        "id": "major_04_thoughtful_02",
+        "intensity": 3,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría dejar en el mundo cuando ya no estés?"
+      },
+      {
+        "id": "major_04_thoughtful_03",
+        "intensity": 3,
+        "tags": ["fear"],
+        "question": "¿Qué proyecto nunca empezaste por miedo a no estar a la altura?"
+      },
+      {
+        "id": "major_04_thoughtful_04",
+        "intensity": 3,
+        "tags": ["expression"],
+        "question": "¿Qué parte de ti siente que todavía no ha encontrado una forma de expresarse?"
+      },
+      {
+        "id": "major_04_thoughtful_05",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad creativa te gustaría desarrollar este año?"
+      },
+      {
+        "id": "major_04_thoughtful_06",
+        "intensity": 3,
+        "tags": ["impact"],
+        "question": "¿Qué tipo de cosas disfrutas crear para otras personas?"
+      },
+      {
+        "id": "major_04_thoughtful_07",
+        "intensity": 3,
+        "tags": ["mindset"],
+        "question": "¿Qué significa para ti ser una persona creativa?"
+      },
+      {
+        "id": "major_04_thoughtful_08",
+        "intensity": 3,
+        "tags": ["abundance"],
+        "question": "¿Cuándo sientes que estás aportando algo único al mundo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_04_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu potencial lleva demasiado tiempo esperando salir?"
+      },
+      {
+        "id": "major_04_deep_02",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué crearías si supieras que nadie puede juzgarte?"
+      },
+      {
+        "id": "major_04_deep_03",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría que las personas recordaran de ti dentro de veinte años?"
+      },
+      {
+        "id": "major_04_deep_04",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué idea has traicionado por intentar cumplir las expectativas de otros?"
+      },
+      {
+        "id": "major_04_deep_05",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué proyecto representa mejor quién eres realmente?"
+      },
+      {
+        "id": "major_04_deep_06",
+        "intensity": 5,
+        "tags": ["regret"],
+        "question": "¿Qué oportunidad creativa lamentarías no haber intentado nunca?"
+      },
+      {
+        "id": "major_04_deep_07",
+        "intensity": 5,
+        "tags": ["abundance"],
+        "question": "¿Qué significa para ti vivir una vida fértil y abundante?"
+      },
+      {
+        "id": "major_04_deep_08",
+        "intensity": 5,
+        "tags": ["creation"],
+        "question": "¿Qué estás construyendo hoy que sobrevivirá al paso del tiempo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_04_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué idea puedes convertir en realidad durante esta semana?"
+      },
+      {
+        "id": "major_04_challenge_02",
+        "intensity": 4,
+        "tags": ["perfectionism"],
+        "question": "¿Qué dejaría de frenarte si aceptaras hacerlo imperfecto?"
+      },
+      {
+        "id": "major_04_challenge_03",
+        "intensity": 4,
+        "tags": ["expression"],
+        "question": "¿Qué parte de tu creatividad merece más espacio en tu rutina?"
+      },
+      {
+        "id": "major_04_challenge_04",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué proyecto necesita menos planificación y más acción?"
+      },
+      {
+        "id": "major_04_challenge_05",
+        "intensity": 4,
+        "tags": ["focus"],
+        "question": "¿Qué dejarías de consumir para dedicar ese tiempo a crear?"
+      },
+      {
+        "id": "major_04_challenge_06",
+        "intensity": 4,
+        "tags": ["commitment"],
+        "question": "¿Cuál será la próxima cosa que crearás y compartirás con alguien?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_04_connection_01",
+        "intensity": 3,
+        "tags": ["inspiration"],
+        "question": "¿Quién despertó tu lado más creativo?"
+      },
+      {
+        "id": "major_04_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona creyó en una idea tuya antes que tú mismo?"
+      },
+      {
+        "id": "major_04_connection_03",
+        "intensity": 3,
+        "tags": ["collaboration"],
+        "question": "¿Con quién te encantaría construir un proyecto algún día?"
+      },
+      {
+        "id": "major_04_connection_04",
+        "intensity": 3,
+        "tags": ["impact"],
+        "question": "¿Qué creación de otra persona cambió tu forma de ver el mundo?"
+      },
+      {
+        "id": "major_04_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién suele motivarte a sacar adelante tus ideas?"
+      },
+      {
+        "id": "major_04_connection_06",
+        "intensity": 3,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría crear junto a las personas que más quieres?"
+      }
+    ]
+  }
+}

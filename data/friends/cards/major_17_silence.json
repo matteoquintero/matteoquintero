@@ -1,0 +1,257 @@
+{
+  "id": "major_17_silence",
+  "name": "Silence",
+  "arcana": "Major",
+  "number": 17,
+  "traditionalEquivalent": "The Star",
+  "meaning": "Representa la serenidad que aparece cuando dejamos de luchar contra nosotros mismos. No es la ausencia de ruido, sino un estado interno de claridad, confianza y presencia. El silencio permite escuchar aquello que siempre estuvo ahí, pero que el ruido impedía percibir.",
+  "coreMessage": "Las respuestas más importantes rara vez llegan haciendo ruido.",
+  "keywords": [
+    "Silencio",
+    "Calma",
+    "Presencia",
+    "Claridad",
+    "Paz",
+    "Contemplación",
+    "Escucha",
+    "Serenidad"
+  ],
+  "light": [
+    "Paz interior",
+    "Claridad",
+    "Paciencia",
+    "Presencia",
+    "Confianza"
+  ],
+  "shadow": [
+    "Ruido mental",
+    "Impaciencia",
+    "Distracción",
+    "Ansiedad",
+    "Evasión"
+  ],
+  "invitation": "Haz espacio para el silencio. Muchas veces lo que buscas ya está dentro de ti.",
+  "axes": [
+    "Calma",
+    "Presencia",
+    "Escucha",
+    "Paz",
+    "Claridad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_17_playful_01",
+        "intensity": 1,
+        "tags": ["peace"],
+        "question": "¿Cuál es el lugar más tranquilo en el que has estado?"
+      },
+      {
+        "id": "major_17_playful_02",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué actividad hace que pierdas la noción del tiempo sin hablar con nadie?"
+      },
+      {
+        "id": "major_17_playful_03",
+        "intensity": 2,
+        "tags": ["nature"],
+        "question": "¿Prefieres el sonido de la lluvia, el mar o el viento? ¿Por qué?"
+      },
+      {
+        "id": "major_17_playful_04",
+        "intensity": 2,
+        "tags": ["lifestyle"],
+        "question": "¿Cuál es tu momento favorito del día cuando todo está en calma?"
+      },
+      {
+        "id": "major_17_playful_05",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué recuerdo asocias con una sensación de paz absoluta?"
+      },
+      {
+        "id": "major_17_playful_06",
+        "intensity": 2,
+        "tags": ["self"],
+        "question": "¿Qué pequeño hábito te ayuda a bajar el ritmo cuando el día va demasiado rápido?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_17_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué aprendiste sobre ti durante un período de soledad o silencio?"
+      },
+      {
+        "id": "major_17_thoughtful_02",
+        "intensity": 3,
+        "tags": ["mindfulness"],
+        "question": "¿Qué suele distraerte de vivir el momento presente?"
+      },
+      {
+        "id": "major_17_thoughtful_03",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo sabes que necesitas hacer una pausa?"
+      },
+      {
+        "id": "major_17_thoughtful_04",
+        "intensity": 3,
+        "tags": ["clarity"],
+        "question": "¿Qué decisión importante tomaste después de darte tiempo para pensar?"
+      },
+      {
+        "id": "major_17_thoughtful_05",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué cambió en tu vida cuando aprendiste a escuchar más y hablar menos?"
+      },
+      {
+        "id": "major_17_thoughtful_06",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Qué situación reciente te hizo sentir completamente presente?"
+      },
+      {
+        "id": "major_17_thoughtful_07",
+        "intensity": 3,
+        "tags": ["emotions"],
+        "question": "¿Qué emoción entiendes mejor cuando dejas de reaccionar inmediatamente?"
+      },
+      {
+        "id": "major_17_thoughtful_08",
+        "intensity": 3,
+        "tags": ["peace"],
+        "question": "¿Qué significa realmente sentir paz para ti?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_17_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti solo aparece cuando estás completamente a solas?"
+      },
+      {
+        "id": "major_17_deep_02",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué verdad descubriste cuando dejaste de llenar cada momento con distracciones?"
+      },
+      {
+        "id": "major_17_deep_03",
+        "intensity": 5,
+        "tags": ["healing"],
+        "question": "¿Qué herida comenzó a sanar cuando dejaste de huir de tus pensamientos?"
+      },
+      {
+        "id": "major_17_deep_04",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué es lo que más te cuesta escuchar cuando haces silencio?"
+      },
+      {
+        "id": "major_17_deep_05",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Cuándo fue la última vez que sentiste una profunda paz contigo mismo?"
+      },
+      {
+        "id": "major_17_deep_06",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué parte de tu vida necesita menos respuestas y más paciencia?"
+      },
+      {
+        "id": "major_17_deep_07",
+        "intensity": 5,
+        "tags": ["clarity"],
+        "question": "¿Qué decisión estás intentando resolver cuando quizá primero necesitas detenerte?"
+      },
+      {
+        "id": "major_17_deep_08",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿Qué crees que tu mente intenta decirte cuando todo finalmente se queda en silencio?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_17_challenge_01",
+        "intensity": 4,
+        "tags": ["mindfulness"],
+        "question": "¿Qué pasaría si dedicaras diez minutos al día a no hacer absolutamente nada?"
+      },
+      {
+        "id": "major_17_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué ruido innecesario podrías eliminar de tu vida esta semana?"
+      },
+      {
+        "id": "major_17_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué decisión merece más silencio antes de responder?"
+      },
+      {
+        "id": "major_17_challenge_04",
+        "intensity": 4,
+        "tags": ["balance"],
+        "question": "¿Qué hábito podrías cambiar para crear más espacio para ti?"
+      },
+      {
+        "id": "major_17_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué actividad podrías hacer sin el celular por completo?"
+      },
+      {
+        "id": "major_17_challenge_06",
+        "intensity": 4,
+        "tags": ["peace"],
+        "question": "¿Qué conversación contigo mismo llevas demasiado tiempo posponiendo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_17_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Con quién puedes compartir un silencio sin sentir incomodidad?"
+      },
+      {
+        "id": "major_17_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién transmite calma solo con su presencia?"
+      },
+      {
+        "id": "major_17_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién te enseñó que no todas las conversaciones necesitan palabras?"
+      },
+      {
+        "id": "major_17_connection_04",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién te sientes más escuchado de verdad?"
+      },
+      {
+        "id": "major_17_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona te ayudó a encontrar calma durante un momento difícil?"
+      },
+      {
+        "id": "major_17_connection_06",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿A quién te gustaría regalarle un momento de tranquilidad y por qué?"
+      }
+    ]
+  }
+}

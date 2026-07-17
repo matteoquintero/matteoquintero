@@ -1,0 +1,257 @@
+{
+  "id": "major_07_awareness",
+  "name": "Awareness",
+  "arcana": "Major",
+  "number": 7,
+  "traditionalEquivalent": "The Chariot",
+  "meaning": "Representa la capacidad de observar tu vida con claridad antes de reaccionar. Habla de vivir conscientemente, reconocer patrones, cuestionar el piloto automático y elegir desde la intención en lugar del impulso.",
+  "coreMessage": "La libertad comienza cuando dejas de reaccionar y empiezas a observar.",
+  "keywords": [
+    "Consciencia",
+    "Observación",
+    "Claridad",
+    "Presencia",
+    "Elección",
+    "Atención",
+    "Discernimiento",
+    "Crecimiento"
+  ],
+  "light": [
+    "Claridad",
+    "Autocontrol",
+    "Objetividad",
+    "Presencia",
+    "Sabiduría"
+  ],
+  "shadow": [
+    "Piloto automático",
+    "Impulsividad",
+    "Negación",
+    "Distracción constante",
+    "Falta de reflexión"
+  ],
+  "invitation": "Antes de responder, observa. Antes de actuar, comprende. Antes de juzgar, cuestiona.",
+  "axes": [
+    "Consciencia",
+    "Elección",
+    "Observación",
+    "Hábitos",
+    "Presencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_07_playful_01",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué hábito haces tan automáticamente que casi nunca piensas en él?"
+      },
+      {
+        "id": "major_07_playful_02",
+        "intensity": 1,
+        "tags": ["curiosity"],
+        "question": "¿Qué detalle pequeño suele llamar tu atención y a otros les pasa desapercibido?"
+      },
+      {
+        "id": "major_07_playful_03",
+        "intensity": 2,
+        "tags": ["observation"],
+        "question": "¿Qué cosa aprendiste simplemente por prestar atención?"
+      },
+      {
+        "id": "major_07_playful_04",
+        "intensity": 2,
+        "tags": ["daily_life"],
+        "question": "¿Qué momento del día disfrutas más cuando realmente estás presente?"
+      },
+      {
+        "id": "major_07_playful_05",
+        "intensity": 2,
+        "tags": ["mindfulness"],
+        "question": "¿Qué actividad logra que olvides por completo el celular?"
+      },
+      {
+        "id": "major_07_playful_06",
+        "intensity": 2,
+        "tags": ["attention"],
+        "question": "¿Qué persona siempre parece notar cosas que nadie más ve?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_07_thoughtful_01",
+        "intensity": 3,
+        "tags": ["self_awareness"],
+        "question": "¿Qué patrón descubriste sobre ti que cambió tu forma de actuar?"
+      },
+      {
+        "id": "major_07_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué hábito mejoró tu vida más de lo que imaginabas?"
+      },
+      {
+        "id": "major_07_thoughtful_03",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con qué frecuencia haces una pausa para preguntarte cómo te sientes realmente?"
+      },
+      {
+        "id": "major_07_thoughtful_04",
+        "intensity": 3,
+        "tags": ["choices"],
+        "question": "¿Qué decisión tomaste después de observar una situación desde otra perspectiva?"
+      },
+      {
+        "id": "major_07_thoughtful_05",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Qué suele sacarte del momento presente?"
+      },
+      {
+        "id": "major_07_thoughtful_06",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Qué descubriste sobre alguien cuando dejaste de asumir y empezaste a escuchar?"
+      },
+      {
+        "id": "major_07_thoughtful_07",
+        "intensity": 3,
+        "tags": ["mindset"],
+        "question": "¿Qué creencia cambió por completo cuando la cuestionaste?"
+      },
+      {
+        "id": "major_07_thoughtful_08",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué señal ignoras repetidamente aunque sabes que es importante?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_07_deep_01",
+        "intensity": 5,
+        "tags": ["patterns"],
+        "question": "¿Qué patrón de comportamiento sigues repitiendo aunque sabes que no te beneficia?"
+      },
+      {
+        "id": "major_07_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué aspecto de ti te costó más tiempo reconocer?"
+      },
+      {
+        "id": "major_07_deep_03",
+        "intensity": 5,
+        "tags": ["blind_spots"],
+        "question": "¿Qué crees que las personas cercanas ven en ti y tú todavía no?"
+      },
+      {
+        "id": "major_07_deep_04",
+        "intensity": 5,
+        "tags": ["truth"],
+        "question": "¿Qué verdad sobre tu vida se volvió evidente solo cuando decidiste detenerte?"
+      },
+      {
+        "id": "major_07_deep_05",
+        "intensity": 5,
+        "tags": ["ego"],
+        "question": "¿Cuándo fue la última vez que aceptaste que estabas equivocado?"
+      },
+      {
+        "id": "major_07_deep_06",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué emoción intentas evitar ocupándote constantemente?"
+      },
+      {
+        "id": "major_07_deep_07",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué cambiaría en tu vida si vivieras con un poco más de consciencia cada día?"
+      },
+      {
+        "id": "major_07_deep_08",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué parte de tu vida está funcionando en piloto automático y merece una revisión honesta?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_07_challenge_01",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito vas a observar durante esta semana antes de intentar cambiarlo?"
+      },
+      {
+        "id": "major_07_challenge_02",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué momento del día podrías vivir con más atención plena?"
+      },
+      {
+        "id": "major_07_challenge_03",
+        "intensity": 4,
+        "tags": ["choices"],
+        "question": "¿Qué reacción impulsiva te gustaría reemplazar por una respuesta consciente?"
+      },
+      {
+        "id": "major_07_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué creencia merece ser cuestionada antes de seguir guiando tus decisiones?"
+      },
+      {
+        "id": "major_07_challenge_05",
+        "intensity": 4,
+        "tags": ["mindfulness"],
+        "question": "¿Qué distracción puedes reducir para recuperar más atención para ti?"
+      },
+      {
+        "id": "major_07_challenge_06",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué decisión importante merece unos minutos de observación antes de tomarla?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_07_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ayuda a ver cosas de ti que normalmente no notas?"
+      },
+      {
+        "id": "major_07_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te enseñó a escuchar más y hablar menos?"
+      },
+      {
+        "id": "major_07_connection_03",
+        "intensity": 3,
+        "tags": ["honesty"],
+        "question": "¿Qué persona siempre te dice la verdad aunque no sea fácil escucharla?"
+      },
+      {
+        "id": "major_07_connection_04",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Quién cambió tu forma de ver el mundo con una sola conversación?"
+      },
+      {
+        "id": "major_07_connection_05",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Con quién sientes que puedes tener conversaciones que realmente te hacen crecer?"
+      },
+      {
+        "id": "major_07_connection_06",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién suele hacerte las preguntas que más te hacen pensar?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "major_13_transformation",
+  "name": "Transformation",
+  "arcana": "Major",
+  "number": 13,
+  "traditionalEquivalent": "Death",
+  "meaning": "Representa el final necesario que permite un nuevo comienzo. Habla de soltar identidades, relaciones, hábitos o etapas que ya cumplieron su propósito. No simboliza una pérdida, sino la oportunidad de renacer con mayor autenticidad.",
+  "coreMessage": "Toda transformación profunda comienza cuando tienes el valor de dejar ir lo que ya no eres.",
+  "keywords": [
+    "Transformación",
+    "Renacimiento",
+    "Cambio",
+    "Desapego",
+    "Cierre",
+    "Evolución",
+    "Renovación",
+    "Liberación"
+  ],
+  "light": [
+    "Renovación",
+    "Aceptación",
+    "Crecimiento",
+    "Adaptación",
+    "Libertad"
+  ],
+  "shadow": [
+    "Apego",
+    "Resistencia",
+    "Miedo a perder",
+    "Estancamiento",
+    "Negación"
+  ],
+  "invitation": "No te aferres a lo que ya terminó. Cada cierre crea el espacio para algo nuevo.",
+  "axes": [
+    "Transformación",
+    "Desapego",
+    "Renacimiento",
+    "Cambio",
+    "Cierre"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_13_playful_01",
+        "intensity": 1,
+        "tags": ["change"],
+        "question": "¿Qué moda, hobby o etapa tuya recuerdas con cariño pero sabes que ya quedó atrás?"
+      },
+      {
+        "id": "major_13_playful_02",
+        "intensity": 1,
+        "tags": ["growth"],
+        "question": "¿Qué costumbre abandonaste y hoy agradeces haber dejado?"
+      },
+      {
+        "id": "major_13_playful_03",
+        "intensity": 2,
+        "tags": ["renewal"],
+        "question": "¿Qué cambio pequeño hizo una gran diferencia en tu vida?"
+      },
+      {
+        "id": "major_13_playful_04",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué versión pasada de ti te resulta más curiosa recordar?"
+      },
+      {
+        "id": "major_13_playful_05",
+        "intensity": 2,
+        "tags": ["habits"],
+        "question": "¿Qué hábito viejo reemplazaste por uno mejor?"
+      },
+      {
+        "id": "major_13_playful_06",
+        "intensity": 2,
+        "tags": ["identity"],
+        "question": "¿Qué aspecto de tu personalidad ha cambiado más con los años?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_13_thoughtful_01",
+        "intensity": 3,
+        "tags": ["transformation"],
+        "question": "¿Qué etapa de tu vida terminó convirtiéndose en un nuevo comienzo?"
+      },
+      {
+        "id": "major_13_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendizaje solo llegó después de dejar ir algo importante?"
+      },
+      {
+        "id": "major_13_thoughtful_03",
+        "intensity": 3,
+        "tags": ["acceptance"],
+        "question": "¿Qué cambio te costó aceptar pero terminó beneficiándote?"
+      },
+      {
+        "id": "major_13_thoughtful_04",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti ya no representa quién eres hoy?"
+      },
+      {
+        "id": "major_13_thoughtful_05",
+        "intensity": 3,
+        "tags": ["letting_go"],
+        "question": "¿Qué fue más difícil: empezar algo nuevo o cerrar una etapa?"
+      },
+      {
+        "id": "major_13_thoughtful_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué decisión marcó un antes y un después en tu vida?"
+      },
+      {
+        "id": "major_13_thoughtful_07",
+        "intensity": 3,
+        "tags": ["renewal"],
+        "question": "¿Qué oportunidad apareció gracias a un final inesperado?"
+      },
+      {
+        "id": "major_13_thoughtful_08",
+        "intensity": 3,
+        "tags": ["evolution"],
+        "question": "¿Cómo sabes cuándo una etapa ya cumplió su propósito?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_13_deep_01",
+        "intensity": 5,
+        "tags": ["letting_go"],
+        "question": "¿Qué necesitas dejar atrás para poder avanzar realmente?"
+      },
+      {
+        "id": "major_13_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué versión de ti sigue intentando sobrevivir aunque ya no la necesites?"
+      },
+      {
+        "id": "major_13_deep_03",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué es lo que más temes perder si aceptas un cambio profundo?"
+      },
+      {
+        "id": "major_13_deep_04",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Cuál ha sido la transformación más dolorosa y al mismo tiempo más valiosa de tu vida?"
+      },
+      {
+        "id": "major_13_deep_05",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué duelo emocional sigues intentando evitar?"
+      },
+      {
+        "id": "major_13_deep_06",
+        "intensity": 5,
+        "tags": ["renewal"],
+        "question": "¿Qué nuevo comienzo está esperando a que cierres un capítulo pendiente?"
+      },
+      {
+        "id": "major_13_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué final terminó revelando quién eras realmente?"
+      },
+      {
+        "id": "major_13_deep_08",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué ganarías si dejaras de aferrarte a aquello que ya terminó?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_13_challenge_01",
+        "intensity": 4,
+        "tags": ["letting_go"],
+        "question": "¿Qué objeto, hábito o compromiso podrías soltar esta semana?"
+      },
+      {
+        "id": "major_13_challenge_02",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué final has estado posponiendo por comodidad?"
+      },
+      {
+        "id": "major_13_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué versión de ti necesita despedirse para que aparezca una mejor?"
+      },
+      {
+        "id": "major_13_challenge_04",
+        "intensity": 4,
+        "tags": ["acceptance"],
+        "question": "¿Qué realidad puedes aceptar hoy en lugar de seguir luchando contra ella?"
+      },
+      {
+        "id": "major_13_challenge_05",
+        "intensity": 4,
+        "tags": ["renewal"],
+        "question": "¿Qué espacio puedes crear en tu vida para que entre algo nuevo?"
+      },
+      {
+        "id": "major_13_challenge_06",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Cuál será el primer paso concreto hacia tu próximo capítulo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_13_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién estuvo contigo durante uno de los cambios más difíciles de tu vida?"
+      },
+      {
+        "id": "major_13_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te ayudó a soltar algo que ya no te hacía bien?"
+      },
+      {
+        "id": "major_13_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué persona te enseñó que los finales también pueden ser oportunidades?"
+      },
+      {
+        "id": "major_13_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién ha acompañado mejor tu evolución personal?"
+      },
+      {
+        "id": "major_13_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué relación transformó profundamente la forma en que ves la vida?"
+      },
+      {
+        "id": "major_13_connection_06",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿A quién le agradecerías haber aparecido justo cuando comenzabas una nueva etapa?"
+      }
+    ]
+  }
+}

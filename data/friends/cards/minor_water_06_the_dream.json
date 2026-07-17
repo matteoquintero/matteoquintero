@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_06_the_dream",
+  "name": "The Dream",
+  "arcana": "Minor",
+  "number": 6,
+  "traditionalEquivalent": "Six of Cups",
+  "meaning": "Representa la tendencia a vivir dentro de ideales, fantasías o expectativas que parecen perfectas, pero que rara vez coinciden con la realidad. Los sueños pueden inspirar, pero cuando nos aferramos a ellos como única forma válida de felicidad, terminamos perdiéndonos el presente. Esta carta invita a diferenciar entre una visión que impulsa y una ilusión que limita.",
+  "coreMessage": "Los sueños pueden guiarte, pero no permitas que te impidan vivir la realidad que ya tienes frente a ti.",
+  "keywords": [
+    "Sueños",
+    "Ilusión",
+    "Expectativas",
+    "Imaginación",
+    "Idealización",
+    "Realidad",
+    "Esperanza",
+    "Conciencia"
+  ],
+  "light": [
+    "Inspiración",
+    "Creatividad",
+    "Visión",
+    "Esperanza",
+    "Optimismo"
+  ],
+  "shadow": [
+    "Idealización",
+    "Escapismo",
+    "Expectativas irreales",
+    "Desilusión",
+    "Negación"
+  ],
+  "invitation": "Persigue tus sueños sin perder el contacto con el presente. La vida real también merece ser vivida.",
+  "axes": [
+    "Sueños",
+    "Realidad",
+    "Expectativas",
+    "Conciencia",
+    "Presencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_06_playful_01",
+        "intensity": 1,
+        "tags": ["dreams"],
+        "question": "¿Qué sueño de niño todavía recuerdas con una sonrisa?"
+      },
+      {
+        "id": "minor_water_06_playful_02",
+        "intensity": 1,
+        "tags": ["imagination"],
+        "question": "Si pudieras cumplir un sueño imposible por un día, ¿cuál elegirías?"
+      },
+      {
+        "id": "minor_water_06_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué imaginabas que sería muy diferente cuando fueras adulto?"
+      },
+      {
+        "id": "minor_water_06_playful_04",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Cuál fue una expectativa que terminó siendo completamente distinta a la realidad?"
+      },
+      {
+        "id": "minor_water_06_playful_05",
+        "intensity": 2,
+        "tags": ["travel"],
+        "question": "¿Qué lugar has imaginado tantas veces que sientes que ya lo conoces?"
+      },
+      {
+        "id": "minor_water_06_playful_06",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Sueles imaginar muchos escenarios antes de que ocurra algo importante?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_06_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué sueño ha permanecido contigo durante más tiempo?"
+      },
+      {
+        "id": "minor_water_06_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué expectativa has tenido que ajustar para sentirte más feliz?"
+      },
+      {
+        "id": "minor_water_06_thoughtful_03",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué aspecto de tu vida actual supera lo que alguna vez imaginaste?"
+      },
+      {
+        "id": "minor_water_06_thoughtful_04",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo distingues una meta realista de una ilusión?"
+      },
+      {
+        "id": "minor_water_06_thoughtful_05",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué papel juegan los sueños en tus decisiones?"
+      },
+      {
+        "id": "minor_water_06_thoughtful_06",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué aprendiste de un sueño que nunca llegó a cumplirse?"
+      },
+      {
+        "id": "minor_water_06_thoughtful_07",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué expectativa suele hacerte sufrir más de la cuenta?"
+      },
+      {
+        "id": "minor_water_06_thoughtful_08",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Cómo disfrutas el camino mientras persigues un objetivo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_06_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué sueño sigues persiguiendo porque realmente es tuyo y no porque alguien más lo esperaba de ti?"
+      },
+      {
+        "id": "minor_water_06_deep_02",
+        "intensity": 5,
+        "tags": ["expectations"],
+        "question": "¿Qué expectativa ha condicionado gran parte de tus decisiones?"
+      },
+      {
+        "id": "minor_water_06_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué parte de tu vida idealizas cuando en realidad también tuvo momentos difíciles?"
+      },
+      {
+        "id": "minor_water_06_deep_04",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué desilusión terminó acercándote a una realidad mejor?"
+      },
+      {
+        "id": "minor_water_06_deep_05",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué sueño merece seguir vivo y cuál ya cumplió su propósito?"
+      },
+      {
+        "id": "minor_water_06_deep_06",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué dejarías de esperar para empezar a disfrutar lo que ya tienes?"
+      },
+      {
+        "id": "minor_water_06_deep_07",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿En qué momento descubriste que la realidad podía ser mejor que tu imaginación?"
+      },
+      {
+        "id": "minor_water_06_deep_08",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué versión de tu vida dejarías de perseguir si supieras que nunca llegará a existir?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_06_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué pequeño paso puedes dar hoy para acercarte a un sueño real?"
+      },
+      {
+        "id": "minor_water_06_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué expectativa poco realista necesitas abandonar?"
+      },
+      {
+        "id": "minor_water_06_challenge_03",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué aspecto de tu vida merece más atención que tus fantasías sobre el futuro?"
+      },
+      {
+        "id": "minor_water_06_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué decisión estás posponiendo esperando el momento perfecto?"
+      },
+      {
+        "id": "minor_water_06_challenge_05",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué ilusión podrías reemplazar por un plan concreto?"
+      },
+      {
+        "id": "minor_water_06_challenge_06",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué ganarías si aceptaras la realidad tal como es hoy?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_06_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha creído en tus sueños incluso cuando tú dudabas?"
+      },
+      {
+        "id": "minor_water_06_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién disfrutas hablar sobre tus proyectos futuros?"
+      },
+      {
+        "id": "minor_water_06_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona te ayudó a aterrizar un sueño sin destruir tu ilusión?"
+      },
+      {
+        "id": "minor_water_06_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué sueño compartes con alguien importante en tu vida?"
+      },
+      {
+        "id": "minor_water_06_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién suele ayudarte a diferenciar entre una buena idea y una fantasía?"
+      },
+      {
+        "id": "minor_water_06_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién celebrarías primero el cumplimiento de uno de tus grandes sueños?"
+      }
+    ]
+  }
+}

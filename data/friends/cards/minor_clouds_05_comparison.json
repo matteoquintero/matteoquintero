@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_05_comparison",
+  "name": "Comparison",
+  "arcana": "Minor",
+  "number": 5,
+  "traditionalEquivalent": "Five of Swords",
+  "meaning": "Representa la tendencia de la mente a medir constantemente nuestro valor en función de los demás. La comparación crea la ilusión de superioridad o inferioridad, haciendo imposible experimentar una satisfacción genuina. Esta carta invita a abandonar la competencia innecesaria y reconocer que cada persona vive un camino distinto con tiempos, talentos y desafíos propios.",
+  "coreMessage": "Mientras midas tu vida con la regla de otros, nunca descubrirás el verdadero valor de la tuya.",
+  "keywords": [
+    "Comparación",
+    "Competencia",
+    "Autoestima",
+    "Envidia",
+    "Aceptación",
+    "Individualidad",
+    "Autenticidad",
+    "Perspectiva"
+  ],
+  "light": [
+    "Autoaceptación",
+    "Inspiración",
+    "Confianza",
+    "Autenticidad",
+    "Valor propio"
+  ],
+  "shadow": [
+    "Envidia",
+    "Inferioridad",
+    "Superioridad",
+    "Competencia constante",
+    "Insatisfacción"
+  ],
+  "invitation": "Deja de preguntarte si vas delante o detrás de los demás. Pregúntate si estás avanzando respecto a quien eras ayer.",
+  "axes": [
+    "Autoestima",
+    "Autenticidad",
+    "Comparación",
+    "Confianza",
+    "Crecimiento"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_05_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿En qué eres sorprendentemente bueno aunque casi nadie lo sepa?"
+      },
+      {
+        "id": "minor_clouds_05_playful_02",
+        "intensity": 1,
+        "tags": ["humor"],
+        "question": "¿Qué habilidad de otra persona siempre has dicho: 'ojalá yo tuviera eso'?"
+      },
+      {
+        "id": "minor_clouds_05_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué logro pequeño te hizo sentir muy orgulloso de ti mismo?"
+      },
+      {
+        "id": "minor_clouds_05_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué comparación absurda recuerdas haber hecho alguna vez?"
+      },
+      {
+        "id": "minor_clouds_05_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué talento admiras en otras personas sin sentir necesidad de competir?"
+      },
+      {
+        "id": "minor_clouds_05_playful_06",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad has desarrollado con práctica más que con talento natural?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_05_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con qué tipo de personas tiendes a compararte más?"
+      },
+      {
+        "id": "minor_clouds_05_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste la última vez que dejaste de competir y empezaste a colaborar?"
+      },
+      {
+        "id": "minor_clouds_05_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo afecta la comparación a tu motivación?"
+      },
+      {
+        "id": "minor_clouds_05_thoughtful_04",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué cualidad tuya valoras más hoy que hace cinco años?"
+      },
+      {
+        "id": "minor_clouds_05_thoughtful_05",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo conviertes la admiración por alguien en inspiración en lugar de frustración?"
+      },
+      {
+        "id": "minor_clouds_05_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué éxito ajeno te alegró sinceramente?"
+      },
+      {
+        "id": "minor_clouds_05_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué comparación has descubierto que era injusta contigo mismo?"
+      },
+      {
+        "id": "minor_clouds_05_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Cómo definirías el éxito sin mencionar a ninguna otra persona?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_05_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu autoestima depende demasiado de cómo les va a los demás?"
+      },
+      {
+        "id": "minor_clouds_05_deep_02",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué sueño has dejado de perseguir porque alguien parecía hacerlo mejor que tú?"
+      },
+      {
+        "id": "minor_clouds_05_deep_03",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué cambiaría si midieras tu progreso únicamente contra tu propia historia?"
+      },
+      {
+        "id": "minor_clouds_05_deep_04",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué inseguridad suele activarse cuando ves el éxito de otras personas?"
+      },
+      {
+        "id": "minor_clouds_05_deep_05",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué aspecto único de ti has subestimado por enfocarte demasiado en otros?"
+      },
+      {
+        "id": "minor_clouds_05_deep_06",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué significa para ti tener una vida exitosa aunque nadie la aplauda?"
+      },
+      {
+        "id": "minor_clouds_05_deep_07",
+        "intensity": 5,
+        "tags": ["self-worth"],
+        "question": "¿Cuándo fue la última vez que te sentiste suficiente sin necesidad de demostrar nada?"
+      },
+      {
+        "id": "minor_clouds_05_deep_08",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué dejarías de hacer inmediatamente si dejaras de compararte con los demás?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_05_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué logro personal merece más reconocimiento por parte de ti mismo?"
+      },
+      {
+        "id": "minor_clouds_05_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué comparación puedes abandonar desde hoy?"
+      },
+      {
+        "id": "minor_clouds_05_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad puedes desarrollar sin preocuparte por quién es mejor?"
+      },
+      {
+        "id": "minor_clouds_05_challenge_04",
+        "intensity": 4,
+        "tags": ["gratitude"],
+        "question": "¿Qué tres cualidades propias deberías reconocer con más frecuencia?"
+      },
+      {
+        "id": "minor_clouds_05_challenge_05",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué decisión tomarías si dejaras de pensar en cómo te compararán los demás?"
+      },
+      {
+        "id": "minor_clouds_05_challenge_06",
+        "intensity": 4,
+        "tags": ["confidence"],
+        "question": "¿Qué harás esta semana para fortalecer tu confianza sin buscar validación externa?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_05_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ha hecho sentir valioso simplemente por ser tú?"
+      },
+      {
+        "id": "minor_clouds_05_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué persona admiras profundamente sin sentir competencia hacia ella?"
+      },
+      {
+        "id": "minor_clouds_05_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te ayudó a descubrir una fortaleza que tú no veías?"
+      },
+      {
+        "id": "minor_clouds_05_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué miembro de tu familia te enseñó a valorar tu propio camino?"
+      },
+      {
+        "id": "minor_clouds_05_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién celebra tus logros sin compararlos con los de nadie más?"
+      },
+      {
+        "id": "minor_clouds_05_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿A quién te gustaría reconocer hoy por inspirarte a crecer sin competir?"
+      }
+    }
+  }
+}

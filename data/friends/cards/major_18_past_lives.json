@@ -1,0 +1,325 @@
+{
+  "id": "major_18_past_lives",
+  "name": "Past Lives",
+  "arcana": "Major",
+  "number": 18,
+  "traditionalEquivalent": "The Moon",
+  "meaning": "Representa la influencia que el pasado sigue teniendo sobre el presente. Más allá de una interpretación literal de vidas pasadas, esta carta habla de recuerdos, heridas, experiencias, patrones y emociones que continúan moldeando nuestras decisiones sin que siempre seamos conscientes de ello.",
+  "coreMessage": "El pasado solo deja de dirigir tu vida cuando decides comprenderlo en lugar de repetirlo.",
+  "keywords": [
+    "Pasado",
+    "Memoria",
+    "Patrones",
+    "Heridas",
+    "Inconsciente",
+    "Repetición",
+    "Sanación",
+    "Historia"
+  ],
+  "light": [
+    "Comprensión",
+    "Sanación",
+    "Aprendizaje",
+    "Aceptación",
+    "Liberación"
+  ],
+  "shadow": [
+    "Resentimiento",
+    "Nostalgia",
+    "Patrones repetitivos",
+    "Heridas abiertas",
+    "Miedo"
+  ],
+  "invitation": "Observa qué parte de tu historia todavía está escribiendo tu presente.",
+  "axes": [
+    "Pasado",
+    "Memoria",
+    "Patrones",
+    "Sanación",
+    "Conciencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_18_playful_01",
+        "intensity": 1,
+        "tags": [
+          "childhood"
+        ],
+        "question": "¿Qué olor o sabor te transporta inmediatamente a tu infancia?"
+      },
+      {
+        "id": "major_18_playful_02",
+        "intensity": 1,
+        "tags": [
+          "memories"
+        ],
+        "question": "¿Qué objeto antiguo te costaría mucho trabajo regalar?"
+      },
+      {
+        "id": "major_18_playful_03",
+        "intensity": 2,
+        "tags": [
+          "nostalgia"
+        ],
+        "question": "¿Qué época de tu vida recuerdas con más cariño?"
+      },
+      {
+        "id": "major_18_playful_04",
+        "intensity": 2,
+        "tags": [
+          "music"
+        ],
+        "question": "¿Qué canción te hace viajar automáticamente a otro momento de tu vida?"
+      },
+      {
+        "id": "major_18_playful_05",
+        "intensity": 2,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué versión de ti te da hoy más ternura recordar?"
+      },
+      {
+        "id": "major_18_playful_06",
+        "intensity": 2,
+        "tags": [
+          "stories"
+        ],
+        "question": "¿Qué anécdota familiar has escuchado tantas veces que parece un recuerdo propio?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_18_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué experiencia del pasado sigue influyendo en decisiones que tomas hoy?"
+      },
+      {
+        "id": "major_18_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué aprendizaje importante surgió de un momento difícil?"
+      },
+      {
+        "id": "major_18_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "patterns"
+        ],
+        "question": "¿Qué patrón has descubierto que se repite en tu vida?"
+      },
+      {
+        "id": "major_18_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué parte de tu historia explica mejor quién eres hoy?"
+      },
+      {
+        "id": "major_18_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Qué enseñanza familiar todavía guía muchas de tus decisiones?"
+      },
+      {
+        "id": "major_18_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "change"
+        ],
+        "question": "¿Qué hábito cambiaste porque entendiste de dónde venía?"
+      },
+      {
+        "id": "major_18_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué versión de tu pasado hoy interpretarías de una manera diferente?"
+      },
+      {
+        "id": "major_18_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "healing"
+        ],
+        "question": "¿Qué recuerdo dejó de doler cuando lograste comprenderlo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_18_deep_01",
+        "intensity": 5,
+        "tags": [
+          "healing"
+        ],
+        "question": "¿Qué herida del pasado sientes que todavía necesita ser escuchada?"
+      },
+      {
+        "id": "major_18_deep_02",
+        "intensity": 5,
+        "tags": [
+          "patterns"
+        ],
+        "question": "¿Qué comportamiento repites aunque sabes que ya no te hace bien?"
+      },
+      {
+        "id": "major_18_deep_03",
+        "intensity": 5,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué parte de tu personalidad nació como una forma de protegerte?"
+      },
+      {
+        "id": "major_18_deep_04",
+        "intensity": 5,
+        "tags": [
+          "forgiveness"
+        ],
+        "question": "¿Hay alguien del pasado a quien todavía no logras perdonar? ¿Qué lo hace tan difícil?"
+      },
+      {
+        "id": "major_18_deep_05",
+        "intensity": 5,
+        "tags": [
+          "self"
+        ],
+        "question": "¿Qué le dirías hoy a una versión mucho más joven de ti?"
+      },
+      {
+        "id": "major_18_deep_06",
+        "intensity": 5,
+        "tags": [
+          "acceptance"
+        ],
+        "question": "¿Qué parte de tu historia dejó de avergonzarte cuando aprendiste a aceptarla?"
+      },
+      {
+        "id": "major_18_deep_07",
+        "intensity": 5,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué emoción aparece con más frecuencia cuando piensas en tu pasado?"
+      },
+      {
+        "id": "major_18_deep_08",
+        "intensity": 5,
+        "tags": [
+          "freedom"
+        ],
+        "question": "¿Qué capítulo de tu vida sientes que finalmente lograste cerrar?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_18_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "patterns"
+        ],
+        "question": "¿Qué patrón sería importante romper antes de que vuelva a repetirse?"
+      },
+      {
+        "id": "major_18_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué historia sobre ti mismo llevas años repitiendo y quizá ya no sea cierta?"
+      },
+      {
+        "id": "major_18_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué decisión tomarías diferente si no cargaras con una experiencia pasada?"
+      },
+      {
+        "id": "major_18_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "healing"
+        ],
+        "question": "¿Qué conversación pendiente podría ayudarte a sanar una parte de tu historia?"
+      },
+      {
+        "id": "major_18_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Qué emoción antigua aparece cada vez que enfrentas un conflicto nuevo?"
+      },
+      {
+        "id": "major_18_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "change"
+        ],
+        "question": "¿Qué pequeño paso podrías dar esta semana para dejar atrás un patrón que ya no te representa?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_18_connection_01",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Quién marcó más profundamente tu forma de ver el mundo durante tu infancia?"
+      },
+      {
+        "id": "major_18_connection_02",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿A quién le agradeces haber cambiado el rumbo de tu historia?"
+      },
+      {
+        "id": "major_18_connection_03",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Quién conoce una versión de ti que ya casi nadie recuerda?"
+      },
+      {
+        "id": "major_18_connection_04",
+        "intensity": 3,
+        "tags": [
+          "memories"
+        ],
+        "question": "¿Con quién compartes los recuerdos más importantes de tu vida?"
+      },
+      {
+        "id": "major_18_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Quién estuvo contigo durante una etapa que cambió tu historia?"
+      },
+      {
+        "id": "major_18_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué persona te ayudó a reconciliarte con una parte de tu pasado?"
+      }
+    ]
+  }
+}

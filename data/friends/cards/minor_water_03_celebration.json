@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_03_celebration",
+  "name": "Celebration",
+  "arcana": "Minor",
+  "number": 3,
+  "traditionalEquivalent": "Three of Cups",
+  "meaning": "Representa la alegría que nace al compartir la vida con otros. La celebración auténtica no depende de grandes logros ni de circunstancias perfectas, sino de la capacidad de reconocer, agradecer y disfrutar el presente junto a quienes enriquecen nuestro camino.",
+  "coreMessage": "La felicidad crece cuando deja de vivirse en soledad y empieza a compartirse.",
+  "keywords": [
+    "Celebración",
+    "Gratitud",
+    "Alegría",
+    "Comunidad",
+    "Amistad",
+    "Abundancia",
+    "Compartir",
+    "Presencia"
+  ],
+  "light": [
+    "Alegría genuina",
+    "Gratitud",
+    "Conexión",
+    "Optimismo",
+    "Generosidad"
+  ],
+  "shadow": [
+    "Dar por sentado",
+    "Comparación",
+    "Soledad",
+    "Superficialidad",
+    "Incapacidad de disfrutar"
+  ],
+  "invitation": "Detente un momento para reconocer todo aquello que ya merece ser celebrado en tu vida.",
+  "axes": [
+    "Gratitud",
+    "Relaciones",
+    "Alegría",
+    "Presencia",
+    "Compartir"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_03_playful_01",
+        "intensity": 1,
+        "tags": ["celebration"],
+        "question": "¿Qué excusa inventarías para organizar una celebración este fin de semana?"
+      },
+      {
+        "id": "minor_water_03_playful_02",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Cuál ha sido la mejor fiesta o celebración a la que has asistido?"
+      },
+      {
+        "id": "minor_water_03_playful_03",
+        "intensity": 2,
+        "tags": ["friendship"],
+        "question": "¿Quién siempre logra levantar el ánimo de cualquier reunión?"
+      },
+      {
+        "id": "minor_water_03_playful_04",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Eres quien organiza los planes o quien espera la invitación?"
+      },
+      {
+        "id": "minor_water_03_playful_05",
+        "intensity": 2,
+        "tags": ["joy"],
+        "question": "¿Qué pequeña cosa puede hacer que tu día cambie por completo para bien?"
+      },
+      {
+        "id": "minor_water_03_playful_06",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué logro pequeño crees que la gente debería celebrar más?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_03_thoughtful_01",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué motivo tienes hoy para sentirte agradecido?"
+      },
+      {
+        "id": "minor_water_03_thoughtful_02",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con qué frecuencia celebras tus propios avances?"
+      },
+      {
+        "id": "minor_water_03_thoughtful_03",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué personas hacen que los buenos momentos sean aún mejores?"
+      },
+      {
+        "id": "minor_water_03_thoughtful_04",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué logro personal te hubiera gustado celebrar más?"
+      },
+      {
+        "id": "minor_water_03_thoughtful_05",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué tan fácil te resulta reconocer lo bueno mientras está ocurriendo?"
+      },
+      {
+        "id": "minor_water_03_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué costumbre te ayuda a disfrutar más el presente?"
+      },
+      {
+        "id": "minor_water_03_thoughtful_07",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué diferencia hay entre divertirse y celebrar de verdad?"
+      },
+      {
+        "id": "minor_water_03_thoughtful_08",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué etapa de tu vida recuerdas con una sonrisa al pensar en ella?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_03_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué éxito has minimizado porque sentías que todavía no era suficiente?"
+      },
+      {
+        "id": "minor_water_03_deep_02",
+        "intensity": 5,
+        "tags": ["gratitude"],
+        "question": "¿Qué aspecto de tu vida valoras mucho más hoy que hace cinco años?"
+      },
+      {
+        "id": "minor_water_03_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué momento cotidiano podría convertirse en un recuerdo inolvidable si lo vivieras con más presencia?"
+      },
+      {
+        "id": "minor_water_03_deep_04",
+        "intensity": 5,
+        "tags": ["joy"],
+        "question": "¿Qué significa para ti una vida verdaderamente plena?"
+      },
+      {
+        "id": "minor_water_03_deep_05",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Con quién sientes que puedes celebrar incluso los pequeños triunfos?"
+      },
+      {
+        "id": "minor_water_03_deep_06",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué has aprendido sobre la felicidad que antes no entendías?"
+      },
+      {
+        "id": "minor_water_03_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué te gustaría estar celebrando dentro de cinco años?"
+      },
+      {
+        "id": "minor_water_03_deep_08",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿Qué te impide disfrutar plenamente los buenos momentos mientras suceden?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_03_challenge_01",
+        "intensity": 4,
+        "tags": ["gratitude"],
+        "question": "¿Qué logro personal merece un reconocimiento que todavía no te has dado?"
+      },
+      {
+        "id": "minor_water_03_challenge_02",
+        "intensity": 4,
+        "tags": ["relationships"],
+        "question": "¿Con quién deberías compartir una buena noticia que aún no has contado?"
+      },
+      {
+        "id": "minor_water_03_challenge_03",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué costumbre te hace enfocarte más en lo que falta que en lo que ya tienes?"
+      },
+      {
+        "id": "minor_water_03_challenge_04",
+        "intensity": 4,
+        "tags": ["joy"],
+        "question": "¿Qué podrías hacer esta semana simplemente porque te hace feliz?"
+      },
+      {
+        "id": "minor_water_03_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué momento importante podrías vivir con menos prisa?"
+      },
+      {
+        "id": "minor_water_03_challenge_06",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué vas a celebrar hoy, aunque parezca algo pequeño?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_03_connection_01",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién siempre celebra tus éxitos como si fueran propios?"
+      },
+      {
+        "id": "minor_water_03_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién te gustaría agradecer por haber estado presente en tus mejores momentos?"
+      },
+      {
+        "id": "minor_water_03_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué celebración familiar recuerdas con más cariño?"
+      },
+      {
+        "id": "minor_water_03_connection_04",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Con quién disfrutas más los momentos simples de la vida?"
+      },
+      {
+        "id": "minor_water_03_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién ha estado presente tanto en tus victorias como en tus derrotas?"
+      },
+      {
+        "id": "minor_water_03_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona merece celebrar hoy junto contigo algo que construyeron entre ambos?"
+      }
+    ]
+  }
+}

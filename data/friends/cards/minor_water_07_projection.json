@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_07_projection",
+  "name": "Projection",
+  "arcana": "Minor",
+  "number": 7,
+  "traditionalEquivalent": "Seven of Cups",
+  "meaning": "Representa la tendencia a interpretar a las personas y las situaciones a través de nuestras propias creencias, deseos, heridas o miedos. Muchas veces no vemos la realidad tal como es, sino como somos nosotros. Esta carta invita a cuestionar las historias que construimos antes de sacar conclusiones.",
+  "coreMessage": "Cuando dejas de proyectar tus expectativas sobre los demás, puedes empezar a verlos de verdad.",
+  "keywords": [
+    "Proyección",
+    "Percepción",
+    "Ilusión",
+    "Expectativas",
+    "Autoconocimiento",
+    "Conciencia",
+    "Relaciones",
+    "Realidad"
+  ],
+  "light": [
+    "Claridad",
+    "Objetividad",
+    "Empatía",
+    "Conciencia",
+    "Honestidad"
+  ],
+  "shadow": [
+    "Idealización",
+    "Juicio",
+    "Suposiciones",
+    "Autoengaño",
+    "Desconfianza"
+  ],
+  "invitation": "Antes de interpretar las acciones de alguien, pregúntate cuánto de esa historia pertenece realmente a la otra persona y cuánto nace de ti.",
+  "axes": [
+    "Percepción",
+    "Conciencia",
+    "Relaciones",
+    "Expectativas",
+    "Autoconocimiento"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_07_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Alguna vez conociste a alguien que terminó siendo completamente diferente a tu primera impresión?"
+      },
+      {
+        "id": "minor_water_07_playful_02",
+        "intensity": 1,
+        "tags": ["humor"],
+        "question": "¿Qué estereotipo sobre ti suele equivocarse la gente?"
+      },
+      {
+        "id": "minor_water_07_playful_03",
+        "intensity": 2,
+        "tags": ["relationships"],
+        "question": "¿Qué detalle pequeño hace que alguien te inspire confianza rápidamente?"
+      },
+      {
+        "id": "minor_water_07_playful_04",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué película o libro te hizo cambiar completamente de opinión sobre un personaje?"
+      },
+      {
+        "id": "minor_water_07_playful_05",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Cuál fue una situación que parecía un desastre y terminó siendo algo positivo?"
+      },
+      {
+        "id": "minor_water_07_playful_06",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué primera impresión recuerdas que resultó estar totalmente equivocada?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_07_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con qué frecuencia revisas tus primeras impresiones sobre una persona?"
+      },
+      {
+        "id": "minor_water_07_thoughtful_02",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué has aprendido sobre juzgar demasiado rápido?"
+      },
+      {
+        "id": "minor_water_07_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué emoción suele influir más en tu forma de interpretar las acciones de otros?"
+      },
+      {
+        "id": "minor_water_07_thoughtful_04",
+        "intensity": 3,
+        "tags": ["communication"],
+        "question": "¿Qué malentendido importante se habría evitado haciendo una sola pregunta?"
+      },
+      {
+        "id": "minor_water_07_thoughtful_05",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia te enseñó que las apariencias engañan?"
+      },
+      {
+        "id": "minor_water_07_thoughtful_06",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Cómo intentas verificar una historia antes de creerla?"
+      },
+      {
+        "id": "minor_water_07_thoughtful_07",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué aspecto de ti suele ser malinterpretado por quienes apenas te conocen?"
+      },
+      {
+        "id": "minor_water_07_thoughtful_08",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo equilibras la intuición con la evidencia al conocer a alguien?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_07_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué miedo personal has proyectado sobre otras personas sin darte cuenta?"
+      },
+      {
+        "id": "minor_water_07_deep_02",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué relación cambió cuando decidiste dejar de asumir las intenciones del otro?"
+      },
+      {
+        "id": "minor_water_07_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué historia te has contado durante años que hoy empiezas a cuestionar?"
+      },
+      {
+        "id": "minor_water_07_deep_04",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué parte de ti aparece cuando alguien no cumple tus expectativas?"
+      },
+      {
+        "id": "minor_water_07_deep_05",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste sobre una persona cuando dejaste de verla como querías verla?"
+      },
+      {
+        "id": "minor_water_07_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué cambiaría en tus relaciones si escucharas más y asumieras menos?"
+      },
+      {
+        "id": "minor_water_07_deep_07",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué ilusión te impidió ver una oportunidad real?"
+      },
+      {
+        "id": "minor_water_07_deep_08",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Cómo sabes cuándo estás viendo la realidad y cuándo solo estás viendo un reflejo de ti mismo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_07_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué conversación necesitas tener para reemplazar una suposición por un hecho?"
+      },
+      {
+        "id": "minor_water_07_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué expectativa deberías dejar de poner sobre alguien cercano?"
+      },
+      {
+        "id": "minor_water_07_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué juicio podrías posponer hasta conocer mejor la historia completa?"
+      },
+      {
+        "id": "minor_water_07_challenge_04",
+        "intensity": 4,
+        "tags": ["communication"],
+        "question": "¿Qué pregunta podrías hacer en lugar de asumir una respuesta?"
+      },
+      {
+        "id": "minor_water_07_challenge_05",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué creencia personal podría estar distorsionando tu forma de ver una situación?"
+      },
+      {
+        "id": "minor_water_07_challenge_06",
+        "intensity": 4,
+        "tags": ["relationships"],
+        "question": "¿Qué persona merece que la conozcas sin el filtro de experiencias pasadas?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_07_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién cambió completamente tu percepción después de conocerlo mejor?"
+      },
+      {
+        "id": "minor_water_07_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién suele ayudarte a ver una situación desde otra perspectiva?"
+      },
+      {
+        "id": "minor_water_07_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona tuvo paciencia contigo mientras corregías una idea equivocada?"
+      },
+      {
+        "id": "minor_water_07_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué familiar te ha enseñado más sobre no juzgar por las apariencias?"
+      },
+      {
+        "id": "minor_water_07_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién tiene la capacidad de decirte una verdad incómoda con respeto?"
+      },
+      {
+        "id": "minor_water_07_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría empezar una conversación dejando de lado viejos prejuicios?"
+      }
+    ]
+  }
+}

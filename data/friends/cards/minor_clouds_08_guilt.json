@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_08_guilt",
+  "name": "Guilt",
+  "arcana": "Minor",
+  "number": 8,
+  "traditionalEquivalent": "Eight of Swords",
+  "meaning": "Representa la prisión mental que construimos cuando cargamos con culpas reales o imaginarias. La culpa puede ayudarnos a reconocer un error y repararlo, pero cuando se vuelve permanente deja de ser una guía y se convierte en una condena. Esta carta invita a asumir la responsabilidad sin perder la compasión hacia uno mismo, comprendiendo que aprender también implica perdonarse.",
+  "coreMessage": "La culpa puede enseñarte una lección, pero no fue hecha para convertirse en tu hogar.",
+  "keywords": [
+    "Culpa",
+    "Perdón",
+    "Responsabilidad",
+    "Autojuicio",
+    "Compasión",
+    "Liberación",
+    "Aprendizaje",
+    "Sanación"
+  ],
+  "light": [
+    "Responsabilidad",
+    "Perdón",
+    "Aprendizaje",
+    "Compasión",
+    "Reconciliación"
+  ],
+  "shadow": [
+    "Autojuicio",
+    "Vergüenza",
+    "Remordimiento",
+    "Castigo",
+    "Culpa permanente"
+  ],
+  "invitation": "Reconoce tus errores con honestidad, repara aquello que sea posible y permite que el aprendizaje ocupe el lugar que hoy ocupa la culpa.",
+  "axes": [
+    "Perdón",
+    "Responsabilidad",
+    "Compasión",
+    "Sanación",
+    "Libertad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_08_playful_01",
+        "intensity": 1,
+        "tags": ["humor"],
+        "question": "¿Cuál fue la travesura más inocente por la que te sentiste culpable de niño?"
+      },
+      {
+        "id": "minor_clouds_08_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Te cuesta más pedir perdón o perdonarte a ti mismo?"
+      },
+      {
+        "id": "minor_clouds_08_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué error terminó convirtiéndose en una buena anécdota?"
+      },
+      {
+        "id": "minor_clouds_08_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué pequeña culpa descubres que en realidad nunca fue tan grave?"
+      },
+      {
+        "id": "minor_clouds_08_playful_05",
+        "intensity": 2,
+        "tags": ["relationships"],
+        "question": "¿Quién suele ayudarte a ver las cosas con más compasión?"
+      },
+      {
+        "id": "minor_clouds_08_playful_06",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué error te enseñó algo que hoy agradeces?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_08_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Cómo distingues entre responsabilidad y culpa?"
+      },
+      {
+        "id": "minor_clouds_08_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste de un error que al principio te costó aceptar?"
+      },
+      {
+        "id": "minor_clouds_08_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué tipo de situaciones suelen despertar más culpa en ti?"
+      },
+      {
+        "id": "minor_clouds_08_thoughtful_04",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué significa para ti una disculpa sincera?"
+      },
+      {
+        "id": "minor_clouds_08_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Cómo reaccionas cuando cometes un error importante?"
+      },
+      {
+        "id": "minor_clouds_08_thoughtful_06",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué haces para evitar castigarte más de la cuenta?"
+      },
+      {
+        "id": "minor_clouds_08_thoughtful_07",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona te enseñó que equivocarse también forma parte de crecer?"
+      },
+      {
+        "id": "minor_clouds_08_thoughtful_08",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué error dejó de definirte con el paso del tiempo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_08_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué culpa llevas desde hace demasiado tiempo?"
+      },
+      {
+        "id": "minor_clouds_08_deep_02",
+        "intensity": 5,
+        "tags": ["forgiveness"],
+        "question": "¿Qué necesitarías escuchar para empezar a perdonarte?"
+      },
+      {
+        "id": "minor_clouds_08_deep_03",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Hay alguien a quien aún quisieras pedirle perdón?"
+      },
+      {
+        "id": "minor_clouds_08_deep_04",
+        "intensity": 5,
+        "tags": ["healing"],
+        "question": "¿Qué parte de tu historia merece más comprensión que castigo?"
+      },
+      {
+        "id": "minor_clouds_08_deep_05",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué error sigues usando como prueba de que no eres suficiente?"
+      },
+      {
+        "id": "minor_clouds_08_deep_06",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Cómo sería tu vida si dejaras de identificarte con tus peores decisiones?"
+      },
+      {
+        "id": "minor_clouds_08_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué enseñanza importante nació de una decisión de la que te arrepentiste?"
+      },
+      {
+        "id": "minor_clouds_08_deep_08",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué harías diferente si ya te hubieras perdonado por completo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_08_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué error puedes reparar en lugar de seguir castigándote por él?"
+      },
+      {
+        "id": "minor_clouds_08_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué culpa ya no merece seguir ocupando espacio en tu vida?"
+      },
+      {
+        "id": "minor_clouds_08_challenge_03",
+        "intensity": 4,
+        "tags": ["forgiveness"],
+        "question": "¿Qué acto de compasión puedes tener contigo mismo esta semana?"
+      },
+      {
+        "id": "minor_clouds_08_challenge_04",
+        "intensity": 4,
+        "tags": ["communication"],
+        "question": "¿Qué disculpa pendiente podría traer paz a una relación importante?"
+      },
+      {
+        "id": "minor_clouds_08_challenge_05",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué aprendizaje puedes rescatar de un error que aún te pesa?"
+      },
+      {
+        "id": "minor_clouds_08_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué decisión tomarás para dejar de vivir mirando únicamente hacia el pasado?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_08_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ha perdonado cuando más lo necesitabas?"
+      },
+      {
+        "id": "minor_clouds_08_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién logra recordarte que eres mucho más que tus errores?"
+      },
+      {
+        "id": "minor_clouds_08_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona te enseñó el verdadero significado del perdón?"
+      },
+      {
+        "id": "minor_clouds_08_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué miembro de tu familia te mostró compasión cuando más la necesitabas?"
+      },
+      {
+        "id": "minor_clouds_08_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Con quién puedes hablar de tus errores sin sentirte juzgado?"
+      },
+      {
+        "id": "minor_clouds_08_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿A quién te gustaría agradecer por haberte dado una segunda oportunidad?"
+      }
+    ]
+  }
+}

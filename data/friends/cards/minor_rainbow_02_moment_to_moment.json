@@ -1,0 +1,257 @@
+{
+  "id": "minor_rainbow_02_moment_to_moment",
+  "name": "Moment to Moment",
+  "arcana": "Minor",
+  "number": 2,
+  "traditionalEquivalent": "Two of Pentacles",
+  "meaning": "Representa la capacidad de vivir plenamente el presente sin quedar atrapado entre el pasado y el futuro. La vida sucede paso a paso; intentar controlar demasiado lo que viene o aferrarse a lo que ya ocurrió nos desconecta del único instante donde realmente podemos actuar: el ahora. Esta carta invita a avanzar con confianza, un momento a la vez.",
+  "coreMessage": "No necesitas recorrer todo el camino hoy. Solo necesitas dar el siguiente paso.",
+  "keywords": [
+    "Presencia",
+    "Ahora",
+    "Equilibrio",
+    "Confianza",
+    "Atención",
+    "Fluidez",
+    "Proceso",
+    "Conciencia"
+  ],
+  "light": [
+    "Presencia",
+    "Calma",
+    "Flexibilidad",
+    "Confianza",
+    "Adaptabilidad"
+  ],
+  "shadow": [
+    "Ansiedad",
+    "Preocupación",
+    "Dispersión",
+    "Control excesivo",
+    "Desconexión del presente"
+  ],
+  "invitation": "Vuelve al momento presente. Observa cuál es el siguiente paso posible y entrégale tu atención completa.",
+  "axes": [
+    "Presencia",
+    "Conciencia",
+    "Equilibrio",
+    "Confianza",
+    "Fluidez"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_rainbow_02_playful_01",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué actividad logra que pierdas la noción del tiempo?"
+      },
+      {
+        "id": "minor_rainbow_02_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Sueles planear todo o improvisar más de lo que admites?"
+      },
+      {
+        "id": "minor_rainbow_02_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Cuál ha sido uno de tus mejores momentos espontáneos?"
+      },
+      {
+        "id": "minor_rainbow_02_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué pequeño momento cotidiano disfrutas más de lo que imaginabas?"
+      },
+      {
+        "id": "minor_rainbow_02_playful_05",
+        "intensity": 2,
+        "tags": ["nature"],
+        "question": "¿En qué lugar te resulta más fácil sentirte completamente presente?"
+      },
+      {
+        "id": "minor_rainbow_02_playful_06",
+        "intensity": 2,
+        "tags": ["mindfulness"],
+        "question": "¿Qué haces para volver al presente cuando tu mente se acelera?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_rainbow_02_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué suele distraerte del momento presente?"
+      },
+      {
+        "id": "minor_rainbow_02_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste cuando dejaste de intentar controlarlo todo?"
+      },
+      {
+        "id": "minor_rainbow_02_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo sabes que realmente estás disfrutando un momento?"
+      },
+      {
+        "id": "minor_rainbow_02_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo equilibras la planificación con la capacidad de improvisar?"
+      },
+      {
+        "id": "minor_rainbow_02_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia te enseñó el valor de vivir el presente?"
+      },
+      {
+        "id": "minor_rainbow_02_thoughtful_06",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué hábito te ayuda a mantenerte conectado con el aquí y el ahora?"
+      },
+      {
+        "id": "minor_rainbow_02_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué preocupación terminó siendo mucho menor de lo que imaginabas?"
+      },
+      {
+        "id": "minor_rainbow_02_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti vivir plenamente un día?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_rainbow_02_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué parte de tu vida estás dejando pasar por estar demasiado enfocado en el futuro?"
+      },
+      {
+        "id": "minor_rainbow_02_deep_02",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo hace que te cueste permanecer en el presente?"
+      },
+      {
+        "id": "minor_rainbow_02_deep_03",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué cambiaría si confiaras más en tu capacidad para resolver las cosas cuando lleguen?"
+      },
+      {
+        "id": "minor_rainbow_02_deep_04",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Cuándo fue la última vez que sentiste una paz profunda simplemente por estar presente?"
+      },
+      {
+        "id": "minor_rainbow_02_deep_05",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué decisión importante necesita toda tu atención hoy, en lugar de tus preocupaciones sobre mañana?"
+      },
+      {
+        "id": "minor_rainbow_02_deep_06",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué enseñanza del pasado ya cumplió su función y puedes dejar descansar?"
+      },
+      {
+        "id": "minor_rainbow_02_deep_07",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué sentirías si confiaras en que no necesitas tener todas las respuestas ahora mismo?"
+      },
+      {
+        "id": "minor_rainbow_02_deep_08",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿Qué momento reciente te hizo darte cuenta de que la felicidad suele ser mucho más simple de lo que imaginabas?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_rainbow_02_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué puedes hacer hoy para estar más presente en una conversación importante?"
+      },
+      {
+        "id": "minor_rainbow_02_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué preocupación puedes decidir soltar por el resto del día?"
+      },
+      {
+        "id": "minor_rainbow_02_challenge_03",
+        "intensity": 4,
+        "tags": ["mindfulness"],
+        "question": "¿Qué hábito diario podrías convertir en un momento de atención plena?"
+      },
+      {
+        "id": "minor_rainbow_02_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué paso concreto puedes dar hoy sin esperar a sentirte completamente preparado?"
+      },
+      {
+        "id": "minor_rainbow_02_challenge_05",
+        "intensity": 4,
+        "tags": ["balance"],
+        "question": "¿Qué compromiso merece toda tu atención en este momento?"
+      },
+      {
+        "id": "minor_rainbow_02_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué cambiaría si vivieras el resto del día con total presencia?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_rainbow_02_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Con quién sientes que el tiempo pasa sin darte cuenta?"
+      },
+      {
+        "id": "minor_rainbow_02_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién te ayuda a bajar el ritmo cuando estás demasiado acelerado?"
+      },
+      {
+        "id": "minor_rainbow_02_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona te enseñó, con su ejemplo, a disfrutar el presente?"
+      },
+      {
+        "id": "minor_rainbow_02_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué recuerdo familiar te hace valorar más los momentos simples?"
+      },
+      {
+        "id": "minor_rainbow_02_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Con quién te gustaría compartir un día sin prisas ni distracciones?"
+      },
+      {
+        "id": "minor_rainbow_02_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿A quién agradecerías por haberte enseñado a vivir un momento a la vez?"
+      }
+    ]
+  }
+}

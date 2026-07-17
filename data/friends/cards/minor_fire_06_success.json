@@ -1,0 +1,257 @@
+{
+  "id": "minor_fire_06_success",
+  "name": "Success",
+  "arcana": "Minor",
+  "number": 6,
+  "traditionalEquivalent": "Six of Wands",
+  "meaning": "Representa el éxito que nace de actuar en armonía con uno mismo. No habla de reconocimiento externo ni de competir con otros, sino de experimentar la satisfacción profunda de haber dado lo mejor de uno. Es una invitación a celebrar el camino recorrido sin perder la humildad.",
+  "coreMessage": "El verdadero éxito es sentir que tu vida refleja quién eres.",
+  "keywords": [
+    "Éxito",
+    "Logro",
+    "Confianza",
+    "Realización",
+    "Satisfacción",
+    "Reconocimiento",
+    "Propósito",
+    "Plenitud"
+  ],
+  "light": [
+    "Confianza",
+    "Gratitud",
+    "Realización",
+    "Humildad",
+    "Inspiración"
+  ],
+  "shadow": [
+    "Ego",
+    "Comparación",
+    "Vanidad",
+    "Necesidad de aprobación",
+    "Miedo al fracaso"
+  ],
+  "invitation": "Celebra lo que has logrado, pero recuerda que tu valor nunca depende del aplauso.",
+  "axes": [
+    "Éxito",
+    "Confianza",
+    "Propósito",
+    "Reconocimiento",
+    "Realización"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_fire_06_playful_01",
+        "intensity": 1,
+        "tags": ["achievement"],
+        "question": "¿Cuál fue la primera vez que pensaste: 'lo logré'?"
+      },
+      {
+        "id": "minor_fire_06_playful_02",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Qué pequeño logro recuerdas con más cariño?"
+      },
+      {
+        "id": "minor_fire_06_playful_03",
+        "intensity": 2,
+        "tags": ["competition"],
+        "question": "¿Qué reto ganaste y todavía cuentas la historia?"
+      },
+      {
+        "id": "minor_fire_06_playful_04",
+        "intensity": 2,
+        "tags": ["skills"],
+        "question": "¿Qué habilidad te sorprendió descubrir que tenías?"
+      },
+      {
+        "id": "minor_fire_06_playful_05",
+        "intensity": 2,
+        "tags": ["confidence"],
+        "question": "¿Qué logro hizo que confiaras más en ti?"
+      },
+      {
+        "id": "minor_fire_06_playful_06",
+        "intensity": 2,
+        "tags": ["celebration"],
+        "question": "¿Cuál ha sido la celebración más memorable de un logro personal?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_fire_06_thoughtful_01",
+        "intensity": 3,
+        "tags": ["success"],
+        "question": "¿Cómo defines el éxito hoy y cómo lo definías hace diez años?"
+      },
+      {
+        "id": "minor_fire_06_thoughtful_02",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué logro te costó mucho más de lo que la gente imagina?"
+      },
+      {
+        "id": "minor_fire_06_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué fracaso terminó preparándote para un éxito posterior?"
+      },
+      {
+        "id": "minor_fire_06_thoughtful_04",
+        "intensity": 3,
+        "tags": ["confidence"],
+        "question": "¿Qué experiencia fortaleció más tu confianza?"
+      },
+      {
+        "id": "minor_fire_06_thoughtful_05",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Qué logro refleja mejor tus valores?"
+      },
+      {
+        "id": "minor_fire_06_thoughtful_06",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué éxito no habría sido posible sin la ayuda de otras personas?"
+      },
+      {
+        "id": "minor_fire_06_thoughtful_07",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo celebras tus logros sin dejar de avanzar?"
+      },
+      {
+        "id": "minor_fire_06_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué éxito dejó de ser importante con el paso del tiempo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_fire_06_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué tendría que pasar para que sintieras que tu vida ha sido un éxito?"
+      },
+      {
+        "id": "minor_fire_06_deep_02",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué meta persigues por convicción y no por reconocimiento?"
+      },
+      {
+        "id": "minor_fire_06_deep_03",
+        "intensity": 5,
+        "tags": ["comparison"],
+        "question": "¿En qué momentos has medido tu valor comparándote con otras personas?"
+      },
+      {
+        "id": "minor_fire_06_deep_04",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué logro te hizo sentir más orgulloso aunque casi nadie lo conociera?"
+      },
+      {
+        "id": "minor_fire_06_deep_05",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría que las personas recordaran como tu mayor logro?"
+      },
+      {
+        "id": "minor_fire_06_deep_06",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué éxito perseguías y descubriste que en realidad no necesitabas?"
+      },
+      {
+        "id": "minor_fire_06_deep_07",
+        "intensity": 5,
+        "tags": ["fulfillment"],
+        "question": "¿Cuándo te has sentido verdaderamente realizado, más allá de cualquier premio?"
+      },
+      {
+        "id": "minor_fire_06_deep_08",
+        "intensity": 5,
+        "tags": ["values"],
+        "question": "¿Qué estás dispuesto a sacrificar y qué no para alcanzar el éxito?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_fire_06_challenge_01",
+        "intensity": 4,
+        "tags": ["confidence"],
+        "question": "¿Qué logro todavía minimizas cuando en realidad deberías reconocerlo?"
+      },
+      {
+        "id": "minor_fire_06_challenge_02",
+        "intensity": 4,
+        "tags": ["comparison"],
+        "question": "¿Con quién necesitas dejar de compararte?"
+      },
+      {
+        "id": "minor_fire_06_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué siguiente meta merece ahora tu energía?"
+      },
+      {
+        "id": "minor_fire_06_challenge_04",
+        "intensity": 4,
+        "tags": ["ego"],
+        "question": "¿Qué parte de tu idea del éxito depende demasiado de la aprobación externa?"
+      },
+      {
+        "id": "minor_fire_06_challenge_05",
+        "intensity": 4,
+        "tags": ["gratitude"],
+        "question": "¿Qué logro deberías celebrar antes de seguir persiguiendo el siguiente?"
+      },
+      {
+        "id": "minor_fire_06_challenge_06",
+        "intensity": 4,
+        "tags": ["purpose"],
+        "question": "¿Qué decisión te acercaría más a tu propia definición de éxito?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_fire_06_connection_01",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién celebró uno de tus logros como si fuera suyo?"
+      },
+      {
+        "id": "minor_fire_06_connection_02",
+        "intensity": 3,
+        "tags": ["mentors"],
+        "question": "¿Quién creyó en ti antes de que tú mismo lo hicieras?"
+      },
+      {
+        "id": "minor_fire_06_connection_03",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién disfrutas compartir tus buenas noticias primero?"
+      },
+      {
+        "id": "minor_fire_06_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué logro hizo sentir especialmente orgullosa a tu familia?"
+      },
+      {
+        "id": "minor_fire_06_connection_05",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha influido más en la persona exitosa que eres hoy?"
+      },
+      {
+        "id": "minor_fire_06_connection_06",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿A quién te gustaría agradecer por haber sido parte de uno de tus mayores logros?"
+      }
+    ]
+  }
+}

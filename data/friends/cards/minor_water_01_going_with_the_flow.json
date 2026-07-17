@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_01_going_with_the_flow",
+  "name": "Going with the Flow",
+  "arcana": "Minor",
+  "number": 1,
+  "traditionalEquivalent": "Ace of Cups",
+  "meaning": "Representa el comienzo de una apertura emocional genuina. Esta carta habla de confiar en el curso natural de la vida, dejando de luchar contra todo aquello que no podemos controlar. Cuando dejamos de remar contra la corriente, aparece la claridad para actuar desde la serenidad en lugar del miedo.",
+  "coreMessage": "No todo se resuelve controlando; muchas veces la vida avanza mejor cuando aprendes a fluir con ella.",
+  "keywords": [
+    "Fluir",
+    "Aceptación",
+    "Confianza",
+    "Apertura",
+    "Intuición",
+    "Presencia",
+    "Calma",
+    "Entrega"
+  ],
+  "light": [
+    "Confianza en el proceso",
+    "Flexibilidad",
+    "Paz interior",
+    "Adaptabilidad",
+    "Serenidad"
+  ],
+  "shadow": [
+    "Resistencia",
+    "Necesidad de control",
+    "Ansiedad",
+    "Rigidez",
+    "Miedo a lo incierto"
+  ],
+  "invitation": "Permite que la vida siga su curso sin sentir que debes controlar cada detalle. Hay momentos para actuar y momentos para confiar.",
+  "axes": [
+    "Confianza",
+    "Aceptación",
+    "Emociones",
+    "Presencia",
+    "Fluir"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_01_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Eres de improvisar o de planear absolutamente todo?"
+      },
+      {
+        "id": "minor_water_01_playful_02",
+        "intensity": 1,
+        "tags": ["travel"],
+        "question": "¿Cuál ha sido el mejor plan que surgió completamente de improviso?"
+      },
+      {
+        "id": "minor_water_01_playful_03",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Qué situación salió mucho mejor de lo que esperabas gracias a que dejaste de controlar todo?"
+      },
+      {
+        "id": "minor_water_01_playful_04",
+        "intensity": 2,
+        "tags": ["habits"],
+        "question": "¿Qué actividad te ayuda a sentir que simplemente fluyes?"
+      },
+      {
+        "id": "minor_water_01_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué harías hoy si supieras que nada puede salir realmente mal?"
+      },
+      {
+        "id": "minor_water_01_playful_06",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué momento inesperado terminó convirtiéndose en un gran recuerdo?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_01_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿En qué aspecto de tu vida te cuesta más soltar el control?"
+      },
+      {
+        "id": "minor_water_01_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste de una situación que no salió como la habías planeado?"
+      },
+      {
+        "id": "minor_water_01_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo sabes cuándo es momento de insistir y cuándo es mejor dejar que las cosas sigan su curso?"
+      },
+      {
+        "id": "minor_water_01_thoughtful_04",
+        "intensity": 3,
+        "tags": ["emotions"],
+        "question": "¿Qué emoción aparece en ti cuando sientes que pierdes el control?"
+      },
+      {
+        "id": "minor_water_01_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia te enseñó que no todo depende de ti?"
+      },
+      {
+        "id": "minor_water_01_thoughtful_06",
+        "intensity": 3,
+        "tags": ["trust"],
+        "question": "¿Qué significa realmente confiar para ti?"
+      },
+      {
+        "id": "minor_water_01_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué situación terminó resolviéndose sola cuando dejaste de forzarla?"
+      },
+      {
+        "id": "minor_water_01_thoughtful_08",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo encuentras el equilibrio entre actuar y dejar que las cosas sucedan?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_01_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu vida intentas controlar porque temes lo que pueda pasar si la sueltas?"
+      },
+      {
+        "id": "minor_water_01_deep_02",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué miedo alimenta tu necesidad de tener todo bajo control?"
+      },
+      {
+        "id": "minor_water_01_deep_03",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué situación todavía no has logrado aceptar tal como ocurrió?"
+      },
+      {
+        "id": "minor_water_01_deep_04",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué cambió positivamente en tu vida cuando dejaste de resistirte a una realidad?"
+      },
+      {
+        "id": "minor_water_01_deep_05",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué aspecto de tu vida necesita más confianza y menos esfuerzo?"
+      },
+      {
+        "id": "minor_water_01_deep_06",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué oportunidad podrías perder por querer controlar cada detalle?"
+      },
+      {
+        "id": "minor_water_01_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Cómo sería tu vida si confiaras más en el proceso que en los resultados?"
+      },
+      {
+        "id": "minor_water_01_deep_08",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué tendrías que soltar hoy para sentirte verdaderamente libre?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_01_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué situación podrías dejar de controlar durante esta semana para ver qué sucede?"
+      },
+      {
+        "id": "minor_water_01_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué expectativa te está impidiendo disfrutar el presente?"
+      },
+      {
+        "id": "minor_water_01_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué decisión estás retrasando porque esperas tener todas las respuestas?"
+      },
+      {
+        "id": "minor_water_01_challenge_04",
+        "intensity": 4,
+        "tags": ["trust"],
+        "question": "¿Qué pasaría si confiaras un poco más en ti y un poco menos en los planes perfectos?"
+      },
+      {
+        "id": "minor_water_01_challenge_05",
+        "intensity": 4,
+        "tags": ["balance"],
+        "question": "¿Qué hábito podrías cambiar para vivir con menos ansiedad?"
+      },
+      {
+        "id": "minor_water_01_challenge_06",
+        "intensity": 4,
+        "tags": ["acceptance"],
+        "question": "¿Qué realidad necesitas dejar de pelear para poder avanzar?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_01_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te transmite tranquilidad incluso cuando todo parece salir mal?"
+      },
+      {
+        "id": "minor_water_01_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién te ha enseñado con su ejemplo a confiar más en la vida?"
+      },
+      {
+        "id": "minor_water_01_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona apareció en tu vida justo cuando más la necesitabas?"
+      },
+      {
+        "id": "minor_water_01_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién suele ayudarte a ver las cosas con más calma?"
+      },
+      {
+        "id": "minor_water_01_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Con quién sientes que puedes ser tú mismo sin necesidad de controlar la impresión que causas?"
+      },
+      {
+        "id": "minor_water_01_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿A quién le agradecerías haber llegado a tu vida en el momento justo?"
+      }
+    ]
+  }
+}

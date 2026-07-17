@@ -1,0 +1,257 @@
+{
+  "id": "major_22_the_master",
+  "name": "The Master",
+  "arcana": "Major",
+  "number": 22,
+  "traditionalEquivalent": "Unique to the Osho Zen Tarot",
+  "meaning": "Representa a quien ha integrado todas las experiencias del viaje. No simboliza perfección ni superioridad, sino la capacidad de vivir con plena conciencia, autenticidad y libertad. El Maestro no necesita demostrar nada porque ha dejado de buscar validación fuera de sí mismo.",
+  "coreMessage": "El verdadero dominio no consiste en controlar la vida, sino en vivirla con plena conciencia.",
+  "keywords": [
+    "Maestría",
+    "Conciencia",
+    "Presencia",
+    "Sabiduría",
+    "Autenticidad",
+    "Libertad",
+    "Integración",
+    "Plenitud"
+  ],
+  "light": [
+    "Sabiduría",
+    "Humildad",
+    "Claridad",
+    "Coherencia",
+    "Plena presencia"
+  ],
+  "shadow": [
+    "Ego espiritual",
+    "Necesidad de aprobación",
+    "Arrogancia",
+    "Rigidez",
+    "Falsa certeza"
+  ],
+  "invitation": "Deja de buscar convertirte en alguien. Empieza a expresar plenamente quien ya eres.",
+  "axes": [
+    "Conciencia",
+    "Autenticidad",
+    "Sabiduría",
+    "Presencia",
+    "Libertad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_22_playful_01",
+        "intensity": 1,
+        "tags": ["skills"],
+        "question": "¿Qué habilidad haces tan bien que los demás siempre te piden ayuda?"
+      },
+      {
+        "id": "major_22_playful_02",
+        "intensity": 1,
+        "tags": ["learning"],
+        "question": "¿Qué tema podrías explicar durante una hora sin aburrirte?"
+      },
+      {
+        "id": "major_22_playful_03",
+        "intensity": 2,
+        "tags": ["confidence"],
+        "question": "¿En qué momento sientes que estás completamente en tu elemento?"
+      },
+      {
+        "id": "major_22_playful_04",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad te sorprendió descubrir que podías desarrollar?"
+      },
+      {
+        "id": "major_22_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué te gustaría dominar solo por el placer de aprender?"
+      },
+      {
+        "id": "major_22_playful_06",
+        "intensity": 2,
+        "tags": ["joy"],
+        "question": "¿Qué actividad te hace olvidar por completo el paso del tiempo?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_22_thoughtful_01",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia te hizo sentir que realmente habías madurado?"
+      },
+      {
+        "id": "major_22_thoughtful_02",
+        "intensity": 3,
+        "tags": ["authenticity"],
+        "question": "¿En qué aspecto de tu vida eres más fiel a ti mismo que hace cinco años?"
+      },
+      {
+        "id": "major_22_thoughtful_03",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Cuál ha sido una de las lecciones más valiosas que la vida te ha enseñado?"
+      },
+      {
+        "id": "major_22_thoughtful_04",
+        "intensity": 3,
+        "tags": ["values"],
+        "question": "¿Qué principio intentas mantener incluso cuando nadie está mirando?"
+      },
+      {
+        "id": "major_22_thoughtful_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti vivir con coherencia?"
+      },
+      {
+        "id": "major_22_thoughtful_06",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Qué decisión reciente refleja mejor la persona que quieres ser?"
+      },
+      {
+        "id": "major_22_thoughtful_07",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Cuándo sientes que estás viviendo plenamente el presente?"
+      },
+      {
+        "id": "major_22_thoughtful_08",
+        "intensity": 3,
+        "tags": ["wisdom"],
+        "question": "¿Qué consejo has dejado de dar porque aprendiste que cada persona necesita vivir su propio proceso?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_22_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Quién eres cuando dejas de intentar impresionar a los demás?"
+      },
+      {
+        "id": "major_22_deep_02",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué te gustaría que las personas recordaran de ti más allá de tus logros?"
+      },
+      {
+        "id": "major_22_deep_03",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué verdad has aprendido que cambió profundamente tu forma de vivir?"
+      },
+      {
+        "id": "major_22_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué dejaste de perseguir cuando entendiste que no lo necesitabas?"
+      },
+      {
+        "id": "major_22_deep_05",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué impacto esperas dejar en las personas que comparten su vida contigo?"
+      },
+      {
+        "id": "major_22_deep_06",
+        "intensity": 5,
+        "tags": ["self-awareness"],
+        "question": "¿Qué parte de ti sientes que finalmente has logrado aceptar por completo?"
+      },
+      {
+        "id": "major_22_deep_07",
+        "intensity": 5,
+        "tags": ["peace"],
+        "question": "¿Qué significa para ti sentir que ya no tienes nada que demostrar?"
+      },
+      {
+        "id": "major_22_deep_08",
+        "intensity": 5,
+        "tags": ["fulfillment"],
+        "question": "Si hoy tuvieras que resumir tu filosofía de vida en una sola idea, ¿cuál sería?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_22_challenge_01",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿En qué situación actúas más por aprobación que por convicción?"
+      },
+      {
+        "id": "major_22_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito te acercaría a la persona que quieres ser?"
+      },
+      {
+        "id": "major_22_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué parte de tu vida necesita más coherencia entre lo que dices y lo que haces?"
+      },
+      {
+        "id": "major_22_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué decisión estás evitando porque todavía buscas la aprobación de alguien?"
+      },
+      {
+        "id": "major_22_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué podrías hacer hoy para vivir con más intención y menos piloto automático?"
+      },
+      {
+        "id": "major_22_challenge_06",
+        "intensity": 4,
+        "tags": ["purpose"],
+        "question": "¿Qué cambiaría si confiaras plenamente en tu propio criterio?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_22_connection_01",
+        "intensity": 3,
+        "tags": ["mentors"],
+        "question": "¿Quién ha sido uno de tus mayores maestros de vida, aunque nunca haya llevado ese título?"
+      },
+      {
+        "id": "major_22_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por ayudarte a convertirte en quien eres hoy?"
+      },
+      {
+        "id": "major_22_connection_03",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te inspira a ser una mejor versión de ti mismo?"
+      },
+      {
+        "id": "major_22_connection_04",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes ser completamente auténtico sin sentirte juzgado?"
+      },
+      {
+        "id": "major_22_connection_05",
+        "intensity": 3,
+        "tags": ["legacy"],
+        "question": "¿Qué persona dejó una huella permanente en tu forma de vivir?"
+      },
+      {
+        "id": "major_22_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Quién crees que diría haber aprendido algo importante de ti?"
+      }
+    ]
+  }
+}

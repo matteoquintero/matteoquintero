@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_09_sorrow",
+  "name": "Sorrow",
+  "arcana": "Minor",
+  "number": 9,
+  "traditionalEquivalent": "Nine of Swords",
+  "meaning": "Representa el dolor emocional cuando deja de ser reprimido y finalmente encuentra un espacio para expresarse. Aunque el sufrimiento es inevitable, evitarlo solo prolonga su presencia. Esta carta nos recuerda que llorar, aceptar una pérdida o atravesar un duelo no es una señal de debilidad, sino un paso necesario para recuperar la paz interior.",
+  "coreMessage": "El dolor que te permites sentir es el mismo que un día podrás dejar atrás.",
+  "keywords": [
+    "Tristeza",
+    "Duelo",
+    "Pérdida",
+    "Aceptación",
+    "Sanación",
+    "Emociones",
+    "Vulnerabilidad",
+    "Compasión"
+  ],
+  "light": [
+    "Aceptación",
+    "Sanación",
+    "Resiliencia",
+    "Compasión",
+    "Liberación emocional"
+  ],
+  "shadow": [
+    "Negación",
+    "Dolor reprimido",
+    "Desesperanza",
+    "Melancolía",
+    "Aislamiento emocional"
+  ],
+  "invitation": "Permítete atravesar aquello que duele sin apresurar el proceso. Las emociones necesitan ser vividas antes de poder transformarse.",
+  "axes": [
+    "Duelo",
+    "Sanación",
+    "Aceptación",
+    "Emociones",
+    "Esperanza"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_09_playful_01",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Qué canción siempre logra ponerte nostálgico?"
+      },
+      {
+        "id": "minor_clouds_09_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Lloras con facilidad viendo películas o casi nunca?"
+      },
+      {
+        "id": "minor_clouds_09_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué recuerdo triste hoy puedes contar con una sonrisa?"
+      },
+      {
+        "id": "minor_clouds_09_playful_04",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué pequeño gesto suele animarte cuando tienes un mal día?"
+      },
+      {
+        "id": "minor_clouds_09_playful_05",
+        "intensity": 2,
+        "tags": ["relationships"],
+        "question": "¿Quién suele notar primero cuando algo no anda bien contigo?"
+      },
+      {
+        "id": "minor_clouds_09_playful_06",
+        "intensity": 2,
+        "tags": ["selfcare"],
+        "question": "¿Qué haces normalmente para reconfortarte después de un día difícil?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_09_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Cómo enfrentas los momentos de tristeza profunda?"
+      },
+      {
+        "id": "minor_clouds_09_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué pérdida terminó enseñándote algo valioso?"
+      },
+      {
+        "id": "minor_clouds_09_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué haces cuando sientes que necesitas llorar?"
+      },
+      {
+        "id": "minor_clouds_09_thoughtful_04",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué tipo de compañía agradeces cuando estás pasando por un momento difícil?"
+      },
+      {
+        "id": "minor_clouds_09_thoughtful_05",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo distingues entre darte tiempo para sanar y quedarte atrapado en la tristeza?"
+      },
+      {
+        "id": "minor_clouds_09_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia fortaleció tu capacidad para seguir adelante?"
+      },
+      {
+        "id": "minor_clouds_09_thoughtful_07",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué emoción suele esconderse detrás de tu tristeza?"
+      },
+      {
+        "id": "minor_clouds_09_thoughtful_08",
+        "intensity": 3,
+        "tags": ["healing"],
+        "question": "¿Qué hábito te ayuda a recuperar el equilibrio emocional?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_09_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué pérdida ha transformado más la persona que eres hoy?"
+      },
+      {
+        "id": "minor_clouds_09_deep_02",
+        "intensity": 5,
+        "tags": ["healing"],
+        "question": "¿Qué tristeza todavía necesita ser escuchada en lugar de ignorada?"
+      },
+      {
+        "id": "minor_clouds_09_deep_03",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué despedida aún sientes que quedó incompleta?"
+      },
+      {
+        "id": "minor_clouds_09_deep_04",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué aprendiste sobre el amor gracias a una pérdida?"
+      },
+      {
+        "id": "minor_clouds_09_deep_05",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué parte de tu dolor has intentado ocultar para parecer fuerte?"
+      },
+      {
+        "id": "minor_clouds_09_deep_06",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué fortaleza nació en ti después de atravesar uno de tus peores momentos?"
+      },
+      {
+        "id": "minor_clouds_09_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Cómo ha cambiado tu forma de valorar la vida después de una experiencia dolorosa?"
+      },
+      {
+        "id": "minor_clouds_09_deep_08",
+        "intensity": 5,
+        "tags": ["hope"],
+        "question": "¿Qué esperanza sigues conservando incluso después de haber sufrido?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_09_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué emoción necesitas dejar salir en lugar de seguir conteniéndola?"
+      },
+      {
+        "id": "minor_clouds_09_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué pérdida ya merece ser recordada con más gratitud que dolor?"
+      },
+      {
+        "id": "minor_clouds_09_challenge_03",
+        "intensity": 4,
+        "tags": ["healing"],
+        "question": "¿Qué acto de cuidado puedes ofrecerte esta semana?"
+      },
+      {
+        "id": "minor_clouds_09_challenge_04",
+        "intensity": 4,
+        "tags": ["communication"],
+        "question": "¿Con quién podrías hablar honestamente sobre lo que estás sintiendo?"
+      },
+      {
+        "id": "minor_clouds_09_challenge_05",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué paso puedes dar para seguir avanzando sin negar tu dolor?"
+      },
+      {
+        "id": "minor_clouds_09_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué parte de tu historia estás listo para aceptar con más compasión?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_09_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién estuvo contigo durante uno de los momentos más difíciles de tu vida?"
+      },
+      {
+        "id": "minor_clouds_09_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién sabe consolarte sin necesidad de decir mucho?"
+      },
+      {
+        "id": "minor_clouds_09_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona te ayudó a recuperar la esperanza cuando creías haberla perdido?"
+      },
+      {
+        "id": "minor_clouds_09_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué recuerdo familiar te brinda consuelo cuando lo necesitas?"
+      },
+      {
+        "id": "minor_clouds_09_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿A quién acudirías si hoy necesitaras desahogarte?"
+      },
+      {
+        "id": "minor_clouds_09_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona merece saber cuánto significó su apoyo en un momento difícil?"
+      }
+    ]
+  }
+}

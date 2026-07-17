@@ -1,0 +1,257 @@
+{
+  "id": "major_21_completion",
+  "name": "Completion",
+  "arcana": "Major",
+  "number": 21,
+  "traditionalEquivalent": "The World",
+  "meaning": "Representa el cierre consciente de un ciclo. No habla únicamente de alcanzar una meta, sino de reconocer el camino recorrido, integrar los aprendizajes y estar listo para comenzar una nueva etapa sin cargas innecesarias. Cada final contiene la semilla de un nuevo comienzo.",
+  "coreMessage": "Celebrar lo que termina es la mejor manera de abrir espacio para lo que sigue.",
+  "keywords": [
+    "Final",
+    "Cierre",
+    "Logro",
+    "Integración",
+    "Plenitud",
+    "Gratitud",
+    "Ciclo",
+    "Renovación"
+  ],
+  "light": [
+    "Satisfacción",
+    "Plenitud",
+    "Gratitud",
+    "Madurez",
+    "Realización"
+  ],
+  "shadow": [
+    "Apego",
+    "Inconformidad",
+    "Vacío",
+    "Miedo a cerrar ciclos",
+    "Perfeccionismo"
+  ],
+  "invitation": "Reconoce todo lo que has recorrido antes de mirar el siguiente destino.",
+  "axes": [
+    "Cierre",
+    "Logro",
+    "Gratitud",
+    "Integración",
+    "Renovación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_21_playful_01",
+        "intensity": 1,
+        "tags": ["achievements"],
+        "question": "¿Cuál ha sido el proyecto que más satisfacción te dio terminar?"
+      },
+      {
+        "id": "major_21_playful_02",
+        "intensity": 1,
+        "tags": ["travel"],
+        "question": "¿Qué lugar visitaste y sentiste que era un sueño cumplido?"
+      },
+      {
+        "id": "major_21_playful_03",
+        "intensity": 2,
+        "tags": ["celebration"],
+        "question": "¿Qué logro has celebrado con más emoción?"
+      },
+      {
+        "id": "major_21_playful_04",
+        "intensity": 2,
+        "tags": ["bucket-list"],
+        "question": "¿Qué meta ya puedes tachar de tu lista personal?"
+      },
+      {
+        "id": "major_21_playful_05",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad aprendiste y hoy usas casi sin darte cuenta?"
+      },
+      {
+        "id": "major_21_playful_06",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué momento te hizo pensar: 'valió completamente la pena'?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_21_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué etapa de tu vida sientes que cerraste en paz?"
+      },
+      {
+        "id": "major_21_thoughtful_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué experiencia difícil terminarías agradeciendo?"
+      },
+      {
+        "id": "major_21_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendizaje resume mejor los últimos años de tu vida?"
+      },
+      {
+        "id": "major_21_thoughtful_04",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Cómo sabes cuándo una etapa realmente terminó?"
+      },
+      {
+        "id": "major_21_thoughtful_05",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué significa para ti sentirte realizado?"
+      },
+      {
+        "id": "major_21_thoughtful_06",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué objetivo perdió importancia cuando finalmente lo alcanzaste?"
+      },
+      {
+        "id": "major_21_thoughtful_07",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué cierre te permitió crecer más de lo que esperabas?"
+      },
+      {
+        "id": "major_21_thoughtful_08",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué aspecto de tu vida hoy te hace sentir orgulloso?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_21_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué versión de ti sientes que finalmente quedó atrás?"
+      },
+      {
+        "id": "major_21_deep_02",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "Si hoy cerrara un gran capítulo de tu vida, ¿cuál sería su mayor enseñanza?"
+      },
+      {
+        "id": "major_21_deep_03",
+        "intensity": 5,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona fue indispensable para llegar a donde estás hoy?"
+      },
+      {
+        "id": "major_21_deep_04",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué final todavía te cuesta aceptar completamente?"
+      },
+      {
+        "id": "major_21_deep_05",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría sentir al mirar hacia atrás dentro de veinte años?"
+      },
+      {
+        "id": "major_21_deep_06",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué logro personal tiene más valor para ti aunque pocas personas lo conozcan?"
+      },
+      {
+        "id": "major_21_deep_07",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué parte de tu camino jamás cambiarías porque te convirtió en quien eres?"
+      },
+      {
+        "id": "major_21_deep_08",
+        "intensity": 5,
+        "tags": ["fulfillment"],
+        "question": "¿Qué tendría que ocurrir para sentir que una etapa de tu vida fue verdaderamente completa?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_21_challenge_01",
+        "intensity": 4,
+        "tags": ["closure"],
+        "question": "¿Qué ciclo necesitas cerrar para poder avanzar con más tranquilidad?"
+      },
+      {
+        "id": "major_21_challenge_02",
+        "intensity": 4,
+        "tags": ["gratitude"],
+        "question": "¿Qué logro casi nunca reconoces porque inmediatamente pasas al siguiente objetivo?"
+      },
+      {
+        "id": "major_21_challenge_03",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué podrías celebrar más antes de seguir exigiéndote?"
+      },
+      {
+        "id": "major_21_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué aprendizaje aún no has integrado por completo?"
+      },
+      {
+        "id": "major_21_challenge_05",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué nuevo comienzo estás retrasando por miedo a dejar atrás lo conocido?"
+      },
+      {
+        "id": "major_21_challenge_06",
+        "intensity": 4,
+        "tags": ["purpose"],
+        "question": "¿Qué sería suficiente para decir: 'por ahora, esto está completo'?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_21_connection_01",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién merece compartir el mérito de uno de tus mayores logros?"
+      },
+      {
+        "id": "major_21_connection_02",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Con quién celebrarías primero una gran meta cumplida?"
+      },
+      {
+        "id": "major_21_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué persona te enseñó la importancia de terminar lo que empiezas?"
+      },
+      {
+        "id": "major_21_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién estuvo presente al principio y al final de una etapa importante de tu vida?"
+      },
+      {
+        "id": "major_21_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría recordar todo el camino recorrido algún día?"
+      },
+      {
+        "id": "major_21_connection_06",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién deberías agradecer por ayudarte a cerrar un capítulo importante de tu vida?"
+      }
+    ]
+  }
+}
