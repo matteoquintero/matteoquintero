@@ -1,0 +1,257 @@
+{
+  "id": "major_08_courage",
+  "name": "Courage",
+  "arcana": "Major",
+  "number": 8,
+  "traditionalEquivalent": "Strength",
+  "meaning": "Representa la valentía de enfrentar la vida con el corazón abierto. No se trata de ausencia de miedo, sino de avanzar a pesar de él. Habla de resiliencia, fortaleza emocional y de la capacidad de mantenerse fiel a uno mismo incluso en los momentos difíciles.",
+  "coreMessage": "El verdadero coraje no elimina el miedo; decide que hay algo más importante que él.",
+  "keywords": [
+    "Coraje",
+    "Valentía",
+    "Resiliencia",
+    "Fortaleza",
+    "Perseverancia",
+    "Confianza",
+    "Determinación",
+    "Autenticidad"
+  ],
+  "light": [
+    "Valentía",
+    "Resiliencia",
+    "Determinación",
+    "Paciencia",
+    "Confianza"
+  ],
+  "shadow": [
+    "Miedo",
+    "Inseguridad",
+    "Evitación",
+    "Rendirse demasiado pronto",
+    "Falta de confianza"
+  ],
+  "invitation": "No esperes a sentirte listo. La confianza suele aparecer después del primer paso.",
+  "axes": [
+    "Coraje",
+    "Resiliencia",
+    "Confianza",
+    "Superación",
+    "Acción"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_08_playful_01",
+        "intensity": 1,
+        "tags": ["bravery"],
+        "question": "¿Cuál ha sido la cosa más atrevida que has hecho por diversión?"
+      },
+      {
+        "id": "major_08_playful_02",
+        "intensity": 1,
+        "tags": ["challenge"],
+        "question": "¿Qué reto pequeño siempre has querido intentar?"
+      },
+      {
+        "id": "major_08_playful_03",
+        "intensity": 2,
+        "tags": ["adventure"],
+        "question": "¿Qué experiencia te dio mucho miedo antes de hacerla y terminó siendo increíble?"
+      },
+      {
+        "id": "major_08_playful_04",
+        "intensity": 2,
+        "tags": ["confidence"],
+        "question": "¿Qué actividad te hace sentir más seguro de ti mismo?"
+      },
+      {
+        "id": "major_08_playful_05",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad aprendiste aunque al principio pensabas que no podrías?"
+      },
+      {
+        "id": "major_08_playful_06",
+        "intensity": 2,
+        "tags": ["dreams"],
+        "question": "Si el miedo desapareciera durante un día, ¿qué harías primero?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_08_thoughtful_01",
+        "intensity": 3,
+        "tags": ["fear"],
+        "question": "¿Qué miedo has logrado superar y cómo lo hiciste?"
+      },
+      {
+        "id": "major_08_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué desafío te hizo descubrir una fortaleza que no sabías que tenías?"
+      },
+      {
+        "id": "major_08_thoughtful_03",
+        "intensity": 3,
+        "tags": ["confidence"],
+        "question": "¿En qué aspecto de tu vida te gustaría sentirte más valiente?"
+      },
+      {
+        "id": "major_08_thoughtful_04",
+        "intensity": 3,
+        "tags": ["decisions"],
+        "question": "¿Qué decisión importante requirió más coraje del que imaginabas?"
+      },
+      {
+        "id": "major_08_thoughtful_05",
+        "intensity": 3,
+        "tags": ["resilience"],
+        "question": "¿Qué situación difícil terminó fortaleciéndote?"
+      },
+      {
+        "id": "major_08_thoughtful_06",
+        "intensity": 3,
+        "tags": ["values"],
+        "question": "¿Por qué causa estarías dispuesto a asumir un riesgo?"
+      },
+      {
+        "id": "major_08_thoughtful_07",
+        "intensity": 3,
+        "tags": ["self_trust"],
+        "question": "¿Qué te ayuda a recuperar la confianza cuando dudas de ti?"
+      },
+      {
+        "id": "major_08_thoughtful_08",
+        "intensity": 3,
+        "tags": ["courage"],
+        "question": "¿Qué significa realmente ser valiente para ti?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_08_deep_01",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué miedo está definiendo actualmente más decisiones de las que debería?"
+      },
+      {
+        "id": "major_08_deep_02",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué parte de tu vida cambiaría si confiaras plenamente en ti?"
+      },
+      {
+        "id": "major_08_deep_03",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Cuándo fue la última vez que defendiste una convicción aunque nadie estuviera de acuerdo contigo?"
+      },
+      {
+        "id": "major_08_deep_04",
+        "intensity": 5,
+        "tags": ["regret"],
+        "question": "¿Qué oportunidad sigues lamentando haber dejado pasar por miedo?"
+      },
+      {
+        "id": "major_08_deep_05",
+        "intensity": 5,
+        "tags": ["resilience"],
+        "question": "¿Qué experiencia te rompió y al mismo tiempo te hizo más fuerte?"
+      },
+      {
+        "id": "major_08_deep_06",
+        "intensity": 5,
+        "tags": ["self_belief"],
+        "question": "¿Qué necesitarías creer sobre ti para atreverte a vivir la vida que deseas?"
+      },
+      {
+        "id": "major_08_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Por qué vale la pena enfrentar tus mayores miedos?"
+      },
+      {
+        "id": "major_08_deep_08",
+        "intensity": 5,
+        "tags": ["inner_strength"],
+        "question": "¿Qué versión de ti aparece únicamente cuando la situación se vuelve realmente difícil?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_08_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué conversación difícil necesitas tener esta semana?"
+      },
+      {
+        "id": "major_08_challenge_02",
+        "intensity": 4,
+        "tags": ["fear"],
+        "question": "¿Qué pequeño paso puedes dar hacia algo que hoy te intimida?"
+      },
+      {
+        "id": "major_08_challenge_03",
+        "intensity": 4,
+        "tags": ["confidence"],
+        "question": "¿Qué harías hoy si confiaras un 10 % más en ti?"
+      },
+      {
+        "id": "major_08_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué reto llevas demasiado tiempo posponiendo?"
+      },
+      {
+        "id": "major_08_challenge_05",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué decisión tomarías si dejaras de buscar la aprobación de los demás?"
+      },
+      {
+        "id": "major_08_challenge_06",
+        "intensity": 4,
+        "tags": ["commitment"],
+        "question": "¿Cuál será tu próximo acto de valentía, por pequeño que sea?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_08_connection_01",
+        "intensity": 3,
+        "tags": ["inspiration"],
+        "question": "¿Quién es la persona más valiente que conoces y qué admiras de ella?"
+      },
+      {
+        "id": "major_08_connection_02",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te dio fuerzas cuando sentías que no podías continuar?"
+      },
+      {
+        "id": "major_08_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién creyó en ti antes de que tú mismo lo hicieras?"
+      },
+      {
+        "id": "major_08_connection_04",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Con quién te sientes más capaz de enfrentar cualquier desafío?"
+      },
+      {
+        "id": "major_08_connection_05",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué acto de valentía de alguien cercano nunca olvidarás?"
+      },
+      {
+        "id": "major_08_connection_06",
+        "intensity": 3,
+        "tags": ["encouragement"],
+        "question": "¿Quién merece escuchar que ha sido una fuente de fortaleza para ti?"
+      }
+    ]
+  }
+}

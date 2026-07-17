@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_04_postponement",
+  "name": "Postponement",
+  "arcana": "Minor",
+  "number": 4,
+  "traditionalEquivalent": "Four of Swords",
+  "meaning": "Representa esos momentos en los que aplazamos decisiones, conversaciones o acciones importantes esperando que el tiempo las resuelva por nosotros. Aunque hacer una pausa consciente puede ser saludable, el aplazamiento constante suele nacer del miedo, la incertidumbre o la incomodidad. Esta carta invita a distinguir entre descansar para avanzar y posponer para evitar enfrentar la realidad.",
+  "coreMessage": "Lo que pospones por miedo rara vez desaparece; normalmente solo espera a que estés listo para enfrentarlo.",
+  "keywords": [
+    "Postergación",
+    "Procrastinación",
+    "Decisión",
+    "Acción",
+    "Miedo",
+    "Pausa",
+    "Responsabilidad",
+    "Cambio"
+  ],
+  "light": [
+    "Pausa consciente",
+    "Preparación",
+    "Reflexión",
+    "Paciencia",
+    "Acción oportuna"
+  ],
+  "shadow": [
+    "Procrastinación",
+    "Evasión",
+    "Parálisis",
+    "Indecisión",
+    "Excusas"
+  ],
+  "invitation": "Pregúntate si realmente necesitas más tiempo o si ya sabes cuál es el siguiente paso y solo estás evitando darlo.",
+  "axes": [
+    "Acción",
+    "Responsabilidad",
+    "Tiempo",
+    "Coraje",
+    "Decisión"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_04_playful_01",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué tarea doméstica siempre intentas dejar para después?"
+      },
+      {
+        "id": "minor_clouds_04_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Eres de responder los mensajes enseguida o horas después?"
+      },
+      {
+        "id": "minor_clouds_04_playful_03",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Cuál ha sido la excusa más creativa que has usado para aplazar algo?"
+      },
+      {
+        "id": "minor_clouds_04_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué pendiente resolviste y luego pensaste: '¿Por qué no lo hice antes?'"
+      },
+      {
+        "id": "minor_clouds_04_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué actividad siempre disfrutas más una vez por fin empiezas?"
+      },
+      {
+        "id": "minor_clouds_04_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué pequeño cambio te ha ayudado a procrastinar menos?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_04_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué sueles postergar con más frecuencia y por qué?"
+      },
+      {
+        "id": "minor_clouds_04_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué oportunidad casi perdiste por esperar demasiado?"
+      },
+      {
+        "id": "minor_clouds_04_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo distingues entre una pausa necesaria y una evasión?"
+      },
+      {
+        "id": "minor_clouds_04_thoughtful_04",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué decisión importante tomaste justo cuando dejaste de esperar el momento perfecto?"
+      },
+      {
+        "id": "minor_clouds_04_thoughtful_05",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué suele darte el impulso para finalmente actuar?"
+      },
+      {
+        "id": "minor_clouds_04_thoughtful_06",
+        "intensity": 3,
+        "tags": ["habits"],
+        "question": "¿Qué hábito te ayuda a convertir una intención en acción?"
+      },
+      {
+        "id": "minor_clouds_04_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué aprendiste de una decisión que demoraste demasiado?"
+      },
+      {
+        "id": "minor_clouds_04_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué tema llevas tiempo diciendo que resolverás 'algún día'?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_04_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu vida sigue esperando una decisión que solo tú puedes tomar?"
+      },
+      {
+        "id": "minor_clouds_04_deep_02",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué miedo se esconde detrás de aquello que sigues aplazando?"
+      },
+      {
+        "id": "minor_clouds_04_deep_03",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué versión de tu vida podría existir si actuaras antes en lugar de esperar?"
+      },
+      {
+        "id": "minor_clouds_04_deep_04",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué verdad ya aceptaste internamente, pero aún no has convertido en acción?"
+      },
+      {
+        "id": "minor_clouds_04_deep_05",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué conversación importante has evitado durante demasiado tiempo?"
+      },
+      {
+        "id": "minor_clouds_04_deep_06",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué costo ha tenido para ti esperar siempre el momento ideal?"
+      },
+      {
+        "id": "minor_clouds_04_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué decisión cambiaría más tu vida si la tomaras esta semana?"
+      },
+      {
+        "id": "minor_clouds_04_deep_08",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué harías hoy si supieras que nunca te sentirás completamente preparado?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_04_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué pendiente puedes resolver antes de terminar el día?"
+      },
+      {
+        "id": "minor_clouds_04_challenge_02",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué primer paso puedes dar aunque aún no conozcas todo el camino?"
+      },
+      {
+        "id": "minor_clouds_04_challenge_03",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué excusa dejarás de usar a partir de hoy?"
+      },
+      {
+        "id": "minor_clouds_04_challenge_04",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué conversación deberías iniciar en lugar de seguir imaginándola?"
+      },
+      {
+        "id": "minor_clouds_04_challenge_05",
+        "intensity": 4,
+        "tags": ["discipline"],
+        "question": "¿Qué compromiso contigo mismo merece una fecha concreta en lugar de un 'algún día'?"
+      },
+      {
+        "id": "minor_clouds_04_challenge_06",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué ganarías si actuaras antes de sentirte completamente listo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_04_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién suele darte el impulso que necesitas para actuar?"
+      },
+      {
+        "id": "minor_clouds_04_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes hablar cuando sientes que estás estancado?"
+      },
+      {
+        "id": "minor_clouds_04_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona te enseñó el valor de actuar en lugar de esperar?"
+      },
+      {
+        "id": "minor_clouds_04_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué consejo familiar recuerdas cuando dudas si dar el siguiente paso?"
+      },
+      {
+        "id": "minor_clouds_04_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te ayuda a mantener tus compromisos cuando pierdes la motivación?"
+      },
+      {
+        "id": "minor_clouds_04_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría celebrar ese proyecto que llevas demasiado tiempo aplazando?"
+      }
+    ]
+  }
+}

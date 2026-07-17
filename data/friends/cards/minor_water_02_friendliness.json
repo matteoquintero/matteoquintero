@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_02_friendliness",
+  "name": "Friendliness",
+  "arcana": "Minor",
+  "number": 2,
+  "traditionalEquivalent": "Two of Cups",
+  "meaning": "Representa el encuentro natural entre dos personas que pueden mostrarse tal como son. La verdadera amistad y las relaciones auténticas no nacen del esfuerzo por impresionar, sino de la libertad de compartir desde la confianza, el respeto y la reciprocidad.",
+  "coreMessage": "Las conexiones más valiosas aparecen cuando dejas de intentar encajar y empiezas a ser tú mismo.",
+  "keywords": [
+    "Amistad",
+    "Conexión",
+    "Reciprocidad",
+    "Confianza",
+    "Cercanía",
+    "Autenticidad",
+    "Empatía",
+    "Vínculos"
+  ],
+  "light": [
+    "Confianza mutua",
+    "Generosidad",
+    "Escucha",
+    "Apertura",
+    "Reciprocidad"
+  ],
+  "shadow": [
+    "Superficialidad",
+    "Desconfianza",
+    "Aislamiento",
+    "Conveniencia",
+    "Falta de autenticidad"
+  ],
+  "invitation": "Permite que las personas conozcan quién eres realmente. La conexión genuina nace donde termina la necesidad de aparentar.",
+  "axes": [
+    "Relaciones",
+    "Confianza",
+    "Autenticidad",
+    "Empatía",
+    "Conexión"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_02_playful_01",
+        "intensity": 1,
+        "tags": ["friendship"],
+        "question": "¿Cómo sabes que acabas de conocer a alguien con quien te llevarás bien?"
+      },
+      {
+        "id": "minor_water_02_playful_02",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Quién fue tu primer mejor amigo y qué recuerdas de esa amistad?"
+      },
+      {
+        "id": "minor_water_02_playful_03",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Te resulta fácil iniciar conversación con alguien que no conoces?"
+      },
+      {
+        "id": "minor_water_02_playful_04",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Cuál ha sido la amistad más inesperada que has hecho?"
+      },
+      {
+        "id": "minor_water_02_playful_05",
+        "intensity": 2,
+        "tags": ["relationships"],
+        "question": "¿Qué pequeño gesto hace que alguien te caiga bien casi de inmediato?"
+      },
+      {
+        "id": "minor_water_02_playful_06",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Con qué tipo de personas conectas más rápido?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_02_thoughtful_01",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué cualidad valoras más en una amistad duradera?"
+      },
+      {
+        "id": "minor_water_02_thoughtful_02",
+        "intensity": 3,
+        "tags": ["trust"],
+        "question": "¿Qué hace que confíes realmente en una persona?"
+      },
+      {
+        "id": "minor_water_02_thoughtful_03",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Cómo ha cambiado tu forma de elegir amistades con los años?"
+      },
+      {
+        "id": "minor_water_02_thoughtful_04",
+        "intensity": 3,
+        "tags": ["communication"],
+        "question": "¿Qué conversación suele fortalecer más una relación?"
+      },
+      {
+        "id": "minor_water_02_thoughtful_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué amistad te ayudó a convertirte en una mejor versión de ti?"
+      },
+      {
+        "id": "minor_water_02_thoughtful_06",
+        "intensity": 3,
+        "tags": ["authenticity"],
+        "question": "¿Con quién sientes que nunca tienes que fingir?"
+      },
+      {
+        "id": "minor_water_02_thoughtful_07",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo mantienes una amistad cuando la vida se vuelve muy ocupada?"
+      },
+      {
+        "id": "minor_water_02_thoughtful_08",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué amistad agradeces especialmente haber conservado?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_02_deep_01",
+        "intensity": 5,
+        "tags": ["connection"],
+        "question": "¿Cuándo fue la última vez que sentiste que alguien te comprendía de verdad?"
+      },
+      {
+        "id": "minor_water_02_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti solo conocen las personas más cercanas?"
+      },
+      {
+        "id": "minor_water_02_deep_03",
+        "intensity": 5,
+        "tags": ["trust"],
+        "question": "¿Qué experiencia hizo que confiar en otros fuera más difícil o más fácil para ti?"
+      },
+      {
+        "id": "minor_water_02_deep_04",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué diferencia una relación auténtica de una relación por costumbre?"
+      },
+      {
+        "id": "minor_water_02_deep_05",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué amistad perdiste y todavía recuerdas con cariño?"
+      },
+      {
+        "id": "minor_water_02_deep_06",
+        "intensity": 5,
+        "tags": ["vulnerability"],
+        "question": "¿Qué necesitas sentir para abrir completamente tu corazón a otra persona?"
+      },
+      {
+        "id": "minor_water_02_deep_07",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué has aprendido gracias a las personas que han pasado por tu vida?"
+      },
+      {
+        "id": "minor_water_02_deep_08",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué tipo de personas quieres seguir atrayendo a tu vida y por qué?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_02_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué amistad merece que seas tú quien dé el siguiente paso?"
+      },
+      {
+        "id": "minor_water_02_challenge_02",
+        "intensity": 4,
+        "tags": ["communication"],
+        "question": "¿Qué conversación fortalecería una relación importante si ocurriera hoy?"
+      },
+      {
+        "id": "minor_water_02_challenge_03",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué barrera levantas antes de permitir que alguien te conozca?"
+      },
+      {
+        "id": "minor_water_02_challenge_04",
+        "intensity": 4,
+        "tags": ["trust"],
+        "question": "¿Qué te impide confiar más rápidamente en las personas correctas?"
+      },
+      {
+        "id": "minor_water_02_challenge_05",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué puedes hacer para cuidar mejor las relaciones que realmente valoras?"
+      },
+      {
+        "id": "minor_water_02_challenge_06",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué pasaría si dejaras de intentar agradarle a todo el mundo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_02_connection_01",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién es esa persona con la que siempre puedes retomar una conversación como si no hubiera pasado el tiempo?"
+      },
+      {
+        "id": "minor_water_02_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién ha estado contigo en más etapas de tu vida?"
+      },
+      {
+        "id": "minor_water_02_connection_03",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te hace sentir visto y escuchado de verdad?"
+      },
+      {
+        "id": "minor_water_02_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿A quién llamarías primero si necesitaras ayuda sin dar explicaciones?"
+      },
+      {
+        "id": "minor_water_02_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona merece escuchar cuánto ha significado para ti?"
+      },
+      {
+        "id": "minor_water_02_connection_06",
+        "intensity": 3,
+        "tags": ["empathy"],
+        "question": "¿Con quién sientes que el silencio también puede ser una conversación?"
+      }
+    ]
+  }
+}

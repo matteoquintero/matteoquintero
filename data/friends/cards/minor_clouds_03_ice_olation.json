@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_03_ice_olation",
+  "name": "Ice-Olation",
+  "arcana": "Minor",
+  "number": 3,
+  "traditionalEquivalent": "Three of Swords",
+  "meaning": "Representa el dolor emocional que aparece cuando levantamos muros para protegernos. Después de una decepción, una pérdida o una traición, el corazón puede congelarse para evitar volver a sufrir. Sin embargo, ese mismo mecanismo también nos aleja del amor, de la vulnerabilidad y de las conexiones auténticas. Esta carta invita a reconocer las heridas sin permitir que definan nuestra forma de relacionarnos.",
+  "coreMessage": "Proteger tu corazón es natural, pero mantenerlo congelado también te impide volver a sentir.",
+  "keywords": [
+    "Heridas",
+    "Vulnerabilidad",
+    "Protección",
+    "Dolor",
+    "Sanación",
+    "Apertura",
+    "Confianza",
+    "Reconexión"
+  ],
+  "light": [
+    "Sanación emocional",
+    "Compasión",
+    "Apertura",
+    "Resiliencia",
+    "Autenticidad"
+  ],
+  "shadow": [
+    "Aislamiento",
+    "Frialdad emocional",
+    "Resentimiento",
+    "Desconfianza",
+    "Miedo a sentir"
+  ],
+  "invitation": "Permítete sentir aquello que has intentado congelar. Las heridas sanan mejor cuando dejan de esconderse.",
+  "axes": [
+    "Vulnerabilidad",
+    "Sanación",
+    "Confianza",
+    "Conexión",
+    "Emociones"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_03_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Te consideras una persona que muestra fácilmente lo que siente?"
+      },
+      {
+        "id": "minor_clouds_03_playful_02",
+        "intensity": 1,
+        "tags": ["relationships"],
+        "question": "¿Quién suele notar primero cuando algo te preocupa?"
+      },
+      {
+        "id": "minor_clouds_03_playful_03",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Alguna vez fingiste que todo estaba bien cuando era evidente que no?"
+      },
+      {
+        "id": "minor_clouds_03_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué gesto pequeño hace que te sientas acompañado?"
+      },
+      {
+        "id": "minor_clouds_03_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué película o libro te hizo conectar con una emoción que no esperabas?"
+      },
+      {
+        "id": "minor_clouds_03_playful_06",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Recuerdas una ocasión en la que un abrazo llegó justo cuando lo necesitabas?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_03_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Cómo reaccionas cuando alguien hiere tu confianza?"
+      },
+      {
+        "id": "minor_clouds_03_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué te ha enseñado una decepción importante?"
+      },
+      {
+        "id": "minor_clouds_03_thoughtful_03",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué hace que vuelvas a confiar en una persona?"
+      },
+      {
+        "id": "minor_clouds_03_thoughtful_04",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo sabes que una herida ya empezó a sanar?"
+      },
+      {
+        "id": "minor_clouds_03_thoughtful_05",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo encuentras el equilibrio entre protegerte y abrirte a los demás?"
+      },
+      {
+        "id": "minor_clouds_03_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué situación te enseñó que ser vulnerable también requiere valentía?"
+      },
+      {
+        "id": "minor_clouds_03_thoughtful_07",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué emoción te resulta más difícil expresar?"
+      },
+      {
+        "id": "minor_clouds_03_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué haces para cuidar de ti cuando atraviesas un momento difícil?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_03_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu corazón sigue protegida por una herida del pasado?"
+      },
+      {
+        "id": "minor_clouds_03_deep_02",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué experiencia cambió tu forma de confiar en los demás?"
+      },
+      {
+        "id": "minor_clouds_03_deep_03",
+        "intensity": 5,
+        "tags": ["healing"],
+        "question": "¿Qué necesitas perdonar para dejar de cargar ese dolor?"
+      },
+      {
+        "id": "minor_clouds_03_deep_04",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué emoción llevas demasiado tiempo escondiendo?"
+      },
+      {
+        "id": "minor_clouds_03_deep_05",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste sobre ti después de atravesar una pérdida importante?"
+      },
+      {
+        "id": "minor_clouds_03_deep_06",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué muro construiste para protegerte y hoy ya no necesitas?"
+      },
+      {
+        "id": "minor_clouds_03_deep_07",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué cambiaría en tus relaciones si dejaras que los demás vieran tu lado más vulnerable?"
+      },
+      {
+        "id": "minor_clouds_03_deep_08",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué significa para ti sanar de verdad y no solo aprender a soportar el dolor?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_03_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué conversación honesta has evitado por miedo a volver a sufrir?"
+      },
+      {
+        "id": "minor_clouds_03_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué resentimiento estás listo para empezar a soltar?"
+      },
+      {
+        "id": "minor_clouds_03_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué pequeño acto de vulnerabilidad podrías permitirte esta semana?"
+      },
+      {
+        "id": "minor_clouds_03_challenge_04",
+        "intensity": 4,
+        "tags": ["relationships"],
+        "question": "¿Qué persona merece una oportunidad para conocerte sin tus defensas habituales?"
+      },
+      {
+        "id": "minor_clouds_03_challenge_05",
+        "intensity": 4,
+        "tags": ["healing"],
+        "question": "¿Qué paso concreto puedes dar para cuidar una herida que aún necesita atención?"
+      },
+      {
+        "id": "minor_clouds_03_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué ganarías si dejaras de confundir fortaleza con esconder tus emociones?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_03_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha estado a tu lado durante uno de tus momentos más difíciles?"
+      },
+      {
+        "id": "minor_clouds_03_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes mostrarte vulnerable sin sentirte juzgado?"
+      },
+      {
+        "id": "minor_clouds_03_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona te ayudó a recuperar la confianza después de una decepción?"
+      },
+      {
+        "id": "minor_clouds_03_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué miembro de tu familia te enseñó más sobre la resiliencia?"
+      },
+      {
+        "id": "minor_clouds_03_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién logra hacerte sentir seguro incluso cuando estás pasando por un mal momento?"
+      },
+      {
+        "id": "minor_clouds_03_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿A quién te gustaría agradecer por haberte acompañado en un proceso de sanación?"
+      }
+    ]
+  }
+}

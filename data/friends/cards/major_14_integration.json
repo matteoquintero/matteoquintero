@@ -1,0 +1,257 @@
+{
+  "id": "major_14_integration",
+  "name": "Integration",
+  "arcana": "Major",
+  "number": 14,
+  "traditionalEquivalent": "Temperance",
+  "meaning": "Representa el momento en que las partes que parecían opuestas encuentran armonía. Habla de integrar luces y sombras, razón y emoción, pasado y futuro. La plenitud no nace de eliminar una parte de ti, sino de aceptar todas las que te conforman.",
+  "coreMessage": "La paz aparece cuando dejas de pelear contigo mismo y comienzas a integrar todo lo que eres.",
+  "keywords": [
+    "Integración",
+    "Armonía",
+    "Equilibrio",
+    "Aceptación",
+    "Unidad",
+    "Autenticidad",
+    "Coherencia",
+    "Plenitud"
+  ],
+  "light": [
+    "Equilibrio",
+    "Autoconocimiento",
+    "Aceptación",
+    "Coherencia",
+    "Serenidad"
+  ],
+  "shadow": [
+    "Conflicto interno",
+    "Perfeccionismo",
+    "Fragmentación",
+    "Autoexigencia",
+    "Negación de una parte de sí"
+  ],
+  "invitation": "No intentes convertirte en alguien diferente. Aprende a reconciliar todas las versiones de ti.",
+  "axes": [
+    "Equilibrio",
+    "Aceptación",
+    "Identidad",
+    "Coherencia",
+    "Armonía"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_14_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Qué dos aspectos de tu personalidad parecen completamente opuestos?"
+      },
+      {
+        "id": "major_14_playful_02",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué actividad logra hacerte sentir completamente en equilibrio?"
+      },
+      {
+        "id": "major_14_playful_03",
+        "intensity": 2,
+        "tags": ["lifestyle"],
+        "question": "¿Qué costumbre tuya sorprende a quienes te conocen poco?"
+      },
+      {
+        "id": "major_14_playful_04",
+        "intensity": 2,
+        "tags": ["interests"],
+        "question": "¿Qué dos hobbies tuyos parecen no tener ninguna relación?"
+      },
+      {
+        "id": "major_14_playful_05",
+        "intensity": 2,
+        "tags": ["identity"],
+        "question": "¿En qué momento del día sientes que eres más tú mismo?"
+      },
+      {
+        "id": "major_14_playful_06",
+        "intensity": 2,
+        "tags": ["balance"],
+        "question": "¿Qué pequeño ritual te ayuda a volver a tu centro cuando el día se complica?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_14_thoughtful_01",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué aspecto de tu vida necesita más equilibrio en este momento?"
+      },
+      {
+        "id": "major_14_thoughtful_02",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti tardaste más tiempo en aceptar?"
+      },
+      {
+        "id": "major_14_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste sobre ti al dejar de intentar ser perfecto?"
+      },
+      {
+        "id": "major_14_thoughtful_04",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué dos valores personales has aprendido a reconciliar?"
+      },
+      {
+        "id": "major_14_thoughtful_05",
+        "intensity": 3,
+        "tags": ["self-awareness"],
+        "question": "¿Qué contradicción personal has aprendido a aceptar?"
+      },
+      {
+        "id": "major_14_thoughtful_06",
+        "intensity": 3,
+        "tags": ["authenticity"],
+        "question": "¿Cuándo sentiste por primera vez que podías ser completamente auténtico?"
+      },
+      {
+        "id": "major_14_thoughtful_07",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ayudó a aceptar una parte de ti que antes rechazabas?"
+      },
+      {
+        "id": "major_14_thoughtful_08",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué experiencia unió dos versiones de ti que parecían incompatibles?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_14_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti has ocultado por miedo a no ser aceptado?"
+      },
+      {
+        "id": "major_14_deep_02",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué aspecto de tu historia todavía estás intentando reconciliar?"
+      },
+      {
+        "id": "major_14_deep_03",
+        "intensity": 5,
+        "tags": ["shadow"],
+        "question": "¿Qué rasgo que antes rechazabas hoy entiendes como parte de tu crecimiento?"
+      },
+      {
+        "id": "major_14_deep_04",
+        "intensity": 5,
+        "tags": ["wholeness"],
+        "question": "¿Qué significa para ti sentirte una persona completa?"
+      },
+      {
+        "id": "major_14_deep_05",
+        "intensity": 5,
+        "tags": ["peace"],
+        "question": "¿Con qué parte de ti todavía estás en conflicto?"
+      },
+      {
+        "id": "major_14_deep_06",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste sobre ti cuando dejaste de compararte con los demás?"
+      },
+      {
+        "id": "major_14_deep_07",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué cambiaría en tu vida si dejaras de esconder quién eres realmente?"
+      },
+      {
+        "id": "major_14_deep_08",
+        "intensity": 5,
+        "tags": ["integration"],
+        "question": "¿Qué parte de tu pasado necesita ser abrazada en lugar de olvidada?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_14_challenge_01",
+        "intensity": 4,
+        "tags": ["balance"],
+        "question": "¿Qué área de tu vida está consumiendo demasiada energía y cuál está quedando olvidada?"
+      },
+      {
+        "id": "major_14_challenge_02",
+        "intensity": 4,
+        "tags": ["acceptance"],
+        "question": "¿Qué aspecto de ti podrías dejar de intentar cambiar y comenzar a comprender?"
+      },
+      {
+        "id": "major_14_challenge_03",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito te ayudaría a vivir con mayor coherencia?"
+      },
+      {
+        "id": "major_14_challenge_04",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Dónde estás actuando para cumplir expectativas ajenas?"
+      },
+      {
+        "id": "major_14_challenge_05",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué conversación contigo mismo llevas demasiado tiempo evitando?"
+      },
+      {
+        "id": "major_14_challenge_06",
+        "intensity": 4,
+        "tags": ["integration"],
+        "question": "¿Qué primer paso puedes dar esta semana para vivir de forma más alineada con quien eres?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_14_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te hace sentir que no necesitas fingir ser otra persona?"
+      },
+      {
+        "id": "major_14_connection_02",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién te enseñó que las personas pueden tener contradicciones y seguir siendo valiosas?"
+      },
+      {
+        "id": "major_14_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién le agradeces haber aceptado todas tus versiones?"
+      },
+      {
+        "id": "major_14_connection_04",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién sientes que puedes mostrar tanto tus fortalezas como tus debilidades?"
+      },
+      {
+        "id": "major_14_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona te inspira a vivir con mayor equilibrio?"
+      },
+      {
+        "id": "major_14_connection_06",
+        "intensity": 3,
+        "tags": ["acceptance"],
+        "question": "¿Quién te ayudó a reconciliarte contigo mismo en un momento importante de tu vida?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "id": "minor_rainbow_06_compromise",
+  "name": "Compromise",
+  "arcana": "Minor",
+  "number": 6,
+  "traditionalEquivalent": "Six of Pentacles",
+  "meaning": "Representa los acuerdos que hacemos para evitar el conflicto o sentirnos aceptados. Comprometerse puede ser una muestra de madurez cuando nace del respeto mutuo, pero se convierte en una prisión cuando implica traicionar nuestros valores o necesidades. Esta carta invita a distinguir entre la cooperación consciente y la renuncia a uno mismo.",
+  "coreMessage": "Un acuerdo saludable nunca exige que dejes de ser quien eres.",
+  "keywords": [
+    "Compromiso",
+    "Acuerdos",
+    "Equilibrio",
+    "Límites",
+    "Cooperación",
+    "Autenticidad",
+    "Respeto",
+    "Reciprocidad"
+  ],
+  "light": [
+    "Cooperación",
+    "Empatía",
+    "Flexibilidad",
+    "Respeto",
+    "Reciprocidad"
+  ],
+  "shadow": [
+    "Complacer",
+    "Renuncia personal",
+    "Dependencia",
+    "Desequilibrio",
+    "Falta de límites"
+  ],
+  "invitation": "Revisa los acuerdos presentes en tu vida. Conserva aquellos que nacen del respeto mutuo y transforma los que requieren que abandones tu autenticidad.",
+  "axes": [
+    "Límites",
+    "Reciprocidad",
+    "Autenticidad",
+    "Cooperación",
+    "Equilibrio"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_rainbow_06_playful_01",
+        "intensity": 1,
+        "tags": [
+          "personality"
+        ],
+        "question": "¿Te cuesta más decir 'sí' o decir 'no'?"
+      },
+      {
+        "id": "minor_rainbow_06_playful_02",
+        "intensity": 1,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Cuál fue el trato más curioso que hiciste con alguien?"
+      },
+      {
+        "id": "minor_rainbow_06_playful_03",
+        "intensity": 2,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Qué pequeño acuerdo hace funcionar muy bien una de tus amistades?"
+      },
+      {
+        "id": "minor_rainbow_06_playful_04",
+        "intensity": 2,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué favor haces con gusto porque sabes que también lo harían por ti?"
+      },
+      {
+        "id": "minor_rainbow_06_playful_05",
+        "intensity": 2,
+        "tags": [
+          "humor"
+        ],
+        "question": "¿Qué negociación cotidiana siempre termina igual en tu casa o con tus amigos?"
+      },
+      {
+        "id": "minor_rainbow_06_playful_06",
+        "intensity": 2,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué aprendiste después de poner un límite por primera vez?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_rainbow_06_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué significa para ti una relación equilibrada?"
+      },
+      {
+        "id": "minor_rainbow_06_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "boundaries"
+        ],
+        "question": "¿En qué situaciones te cuesta poner límites?"
+      },
+      {
+        "id": "minor_rainbow_06_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Cómo distingues un compromiso sano de un sacrificio innecesario?"
+      },
+      {
+        "id": "minor_rainbow_06_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Qué valor consideras irrenunciable en cualquier relación?"
+      },
+      {
+        "id": "minor_rainbow_06_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Cómo reaccionas cuando sientes que das mucho más de lo que recibes?"
+      },
+      {
+        "id": "minor_rainbow_06_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué conversación difícil fortaleció una relación importante?"
+      },
+      {
+        "id": "minor_rainbow_06_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué aspecto de ti jamás deberías negociar para agradar a alguien?"
+      },
+      {
+        "id": "minor_rainbow_06_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué acuerdo importante ha definido una etapa de tu vida?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_rainbow_06_deep_01",
+        "intensity": 5,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿En qué momento dejaste de ser auténtico para mantener una relación o pertenecer a un grupo?"
+      },
+      {
+        "id": "minor_rainbow_06_deep_02",
+        "intensity": 5,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué miedo aparece cuando piensas en poner un límite firme?"
+      },
+      {
+        "id": "minor_rainbow_06_deep_03",
+        "intensity": 5,
+        "tags": [
+          "selfworth"
+        ],
+        "question": "¿Qué dice de ti aceptar menos de lo que realmente necesitas?"
+      },
+      {
+        "id": "minor_rainbow_06_deep_04",
+        "intensity": 5,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Qué relación cambió cuando empezaste a respetarte más?"
+      },
+      {
+        "id": "minor_rainbow_06_deep_05",
+        "intensity": 5,
+        "tags": [
+          "freedom"
+        ],
+        "question": "¿Qué parte de tu vida sería más libre si dejaras de intentar complacer a todos?"
+      },
+      {
+        "id": "minor_rainbow_06_deep_06",
+        "intensity": 5,
+        "tags": [
+          "consciousness"
+        ],
+        "question": "¿Qué acuerdo interno necesitas romper para vivir con mayor autenticidad?"
+      },
+      {
+        "id": "minor_rainbow_06_deep_07",
+        "intensity": 5,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué límite cambió positivamente la forma en que los demás te tratan?"
+      },
+      {
+        "id": "minor_rainbow_06_deep_08",
+        "intensity": 5,
+        "tags": [
+          "purpose"
+        ],
+        "question": "¿Qué relación merece una conversación honesta aunque exista el riesgo de incomodar?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_rainbow_06_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "action"
+        ],
+        "question": "¿Qué límite puedes expresar con claridad esta semana?"
+      },
+      {
+        "id": "minor_rainbow_06_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué compromiso aceptaste por obligación y necesita ser revisado?"
+      },
+      {
+        "id": "minor_rainbow_06_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "confidence"
+        ],
+        "question": "¿Qué 'no' podría abrir espacio para un 'sí' más importante?"
+      },
+      {
+        "id": "minor_rainbow_06_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué conversación has pospuesto para evitar un conflicto?"
+      },
+      {
+        "id": "minor_rainbow_06_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Qué relación necesita recuperar la reciprocidad?"
+      },
+      {
+        "id": "minor_rainbow_06_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "courage"
+        ],
+        "question": "¿Qué decisión tomarías si priorizaras el respeto por ti mismo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_rainbow_06_connection_01",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Quién respeta tus límites incluso cuando no está de acuerdo contigo?"
+      },
+      {
+        "id": "minor_rainbow_06_connection_02",
+        "intensity": 3,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Qué amistad te ha enseñado el verdadero significado de la reciprocidad?"
+      },
+      {
+        "id": "minor_rainbow_06_connection_03",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿A quién agradeces por haberte permitido ser completamente tú mismo?"
+      },
+      {
+        "id": "minor_rainbow_06_connection_04",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Qué acuerdo familiar ha fortalecido la convivencia entre ustedes?"
+      },
+      {
+        "id": "minor_rainbow_06_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Con quién sientes que dar y recibir ocurre de manera natural?"
+      },
+      {
+        "id": "minor_rainbow_06_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué persona merece escuchar que respetar tus límites fortaleció la relación?"
+      }
+    ]
+  }
+}

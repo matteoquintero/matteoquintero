@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_09_laziness",
+  "name": "Laziness",
+  "arcana": "Minor",
+  "number": 9,
+  "traditionalEquivalent": "Nine of Cups",
+  "meaning": "Representa esos momentos en los que dejamos de crecer no porque no podamos avanzar, sino porque nos acomodamos en lo conocido. La verdadera pereza no siempre consiste en no hacer nada; muchas veces es permanecer donde ya no somos felices por miedo al esfuerzo que implica cambiar. Esta carta invita a recuperar el impulso vital y recordar que la comodidad nunca reemplaza al propósito.",
+  "coreMessage": "La comodidad puede convertirse en una prisión cuando reemplaza el deseo de seguir creciendo.",
+  "keywords": [
+    "Comodidad",
+    "Estancamiento",
+    "Potencial",
+    "Acción",
+    "Motivación",
+    "Crecimiento",
+    "Inercia",
+    "Vitalidad"
+  ],
+  "light": [
+    "Disciplina",
+    "Motivación",
+    "Constancia",
+    "Vitalidad",
+    "Superación"
+  ],
+  "shadow": [
+    "Procrastinación",
+    "Conformismo",
+    "Inercia",
+    "Miedo al cambio",
+    "Falta de iniciativa"
+  ],
+  "invitation": "Pregúntate si realmente estás descansando o simplemente evitando dar el siguiente paso hacia la vida que deseas.",
+  "axes": [
+    "Acción",
+    "Crecimiento",
+    "Motivación",
+    "Disciplina",
+    "Cambio"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_09_playful_01",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué tarea siempre dejas para última hora?"
+      },
+      {
+        "id": "minor_water_09_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Eres de levantarte apenas suena la alarma o de negociar cinco minutos más?"
+      },
+      {
+        "id": "minor_water_09_playful_03",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Qué excusa has usado para evitar hacer algo que no querías?"
+      },
+      {
+        "id": "minor_water_09_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué actividad podrías hacer durante horas sin sentir que requiere esfuerzo?"
+      },
+      {
+        "id": "minor_water_09_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Cuál ha sido el proyecto más largo que has procrastinado?"
+      },
+      {
+        "id": "minor_water_09_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué hábito pequeño ha tenido un gran impacto positivo en tu vida?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_09_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué diferencia encuentras entre descansar y dejar de avanzar?"
+      },
+      {
+        "id": "minor_water_09_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué meta has postergado más de lo que te gustaría admitir?"
+      },
+      {
+        "id": "minor_water_09_thoughtful_03",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué suele quitarte la motivación cuando comienzas algo nuevo?"
+      },
+      {
+        "id": "minor_water_09_thoughtful_04",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿En qué aspecto de tu vida te has sentido demasiado cómodo?"
+      },
+      {
+        "id": "minor_water_09_thoughtful_05",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo recuperas el impulso cuando sientes que has perdido energía?"
+      },
+      {
+        "id": "minor_water_09_thoughtful_06",
+        "intensity": 3,
+        "tags": ["habits"],
+        "question": "¿Qué rutina te ayuda a mantenerte enfocado?"
+      },
+      {
+        "id": "minor_water_09_thoughtful_07",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué habilidad te gustaría desarrollar si dejaras de posponerla?"
+      },
+      {
+        "id": "minor_water_09_thoughtful_08",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué has conseguido gracias a la constancia más que al talento?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_09_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu potencial sigue esperando porque aún no te has atrevido a desarrollarla?"
+      },
+      {
+        "id": "minor_water_09_deep_02",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué miedo se esconde detrás de aquello que sigues postergando?"
+      },
+      {
+        "id": "minor_water_09_deep_03",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué oportunidad podrías perder si permaneces exactamente donde estás?"
+      },
+      {
+        "id": "minor_water_09_deep_04",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿En qué momento confundiste estabilidad con dejar de crecer?"
+      },
+      {
+        "id": "minor_water_09_deep_05",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué sueño merece más esfuerzo del que le has dedicado hasta ahora?"
+      },
+      {
+        "id": "minor_water_09_deep_06",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué aspecto de tu vida agradecería una decisión valiente hoy mismo?"
+      },
+      {
+        "id": "minor_water_09_deep_07",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué historia te cuentas para justificar permanecer en tu zona de confort?"
+      },
+      {
+        "id": "minor_water_09_deep_08",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Cómo sería tu vida dentro de cinco años si empezaras hoy aquello que tanto has pospuesto?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_09_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué tarea puedes terminar hoy en menos de treinta minutos?"
+      },
+      {
+        "id": "minor_water_09_challenge_02",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué pequeño paso puedes dar esta semana hacia una meta importante?"
+      },
+      {
+        "id": "minor_water_09_challenge_03",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué comodidad deberías abandonar para crecer?"
+      },
+      {
+        "id": "minor_water_09_challenge_04",
+        "intensity": 4,
+        "tags": ["discipline"],
+        "question": "¿Qué hábito podrías mantener durante los próximos treinta días?"
+      },
+      {
+        "id": "minor_water_09_challenge_05",
+        "intensity": 4,
+        "tags": ["motivation"],
+        "question": "¿Qué excusa dejarás de usar a partir de hoy?"
+      },
+      {
+        "id": "minor_water_09_challenge_06",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué decisión estás listo para tomar aunque implique más esfuerzo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_09_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién suele impulsarte cuando sientes que has perdido la motivación?"
+      },
+      {
+        "id": "minor_water_09_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué persona te inspira con su disciplina?"
+      },
+      {
+        "id": "minor_water_09_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién le agradecerías por haberte animado a salir de tu zona de confort?"
+      },
+      {
+        "id": "minor_water_09_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién ha confiado en tu potencial incluso cuando tú dudabas?"
+      },
+      {
+        "id": "minor_water_09_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría compartir un nuevo reto personal?"
+      },
+      {
+        "id": "minor_water_09_connection_06",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué persona te ha demostrado que nunca es tarde para empezar de nuevo?"
+      }
+    }
+  }
+}

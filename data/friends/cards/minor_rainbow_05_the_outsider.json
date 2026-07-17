@@ -1,0 +1,325 @@
+{
+  "id": "minor_rainbow_05_the_outsider",
+  "name": "The Outsider",
+  "arcana": "Minor",
+  "number": 5,
+  "traditionalEquivalent": "Five of Pentacles",
+  "meaning": "Representa la sensación de estar excluido, separado o de no pertenecer. Muchas veces esa puerta que creemos cerrada nunca estuvo realmente bloqueada; somos nosotros quienes asumimos que no podemos entrar. Esta carta invita a cuestionar las barreras que construimos con nuestras creencias y a descubrir que el sentido de pertenencia comienza aceptándonos a nosotros mismos.",
+  "coreMessage": "La puerta puede estar abierta; el primer paso es dejar de creer que no perteneces.",
+  "keywords": [
+    "Pertenencia",
+    "Aceptación",
+    "Exclusión",
+    "Autoestima",
+    "Valor personal",
+    "Conexión",
+    "Confianza",
+    "Autenticidad"
+  ],
+  "light": [
+    "Aceptación",
+    "Autenticidad",
+    "Conexión",
+    "Compasión",
+    "Confianza"
+  ],
+  "shadow": [
+    "Aislamiento",
+    "Rechazo",
+    "Vergüenza",
+    "Inseguridad",
+    "Sentirse insuficiente"
+  ],
+  "invitation": "Observa qué historias te cuentas sobre no ser suficiente o no encajar. Quizá el mayor obstáculo no está afuera, sino en la forma en que te ves a ti mismo.",
+  "axes": [
+    "Pertenencia",
+    "Autoaceptación",
+    "Conexión",
+    "Autenticidad",
+    "Confianza"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_rainbow_05_playful_01",
+        "intensity": 1,
+        "tags": [
+          "memories"
+        ],
+        "question": "¿En qué grupo terminaste sintiéndote como en casa cuando al principio pensabas que no encajabas?"
+      },
+      {
+        "id": "minor_rainbow_05_playful_02",
+        "intensity": 1,
+        "tags": [
+          "personality"
+        ],
+        "question": "¿Prefieres destacar o pasar desapercibido?"
+      },
+      {
+        "id": "minor_rainbow_05_playful_03",
+        "intensity": 2,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Cuál fue la primera vez que sentiste que habías encontrado 'tu gente'?"
+      },
+      {
+        "id": "minor_rainbow_05_playful_04",
+        "intensity": 2,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué rasgo tuyo antes ocultabas y hoy muestras con orgullo?"
+      },
+      {
+        "id": "minor_rainbow_05_playful_05",
+        "intensity": 2,
+        "tags": [
+          "humor"
+        ],
+        "question": "¿Cuál ha sido el momento más incómodo en el que terminaste riéndote después?"
+      },
+      {
+        "id": "minor_rainbow_05_playful_06",
+        "intensity": 2,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué descubriste sobre ti cuando saliste de tu zona de confort?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_rainbow_05_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué significa para ti sentir que perteneces a un lugar o a un grupo?"
+      },
+      {
+        "id": "minor_rainbow_05_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿En qué espacios puedes ser completamente tú mismo?"
+      },
+      {
+        "id": "minor_rainbow_05_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Qué pensamientos suelen aparecer cuando sientes que no encajas?"
+      },
+      {
+        "id": "minor_rainbow_05_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué experiencia fortaleció más tu autoestima?"
+      },
+      {
+        "id": "minor_rainbow_05_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Cómo equilibras el deseo de pertenecer con mantener tu autenticidad?"
+      },
+      {
+        "id": "minor_rainbow_05_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Qué oportunidad llegó cuando dejaste de intentar agradar a todos?"
+      },
+      {
+        "id": "minor_rainbow_05_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "perspective"
+        ],
+        "question": "¿Qué diferencia hay entre estar solo y sentirse solo?"
+      },
+      {
+        "id": "minor_rainbow_05_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué cualidad tuya merece mucho más reconocimiento del que le das?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_rainbow_05_deep_01",
+        "intensity": 5,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué parte de ti aún teme no ser suficiente para ser aceptada?"
+      },
+      {
+        "id": "minor_rainbow_05_deep_02",
+        "intensity": 5,
+        "tags": [
+          "consciousness"
+        ],
+        "question": "¿Qué historia sobre ti mismo has repetido durante años sin cuestionarla?"
+      },
+      {
+        "id": "minor_rainbow_05_deep_03",
+        "intensity": 5,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Cuándo fue la última vez que descubriste que el rechazo que temías solo existía en tu imaginación?"
+      },
+      {
+        "id": "minor_rainbow_05_deep_04",
+        "intensity": 5,
+        "tags": [
+          "selfworth"
+        ],
+        "question": "¿De qué depende hoy tu sensación de valor personal?"
+      },
+      {
+        "id": "minor_rainbow_05_deep_05",
+        "intensity": 5,
+        "tags": [
+          "freedom"
+        ],
+        "question": "¿Qué cambiaría si dejaras de buscar aprobación para sentir que perteneces?"
+      },
+      {
+        "id": "minor_rainbow_05_deep_06",
+        "intensity": 5,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué experiencia de exclusión terminó ayudándote a conocerte mejor?"
+      },
+      {
+        "id": "minor_rainbow_05_deep_07",
+        "intensity": 5,
+        "tags": [
+          "authenticity"
+        ],
+        "question": "¿Qué máscara ya no necesitas usar para sentirte aceptado?"
+      },
+      {
+        "id": "minor_rainbow_05_deep_08",
+        "intensity": 5,
+        "tags": [
+          "compassion"
+        ],
+        "question": "¿Qué le dirías hoy a la versión de ti que alguna vez creyó que no pertenecía?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_rainbow_05_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "action"
+        ],
+        "question": "¿Qué conversación has evitado por miedo a no ser aceptado?"
+      },
+      {
+        "id": "minor_rainbow_05_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué creencia sobre ti merece ser cuestionada esta semana?"
+      },
+      {
+        "id": "minor_rainbow_05_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "confidence"
+        ],
+        "question": "¿Qué harías diferente si supieras que ya eres suficiente?"
+      },
+      {
+        "id": "minor_rainbow_05_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué espacio nuevo podrías explorar sin asumir que no encajarás?"
+      },
+      {
+        "id": "minor_rainbow_05_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "authenticity"
+        ],
+        "question": "¿Qué parte de tu personalidad puedes mostrar con más libertad?"
+      },
+      {
+        "id": "minor_rainbow_05_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "courage"
+        ],
+        "question": "¿Qué paso puedes dar hoy para sentirte más conectado con los demás sin dejar de ser tú?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_rainbow_05_connection_01",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Quién te hizo sentir aceptado desde el primer momento?"
+      },
+      {
+        "id": "minor_rainbow_05_connection_02",
+        "intensity": 3,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Qué amistad nació cuando menos esperabas encontrar afinidad?"
+      },
+      {
+        "id": "minor_rainbow_05_connection_03",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿A quién agradeces por haberte recordado que eras suficiente?"
+      },
+      {
+        "id": "minor_rainbow_05_connection_04",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Qué persona de tu familia siempre te hizo sentir que pertenecías?"
+      },
+      {
+        "id": "minor_rainbow_05_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Con quién puedes mostrar tus inseguridades sin sentirte juzgado?"
+      },
+      {
+        "id": "minor_rainbow_05_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué persona merece escuchar que su aceptación cambió positivamente tu vida?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "conversation_followups",
+  "version": "2.0",
+  "description": "Motor universal de preguntas de seguimiento para cualquier carta del juego. Su objetivo es profundizar de forma natural, respetando el ritmo de la conversación y sin convertirla en una entrevista.",
+  "rules": {
+    "maxFollowUpsPerTurn": 3,
+    "increaseDepthGradually": true,
+    "neverAssume": true,
+    "avoidYesNoQuestions": true,
+    "respectSilence": true,
+    "allowTopicChange": true,
+    "avoidRepeatingSameCategory": true,
+    "preferCuriosityOverInterrogation": true,
+    "respectBoundaries": true,
+    "playerCanSkip": true
+  },
+  "conversationFlow": [
+    {
+      "level": 1,
+      "objective": "Entender mejor la respuesta."
+    },
+    {
+      "level": 2,
+      "objective": "Explorar emociones, significado o contexto."
+    },
+    {
+      "level": 3,
+      "objective": "Descubrir aprendizajes, patrones o acciones futuras."
+    }
+  ],
+  "followUpCategories": [
+    {
+      "id": "clarification",
+      "name": "Clarificación",
+      "purpose": "Comprender exactamente lo que quiso decir la persona.",
+      "questions": [
+        "¿Qué te hace decir eso?",
+        "¿Podrías contarme un poco más?",
+        "¿A qué te refieres exactamente?",
+        "¿Qué parte de esa historia es la más importante para ti?",
+        "¿Qué detalle suele pasar desapercibido cuando cuentas esto?",
+        "¿Qué ocurrió después?",
+        "¿Cómo empezó todo?",
+        "¿Qué fue lo que realmente marcó la diferencia?",
+        "¿Hay algo que normalmente no cuentas sobre esto?",
+        "¿Qué contexto ayudaría a entender mejor tu respuesta?",
+        "¿Qué recuerdas con más claridad de ese momento?",
+        "¿Qué crees que muchas personas interpretarían mal?"
+      ]
+    },
+    {
+      "id": "emotion",
+      "name": "Emociones",
+      "purpose": "Explorar el mundo emocional detrás de la respuesta.",
+      "questions": [
+        "¿Cómo te hizo sentir eso?",
+        "¿Qué emoción apareció primero?",
+        "¿Qué emoción permanece hasta hoy?",
+        "¿Qué fue lo más difícil de sentir en ese momento?",
+        "¿Hubo alguna emoción que te sorprendiera?",
+        "¿Qué necesitabas emocionalmente en ese instante?",
+        "¿Cómo cambió esa emoción con el tiempo?",
+        "¿Qué parte todavía te mueve cuando la recuerdas?",
+        "¿Qué aprendiste sobre ti gracias a esa emoción?",
+        "¿Cómo sabes cuándo vuelves a sentir algo parecido?",
+        "¿Qué emoción te hubiera gustado experimentar en lugar de esa?",
+        "¿Cómo describirías ese momento con una sola emoción?"
+      ]
+    },
+    {
+      "id": "meaning",
+      "name": "Significado",
+      "purpose": "Descubrir el valor personal de la experiencia.",
+      "questions": [
+        "¿Qué significa eso para ti hoy?",
+        "¿Por qué esa experiencia sigue siendo importante?",
+        "¿Qué cambió dentro de ti después de eso?",
+        "¿Qué descubriste sobre la vida?",
+        "¿Qué descubriste sobre ti mismo?",
+        "¿Qué valor representa esa historia?",
+        "¿Qué parte de esa experiencia te sigue acompañando?",
+        "¿Qué enseñanza nunca has olvidado?",
+        "¿Qué hizo que ese momento fuera tan significativo?",
+        "¿Cómo resumirías esa experiencia en una frase?",
+        "¿Qué crees que esa historia vino a enseñarte?",
+        "¿Qué parte de ti nació gracias a esa experiencia?"
+      ]
+    },
+    {
+      "id": "origin",
+      "name": "Origen",
+      "purpose": "Encontrar el inicio de un patrón o experiencia.",
+      "questions": [
+        "¿Recuerdas cuándo comenzó todo esto?",
+        "¿Qué crees que originó esa forma de pensar?",
+        "¿Quién influyó más en esa visión?",
+        "¿Hay algún recuerdo que explique esa respuesta?",
+        "¿Qué etapa de tu vida fue clave?",
+        "¿Qué experiencia sembró esa idea?",
+        "¿Siempre has pensado así?",
+        "¿En qué momento cambió esa perspectiva?",
+        "¿Qué persona marcó ese proceso?",
+        "¿Qué versión de ti comenzó allí?"
+      ]
+    },
+    {
+      "id": "beliefs",
+      "name": "Creencias",
+      "purpose": "Explorar las ideas que sostienen la respuesta.",
+      "questions": [
+        "¿Qué creencia hay detrás de eso?",
+        "¿Siempre has pensado así?",
+        "¿Quién te enseñó esa forma de verlo?",
+        "¿Sigues creyendo lo mismo hoy?",
+        "¿Qué hizo cambiar esa idea?",
+        "¿Qué pasaría si esa creencia fuera incorrecta?",
+        "¿Qué otra interpretación podría existir?",
+        "¿Qué parte de esa idea todavía cuestionas?",
+        "¿Qué evidencia respalda esa creencia?",
+        "¿Qué experiencia la fortaleció?"
+      ]
+    },
+    {
+      "id": "relationships",
+      "name": "Relaciones",
+      "purpose": "Comprender el papel de otras personas.",
+      "questions": [
+        "¿Quién estuvo contigo en ese momento?",
+        "¿Qué persona fue más importante en esa historia?",
+        "¿Quién cambió tu forma de verla?",
+        "¿Cómo afectó eso tus relaciones?",
+        "¿Qué aprendiste de los demás gracias a esa experiencia?",
+        "¿Hay alguien con quien te gustaría hablar sobre esto?",
+        "¿Quién merece escuchar esa historia?",
+        "¿Qué conversación quedó pendiente?",
+        "¿Qué relación salió fortalecida?",
+        "¿Qué relación cambió para siempre?"
+      ]
+    },
+    {
+      "id": "growth",
+      "name": "Aprendizaje",
+      "purpose": "Encontrar crecimiento personal.",
+      "questions": [
+        "¿Qué aprendiste?",
+        "¿Qué harías diferente hoy?",
+        "¿Qué consejo le darías a tu yo de aquel momento?",
+        "¿Cómo eres diferente gracias a esa experiencia?",
+        "¿Qué habilidad desarrollaste?",
+        "¿Qué fortaleza descubriste?",
+        "¿Qué agradeces de todo lo ocurrido?",
+        "¿Qué dejó de tener importancia?",
+        "¿Qué comenzó a ser importante desde entonces?",
+        "¿Cuál fue el regalo escondido de esa experiencia?",
+        "¿Cómo te preparó para lo que vino después?",
+        "¿Qué parte de ti salió fortalecida?"
+      ]
+    },
+    {
+      "id": "future",
+      "name": "Futuro",
+      "purpose": "Transformar la reflexión en intención.",
+      "questions": [
+        "¿Qué quieres hacer diferente a partir de ahora?",
+        "¿Qué paso pequeño podrías dar esta semana?",
+        "¿Qué decisión se siente más clara después de hablar de esto?",
+        "¿Qué te gustaría construir desde aquí?",
+        "¿Qué conversación quieres tener?",
+        "¿Qué hábito quieres comenzar?",
+        "¿Qué te gustaría dejar atrás?",
+        "¿Cómo sabrás que avanzaste?",
+        "¿Qué versión de ti quieres alimentar?",
+        "¿Qué oportunidad no quieres dejar pasar?",
+        "¿Qué compromiso quieres hacer contigo mismo?",
+        "¿Qué esperas recordar cuando mires este momento dentro de unos años?"
+      ]
+    }
+  ],
+  "dynamicTransitions": {
+    "ifAnswerIsVeryShort": [
+      "¿Qué te hizo pensar en esa respuesta?",
+      "¿Qué hay detrás de eso?",
+      "¿Te gustaría profundizar un poco más?"
+    ],
+    "ifAnswerIsVeryEmotional": [
+      "Gracias por compartirlo.",
+      "¿Qué fue lo más difícil de vivir?",
+      "¿Cómo estás hoy respecto a eso?"
+    ],
+    "ifAnswerIsFunny": [
+      "¿Siempre lo recuerdas así?",
+      "¿Qué fue lo más inesperado?",
+      "¿Qué aprendiste entre risas?"
+    ],
+    "ifAnswerShowsGrowth": [
+      "¿Qué hizo posible ese cambio?",
+      "¿Qué parte fue la más difícil?",
+      "¿Qué consejo darías a alguien en esa situación?"
+    ],
+    "ifAnswerMentionsFear": [
+      "¿Qué había detrás de ese miedo?",
+      "¿Qué te ayudó a seguir adelante?",
+      "¿Qué cambió después?"
+    ],
+    "ifAnswerMentionsSomeone": [
+      "¿Qué papel tuvo esa persona?",
+      "¿Qué aprendiste gracias a ella?",
+      "¿Sigue siendo importante en tu vida?"
+    ],
+    "ifPlayerDoesNotWantToContinue": [
+      "Está bien, podemos cambiar de tema.",
+      "No hace falta responder si no te apetece.",
+      "Podemos pasar a la siguiente carta cuando quieras."
+    ]
+  },
+  "stopConditions": [
+    "La persona responde que no desea profundizar.",
+    "Las respuestas se vuelven repetitivas.",
+    "La conversación ya alcanzó una conclusión natural.",
+    "El jugador muestra incomodidad evidente.",
+    "Ya se realizaron tres follow-ups consecutivos."
+  ],
+  "conversationPrinciples": [
+    "Las preguntas deben sentirse como curiosidad genuina, no como un interrogatorio.",
+    "Cada follow-up debe depender de la respuesta anterior.",
+    "Es preferible una buena pregunta que tres superficiales.",
+    "No buscar resolver los problemas del jugador.",
+    "No juzgar, interpretar ni diagnosticar.",
+    "Aceptar silencios y respuestas breves.",
+    "La conversación debe terminar con más comprensión que con más información."
+  ]
+}

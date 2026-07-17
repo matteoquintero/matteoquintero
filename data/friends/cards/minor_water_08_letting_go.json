@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_08_letting_go",
+  "name": "Letting Go",
+  "arcana": "Minor",
+  "number": 8,
+  "traditionalEquivalent": "Eight of Cups",
+  "meaning": "Representa el momento en que comprendemos que aferrarnos a algo que ya cumplió su propósito solo prolonga el sufrimiento. Soltar no significa perder, sino abrir espacio para una nueva etapa. Esta carta habla del valor de despedirse de personas, ideas, hábitos o situaciones que ya no contribuyen a nuestro crecimiento.",
+  "coreMessage": "Solo cuando sueltas lo que ya terminó puedes recibir lo que está esperando por llegar.",
+  "keywords": [
+    "Soltar",
+    "Desapego",
+    "Cambio",
+    "Aceptación",
+    "Renovación",
+    "Libertad",
+    "Transición",
+    "Crecimiento"
+  ],
+  "light": [
+    "Desapego",
+    "Renovación",
+    "Madurez",
+    "Valentía",
+    "Libertad emocional"
+  ],
+  "shadow": [
+    "Apego",
+    "Resistencia",
+    "Miedo al cambio",
+    "Dependencia",
+    "Estancamiento"
+  ],
+  "invitation": "Confía en que dejar ir aquello que ya terminó no disminuye tu historia; simplemente permite que la siguiente pueda comenzar.",
+  "axes": [
+    "Desapego",
+    "Cambio",
+    "Aceptación",
+    "Libertad",
+    "Renovación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_08_playful_01",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué objeto guardas desde hace años aunque sabes que nunca volverás a usar?"
+      },
+      {
+        "id": "minor_water_08_playful_02",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Qué costumbre dejaste atrás y hoy no extrañas en absoluto?"
+      },
+      {
+        "id": "minor_water_08_playful_03",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Cuál fue la última vez que hiciste una limpieza y terminaste encontrando recuerdos olvidados?"
+      },
+      {
+        "id": "minor_water_08_playful_04",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Te cuesta más tirar cosas o despedirte de personas?"
+      },
+      {
+        "id": "minor_water_08_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué decisión difícil terminó sintiéndose como un gran alivio?"
+      },
+      {
+        "id": "minor_water_08_playful_06",
+        "intensity": 2,
+        "tags": ["change"],
+        "question": "¿Qué cambio que al principio no querías terminó siendo positivo?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_08_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué has aprendido sobre dejar ir?"
+      },
+      {
+        "id": "minor_water_08_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué etapa de tu vida terminó exactamente cuando debía terminar?"
+      },
+      {
+        "id": "minor_water_08_thoughtful_03",
+        "intensity": 3,
+        "tags": ["change"],
+        "question": "¿Qué decisión marcó un antes y un después en tu vida?"
+      },
+      {
+        "id": "minor_water_08_thoughtful_04",
+        "intensity": 3,
+        "tags": ["acceptance"],
+        "question": "¿Qué situación tardaste mucho en aceptar?"
+      },
+      {
+        "id": "minor_water_08_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué oportunidad apareció después de cerrar una puerta?"
+      },
+      {
+        "id": "minor_water_08_thoughtful_06",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo sabes cuándo insistir y cuándo es momento de retirarte?"
+      },
+      {
+        "id": "minor_water_08_thoughtful_07",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad has tenido que reinventar?"
+      },
+      {
+        "id": "minor_water_08_thoughtful_08",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué pérdida terminó convirtiéndose en una oportunidad?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_08_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué sigues sosteniendo únicamente por miedo a lo desconocido?"
+      },
+      {
+        "id": "minor_water_08_deep_02",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué relación cambió tu vida precisamente porque llegó a su final?"
+      },
+      {
+        "id": "minor_water_08_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué versión de ti necesita despedirse para dar paso a la siguiente?"
+      },
+      {
+        "id": "minor_water_08_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué carga emocional llevas tanto tiempo encima que ya olvidaste cómo se siente vivir sin ella?"
+      },
+      {
+        "id": "minor_water_08_deep_05",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué has descubierto sobre ti después de cerrar un capítulo importante?"
+      },
+      {
+        "id": "minor_water_08_deep_06",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué verdad has dejado de negar recientemente?"
+      },
+      {
+        "id": "minor_water_08_deep_07",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué sería posible en tu vida si dejaras de mirar constantemente hacia atrás?"
+      },
+      {
+        "id": "minor_water_08_deep_08",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué final terminó llevándote exactamente al lugar donde necesitabas estar?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_08_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué podrías dejar ir esta semana para sentirte más ligero?"
+      },
+      {
+        "id": "minor_water_08_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué conversación pendiente evitarías seguir posponiendo?"
+      },
+      {
+        "id": "minor_water_08_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué hábito ya no representa la persona que quieres ser?"
+      },
+      {
+        "id": "minor_water_08_challenge_04",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué puerta necesitas cerrar para abrir una nueva?"
+      },
+      {
+        "id": "minor_water_08_challenge_05",
+        "intensity": 4,
+        "tags": ["acceptance"],
+        "question": "¿Qué realidad sería más fácil si dejaras de luchar contra ella?"
+      },
+      {
+        "id": "minor_water_08_challenge_06",
+        "intensity": 4,
+        "tags": ["freedom"],
+        "question": "¿Qué decisión te haría sentir más libre dentro de un año?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_08_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te enseñó que despedirse también puede ser un acto de amor?"
+      },
+      {
+        "id": "minor_water_08_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué persona te apoyó durante un cambio importante en tu vida?"
+      },
+      {
+        "id": "minor_water_08_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién recuerdas con gratitud aunque ya no forme parte de tu vida?"
+      },
+      {
+        "id": "minor_water_08_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué consejo de un ser querido te ayudó a seguir adelante?"
+      },
+      {
+        "id": "minor_water_08_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién estuvo contigo cuando tuviste que empezar de nuevo?"
+      },
+      {
+        "id": "minor_water_08_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona merece saber cuánto influyó en la persona que eres hoy?"
+      }
+    ]
+  }
+}

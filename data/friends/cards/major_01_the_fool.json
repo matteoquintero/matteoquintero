@@ -1,0 +1,257 @@
+{
+  "id": "major_01_the_fool",
+  "name": "The Fool",
+  "arcana": "Major",
+  "number": 1,
+  "traditionalEquivalent": "The Fool",
+  "meaning": "Representa el salto hacia lo desconocido. Habla de confiar en la vida, comenzar de nuevo y permitir que la curiosidad sea más fuerte que el miedo.",
+  "coreMessage": "Toda aventura comienza con un acto de confianza.",
+  "keywords": [
+    "Comienzos",
+    "Curiosidad",
+    "Libertad",
+    "Espontaneidad",
+    "Confianza",
+    "Aventura",
+    "Potencial",
+    "Apertura"
+  ],
+  "light": [
+    "Optimismo",
+    "Valentía",
+    "Flexibilidad",
+    "Creatividad",
+    "Capacidad de sorprenderse"
+  ],
+  "shadow": [
+    "Impulsividad",
+    "Ingenuidad",
+    "Miedo a empezar",
+    "Evasión de responsabilidades",
+    "Parálisis por incertidumbre"
+  ],
+  "invitation": "Confía en que no necesitas tener todas las respuestas antes de dar el siguiente paso.",
+  "axes": [
+    "Comienzos",
+    "Riesgo",
+    "Curiosidad",
+    "Confianza",
+    "Exploración"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_01_playful_01",
+        "intensity": 1,
+        "tags": ["aventuras"],
+        "question": "Si mañana pudieras empezar una vida completamente nueva en cualquier lugar del mundo, ¿a dónde irías?"
+      },
+      {
+        "id": "major_01_playful_02",
+        "intensity": 1,
+        "tags": ["curiosidad"],
+        "question": "¿Cuál fue la última vez que hiciste algo por primera vez?"
+      },
+      {
+        "id": "major_01_playful_03",
+        "intensity": 2,
+        "tags": ["espontaneidad"],
+        "question": "¿Qué decisión impulsiva terminó siendo una gran historia?"
+      },
+      {
+        "id": "major_01_playful_04",
+        "intensity": 2,
+        "tags": ["explorar"],
+        "question": "¿Qué actividad siempre has querido probar pero todavía no lo haces?"
+      },
+      {
+        "id": "major_01_playful_05",
+        "intensity": 2,
+        "tags": ["niñez"],
+        "question": "¿Qué hacías de niño que hoy todavía te hace sonreír?"
+      },
+      {
+        "id": "major_01_playful_06",
+        "intensity": 2,
+        "tags": ["sueños"],
+        "question": "Si supieras que no puedes fallar, ¿qué intentarías este año?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_01_thoughtful_01",
+        "intensity": 3,
+        "tags": ["crecimiento"],
+        "question": "¿Qué nuevo comienzo cambió más tu vida?"
+      },
+      {
+        "id": "major_01_thoughtful_02",
+        "intensity": 3,
+        "tags": ["miedo"],
+        "question": "¿Qué miedo suele aparecer justo antes de dar un gran paso?"
+      },
+      {
+        "id": "major_01_thoughtful_03",
+        "intensity": 3,
+        "tags": ["aprendizaje"],
+        "question": "¿Qué descubriste sobre ti la última vez que saliste de tu zona de confort?"
+      },
+      {
+        "id": "major_01_thoughtful_04",
+        "intensity": 3,
+        "tags": ["confianza"],
+        "question": "¿Qué significa confiar en la vida para ti?"
+      },
+      {
+        "id": "major_01_thoughtful_05",
+        "intensity": 3,
+        "tags": ["cambio"],
+        "question": "¿Qué decisión llevas demasiado tiempo posponiendo?"
+      },
+      {
+        "id": "major_01_thoughtful_06",
+        "intensity": 3,
+        "tags": ["identidad"],
+        "question": "¿Qué versión de ti está esperando una oportunidad para aparecer?"
+      },
+      {
+        "id": "major_01_thoughtful_07",
+        "intensity": 3,
+        "tags": ["curiosidad"],
+        "question": "¿Qué te gustaría aprender si el tiempo y el dinero no fueran un problema?"
+      },
+      {
+        "id": "major_01_thoughtful_08",
+        "intensity": 3,
+        "tags": ["decisiones"],
+        "question": "¿Cómo sabes cuándo es momento de empezar de nuevo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_01_deep_01",
+        "intensity": 5,
+        "tags": ["miedo"],
+        "question": "¿Qué oportunidad dejaste pasar por miedo?"
+      },
+      {
+        "id": "major_01_deep_02",
+        "intensity": 5,
+        "tags": ["identidad"],
+        "question": "¿Qué parte de ti todavía no se ha atrevido a vivir plenamente?"
+      },
+      {
+        "id": "major_01_deep_03",
+        "intensity": 5,
+        "tags": ["valentía"],
+        "question": "¿Cuál ha sido el salto de fe más importante de tu vida?"
+      },
+      {
+        "id": "major_01_deep_04",
+        "intensity": 4,
+        "tags": ["arrepentimiento"],
+        "question": "¿Qué decisión cambiarías si pudieras volver atrás?"
+      },
+      {
+        "id": "major_01_deep_05",
+        "intensity": 5,
+        "tags": ["autenticidad"],
+        "question": "¿Qué harías diferente si dejaras de preocuparte por la opinión de los demás?"
+      },
+      {
+        "id": "major_01_deep_06",
+        "intensity": 5,
+        "tags": ["cambio"],
+        "question": "¿Qué capítulo de tu vida necesita terminar para que otro pueda comenzar?"
+      },
+      {
+        "id": "major_01_deep_07",
+        "intensity": 5,
+        "tags": ["confianza"],
+        "question": "¿Cuándo fue la última vez que confiaste completamente en tu intuición?"
+      },
+      {
+        "id": "major_01_deep_08",
+        "intensity": 5,
+        "tags": ["propósito"],
+        "question": "¿Qué aventura sientes que le debes a tu vida?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_01_challenge_01",
+        "intensity": 4,
+        "tags": ["acción"],
+        "question": "¿Qué primer paso puedes dar esta semana hacia algo que realmente quieres?"
+      },
+      {
+        "id": "major_01_challenge_02",
+        "intensity": 4,
+        "tags": ["miedo"],
+        "question": "¿Qué excusa repites para no empezar?"
+      },
+      {
+        "id": "major_01_challenge_03",
+        "intensity": 4,
+        "tags": ["riesgo"],
+        "question": "¿Qué riesgo vale más la pena tomar hoy que hace un año?"
+      },
+      {
+        "id": "major_01_challenge_04",
+        "intensity": 4,
+        "tags": ["hábitos"],
+        "question": "¿Qué hábito necesitas abandonar para abrir espacio a algo nuevo?"
+      },
+      {
+        "id": "major_01_challenge_05",
+        "intensity": 4,
+        "tags": ["crecimiento"],
+        "question": "¿Qué haría una versión más valiente de ti en este momento?"
+      },
+      {
+        "id": "major_01_challenge_06",
+        "intensity": 4,
+        "tags": ["decisión"],
+        "question": "¿Qué estás esperando para comenzar?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_01_connection_01",
+        "intensity": 3,
+        "tags": ["inspiración"],
+        "question": "¿Quién te ha inspirado a atreverte a hacer algo nuevo?"
+      },
+      {
+        "id": "major_01_connection_02",
+        "intensity": 3,
+        "tags": ["amistad"],
+        "question": "¿Con quién vivirías una aventura sin pensarlo dos veces?"
+      },
+      {
+        "id": "major_01_connection_03",
+        "intensity": 3,
+        "tags": ["familia"],
+        "question": "¿Qué persona siempre creyó en ti antes de que tú lo hicieras?"
+      },
+      {
+        "id": "major_01_connection_04",
+        "intensity": 3,
+        "tags": ["gratitud"],
+        "question": "¿A quién le agradecerías haber cambiado el rumbo de tu vida?"
+      },
+      {
+        "id": "major_01_connection_05",
+        "intensity": 3,
+        "tags": ["compañía"],
+        "question": "¿Quién sería tu compañero ideal para empezar un proyecto imposible?"
+      },
+      {
+        "id": "major_01_connection_06",
+        "intensity": 3,
+        "tags": ["apoyo"],
+        "question": "¿Quién te hace sentir que puedes dar cualquier salto?"
+      }
+    ]
+  }
+}

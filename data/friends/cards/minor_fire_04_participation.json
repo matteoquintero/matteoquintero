@@ -1,0 +1,257 @@
+{
+  "id": "minor_fire_04_participation",
+  "name": "Participation",
+  "arcana": "Minor",
+  "number": 4,
+  "traditionalEquivalent": "Four of Wands",
+  "meaning": "Representa la fuerza que surge cuando cada persona aporta lo mejor de sí a un propósito compartido. Habla de colaboración, confianza y celebración colectiva. Nos recuerda que algunas de las mejores experiencias de la vida solo son posibles cuando dejamos de actuar como individuos aislados.",
+  "coreMessage": "Cuando cada persona aporta su esencia, el resultado siempre supera la suma de las partes.",
+  "keywords": [
+    "Colaboración",
+    "Comunidad",
+    "Equipo",
+    "Contribución",
+    "Celebración",
+    "Confianza",
+    "Unión",
+    "Sinergia"
+  ],
+  "light": [
+    "Cooperación",
+    "Generosidad",
+    "Confianza",
+    "Unidad",
+    "Compromiso"
+  ],
+  "shadow": [
+    "Individualismo",
+    "Competencia",
+    "Ego",
+    "Desconexión",
+    "Falta de compromiso"
+  ],
+  "invitation": "Pregúntate cómo puedes contribuir, no solo qué puedes obtener.",
+  "axes": [
+    "Colaboración",
+    "Comunidad",
+    "Contribución",
+    "Confianza",
+    "Trabajo en equipo"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_fire_04_playful_01",
+        "intensity": 1,
+        "tags": ["teamwork"],
+        "question": "¿En qué tipo de actividad disfrutas más trabajar en equipo que solo?"
+      },
+      {
+        "id": "minor_fire_04_playful_02",
+        "intensity": 1,
+        "tags": ["friends"],
+        "question": "¿Qué plan siempre sale mejor cuando lo haces con otras personas?"
+      },
+      {
+        "id": "minor_fire_04_playful_03",
+        "intensity": 2,
+        "tags": ["celebration"],
+        "question": "¿Cuál ha sido la celebración grupal que más recuerdas?"
+      },
+      {
+        "id": "minor_fire_04_playful_04",
+        "intensity": 2,
+        "tags": ["skills"],
+        "question": "¿Qué papel sueles asumir espontáneamente cuando trabajas con un grupo?"
+      },
+      {
+        "id": "minor_fire_04_playful_05",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué proyecto compartido terminó siendo mucho más divertido de lo esperado?"
+      },
+      {
+        "id": "minor_fire_04_playful_06",
+        "intensity": 2,
+        "tags": ["community"],
+        "question": "¿Qué actividad te hace sentir parte de algo más grande?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_fire_04_thoughtful_01",
+        "intensity": 3,
+        "tags": ["collaboration"],
+        "question": "¿Qué has logrado junto a otras personas que difícilmente habrías conseguido solo?"
+      },
+      {
+        "id": "minor_fire_04_thoughtful_02",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué valoras más en un buen compañero de equipo?"
+      },
+      {
+        "id": "minor_fire_04_thoughtful_03",
+        "intensity": 3,
+        "tags": ["trust"],
+        "question": "¿Qué hace que confíes rápidamente en alguien para trabajar juntos?"
+      },
+      {
+        "id": "minor_fire_04_thoughtful_04",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué aprendiste de colaborar con personas muy diferentes a ti?"
+      },
+      {
+        "id": "minor_fire_04_thoughtful_05",
+        "intensity": 3,
+        "tags": ["leadership"],
+        "question": "¿Prefieres liderar, apoyar o adaptarte según la situación? ¿Por qué?"
+      },
+      {
+        "id": "minor_fire_04_thoughtful_06",
+        "intensity": 3,
+        "tags": ["community"],
+        "question": "¿Cuándo fue la última vez que sentiste un verdadero espíritu de equipo?"
+      },
+      {
+        "id": "minor_fire_04_thoughtful_07",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Qué causa disfrutarías construir junto a otras personas?"
+      },
+      {
+        "id": "minor_fire_04_thoughtful_08",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué proyecto compartido recuerdas con más orgullo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_fire_04_deep_01",
+        "intensity": 5,
+        "tags": ["belonging"],
+        "question": "¿En qué lugar o grupo has sentido que realmente pertenecías?"
+      },
+      {
+        "id": "minor_fire_04_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti solo aparece cuando estás rodeado de las personas correctas?"
+      },
+      {
+        "id": "minor_fire_04_deep_03",
+        "intensity": 5,
+        "tags": ["trust"],
+        "question": "¿Qué experiencia cambió tu forma de confiar en otras personas?"
+      },
+      {
+        "id": "minor_fire_04_deep_04",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué has aprendido sobre ti gracias a trabajar con otros?"
+      },
+      {
+        "id": "minor_fire_04_deep_05",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría construir junto a otras personas antes de que termine tu vida?"
+      },
+      {
+        "id": "minor_fire_04_deep_06",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué tipo de persona esperas ser dentro de un equipo?"
+      },
+      {
+        "id": "minor_fire_04_deep_07",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué sueño sería demasiado grande para lograrlo completamente solo?"
+      },
+      {
+        "id": "minor_fire_04_deep_08",
+        "intensity": 5,
+        "tags": ["connection"],
+        "question": "¿Qué hace que una comunidad deje de ser un grupo y se convierta en una familia?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_fire_04_challenge_01",
+        "intensity": 4,
+        "tags": ["collaboration"],
+        "question": "¿Qué podrías conseguir más rápido si pidieras ayuda?"
+      },
+      {
+        "id": "minor_fire_04_challenge_02",
+        "intensity": 4,
+        "tags": ["ego"],
+        "question": "¿En qué situación te cuesta delegar porque prefieres hacerlo todo tú?"
+      },
+      {
+        "id": "minor_fire_04_challenge_03",
+        "intensity": 4,
+        "tags": ["trust"],
+        "question": "¿Qué tendría que pasar para confiar más en el trabajo de otras personas?"
+      },
+      {
+        "id": "minor_fire_04_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Cómo podrías aportar más valor al grupo del que haces parte?"
+      },
+      {
+        "id": "minor_fire_04_challenge_05",
+        "intensity": 4,
+        "tags": ["community"],
+        "question": "¿Qué relación podrías fortalecer colaborando en lugar de competir?"
+      },
+      {
+        "id": "minor_fire_04_challenge_06",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué proyecto compartido merece que te involucres más?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_fire_04_connection_01",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién formarías un equipo para cualquier reto?"
+      },
+      {
+        "id": "minor_fire_04_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién ha sacado lo mejor de ti trabajando juntos?"
+      },
+      {
+        "id": "minor_fire_04_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué miembro de tu familia siempre une a todos?"
+      },
+      {
+        "id": "minor_fire_04_connection_04",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién complementa mejor tus fortalezas con las suyas?"
+      },
+      {
+        "id": "minor_fire_04_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Con quién te gustaría construir un proyecto importante algún día?"
+      },
+      {
+        "id": "minor_fire_04_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona te ha demostrado el verdadero significado de colaborar?"
+      }
+    ]
+  }
+}

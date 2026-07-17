@@ -1,0 +1,325 @@
+{
+  "id": "minor_rainbow_04_the_miser",
+  "name": "The Miser",
+  "arcana": "Minor",
+  "number": 4,
+  "traditionalEquivalent": "Four of Pentacles",
+  "meaning": "Representa el apego a aquello que creemos que nos da seguridad: dinero, posesiones, relaciones, ideas o incluso una imagen de nosotros mismos. Cuanto más intentamos controlar y conservar, más miedo sentimos de perderlo. La verdadera abundancia nace cuando entendemos que la seguridad no depende de aferrarse, sino de confiar en nuestra capacidad para adaptarnos y volver a crear.",
+  "coreMessage": "Aquello que aprietas con demasiada fuerza termina controlándote a ti.",
+  "keywords": [
+    "Apego",
+    "Control",
+    "Seguridad",
+    "Abundancia",
+    "Confianza",
+    "Generosidad",
+    "Libertad",
+    "Desapego"
+  ],
+  "light": [
+    "Estabilidad",
+    "Responsabilidad",
+    "Generosidad",
+    "Confianza",
+    "Equilibrio"
+  ],
+  "shadow": [
+    "Avaricia",
+    "Control excesivo",
+    "Miedo a perder",
+    "Rigidez",
+    "Apego"
+  ],
+  "invitation": "Observa qué estás intentando proteger con tanta fuerza. Quizá la libertad que buscas comienza al abrir la mano en lugar de seguir cerrándola.",
+  "axes": [
+    "Desapego",
+    "Confianza",
+    "Abundancia",
+    "Seguridad",
+    "Libertad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_rainbow_04_playful_01",
+        "intensity": 1,
+        "tags": [
+          "personality"
+        ],
+        "question": "¿Eres de guardar cosas 'por si algún día sirven'?"
+      },
+      {
+        "id": "minor_rainbow_04_playful_02",
+        "intensity": 1,
+        "tags": [
+          "habits"
+        ],
+        "question": "¿Qué objeto te costaría mucho regalar?"
+      },
+      {
+        "id": "minor_rainbow_04_playful_03",
+        "intensity": 2,
+        "tags": [
+          "humor"
+        ],
+        "question": "¿Cuál ha sido la compra que más has cuidado como si fuera un tesoro?"
+      },
+      {
+        "id": "minor_rainbow_04_playful_04",
+        "intensity": 2,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Qué fue lo último que prestaste sin preocuparte por recuperarlo?"
+      },
+      {
+        "id": "minor_rainbow_04_playful_05",
+        "intensity": 2,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué costumbre heredaste de alguien respecto al dinero o las pertenencias?"
+      },
+      {
+        "id": "minor_rainbow_04_playful_06",
+        "intensity": 2,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué descubriste después de deshacerte de algo que creías indispensable?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_rainbow_04_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué significa para ti sentirte realmente seguro?"
+      },
+      {
+        "id": "minor_rainbow_04_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Qué sueles intentar controlar cuando sientes incertidumbre?"
+      },
+      {
+        "id": "minor_rainbow_04_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué aprendiste al perder algo que considerabas muy importante?"
+      },
+      {
+        "id": "minor_rainbow_04_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Cómo encuentras el equilibrio entre ahorrar y disfrutar lo que tienes?"
+      },
+      {
+        "id": "minor_rainbow_04_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué aspecto de tu vida te da una sensación de estabilidad?"
+      },
+      {
+        "id": "minor_rainbow_04_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Cuándo fue la última vez que confiar dio mejores resultados que controlar?"
+      },
+      {
+        "id": "minor_rainbow_04_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "perspective"
+        ],
+        "question": "¿Qué diferencia hay para ti entre cuidar algo y aferrarte a ello?"
+      },
+      {
+        "id": "minor_rainbow_04_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué recurso valoras hoy mucho más que hace unos años?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_rainbow_04_deep_01",
+        "intensity": 5,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿A qué te aferras porque temes que, sin eso, perderías una parte de tu identidad?"
+      },
+      {
+        "id": "minor_rainbow_04_deep_02",
+        "intensity": 5,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué miedo alimenta tu necesidad de controlar ciertas áreas de tu vida?"
+      },
+      {
+        "id": "minor_rainbow_04_deep_03",
+        "intensity": 5,
+        "tags": [
+          "abundance"
+        ],
+        "question": "¿Qué significa para ti vivir en abundancia más allá de lo material?"
+      },
+      {
+        "id": "minor_rainbow_04_deep_04",
+        "intensity": 5,
+        "tags": [
+          "consciousness"
+        ],
+        "question": "¿Qué perderías realmente si soltaras aquello a lo que tanto te aferras?"
+      },
+      {
+        "id": "minor_rainbow_04_deep_05",
+        "intensity": 5,
+        "tags": [
+          "freedom"
+        ],
+        "question": "¿En qué aspecto de tu vida la necesidad de seguridad está limitando tu libertad?"
+      },
+      {
+        "id": "minor_rainbow_04_deep_06",
+        "intensity": 5,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué experiencia te enseñó que siempre eres más fuerte de lo que imaginabas?"
+      },
+      {
+        "id": "minor_rainbow_04_deep_07",
+        "intensity": 5,
+        "tags": [
+          "purpose"
+        ],
+        "question": "¿Qué podrías construir si dejaras de actuar desde el miedo a perder?"
+      },
+      {
+        "id": "minor_rainbow_04_deep_08",
+        "intensity": 5,
+        "tags": [
+          "trust"
+        ],
+        "question": "¿Qué necesitaría ocurrir para confiar más en la vida y menos en el control?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_rainbow_04_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "action"
+        ],
+        "question": "¿Qué objeto, hábito o idea puedes soltar esta semana?"
+      },
+      {
+        "id": "minor_rainbow_04_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué situación merece menos control y más confianza?"
+      },
+      {
+        "id": "minor_rainbow_04_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "generosity"
+        ],
+        "question": "¿Qué puedes compartir hoy con alguien sin esperar nada a cambio?"
+      },
+      {
+        "id": "minor_rainbow_04_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué decisión tomarías si no estuvieras actuando desde el miedo a perder?"
+      },
+      {
+        "id": "minor_rainbow_04_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Qué área de tu vida necesita más flexibilidad?"
+      },
+      {
+        "id": "minor_rainbow_04_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "courage"
+        ],
+        "question": "¿Qué paso te acercaría a sentir seguridad desde dentro y no desde lo que posees?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_rainbow_04_connection_01",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Quién te ha enseñado que compartir multiplica más que acumular?"
+      },
+      {
+        "id": "minor_rainbow_04_connection_02",
+        "intensity": 3,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Con quién sientes que no necesitas demostrar nada para sentirte valioso?"
+      },
+      {
+        "id": "minor_rainbow_04_connection_03",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿Qué persona te dio tranquilidad en un momento de incertidumbre?"
+      },
+      {
+        "id": "minor_rainbow_04_connection_04",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Qué enseñanza sobre el dinero o la seguridad recibiste de tu familia?"
+      },
+      {
+        "id": "minor_rainbow_04_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Quién te hace sentir seguro incluso cuando todo parece incierto?"
+      },
+      {
+        "id": "minor_rainbow_04_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿A quién te gustaría agradecer por haberte mostrado que soltar también puede ser una forma de crecer?"
+      }
+    ]
+  }
+}

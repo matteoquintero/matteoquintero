@@ -1,0 +1,257 @@
+{
+  "id": "minor_fire_01_source",
+  "name": "Source",
+  "arcana": "Minor",
+  "number": 1,
+  "traditionalEquivalent": "Ace of Wands",
+  "meaning": "Representa la energía pura antes de tomar forma. Es el origen de la creatividad, la inspiración y el impulso vital. Habla de ese instante en el que una idea, una emoción o un deseo nacen con fuerza, invitándonos a actuar desde lo más auténtico de nosotros.",
+  "coreMessage": "Toda gran creación comienza con una chispa que merece ser escuchada.",
+  "keywords": [
+    "Origen",
+    "Inspiración",
+    "Creatividad",
+    "Potencial",
+    "Energía",
+    "Inicio",
+    "Vitalidad",
+    "Propósito"
+  ],
+  "light": [
+    "Inspiración",
+    "Entusiasmo",
+    "Creatividad",
+    "Vitalidad",
+    "Iniciativa"
+  ],
+  "shadow": [
+    "Bloqueo creativo",
+    "Desconexión",
+    "Apatía",
+    "Duda",
+    "Falta de dirección"
+  ],
+  "invitation": "Escucha aquello que despierta tu energía. Ahí suele comenzar lo importante.",
+  "axes": [
+    "Creatividad",
+    "Inicio",
+    "Propósito",
+    "Energía",
+    "Potencial"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_fire_01_playful_01",
+        "intensity": 1,
+        "tags": ["creativity"],
+        "question": "¿Qué idea se te ocurrió una vez y todavía piensas que sería genial hacer realidad?"
+      },
+      {
+        "id": "minor_fire_01_playful_02",
+        "intensity": 1,
+        "tags": ["hobbies"],
+        "question": "¿Qué actividad despierta inmediatamente tu entusiasmo?"
+      },
+      {
+        "id": "minor_fire_01_playful_03",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "Si mañana pudieras aprender cualquier habilidad al instante, ¿cuál elegirías?"
+      },
+      {
+        "id": "minor_fire_01_playful_04",
+        "intensity": 2,
+        "tags": ["dreams"],
+        "question": "¿Qué proyecto has imaginado más veces de las que puedes contar?"
+      },
+      {
+        "id": "minor_fire_01_playful_05",
+        "intensity": 2,
+        "tags": ["energy"],
+        "question": "¿Qué tema hace que hables con más emoción?"
+      },
+      {
+        "id": "minor_fire_01_playful_06",
+        "intensity": 2,
+        "tags": ["imagination"],
+        "question": "¿Qué crearías si supieras que no puedes fracasar?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_fire_01_thoughtful_01",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Qué actividad hace que el tiempo pase sin que lo notes?"
+      },
+      {
+        "id": "minor_fire_01_thoughtful_02",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Cuándo fue la última vez que sentiste una inspiración muy clara?"
+      },
+      {
+        "id": "minor_fire_01_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué idea cambió el rumbo de tu vida?"
+      },
+      {
+        "id": "minor_fire_01_thoughtful_04",
+        "intensity": 3,
+        "tags": ["creativity"],
+        "question": "¿Qué haces para recuperar la inspiración cuando parece desaparecer?"
+      },
+      {
+        "id": "minor_fire_01_thoughtful_05",
+        "intensity": 3,
+        "tags": ["motivation"],
+        "question": "¿Qué suele darte la energía para empezar algo nuevo?"
+      },
+      {
+        "id": "minor_fire_01_thoughtful_06",
+        "intensity": 3,
+        "tags": ["values"],
+        "question": "¿Qué proyecto refleja mejor quién eres?"
+      },
+      {
+        "id": "minor_fire_01_thoughtful_07",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Qué descubriste sobre ti al crear algo desde cero?"
+      },
+      {
+        "id": "minor_fire_01_thoughtful_08",
+        "intensity": 3,
+        "tags": ["potential"],
+        "question": "¿Qué talento tuyo sientes que aún está poco explorado?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_fire_01_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti pide expresarse con más libertad?"
+      },
+      {
+        "id": "minor_fire_01_deep_02",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué sueño sigue encendido dentro de ti a pesar del tiempo?"
+      },
+      {
+        "id": "minor_fire_01_deep_03",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué idea has dejado guardada por miedo a no estar preparado?"
+      },
+      {
+        "id": "minor_fire_01_deep_04",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué crearías si dejaras de preocuparte por la opinión de los demás?"
+      },
+      {
+        "id": "minor_fire_01_deep_05",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría aportar al mundo que todavía no has empezado?"
+      },
+      {
+        "id": "minor_fire_01_deep_06",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué deseo lleva años intentando llamar tu atención?"
+      },
+      {
+        "id": "minor_fire_01_deep_07",
+        "intensity": 5,
+        "tags": ["courage"],
+        "question": "¿Qué primer paso cambiaría mucho tu vida si lo dieras hoy?"
+      },
+      {
+        "id": "minor_fire_01_deep_08",
+        "intensity": 5,
+        "tags": ["potential"],
+        "question": "¿Qué versión de ti podría existir si confiaras más en tu propio potencial?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_fire_01_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué idea merece dejar de ser solo una idea esta semana?"
+      },
+      {
+        "id": "minor_fire_01_challenge_02",
+        "intensity": 4,
+        "tags": ["creativity"],
+        "question": "¿Qué excusa repites para no comenzar?"
+      },
+      {
+        "id": "minor_fire_01_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué pequeño paso podrías dar hoy hacia un proyecto importante?"
+      },
+      {
+        "id": "minor_fire_01_challenge_04",
+        "intensity": 4,
+        "tags": ["confidence"],
+        "question": "¿Qué harías diferente si confiaras un poco más en tus capacidades?"
+      },
+      {
+        "id": "minor_fire_01_challenge_05",
+        "intensity": 4,
+        "tags": ["focus"],
+        "question": "¿Qué distracción deberías dejar para proteger tu energía creativa?"
+      },
+      {
+        "id": "minor_fire_01_challenge_06",
+        "intensity": 4,
+        "tags": ["purpose"],
+        "question": "¿Qué merece recibir más de tu tiempo y atención?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_fire_01_connection_01",
+        "intensity": 3,
+        "tags": ["mentors"],
+        "question": "¿Quién despertó en ti una pasión que aún conservas?"
+      },
+      {
+        "id": "minor_fire_01_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién disfrutas crear o imaginar proyectos?"
+      },
+      {
+        "id": "minor_fire_01_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién creyó en una idea tuya antes que tú mismo?"
+      },
+      {
+        "id": "minor_fire_01_connection_04",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué persona inspira tu lado más creativo?"
+      },
+      {
+        "id": "minor_fire_01_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿A quién acudirías si quisieras empezar un proyecto importante?"
+      },
+      {
+        "id": "minor_fire_01_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría construir algo que perdure en el tiempo?"
+      }
+    ]
+  }
+}

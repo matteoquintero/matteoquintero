@@ -1,0 +1,257 @@
+{
+  "id": "minor_zen_18_beyond_illusion",
+  "name": "Beyond Illusion",
+  "arcana": "Minor",
+  "number": 18,
+  "traditionalEquivalent": "Ninguno (Carta Zen)",
+  "meaning": "Representa el momento en que las ilusiones se disuelven y la realidad puede verse con claridad. La mente suele construir historias, expectativas y miedos que terminan pareciendo más reales que los hechos. Esta carta invita a atravesar esas proyecciones y descubrir que la verdad suele ser más simple, libre y luminosa de lo que imaginábamos. No se trata de perder la magia, sino de dejar de confundir las interpretaciones con la realidad.",
+  "coreMessage": "La libertad comienza cuando dejas de creer todo lo que tu mente te cuenta.",
+  "keywords": [
+    "Claridad",
+    "Despertar",
+    "Verdad",
+    "Conciencia",
+    "Ilusión",
+    "Percepción",
+    "Presencia",
+    "Liberación"
+  ],
+  "light": [
+    "Claridad",
+    "Sabiduría",
+    "Presencia",
+    "Discernimiento",
+    "Paz interior"
+  ],
+  "shadow": [
+    "Autoengaño",
+    "Fantasía",
+    "Proyección",
+    "Confusión",
+    "Apego a las apariencias"
+  ],
+  "invitation": "Observa tus pensamientos sin asumir que todos son ciertos. Cuando distingues entre los hechos y las historias que construyes sobre ellos, aparece una nueva forma de libertad.",
+  "axes": [
+    "Conciencia",
+    "Verdad",
+    "Percepción",
+    "Presencia",
+    "Liberación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_zen_18_playful_01",
+        "intensity": 1,
+        "tags": ["curiosity"],
+        "question": "¿Qué cosa parecía increíble de niño y luego descubriste cómo funcionaba realmente?"
+      },
+      {
+        "id": "minor_zen_18_playful_02",
+        "intensity": 1,
+        "tags": ["life"],
+        "question": "¿Qué película o libro te hizo cambiar la forma de ver algo?"
+      },
+      {
+        "id": "minor_zen_18_playful_03",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Cuándo fue la última vez que estabas completamente equivocado sobre una situación?"
+      },
+      {
+        "id": "minor_zen_18_playful_04",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué prejuicio lograste superar con el tiempo?"
+      },
+      {
+        "id": "minor_zen_18_playful_05",
+        "intensity": 2,
+        "tags": ["memories"],
+        "question": "¿Qué recuerdo cambió de significado al verlo años después?"
+      },
+      {
+        "id": "minor_zen_18_playful_06",
+        "intensity": 2,
+        "tags": ["perspective"],
+        "question": "¿Qué descubrimiento reciente te sorprendió porque era muy distinto a lo que imaginabas?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_zen_18_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué historia sobre tu vida has tenido que replantear recientemente?"
+      },
+      {
+        "id": "minor_zen_18_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo diferencias un hecho de una interpretación?"
+      },
+      {
+        "id": "minor_zen_18_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué ilusión fue difícil dejar atrás, pero terminó haciéndote crecer?"
+      },
+      {
+        "id": "minor_zen_18_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo mantienes una mente abierta sin perder el pensamiento crítico?"
+      },
+      {
+        "id": "minor_zen_18_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué aspecto de ti comprendiste mejor cuando dejaste de compararte con otros?"
+      },
+      {
+        "id": "minor_zen_18_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué expectativa ha condicionado innecesariamente tu felicidad?"
+      },
+      {
+        "id": "minor_zen_18_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué situación cambió por completo cuando conociste toda la historia?"
+      },
+      {
+        "id": "minor_zen_18_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti ver la realidad con claridad?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_zen_18_deep_01",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué ilusión sobre ti mismo estás listo para dejar atrás?"
+      },
+      {
+        "id": "minor_zen_18_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad se construyó más por expectativas que por elección?"
+      },
+      {
+        "id": "minor_zen_18_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo existe principalmente porque tu mente imagina un futuro que aún no ha ocurrido?"
+      },
+      {
+        "id": "minor_zen_18_deep_04",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué cambiaría en tu vida si confiaras más en la realidad que en tus suposiciones?"
+      },
+      {
+        "id": "minor_zen_18_deep_05",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué verdad tardaste años en aceptar, pero terminó liberándote?"
+      },
+      {
+        "id": "minor_zen_18_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué máscara has sostenido durante demasiado tiempo?"
+      },
+      {
+        "id": "minor_zen_18_deep_07",
+        "intensity": 5,
+        "tags": ["transformation"],
+        "question": "¿Qué historia necesitas dejar de contarte para poder comenzar una nueva etapa?"
+      },
+      {
+        "id": "minor_zen_18_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Cuál ha sido el momento de mayor claridad que recuerdas en tu vida?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_zen_18_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué suposición puedes verificar antes de seguir creyéndola?"
+      },
+      {
+        "id": "minor_zen_18_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué historia mental merece ser cuestionada esta semana?"
+      },
+      {
+        "id": "minor_zen_18_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué expectativa puedes soltar para vivir con mayor tranquilidad?"
+      },
+      {
+        "id": "minor_zen_18_challenge_04",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué pensamiento puedes observar sin identificarte con él?"
+      },
+      {
+        "id": "minor_zen_18_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué hecho concreto merece más atención que las interpretaciones que haces sobre él?"
+      },
+      {
+        "id": "minor_zen_18_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué verdad estás listo para aceptar aunque cambie tu forma de ver las cosas?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_zen_18_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ayuda a ver las cosas con mayor objetividad?"
+      },
+      {
+        "id": "minor_zen_18_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué conversación cambió radicalmente tu percepción sobre alguien?"
+      },
+      {
+        "id": "minor_zen_18_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién agradeces por ayudarte a salir de un engaño o una confusión?"
+      },
+      {
+        "id": "minor_zen_18_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué enseñanza recibida en tu familia hoy entiendes de una manera completamente distinta?"
+      },
+      {
+        "id": "minor_zen_18_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién tiene la capacidad de decirte la verdad incluso cuando no es fácil escucharla?"
+      },
+      {
+        "id": "minor_zen_18_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría tener una conversación completamente honesta, sin máscaras ni suposiciones?"
+      }
+    ]
+  }
+}

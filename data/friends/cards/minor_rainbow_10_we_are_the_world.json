@@ -1,0 +1,325 @@
+{
+  "id": "minor_rainbow_10_we_are_the_world",
+  "name": "We Are the World",
+  "arcana": "Minor",
+  "number": 10,
+  "traditionalEquivalent": "Ten of Pentacles",
+  "meaning": "Representa la plenitud que surge cuando comprendemos que la verdadera riqueza no es individual, sino compartida. Después de un largo camino de crecimiento personal, aparece la conciencia de que todos estamos conectados y que nuestro bienestar también depende del bienestar de quienes nos rodean. Esta carta habla de comunidad, legado, colaboración y abundancia colectiva.",
+  "coreMessage": "La mayor riqueza es aquello que crece cuando se comparte.",
+  "keywords": [
+    "Comunidad",
+    "Abundancia",
+    "Legado",
+    "Unidad",
+    "Colaboración",
+    "Generosidad",
+    "Conexión",
+    "Plenitud"
+  ],
+  "light": [
+    "Unidad",
+    "Cooperación",
+    "Generosidad",
+    "Abundancia",
+    "Legado"
+  ],
+  "shadow": [
+    "Individualismo",
+    "Egoísmo",
+    "Aislamiento",
+    "Competencia excesiva",
+    "Desconexión"
+  ],
+  "invitation": "Reconoce que tu crecimiento cobra un nuevo significado cuando también beneficia a otros. Pregúntate qué puedes construir junto a los demás y qué legado deseas dejar.",
+  "axes": [
+    "Comunidad",
+    "Legado",
+    "Abundancia",
+    "Conexión",
+    "Colaboración"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_rainbow_10_playful_01",
+        "intensity": 1,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Qué actividad disfrutas mucho más cuando la haces acompañado?"
+      },
+      {
+        "id": "minor_rainbow_10_playful_02",
+        "intensity": 1,
+        "tags": [
+          "memories"
+        ],
+        "question": "¿Cuál es uno de los recuerdos más felices que compartiste con un grupo de personas?"
+      },
+      {
+        "id": "minor_rainbow_10_playful_03",
+        "intensity": 2,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Qué tradición compartida siempre esperas con ilusión?"
+      },
+      {
+        "id": "minor_rainbow_10_playful_04",
+        "intensity": 2,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué habilidad tuya suele ser útil para los demás?"
+      },
+      {
+        "id": "minor_rainbow_10_playful_05",
+        "intensity": 2,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿Qué gesto de generosidad nunca has olvidado?"
+      },
+      {
+        "id": "minor_rainbow_10_playful_06",
+        "intensity": 2,
+        "tags": [
+          "community"
+        ],
+        "question": "¿En qué lugar o comunidad sientes que realmente perteneces?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_rainbow_10_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué significa para ti dejar un legado?"
+      },
+      {
+        "id": "minor_rainbow_10_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "community"
+        ],
+        "question": "¿Qué has aprendido gracias a formar parte de una comunidad?"
+      },
+      {
+        "id": "minor_rainbow_10_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Qué relaciones hacen que tu vida sea mucho más rica?"
+      },
+      {
+        "id": "minor_rainbow_10_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Cómo equilibras cuidar de ti con cuidar de los demás?"
+      },
+      {
+        "id": "minor_rainbow_10_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué has recibido de otros que ahora intentas ofrecer también?"
+      },
+      {
+        "id": "minor_rainbow_10_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué papel sueles asumir cuando trabajas en equipo?"
+      },
+      {
+        "id": "minor_rainbow_10_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "perspective"
+        ],
+        "question": "¿Qué descubriste cuando dejaste de competir y comenzaste a colaborar?"
+      },
+      {
+        "id": "minor_rainbow_10_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué clase de comunidad te gustaría ayudar a construir?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_rainbow_10_deep_01",
+        "intensity": 5,
+        "tags": [
+          "legacy"
+        ],
+        "question": "¿Qué te gustaría que las personas recordaran de ti cuando ya no estés?"
+      },
+      {
+        "id": "minor_rainbow_10_deep_02",
+        "intensity": 5,
+        "tags": [
+          "purpose"
+        ],
+        "question": "¿Cómo puede tu trabajo o tu forma de vivir mejorar la vida de otros?"
+      },
+      {
+        "id": "minor_rainbow_10_deep_03",
+        "intensity": 5,
+        "tags": [
+          "consciousness"
+        ],
+        "question": "¿Qué responsabilidad sientes hacia las generaciones que vienen después de ti?"
+      },
+      {
+        "id": "minor_rainbow_10_deep_04",
+        "intensity": 5,
+        "tags": [
+          "abundance"
+        ],
+        "question": "¿Qué significa para ti una vida verdaderamente próspera?"
+      },
+      {
+        "id": "minor_rainbow_10_deep_05",
+        "intensity": 5,
+        "tags": [
+          "connection"
+        ],
+        "question": "¿Cuándo comprendiste que nadie llega lejos completamente solo?"
+      },
+      {
+        "id": "minor_rainbow_10_deep_06",
+        "intensity": 5,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿Qué personas forman parte invisible de los logros que hoy disfrutas?"
+      },
+      {
+        "id": "minor_rainbow_10_deep_07",
+        "intensity": 5,
+        "tags": [
+          "wisdom"
+        ],
+        "question": "¿Qué conocimiento esperas transmitir a quienes vengan después de ti?"
+      },
+      {
+        "id": "minor_rainbow_10_deep_08",
+        "intensity": 5,
+        "tags": [
+          "unity"
+        ],
+        "question": "¿Qué cambiaría en el mundo si más personas pensaran en el beneficio colectivo además del propio?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_rainbow_10_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "action"
+        ],
+        "question": "¿Qué conocimiento o experiencia puedes compartir esta semana con alguien?"
+      },
+      {
+        "id": "minor_rainbow_10_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "generosity"
+        ],
+        "question": "¿Qué acto de generosidad puedes realizar sin esperar reconocimiento?"
+      },
+      {
+        "id": "minor_rainbow_10_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "community"
+        ],
+        "question": "¿Cómo puedes fortalecer una comunidad de la que haces parte?"
+      },
+      {
+        "id": "minor_rainbow_10_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué legado estás construyendo con tus acciones diarias?"
+      },
+      {
+        "id": "minor_rainbow_10_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué proyecto sería más poderoso si dejaras de intentar hacerlo todo solo?"
+      },
+      {
+        "id": "minor_rainbow_10_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "courage"
+        ],
+        "question": "¿Qué primer paso puedes dar hoy para contribuir positivamente a la vida de alguien más?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_rainbow_10_connection_01",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Quién representa para ti el verdadero significado de comunidad?"
+      },
+      {
+        "id": "minor_rainbow_10_connection_02",
+        "intensity": 3,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Qué amistad demuestra que crecer juntos vale más que competir?"
+      },
+      {
+        "id": "minor_rainbow_10_connection_03",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿A quién te gustaría agradecer por haber hecho posible parte de tu camino?"
+      },
+      {
+        "id": "minor_rainbow_10_connection_04",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Qué legado familiar esperas conservar o transformar?"
+      },
+      {
+        "id": "minor_rainbow_10_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Quién siempre te recuerda que juntos las cosas son más fáciles?"
+      },
+      {
+        "id": "minor_rainbow_10_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Con quién te gustaría construir algo que permanezca mucho después de ustedes?"
+      }
+    ]
+  }
+}

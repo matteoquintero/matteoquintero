@@ -1,0 +1,325 @@
+{
+  "id": "minor_fire_10_suppression",
+  "name": "Suppression",
+  "arcana": "Minor",
+  "number": 10,
+  "traditionalEquivalent": "Ten of Wands",
+  "meaning": "Representa el peso de todo aquello que reprimimos: emociones, deseos, opiniones y necesidades. La energía que no expresamos no desaparece; se acumula hasta convertirse en una carga. La carta invita a liberar lo que llevamos dentro con honestidad y responsabilidad.",
+  "coreMessage": "Lo que callas durante demasiado tiempo termina hablando por ti.",
+  "keywords": [
+    "Supresión",
+    "Emociones",
+    "Autenticidad",
+    "Expresión",
+    "Liberación",
+    "Honestidad",
+    "Carga",
+    "Vulnerabilidad"
+  ],
+  "light": [
+    "Honestidad",
+    "Expresión",
+    "Autenticidad",
+    "Alivio",
+    "Libertad emocional"
+  ],
+  "shadow": [
+    "Represión",
+    "Silencio",
+    "Miedo al conflicto",
+    "Autoengaño",
+    "Resentimiento"
+  ],
+  "invitation": "Permítete expresar lo que es verdadero antes de que el silencio se convierta en una carga.",
+  "axes": [
+    "Expresión",
+    "Autenticidad",
+    "Emociones",
+    "Vulnerabilidad",
+    "Libertad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_fire_10_playful_01",
+        "intensity": 1,
+        "tags": [
+          "personality"
+        ],
+        "question": "¿Eres de decir lo que piensas enseguida o de guardártelo un tiempo?"
+      },
+      {
+        "id": "minor_fire_10_playful_02",
+        "intensity": 1,
+        "tags": [
+          "humor"
+        ],
+        "question": "¿Qué comentario has tenido que tragarte para evitar una discusión?"
+      },
+      {
+        "id": "minor_fire_10_playful_03",
+        "intensity": 2,
+        "tags": [
+          "communication"
+        ],
+        "question": "¿Qué frase dices con frecuencia cuando en realidad piensas otra cosa?"
+      },
+      {
+        "id": "minor_fire_10_playful_04",
+        "intensity": 2,
+        "tags": [
+          "habits"
+        ],
+        "question": "¿Qué emoción te cuesta más disimular?"
+      },
+      {
+        "id": "minor_fire_10_playful_05",
+        "intensity": 2,
+        "tags": [
+          "memories"
+        ],
+        "question": "¿Recuerdas alguna vez en la que hablar a tiempo evitó un problema mayor?"
+      },
+      {
+        "id": "minor_fire_10_playful_06",
+        "intensity": 2,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué tema prefieres evitar en una conversación?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_fire_10_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "emotions"
+        ],
+        "question": "¿Qué emoción te resulta más difícil expresar?"
+      },
+      {
+        "id": "minor_fire_10_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "communication"
+        ],
+        "question": "¿Qué suele impedirte decir lo que realmente piensas?"
+      },
+      {
+        "id": "minor_fire_10_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué conversación has postergado durante demasiado tiempo?"
+      },
+      {
+        "id": "minor_fire_10_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué aprendiste la última vez que fuiste completamente honesto con alguien?"
+      },
+      {
+        "id": "minor_fire_10_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Qué personas hacen que te resulte fácil mostrarte tal como eres?"
+      },
+      {
+        "id": "minor_fire_10_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "authenticity"
+        ],
+        "question": "¿En qué situaciones sientes que escondes una parte de ti?"
+      },
+      {
+        "id": "minor_fire_10_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Cómo notas que llevas demasiado tiempo guardándote algo?"
+      },
+      {
+        "id": "minor_fire_10_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué verdad te ha costado más aceptar sobre ti mismo?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_fire_10_deep_01",
+        "intensity": 5,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué parte de ti ha permanecido en silencio por miedo a no ser aceptada?"
+      },
+      {
+        "id": "minor_fire_10_deep_02",
+        "intensity": 5,
+        "tags": [
+          "fear"
+        ],
+        "question": "¿Qué conversación cambiaría una relación importante si ocurriera hoy?"
+      },
+      {
+        "id": "minor_fire_10_deep_03",
+        "intensity": 5,
+        "tags": [
+          "authenticity"
+        ],
+        "question": "¿Qué verdad sientes que necesitas expresar para sentirte más libre?"
+      },
+      {
+        "id": "minor_fire_10_deep_04",
+        "intensity": 5,
+        "tags": [
+          "emotions"
+        ],
+        "question": "¿Qué emoción has cargado durante demasiado tiempo sin compartirla con nadie?"
+      },
+      {
+        "id": "minor_fire_10_deep_05",
+        "intensity": 5,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué parte de tu vida sería diferente si dejaras de reprimir lo que sientes?"
+      },
+      {
+        "id": "minor_fire_10_deep_06",
+        "intensity": 5,
+        "tags": [
+          "vulnerability"
+        ],
+        "question": "¿Qué te da más miedo: decir lo que sientes o no decirlo nunca?"
+      },
+      {
+        "id": "minor_fire_10_deep_07",
+        "intensity": 5,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué has perdido por callar demasiado y qué has ganado cuando hablaste a tiempo?"
+      },
+      {
+        "id": "minor_fire_10_deep_08",
+        "intensity": 5,
+        "tags": [
+          "freedom"
+        ],
+        "question": "¿Qué significaría para ti vivir sin tener que ocultar ninguna parte de quien eres?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_fire_10_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "communication"
+        ],
+        "question": "¿Qué conversación deberías dejar de posponer?"
+      },
+      {
+        "id": "minor_fire_10_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "authenticity"
+        ],
+        "question": "¿Qué opinión dejas de expresar con demasiada frecuencia?"
+      },
+      {
+        "id": "minor_fire_10_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "boundaries"
+        ],
+        "question": "¿En qué situación necesitas poner un límite con mayor claridad?"
+      },
+      {
+        "id": "minor_fire_10_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué emoción merece ser escuchada en lugar de seguir siendo ignorada?"
+      },
+      {
+        "id": "minor_fire_10_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué pequeño acto de honestidad podría aliviarte esta semana?"
+      },
+      {
+        "id": "minor_fire_10_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "action"
+        ],
+        "question": "¿Qué dejarás de guardar únicamente para mantener la paz?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_fire_10_connection_01",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Con quién puedes hablar sin sentir que debes filtrar lo que piensas?"
+      },
+      {
+        "id": "minor_fire_10_connection_02",
+        "intensity": 3,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Quién siempre logra que te abras con facilidad?"
+      },
+      {
+        "id": "minor_fire_10_connection_03",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿Quién te enseñó que expresar tus emociones no es una debilidad?"
+      },
+      {
+        "id": "minor_fire_10_connection_04",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Con qué miembro de tu familia te resulta más fácil hablar de temas difíciles?"
+      },
+      {
+        "id": "minor_fire_10_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Quién ha sabido escuchar algo que nunca antes habías contado?"
+      },
+      {
+        "id": "minor_fire_10_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿A quién te gustaría decirle algo importante que todavía no ha escuchado de ti?"
+      }
+    ]
+  }
+}

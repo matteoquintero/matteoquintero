@@ -1,0 +1,257 @@
+{
+  "id": "major_10_change",
+  "name": "Change",
+  "arcana": "Major",
+  "number": 10,
+  "traditionalEquivalent": "Wheel of Fortune",
+  "meaning": "Representa el cambio como la única constante de la vida. Recuerda que ningún momento dura para siempre: ni las dificultades ni los éxitos. Invita a adaptarse, fluir con los ciclos y encontrar oportunidades incluso cuando el rumbo cambia inesperadamente.",
+  "coreMessage": "Resistirse al cambio genera sufrimiento; aprender a navegarlo genera crecimiento.",
+  "keywords": [
+    "Cambio",
+    "Transformación",
+    "Ciclos",
+    "Adaptabilidad",
+    "Movimiento",
+    "Renovación",
+    "Impermanencia",
+    "Evolución"
+  ],
+  "light": [
+    "Adaptabilidad",
+    "Optimismo",
+    "Flexibilidad",
+    "Renovación",
+    "Crecimiento"
+  ],
+  "shadow": [
+    "Resistencia",
+    "Apego",
+    "Miedo a lo desconocido",
+    "Estancamiento",
+    "Nostalgia excesiva"
+  ],
+  "invitation": "No preguntes por qué cambió todo. Pregunta qué versión de ti está intentando nacer gracias a ese cambio.",
+  "axes": [
+    "Cambio",
+    "Adaptación",
+    "Ciclos",
+    "Evolución",
+    "Resiliencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_10_playful_01",
+        "intensity": 1,
+        "tags": ["change"],
+        "question": "¿Qué moda o tendencia seguiste y hoy te da risa recordar?"
+      },
+      {
+        "id": "major_10_playful_02",
+        "intensity": 1,
+        "tags": ["growth"],
+        "question": "¿Qué gusto tuyo ha cambiado completamente con los años?"
+      },
+      {
+        "id": "major_10_playful_03",
+        "intensity": 2,
+        "tags": ["travel"],
+        "question": "¿Qué lugar visitaste que cambió la forma en que veías el mundo?"
+      },
+      {
+        "id": "major_10_playful_04",
+        "intensity": 2,
+        "tags": ["experiences"],
+        "question": "¿Qué experiencia terminó siendo mucho mejor de lo que esperabas?"
+      },
+      {
+        "id": "major_10_playful_05",
+        "intensity": 2,
+        "tags": ["adaptability"],
+        "question": "¿Qué cambio inesperado terminó beneficiándote?"
+      },
+      {
+        "id": "major_10_playful_06",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿En qué aspecto dirías que más has cambiado desde hace cinco años?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_10_thoughtful_01",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué cambio en tu vida terminó enseñándote una lección importante?"
+      },
+      {
+        "id": "major_10_thoughtful_02",
+        "intensity": 3,
+        "tags": ["adaptation"],
+        "question": "¿Cómo reaccionas normalmente cuando las cosas no salen según lo planeado?"
+      },
+      {
+        "id": "major_10_thoughtful_03",
+        "intensity": 3,
+        "tags": ["cycles"],
+        "question": "¿Qué etapa de tu vida sientes que ya llegó a su final?"
+      },
+      {
+        "id": "major_10_thoughtful_04",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué problema del pasado hoy agradeces haber vivido?"
+      },
+      {
+        "id": "major_10_thoughtful_05",
+        "intensity": 3,
+        "tags": ["future"],
+        "question": "¿Qué cambio te emociona y al mismo tiempo te asusta?"
+      },
+      {
+        "id": "major_10_thoughtful_06",
+        "intensity": 3,
+        "tags": ["resilience"],
+        "question": "¿Qué te ayuda a adaptarte cuando todo parece incierto?"
+      },
+      {
+        "id": "major_10_thoughtful_07",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué versión pasada de ti ya no existe?"
+      },
+      {
+        "id": "major_10_thoughtful_08",
+        "intensity": 3,
+        "tags": ["opportunities"],
+        "question": "¿Qué oportunidad apareció gracias a un cambio inesperado?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_10_deep_01",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué cambio sigues resistiendo aunque sabes que es inevitable?"
+      },
+      {
+        "id": "major_10_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad te cuesta dejar atrás?"
+      },
+      {
+        "id": "major_10_deep_03",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué es lo que realmente temes perder cuando la vida cambia?"
+      },
+      {
+        "id": "major_10_deep_04",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Cuál ha sido la transformación más importante de tu vida hasta ahora?"
+      },
+      {
+        "id": "major_10_deep_05",
+        "intensity": 5,
+        "tags": ["impermanence"],
+        "question": "¿Qué verdad sobre la impermanencia te costó más aceptar?"
+      },
+      {
+        "id": "major_10_deep_06",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué cierre terminó abriendo una puerta que nunca habías imaginado?"
+      },
+      {
+        "id": "major_10_deep_07",
+        "intensity": 5,
+        "tags": ["resilience"],
+        "question": "¿Qué cambio te obligó a convertirte en una persona más fuerte?"
+      },
+      {
+        "id": "major_10_deep_08",
+        "intensity": 5,
+        "tags": ["evolution"],
+        "question": "¿Quién estás dejando de ser para convertirte en quien necesitas ser?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_10_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué cambio llevas demasiado tiempo posponiendo?"
+      },
+      {
+        "id": "major_10_challenge_02",
+        "intensity": 4,
+        "tags": ["adaptability"],
+        "question": "¿Qué podrías hacer diferente esta semana para salir de la rutina?"
+      },
+      {
+        "id": "major_10_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué hábito necesita evolucionar junto contigo?"
+      },
+      {
+        "id": "major_10_challenge_04",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué decisión sería más fácil si dejaras de aferrarte al pasado?"
+      },
+      {
+        "id": "major_10_challenge_05",
+        "intensity": 4,
+        "tags": ["acceptance"],
+        "question": "¿Qué situación necesita menos resistencia y más adaptación?"
+      },
+      {
+        "id": "major_10_challenge_06",
+        "intensity": 4,
+        "tags": ["renewal"],
+        "question": "¿Qué pequeño cambio puedes hacer hoy que tu yo del futuro agradecerá?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_10_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién estuvo contigo durante uno de los mayores cambios de tu vida?"
+      },
+      {
+        "id": "major_10_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te ayudó a adaptarte cuando todo parecía incierto?"
+      },
+      {
+        "id": "major_10_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué cambio importante vivió tu familia que los transformó?"
+      },
+      {
+        "id": "major_10_connection_04",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién celebra más tus nuevas etapas en la vida?"
+      },
+      {
+        "id": "major_10_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te inspira a ver los cambios como oportunidades?"
+      },
+      {
+        "id": "major_10_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona ha cambiado tanto que hoy la ves de forma completamente distinta?"
+      }
+    ]
+  }
+}

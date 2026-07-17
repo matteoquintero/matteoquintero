@@ -1,0 +1,257 @@
+{
+  "id": "major_15_conditioning",
+  "name": "Conditioning",
+  "arcana": "Major",
+  "number": 15,
+  "traditionalEquivalent": "The Devil",
+  "meaning": "Representa las creencias, reglas y expectativas que absorbemos del mundo sin cuestionarlas. Habla de las máscaras que construimos para encajar y de la libertad que aparece cuando descubrimos quiénes somos más allá de lo que otros esperaban de nosotros.",
+  "coreMessage": "No todo lo que llevas contigo te pertenece. Parte de crecer es descubrir qué eliges conservar y qué decides dejar atrás.",
+  "keywords": [
+    "Condicionamiento",
+    "Creencias",
+    "Libertad",
+    "Autenticidad",
+    "Identidad",
+    "Expectativas",
+    "Programación",
+    "Despertar"
+  ],
+  "light": [
+    "Autenticidad",
+    "Libertad",
+    "Pensamiento crítico",
+    "Independencia",
+    "Consciencia"
+  ],
+  "shadow": [
+    "Conformismo",
+    "Miedo al rechazo",
+    "Dependencia de aprobación",
+    "Creencias limitantes",
+    "Pérdida de identidad"
+  ],
+  "invitation": "Pregúntate qué decisiones son realmente tuyas y cuáles simplemente heredaste.",
+  "axes": [
+    "Identidad",
+    "Creencias",
+    "Libertad",
+    "Autenticidad",
+    "Condicionamiento"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_15_playful_01",
+        "intensity": 1,
+        "tags": ["childhood"],
+        "question": "¿Qué regla de tu infancia hoy te parece muy curiosa?"
+      },
+      {
+        "id": "major_15_playful_02",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué costumbre familiar descubriste que no era tan común como pensabas?"
+      },
+      {
+        "id": "major_15_playful_03",
+        "intensity": 2,
+        "tags": ["culture"],
+        "question": "¿Qué tradición disfrutas mantener aunque nadie te obligue?"
+      },
+      {
+        "id": "major_15_playful_04",
+        "intensity": 2,
+        "tags": ["identity"],
+        "question": "¿Qué gusto tuyo sorprendió a quienes te conocían desde hace años?"
+      },
+      {
+        "id": "major_15_playful_05",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué idea cambiaste por completo al hacerte adulto?"
+      },
+      {
+        "id": "major_15_playful_06",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Qué parte de tu personalidad apareció cuando dejaste de intentar agradar a todos?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_15_thoughtful_01",
+        "intensity": 3,
+        "tags": ["beliefs"],
+        "question": "¿Qué creencia heredaste y hoy ya no compartes?"
+      },
+      {
+        "id": "major_15_thoughtful_02",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿En qué momento sentiste que empezabas a tomar decisiones realmente tuyas?"
+      },
+      {
+        "id": "major_15_thoughtful_03",
+        "intensity": 3,
+        "tags": ["expectations"],
+        "question": "¿Qué expectativa ajena ha influido más en tu vida?"
+      },
+      {
+        "id": "major_15_thoughtful_04",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué norma social nunca terminaste de entender?"
+      },
+      {
+        "id": "major_15_thoughtful_05",
+        "intensity": 3,
+        "tags": ["authenticity"],
+        "question": "¿Dónde sientes que puedes actuar con total naturalidad?"
+      },
+      {
+        "id": "major_15_thoughtful_06",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste sobre ti cuando dejaste de buscar aprobación?"
+      },
+      {
+        "id": "major_15_thoughtful_07",
+        "intensity": 3,
+        "tags": ["society"],
+        "question": "¿Qué presión social has aprendido a ignorar?"
+      },
+      {
+        "id": "major_15_thoughtful_08",
+        "intensity": 3,
+        "tags": ["freedom"],
+        "question": "¿Qué decisión reciente te hizo sentir más libre?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_15_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de quién eres fue construida para satisfacer las expectativas de otros?"
+      },
+      {
+        "id": "major_15_deep_02",
+        "intensity": 5,
+        "tags": ["beliefs"],
+        "question": "¿Qué creencia limita hoy tu vida aunque nunca la hayas cuestionado?"
+      },
+      {
+        "id": "major_15_deep_03",
+        "intensity": 5,
+        "tags": ["family"],
+        "question": "¿Qué patrón familiar te gustaría romper?"
+      },
+      {
+        "id": "major_15_deep_04",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Quién serías si dejaras de preocuparte por decepcionar a alguien?"
+      },
+      {
+        "id": "major_15_deep_05",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué significa para ti vivir una vida auténticamente tuya?"
+      },
+      {
+        "id": "major_15_deep_06",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué miedo sostiene una decisión que llevas años posponiendo?"
+      },
+      {
+        "id": "major_15_deep_07",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubriste de ti cuando dejaste de cumplir un rol que otros esperaban?"
+      },
+      {
+        "id": "major_15_deep_08",
+        "intensity": 5,
+        "tags": ["awakening"],
+        "question": "¿Qué verdad sobre ti apareció cuando empezaste a cuestionarlo todo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_15_challenge_01",
+        "intensity": 4,
+        "tags": ["beliefs"],
+        "question": "¿Qué idea das por cierta y nunca has cuestionado?"
+      },
+      {
+        "id": "major_15_challenge_02",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué decisión tomarías diferente si nadie fuera a juzgarte?"
+      },
+      {
+        "id": "major_15_challenge_03",
+        "intensity": 4,
+        "tags": ["freedom"],
+        "question": "¿Qué expectativa ajena puedes dejar de cargar desde hoy?"
+      },
+      {
+        "id": "major_15_challenge_04",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué hábito mantienes solo porque 'siempre ha sido así'?"
+      },
+      {
+        "id": "major_15_challenge_05",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué pequeño acto de autenticidad podrías hacer esta semana?"
+      },
+      {
+        "id": "major_15_challenge_06",
+        "intensity": 4,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu vida merece ser rediseñada según tus propias reglas?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_15_connection_01",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué persona te enseñó más sobre quién no querías llegar a ser?"
+      },
+      {
+        "id": "major_15_connection_02",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te hizo sentir libre de mostrar tu verdadero yo?"
+      },
+      {
+        "id": "major_15_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te animó por primera vez a pensar por ti mismo?"
+      },
+      {
+        "id": "major_15_connection_04",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes hablar sin sentir que debes impresionar?"
+      },
+      {
+        "id": "major_15_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué conversación con otra persona cambió una creencia importante en tu vida?"
+      },
+      {
+        "id": "major_15_connection_06",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te aceptó incluso cuando decidiste tomar un camino diferente al esperado?"
+      }
+    ]
+  }
+}

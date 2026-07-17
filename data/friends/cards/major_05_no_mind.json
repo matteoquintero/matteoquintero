@@ -1,0 +1,257 @@
+{
+  "id": "major_05_no_mind",
+  "name": "No-Mind",
+  "arcana": "Major",
+  "number": 5,
+  "traditionalEquivalent": "The Emperor",
+  "meaning": "Representa el estado en el que la mente deja de controlar cada pensamiento y aparece la claridad. Invita a soltar la sobreanalización, el exceso de control y la necesidad de tener todas las respuestas. En el silencio mental surge una perspectiva más amplia.",
+  "coreMessage": "No todo se resuelve pensando más; algunas respuestas aparecen cuando dejas de forzarlas.",
+  "keywords": [
+    "Silencio",
+    "Claridad",
+    "Presencia",
+    "Calma",
+    "Consciencia",
+    "Fluir",
+    "Aceptación",
+    "Equilibrio"
+  ],
+  "light": [
+    "Paz mental",
+    "Claridad",
+    "Paciencia",
+    "Confianza",
+    "Serenidad"
+  ],
+  "shadow": [
+    "Sobrepensar",
+    "Ansiedad",
+    "Necesidad de control",
+    "Rumiación",
+    "Estrés constante"
+  ],
+  "invitation": "Haz una pausa. No todas las decisiones necesitan resolverse inmediatamente.",
+  "axes": [
+    "Calma",
+    "Silencio",
+    "Consciencia",
+    "Equilibrio",
+    "Perspectiva"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_05_playful_01",
+        "intensity": 1,
+        "tags": ["mind"],
+        "question": "¿Qué actividad logra apagar tu mente por completo durante un rato?"
+      },
+      {
+        "id": "major_05_playful_02",
+        "intensity": 1,
+        "tags": ["peace"],
+        "question": "¿Cuál es el lugar donde más fácilmente encuentras tranquilidad?"
+      },
+      {
+        "id": "major_05_playful_03",
+        "intensity": 2,
+        "tags": ["habits"],
+        "question": "¿Qué haces cuando necesitas despejar la cabeza?"
+      },
+      {
+        "id": "major_05_playful_04",
+        "intensity": 2,
+        "tags": ["music"],
+        "question": "¿Qué sonido o música te ayuda a relajarte casi de inmediato?"
+      },
+      {
+        "id": "major_05_playful_05",
+        "intensity": 2,
+        "tags": ["stress"],
+        "question": "¿Cuál es la tontería más pequeña capaz de estresarte?"
+      },
+      {
+        "id": "major_05_playful_06",
+        "intensity": 2,
+        "tags": ["lifestyle"],
+        "question": "Si pudieras eliminar una preocupación para siempre, ¿cuál sería?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_05_thoughtful_01",
+        "intensity": 3,
+        "tags": ["overthinking"],
+        "question": "¿Qué tema ocupa demasiado espacio en tu mente últimamente?"
+      },
+      {
+        "id": "major_05_thoughtful_02",
+        "intensity": 3,
+        "tags": ["control"],
+        "question": "¿Qué situación intentas controlar aunque sabes que no depende de ti?"
+      },
+      {
+        "id": "major_05_thoughtful_03",
+        "intensity": 3,
+        "tags": ["clarity"],
+        "question": "¿Cuándo fue la última vez que una pausa te ayudó a encontrar una mejor respuesta?"
+      },
+      {
+        "id": "major_05_thoughtful_04",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Qué suele impedirte disfrutar plenamente el momento presente?"
+      },
+      {
+        "id": "major_05_thoughtful_05",
+        "intensity": 3,
+        "tags": ["mindfulness"],
+        "question": "¿Qué hábito te ayuda a recuperar la calma cuando todo parece acelerado?"
+      },
+      {
+        "id": "major_05_thoughtful_06",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo notas que tu mente necesita descansar?"
+      },
+      {
+        "id": "major_05_thoughtful_07",
+        "intensity": 3,
+        "tags": ["focus"],
+        "question": "¿Qué distracción consume más energía de la que merece?"
+      },
+      {
+        "id": "major_05_thoughtful_08",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué aprendiste de la última vez que decidiste no reaccionar de inmediato?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_05_deep_01",
+        "intensity": 5,
+        "tags": ["overthinking"],
+        "question": "¿Qué miedo alimenta la mayoría de tus pensamientos repetitivos?"
+      },
+      {
+        "id": "major_05_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Quién serías si dejaras de definirte por tus preocupaciones?"
+      },
+      {
+        "id": "major_05_deep_03",
+        "intensity": 5,
+        "tags": ["control"],
+        "question": "¿Qué perderías si dejaras de intentar controlarlo todo?"
+      },
+      {
+        "id": "major_05_deep_04",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué realidad te cuesta aceptar porque preferirías que fuera distinta?"
+      },
+      {
+        "id": "major_05_deep_05",
+        "intensity": 5,
+        "tags": ["peace"],
+        "question": "¿Qué tendría que ocurrir para que sintieras verdadera paz interior?"
+      },
+      {
+        "id": "major_05_deep_06",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué conversación interna necesitas dejar de repetir?"
+      },
+      {
+        "id": "major_05_deep_07",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿Qué parte de tu vida estás dejando de vivir por estar demasiado ocupado pensando en ella?"
+      },
+      {
+        "id": "major_05_deep_08",
+        "intensity": 5,
+        "tags": ["clarity"],
+        "question": "¿Qué verdad aparece cuando tu mente finalmente se queda en silencio?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_05_challenge_01",
+        "intensity": 4,
+        "tags": ["pause"],
+        "question": "¿Qué decisión podría beneficiarse de una pausa en lugar de otra hora de análisis?"
+      },
+      {
+        "id": "major_05_challenge_02",
+        "intensity": 4,
+        "tags": ["control"],
+        "question": "¿Qué podrías soltar hoy que ya no depende de ti?"
+      },
+      {
+        "id": "major_05_challenge_03",
+        "intensity": 4,
+        "tags": ["stress"],
+        "question": "¿Qué hábito alimenta más tu ansiedad de lo que aporta a tu vida?"
+      },
+      {
+        "id": "major_05_challenge_04",
+        "intensity": 4,
+        "tags": ["mindfulness"],
+        "question": "¿Qué harás esta semana para regalarte un momento de completo silencio?"
+      },
+      {
+        "id": "major_05_challenge_05",
+        "intensity": 4,
+        "tags": ["focus"],
+        "question": "¿Qué pensamiento merece menos atención de la que le das?"
+      },
+      {
+        "id": "major_05_challenge_06",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Cómo puedes volver al presente la próxima vez que tu mente empiece a correr?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_05_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién tiene la capacidad de transmitirte calma con solo hablar contigo?"
+      },
+      {
+        "id": "major_05_connection_02",
+        "intensity": 3,
+        "tags": ["trust"],
+        "question": "¿Con quién puedes compartir tus preocupaciones sin sentirte juzgado?"
+      },
+      {
+        "id": "major_05_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te enseñó que descansar también es una forma de avanzar?"
+      },
+      {
+        "id": "major_05_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te ayuda a poner las cosas en perspectiva cuando todo parece demasiado grande?"
+      },
+      {
+        "id": "major_05_connection_05",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Con quién sientes que puedes simplemente estar, sin necesidad de hablar?"
+      },
+      {
+        "id": "major_05_connection_06",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Qué persona te recuerda que no tienes que resolverlo todo hoy?"
+      }
+    ]
+  }
+}

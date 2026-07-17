@@ -1,0 +1,325 @@
+{
+  "id": "minor_rainbow_01_maturity",
+  "name": "Maturity",
+  "arcana": "Minor",
+  "number": 1,
+  "traditionalEquivalent": "Ace of Pentacles",
+  "meaning": "Representa el florecimiento que llega cuando dejamos de apresurar los procesos. La madurez no consiste en acumular años, sino en comprender que cada experiencia tiene su propio tiempo para desarrollarse. Como un fruto que madura en el árbol, el crecimiento auténtico ocurre de forma natural cuando existe paciencia, presencia y confianza en el proceso.",
+  "coreMessage": "Todo lo que madura a su debido tiempo desarrolla su máximo potencial.",
+  "keywords": [
+    "Madurez",
+    "Paciencia",
+    "Abundancia",
+    "Crecimiento",
+    "Plenitud",
+    "Tiempo",
+    "Sabiduría",
+    "Florecimiento"
+  ],
+  "light": [
+    "Paciencia",
+    "Sabiduría",
+    "Estabilidad",
+    "Abundancia",
+    "Confianza en el proceso"
+  ],
+  "shadow": [
+    "Impaciencia",
+    "Apego a los resultados",
+    "Precipitación",
+    "Ansiedad",
+    "Inmadurez"
+  ],
+  "invitation": "Confía en el ritmo natural de tu vida. No todo necesita acelerarse para llegar a ser lo que está destinado a convertirse.",
+  "axes": [
+    "Paciencia",
+    "Crecimiento",
+    "Abundancia",
+    "Tiempo",
+    "Sabiduría"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_rainbow_01_playful_01",
+        "intensity": 1,
+        "tags": [
+          "memories"
+        ],
+        "question": "¿Qué habilidad aprendiste que al principio parecía imposible?"
+      },
+      {
+        "id": "minor_rainbow_01_playful_02",
+        "intensity": 1,
+        "tags": [
+          "personality"
+        ],
+        "question": "¿Eres paciente por naturaleza o te cuesta esperar?"
+      },
+      {
+        "id": "minor_rainbow_01_playful_03",
+        "intensity": 2,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Qué proyecto terminó saliendo mejor porque no lo apresuraste?"
+      },
+      {
+        "id": "minor_rainbow_01_playful_04",
+        "intensity": 2,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué cosa disfrutas hacer lentamente?"
+      },
+      {
+        "id": "minor_rainbow_01_playful_05",
+        "intensity": 2,
+        "tags": [
+          "nature"
+        ],
+        "question": "¿Qué estación del año sientes que mejor representa tu personalidad?"
+      },
+      {
+        "id": "minor_rainbow_01_playful_06",
+        "intensity": 2,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué cambio positivo en ti casi pasó desapercibido porque ocurrió poco a poco?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_rainbow_01_thoughtful_01",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué proceso de tu vida te enseñó el valor de la paciencia?"
+      },
+      {
+        "id": "minor_rainbow_01_thoughtful_02",
+        "intensity": 3,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Cómo ha cambiado tu definición de éxito con el paso de los años?"
+      },
+      {
+        "id": "minor_rainbow_01_thoughtful_03",
+        "intensity": 3,
+        "tags": [
+          "awareness"
+        ],
+        "question": "¿Cómo sabes que estás creciendo, aunque los resultados aún no sean visibles?"
+      },
+      {
+        "id": "minor_rainbow_01_thoughtful_04",
+        "intensity": 3,
+        "tags": [
+          "life"
+        ],
+        "question": "¿Qué aspecto de tu vida está madurando en este momento?"
+      },
+      {
+        "id": "minor_rainbow_01_thoughtful_05",
+        "intensity": 3,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Cómo equilibras la ambición con la paciencia?"
+      },
+      {
+        "id": "minor_rainbow_01_thoughtful_06",
+        "intensity": 3,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué parte de ti sientes que ha evolucionado más recientemente?"
+      },
+      {
+        "id": "minor_rainbow_01_thoughtful_07",
+        "intensity": 3,
+        "tags": [
+          "perspective"
+        ],
+        "question": "¿Qué consejo que antes ignorabas hoy tiene mucho sentido para ti?"
+      },
+      {
+        "id": "minor_rainbow_01_thoughtful_08",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué meta merece más constancia que velocidad?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_rainbow_01_deep_01",
+        "intensity": 5,
+        "tags": [
+          "identity"
+        ],
+        "question": "¿Qué parte de tu vida necesita que dejes de forzar los tiempos?"
+      },
+      {
+        "id": "minor_rainbow_01_deep_02",
+        "intensity": 5,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué aprendizaje solo llegó porque tuviste que esperar?"
+      },
+      {
+        "id": "minor_rainbow_01_deep_03",
+        "intensity": 5,
+        "tags": [
+          "purpose"
+        ],
+        "question": "¿Qué estás cultivando hoy que dará frutos dentro de algunos años?"
+      },
+      {
+        "id": "minor_rainbow_01_deep_04",
+        "intensity": 5,
+        "tags": [
+          "consciousness"
+        ],
+        "question": "¿Qué significa para ti alcanzar la verdadera madurez?"
+      },
+      {
+        "id": "minor_rainbow_01_deep_05",
+        "intensity": 5,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué aspecto de tu vida floreció cuando dejaste de compararte con los demás?"
+      },
+      {
+        "id": "minor_rainbow_01_deep_06",
+        "intensity": 5,
+        "tags": [
+          "abundance"
+        ],
+        "question": "¿Qué riqueza en tu vida no puede medirse con dinero?"
+      },
+      {
+        "id": "minor_rainbow_01_deep_07",
+        "intensity": 5,
+        "tags": [
+          "wisdom"
+        ],
+        "question": "¿Qué experiencia difícil terminó convirtiéndose en una de tus mayores fortalezas?"
+      },
+      {
+        "id": "minor_rainbow_01_deep_08",
+        "intensity": 5,
+        "tags": [
+          "future"
+        ],
+        "question": "¿Qué legado te gustaría que madurara gracias a las decisiones que tomas hoy?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_rainbow_01_challenge_01",
+        "intensity": 4,
+        "tags": [
+          "action"
+        ],
+        "question": "¿Qué proceso puedes dejar de apresurar desde hoy?"
+      },
+      {
+        "id": "minor_rainbow_01_challenge_02",
+        "intensity": 4,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Qué expectativa poco realista necesitas soltar?"
+      },
+      {
+        "id": "minor_rainbow_01_challenge_03",
+        "intensity": 4,
+        "tags": [
+          "growth"
+        ],
+        "question": "¿Qué hábito diario fortalecería tu crecimiento a largo plazo?"
+      },
+      {
+        "id": "minor_rainbow_01_challenge_04",
+        "intensity": 4,
+        "tags": [
+          "discipline"
+        ],
+        "question": "¿Qué compromiso contigo mismo merece más constancia que intensidad?"
+      },
+      {
+        "id": "minor_rainbow_01_challenge_05",
+        "intensity": 4,
+        "tags": [
+          "balance"
+        ],
+        "question": "¿Qué espacio puedes darle al descanso para crecer de forma sostenible?"
+      },
+      {
+        "id": "minor_rainbow_01_challenge_06",
+        "intensity": 4,
+        "tags": [
+          "courage"
+        ],
+        "question": "¿Qué decisión puedes tomar confiando más en el proceso que en el resultado inmediato?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_rainbow_01_connection_01",
+        "intensity": 3,
+        "tags": [
+          "relationships"
+        ],
+        "question": "¿Quién ha sido un ejemplo de madurez para ti?"
+      },
+      {
+        "id": "minor_rainbow_01_connection_02",
+        "intensity": 3,
+        "tags": [
+          "friendship"
+        ],
+        "question": "¿Qué amistad ha crecido lentamente y hoy valoras profundamente?"
+      },
+      {
+        "id": "minor_rainbow_01_connection_03",
+        "intensity": 3,
+        "tags": [
+          "gratitude"
+        ],
+        "question": "¿A quién le agradeces haber creído en tu proceso incluso cuando tú dudabas?"
+      },
+      {
+        "id": "minor_rainbow_01_connection_04",
+        "intensity": 3,
+        "tags": [
+          "family"
+        ],
+        "question": "¿Qué enseñanza familiar comprendiste muchos años después de haberla escuchado?"
+      },
+      {
+        "id": "minor_rainbow_01_connection_05",
+        "intensity": 3,
+        "tags": [
+          "support"
+        ],
+        "question": "¿Quién te recuerda que las cosas buenas requieren tiempo?"
+      },
+      {
+        "id": "minor_rainbow_01_connection_06",
+        "intensity": 3,
+        "tags": [
+          "reflection"
+        ],
+        "question": "¿Con quién te gustaría celebrar un logro que tomó años construir?"
+      }
+    ]
+  }
+}

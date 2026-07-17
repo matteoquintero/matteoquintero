@@ -1,0 +1,257 @@
+{
+  "id": "major_19_innocence",
+  "name": "Innocence",
+  "arcana": "Major",
+  "number": 19,
+  "traditionalEquivalent": "The Sun",
+  "meaning": "Representa el regreso a una forma de vivir más auténtica y espontánea. No es ingenuidad infantil, sino la capacidad de mirar el mundo con curiosidad después de haber vivido, aprendido y soltado el peso del cinismo. La inocencia es una elección consciente de seguir confiando en la vida.",
+  "coreMessage": "La verdadera inocencia no consiste en no haber sufrido, sino en no permitir que el dolor robe tu capacidad de asombro.",
+  "keywords": [
+    "Inocencia",
+    "Espontaneidad",
+    "Alegría",
+    "Curiosidad",
+    "Confianza",
+    "Sencillez",
+    "Autenticidad",
+    "Asombro"
+  ],
+  "light": [
+    "Optimismo",
+    "Alegría",
+    "Naturalidad",
+    "Esperanza",
+    "Libertad"
+  ],
+  "shadow": [
+    "Cinismo",
+    "Desconfianza",
+    "Rigidez",
+    "Pérdida de ilusión",
+    "Pesimismo"
+  ],
+  "invitation": "Permítete volver a mirar el mundo con ojos nuevos.",
+  "axes": [
+    "Alegría",
+    "Curiosidad",
+    "Confianza",
+    "Espontaneidad",
+    "Autenticidad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_19_playful_01",
+        "intensity": 1,
+        "tags": ["childhood"],
+        "question": "¿Qué juego de tu infancia todavía disfrutarías hoy?"
+      },
+      {
+        "id": "major_19_playful_02",
+        "intensity": 1,
+        "tags": ["joy"],
+        "question": "¿Qué cosa pequeña logra sacarte una sonrisa casi siempre?"
+      },
+      {
+        "id": "major_19_playful_03",
+        "intensity": 2,
+        "tags": ["wonder"],
+        "question": "¿Qué lugar todavía logra hacerte sentir como un niño?"
+      },
+      {
+        "id": "major_19_playful_04",
+        "intensity": 2,
+        "tags": ["fun"],
+        "question": "¿Cuál fue la última vez que hiciste algo solo porque sí?"
+      },
+      {
+        "id": "major_19_playful_05",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué tema podrías explorar durante horas solo por curiosidad?"
+      },
+      {
+        "id": "major_19_playful_06",
+        "intensity": 2,
+        "tags": ["laughter"],
+        "question": "¿Qué persona logra hacerte reír con más facilidad?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_19_thoughtful_01",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué parte de tu infancia te gustaría conservar para siempre?"
+      },
+      {
+        "id": "major_19_thoughtful_02",
+        "intensity": 3,
+        "tags": ["authenticity"],
+        "question": "¿Cuándo sientes que actúas de la forma más natural posible?"
+      },
+      {
+        "id": "major_19_thoughtful_03",
+        "intensity": 3,
+        "tags": ["optimism"],
+        "question": "¿Qué te ayuda a mantener la esperanza incluso en momentos difíciles?"
+      },
+      {
+        "id": "major_19_thoughtful_04",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué experiencia te recordó que todavía puedes sorprenderte?"
+      },
+      {
+        "id": "major_19_thoughtful_05",
+        "intensity": 3,
+        "tags": ["values"],
+        "question": "¿Qué valor nunca has querido perder con el paso de los años?"
+      },
+      {
+        "id": "major_19_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué significa para ti disfrutar de las cosas simples?"
+      },
+      {
+        "id": "major_19_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué aprendiste que hizo tu vida más ligera?"
+      },
+      {
+        "id": "major_19_thoughtful_08",
+        "intensity": 3,
+        "tags": ["joy"],
+        "question": "¿Qué momento reciente te recordó que la felicidad puede ser sencilla?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_19_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿En qué momento sientes que dejaste de creer tan fácilmente en las personas?"
+      },
+      {
+        "id": "major_19_deep_02",
+        "intensity": 5,
+        "tags": ["healing"],
+        "question": "¿Qué tendría que pasar para volver a confiar plenamente en algo o alguien?"
+      },
+      {
+        "id": "major_19_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué parte de ti ha sobrevivido intacta a pesar de todo lo que has vivido?"
+      },
+      {
+        "id": "major_19_deep_04",
+        "intensity": 5,
+        "tags": ["hope"],
+        "question": "¿Qué sueño te resistes a abandonar porque aún te ilusiona?"
+      },
+      {
+        "id": "major_19_deep_05",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué haces cuando nadie te observa y te hace sentir completamente libre?"
+      },
+      {
+        "id": "major_19_deep_06",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué te devuelve la sensación de que la vida vale la pena?"
+      },
+      {
+        "id": "major_19_deep_07",
+        "intensity": 5,
+        "tags": ["self"],
+        "question": "¿Qué parte de tu niño interior necesita más atención hoy?"
+      },
+      {
+        "id": "major_19_deep_08",
+        "intensity": 5,
+        "tags": ["wonder"],
+        "question": "¿Qué te sigue provocando el mismo asombro que cuando eras pequeño?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_19_challenge_01",
+        "intensity": 4,
+        "tags": ["joy"],
+        "question": "¿Qué actividad dejaste de hacer por parecer 'demasiado infantil'?"
+      },
+      {
+        "id": "major_19_challenge_02",
+        "intensity": 4,
+        "tags": ["curiosity"],
+        "question": "¿Qué podrías aprender si volvieras a hacer preguntas sin miedo a parecer inexperto?"
+      },
+      {
+        "id": "major_19_challenge_03",
+        "intensity": 4,
+        "tags": ["trust"],
+        "question": "¿Dónde el miedo te ha vuelto más desconfiado de lo que realmente quieres ser?"
+      },
+      {
+        "id": "major_19_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué podrías dejar de tomarte tan en serio?"
+      },
+      {
+        "id": "major_19_challenge_05",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué pequeña decisión podría devolver más ligereza a tu vida?"
+      },
+      {
+        "id": "major_19_challenge_06",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué harías esta semana simplemente porque te hace feliz, sin buscar otro motivo?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_19_connection_01",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién hizo de tu infancia un lugar más feliz?"
+      },
+      {
+        "id": "major_19_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes comportarte sin filtros ni apariencias?"
+      },
+      {
+        "id": "major_19_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién le agradeces haber protegido una parte de tu alegría?"
+      },
+      {
+        "id": "major_19_connection_04",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién despierta tu lado más espontáneo?"
+      },
+      {
+        "id": "major_19_connection_05",
+        "intensity": 3,
+        "tags": ["memories"],
+        "question": "¿Qué persona está presente en uno de tus recuerdos más felices?"
+      },
+      {
+        "id": "major_19_connection_06",
+        "intensity": 3,
+        "tags": ["joy"],
+        "question": "¿Con quién te gustaría volver a vivir un momento tan simple como inolvidable?"
+      }
+    ]
+  }
+}

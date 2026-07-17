@@ -1,0 +1,257 @@
+{
+  "id": "major_02_existence",
+  "name": "Existence",
+  "arcana": "Major",
+  "number": 2,
+  "traditionalEquivalent": "The Magician",
+  "meaning": "Representa la experiencia de pertenecer al universo tal como eres. Invita a reconocer que no necesitas demostrar tu valor para merecer existir. Habla de presencia, autenticidad y de confiar en que ya eres suficiente.",
+  "coreMessage": "No tienes que convertirte en alguien más para tener valor.",
+  "keywords": [
+    "Existencia",
+    "Presencia",
+    "Pertenencia",
+    "Autenticidad",
+    "Aceptación",
+    "Consciencia",
+    "Plenitud",
+    "Ser"
+  ],
+  "light": [
+    "Paz interior",
+    "Seguridad personal",
+    "Aceptación",
+    "Presencia",
+    "Conexión con la vida"
+  ],
+  "shadow": [
+    "Sentirse insuficiente",
+    "Comparación constante",
+    "Buscar validación",
+    "Desconexión de uno mismo",
+    "Vacío interior"
+  ],
+  "invitation": "Deja de preguntarte si eres suficiente y empieza a descubrir quién eres cuando dejas de compararte.",
+  "axes": [
+    "Identidad",
+    "Presencia",
+    "Autoaceptación",
+    "Pertenencia",
+    "Consciencia"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_02_playful_01",
+        "intensity": 1,
+        "tags": ["identity"],
+        "question": "¿Qué pequeña cosa de tu personalidad te hace inconfundiblemente tú?"
+      },
+      {
+        "id": "major_02_playful_02",
+        "intensity": 1,
+        "tags": ["joy"],
+        "question": "¿Qué actividad te hace perder la noción del tiempo?"
+      },
+      {
+        "id": "major_02_playful_03",
+        "intensity": 2,
+        "tags": ["childhood"],
+        "question": "¿Cómo eras cuando nadie esperaba nada de ti?"
+      },
+      {
+        "id": "major_02_playful_04",
+        "intensity": 2,
+        "tags": ["authenticity"],
+        "question": "¿Qué hábito tienes que nunca has querido cambiar porque simplemente eres así?"
+      },
+      {
+        "id": "major_02_playful_05",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Qué cumplido recibes con más frecuencia?"
+      },
+      {
+        "id": "major_02_playful_06",
+        "intensity": 2,
+        "tags": ["self"],
+        "question": "Si tu esencia pudiera describirse con una sola palabra, ¿cuál sería?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_02_thoughtful_01",
+        "intensity": 3,
+        "tags": ["belonging"],
+        "question": "¿Cuándo fue la última vez que sentiste que realmente pertenecías a un lugar?"
+      },
+      {
+        "id": "major_02_thoughtful_02",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu identidad construiste para agradar a otros?"
+      },
+      {
+        "id": "major_02_thoughtful_03",
+        "intensity": 3,
+        "tags": ["comparison"],
+        "question": "¿Con quién tiendes a compararte y qué efecto tiene eso en ti?"
+      },
+      {
+        "id": "major_02_thoughtful_04",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Qué momento reciente te hizo sentir completamente presente?"
+      },
+      {
+        "id": "major_02_thoughtful_05",
+        "intensity": 3,
+        "tags": ["acceptance"],
+        "question": "¿Qué aspecto de ti aprendiste a aceptar con el tiempo?"
+      },
+      {
+        "id": "major_02_thoughtful_06",
+        "intensity": 3,
+        "tags": ["values"],
+        "question": "¿Qué valor personal nunca negociarías?"
+      },
+      {
+        "id": "major_02_thoughtful_07",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué descubres sobre ti cuando estás completamente solo?"
+      },
+      {
+        "id": "major_02_thoughtful_08",
+        "intensity": 3,
+        "tags": ["self-worth"],
+        "question": "¿En qué momentos sientes que olvidas tu propio valor?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_02_deep_01",
+        "intensity": 5,
+        "tags": ["self-worth"],
+        "question": "¿Qué tendría que pasar para que dejaras de sentir que debes demostrar tu valor?"
+      },
+      {
+        "id": "major_02_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Quién eres cuando nadie espera nada de ti?"
+      },
+      {
+        "id": "major_02_deep_03",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué parte de ti has escondido por miedo a no ser aceptado?"
+      },
+      {
+        "id": "major_02_deep_04",
+        "intensity": 5,
+        "tags": ["belonging"],
+        "question": "¿Alguna vez has sentido que no pertenecías? ¿Qué marcó esa experiencia?"
+      },
+      {
+        "id": "major_02_deep_05",
+        "intensity": 5,
+        "tags": ["comparison"],
+        "question": "¿Cómo sería tu vida si dejaras de compararte con los demás?"
+      },
+      {
+        "id": "major_02_deep_06",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué versión de ti todavía sigue buscando aprobación?"
+      },
+      {
+        "id": "major_02_deep_07",
+        "intensity": 5,
+        "tags": ["presence"],
+        "question": "¿Qué te impide sentir que ya eres suficiente?"
+      },
+      {
+        "id": "major_02_deep_08",
+        "intensity": 5,
+        "tags": ["existence"],
+        "question": "¿Qué significa para ti existir plenamente?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_02_challenge_01",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué máscara podrías dejar de usar desde hoy?"
+      },
+      {
+        "id": "major_02_challenge_02",
+        "intensity": 4,
+        "tags": ["comparison"],
+        "question": "¿Qué comparación necesitas abandonar esta semana?"
+      },
+      {
+        "id": "major_02_challenge_03",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué hábito te ayudaría a vivir con más presencia?"
+      },
+      {
+        "id": "major_02_challenge_04",
+        "intensity": 4,
+        "tags": ["self-worth"],
+        "question": "¿Cómo actuarías hoy si supieras que ya eres suficiente?"
+      },
+      {
+        "id": "major_02_challenge_05",
+        "intensity": 4,
+        "tags": ["acceptance"],
+        "question": "¿Qué parte de ti merece más compasión que crítica?"
+      },
+      {
+        "id": "major_02_challenge_06",
+        "intensity": 4,
+        "tags": ["identity"],
+        "question": "¿Qué decisión tomarías si solo escucharas tu propia voz?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_02_connection_01",
+        "intensity": 3,
+        "tags": ["belonging"],
+        "question": "¿Quién te hace sentir aceptado exactamente como eres?"
+      },
+      {
+        "id": "major_02_connection_02",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién vio algo valioso en ti antes de que tú mismo lo vieras?"
+      },
+      {
+        "id": "major_02_connection_03",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes estar en silencio sin sentir incomodidad?"
+      },
+      {
+        "id": "major_02_connection_04",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona te ayudó a aceptarte más?"
+      },
+      {
+        "id": "major_02_connection_05",
+        "intensity": 3,
+        "tags": ["trust"],
+        "question": "¿Quién te recuerda quién eres cuando tú lo olvidas?"
+      },
+      {
+        "id": "major_02_connection_06",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Con quién sientes que nunca tienes que fingir?"
+      }
+    ]
+  }
+}

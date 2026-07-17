@@ -1,0 +1,257 @@
+{
+  "id": "minor_clouds_02_schizophrenia",
+  "name": "Schizophrenia",
+  "arcana": "Minor",
+  "number": 2,
+  "traditionalEquivalent": "Two of Swords",
+  "meaning": "Representa el conflicto interno que aparece cuando dos partes de nosotros desean cosas diferentes. La mente analiza sin parar, buscando la decisión perfecta, mientras el tiempo sigue avanzando. Esta carta no habla de un trastorno de salud mental, sino de la división interna entre opciones, emociones o creencias. La salida no está en pensar más, sino en escuchar con honestidad qué es lo verdaderamente importante.",
+  "coreMessage": "La indecisión se resuelve cuando dejas de buscar la opción perfecta y eliges la más auténtica para ti.",
+  "keywords": [
+    "Indecisión",
+    "Conflicto interno",
+    "Elección",
+    "Dualidad",
+    "Claridad",
+    "Honestidad",
+    "Equilibrio",
+    "Decisión"
+  ],
+  "light": [
+    "Discernimiento",
+    "Equilibrio",
+    "Valentía para decidir",
+    "Coherencia",
+    "Claridad"
+  ],
+  "shadow": [
+    "Parálisis",
+    "Duda constante",
+    "Sobreanálisis",
+    "Confusión",
+    "Miedo a equivocarse"
+  ],
+  "invitation": "Acepta que ninguna decisión elimina toda la incertidumbre. Elegir también es una forma de avanzar.",
+  "axes": [
+    "Decisión",
+    "Dualidad",
+    "Claridad",
+    "Confianza",
+    "Acción"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_clouds_02_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Te cuesta más elegir qué ver en una plataforma o qué pedir en un restaurante?"
+      },
+      {
+        "id": "minor_clouds_02_playful_02",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Cuál ha sido la decisión más simple a la que le has dedicado demasiado tiempo?"
+      },
+      {
+        "id": "minor_clouds_02_playful_03",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Alguna vez elegiste algo al azar porque ya estabas cansado de decidir?"
+      },
+      {
+        "id": "minor_clouds_02_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué decisión terminó siendo mucho menos importante de lo que parecía?"
+      },
+      {
+        "id": "minor_clouds_02_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué elección recuerdas con una mezcla de miedo y emoción?"
+      },
+      {
+        "id": "minor_clouds_02_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Prefieres arrepentirte de haber intentado algo o de no haberlo intentado?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_clouds_02_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué decisión importante te costó más tomar?"
+      },
+      {
+        "id": "minor_clouds_02_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué has aprendido sobre el miedo a equivocarte?"
+      },
+      {
+        "id": "minor_clouds_02_thoughtful_03",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo diferencias una duda razonable de una que solo retrasa tus decisiones?"
+      },
+      {
+        "id": "minor_clouds_02_thoughtful_04",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué señales te indican que ya es momento de decidir?"
+      },
+      {
+        "id": "minor_clouds_02_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué decisión cambió el rumbo de tu vida para bien?"
+      },
+      {
+        "id": "minor_clouds_02_thoughtful_06",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué papel juega la intuición cuando debes elegir?"
+      },
+      {
+        "id": "minor_clouds_02_thoughtful_07",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿En qué tipo de decisiones confías más en ti mismo?"
+      },
+      {
+        "id": "minor_clouds_02_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué decisión habrías tomado antes si hubieras confiado más en ti?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_clouds_02_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti está en conflicto con otra en este momento?"
+      },
+      {
+        "id": "minor_clouds_02_deep_02",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué miedo suele impedirte tomar decisiones con tranquilidad?"
+      },
+      {
+        "id": "minor_clouds_02_deep_03",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué elegirías si dejaras de pensar en las expectativas de los demás?"
+      },
+      {
+        "id": "minor_clouds_02_deep_04",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué oportunidad has dejado pasar por esperar tener certeza absoluta?"
+      },
+      {
+        "id": "minor_clouds_02_deep_05",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué decisión sigues posponiendo porque ambas opciones implican una pérdida?"
+      },
+      {
+        "id": "minor_clouds_02_deep_06",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué descubriste sobre ti después de tomar una decisión muy difícil?"
+      },
+      {
+        "id": "minor_clouds_02_deep_07",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Qué verdad ya conoces, pero aún no te atreves a convertir en una decisión?"
+      },
+      {
+        "id": "minor_clouds_02_deep_08",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Cómo cambiaría tu vida si confiaras más en tu capacidad para adaptarte que en tu capacidad para controlar el resultado?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_clouds_02_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué decisión puedes tomar hoy en lugar de seguir aplazándola?"
+      },
+      {
+        "id": "minor_clouds_02_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué opción seguirías si el miedo no participara en la decisión?"
+      },
+      {
+        "id": "minor_clouds_02_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué información realmente necesitas antes de decidir y cuál solo estás usando para retrasarlo?"
+      },
+      {
+        "id": "minor_clouds_02_challenge_04",
+        "intensity": 4,
+        "tags": ["clarity"],
+        "question": "¿Qué decisión sería más fácil si confiaras plenamente en ti?"
+      },
+      {
+        "id": "minor_clouds_02_challenge_05",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué pequeño paso puedes dar aunque aún no tengas todas las respuestas?"
+      },
+      {
+        "id": "minor_clouds_02_challenge_06",
+        "intensity": 4,
+        "tags": ["courage"],
+        "question": "¿Qué elegirás priorizar: la tranquilidad de no arriesgar o la posibilidad de crecer?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_clouds_02_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ayuda a ver las cosas con claridad cuando estás dividido?"
+      },
+      {
+        "id": "minor_clouds_02_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién puedes hablar de una decisión difícil sin sentirte juzgado?"
+      },
+      {
+        "id": "minor_clouds_02_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién te enseñó que equivocarse también forma parte de crecer?"
+      },
+      {
+        "id": "minor_clouds_02_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué consejo familiar recuerdas cuando debes tomar una decisión importante?"
+      },
+      {
+        "id": "minor_clouds_02_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién confía en tu criterio incluso cuando tú mismo dudas?"
+      },
+      {
+        "id": "minor_clouds_02_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿A quién acudirías hoy si necesitaras una perspectiva completamente honesta?"
+      }
+    }
+  }
+}

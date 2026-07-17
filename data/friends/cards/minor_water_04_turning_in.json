@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_04_turning_in",
+  "name": "Turning In",
+  "arcana": "Minor",
+  "number": 4,
+  "traditionalEquivalent": "Four of Cups",
+  "meaning": "Representa el momento en que la atención deja de buscar respuestas afuera y comienza a dirigirse hacia el interior. No habla de aislarse del mundo, sino de crear un espacio de silencio para escuchar la propia voz antes de actuar. La claridad suele aparecer cuando dejamos de distraernos con el ruido externo.",
+  "coreMessage": "Las respuestas más importantes rara vez llegan desde afuera; aparecen cuando aprendes a escucharte.",
+  "keywords": [
+    "Introspección",
+    "Silencio",
+    "Reflexión",
+    "Conciencia",
+    "Calma",
+    "Autoconocimiento",
+    "Presencia",
+    "Escucha interior"
+  ],
+  "light": [
+    "Claridad",
+    "Paz interior",
+    "Autoconocimiento",
+    "Presencia",
+    "Sabiduría"
+  ],
+  "shadow": [
+    "Evasión",
+    "Aislamiento",
+    "Rumiación",
+    "Desconexión",
+    "Confusión"
+  ],
+  "invitation": "Haz una pausa antes de buscar más respuestas afuera. Quizá ya tienes dentro de ti aquello que necesitas escuchar.",
+  "axes": [
+    "Introspección",
+    "Silencio",
+    "Autoconocimiento",
+    "Presencia",
+    "Reflexión"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_04_playful_01",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Disfrutas pasar tiempo a solas o siempre buscas estar acompañado?"
+      },
+      {
+        "id": "minor_water_04_playful_02",
+        "intensity": 1,
+        "tags": ["habits"],
+        "question": "¿Qué actividad haces solo porque te ayuda a despejar la mente?"
+      },
+      {
+        "id": "minor_water_04_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Cuál es tu lugar favorito para pensar con tranquilidad?"
+      },
+      {
+        "id": "minor_water_04_playful_04",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "Si desaparecieras un día entero sin obligaciones, ¿cómo lo aprovecharías?"
+      },
+      {
+        "id": "minor_water_04_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué haces cuando necesitas ordenar tus ideas?"
+      },
+      {
+        "id": "minor_water_04_playful_06",
+        "intensity": 2,
+        "tags": ["humor"],
+        "question": "¿Cuál ha sido la conversación más larga que has tenido contigo mismo?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_04_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué aprendiste la última vez que decidiste hacer una pausa antes de actuar?"
+      },
+      {
+        "id": "minor_water_04_thoughtful_02",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Cómo distingues tu intuición del miedo?"
+      },
+      {
+        "id": "minor_water_04_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué hábito te ayuda a conocerte mejor?"
+      },
+      {
+        "id": "minor_water_04_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Con qué frecuencia haces una pausa para revisar cómo te sientes realmente?"
+      },
+      {
+        "id": "minor_water_04_thoughtful_05",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué descubriste sobre ti durante un periodo de soledad?"
+      },
+      {
+        "id": "minor_water_04_thoughtful_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué preguntas te haces cuando necesitas tomar una decisión importante?"
+      },
+      {
+        "id": "minor_water_04_thoughtful_07",
+        "intensity": 3,
+        "tags": ["presence"],
+        "question": "¿Qué suele distraerte de escucharte a ti mismo?"
+      },
+      {
+        "id": "minor_water_04_thoughtful_08",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué parte de ti has conocido mejor durante el último año?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_04_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué verdad sobre ti has evitado mirar durante mucho tiempo?"
+      },
+      {
+        "id": "minor_water_04_deep_02",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué silencio ha terminado enseñándote más que cualquier consejo?"
+      },
+      {
+        "id": "minor_water_04_deep_03",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué descubres de ti cuando nadie espera nada de ti?"
+      },
+      {
+        "id": "minor_water_04_deep_04",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué decisión importante sabes cuál es la correcta, aunque todavía no la hayas tomado?"
+      },
+      {
+        "id": "minor_water_04_deep_05",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué parte de tu vida necesita menos ruido y más atención?"
+      },
+      {
+        "id": "minor_water_04_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿En qué momentos sientes que estás más conectado contigo mismo?"
+      },
+      {
+        "id": "minor_water_04_deep_07",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué has dejado de buscar afuera porque finalmente lo encontraste dentro de ti?"
+      },
+      {
+        "id": "minor_water_04_deep_08",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué conversación contigo mismo llevas demasiado tiempo posponiendo?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_04_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué distracción podrías eliminar esta semana para escucharte mejor?"
+      },
+      {
+        "id": "minor_water_04_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué decisión merece unas horas de silencio antes de tomarla?"
+      },
+      {
+        "id": "minor_water_04_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué hábito podría ayudarte a conectar más contigo mismo?"
+      },
+      {
+        "id": "minor_water_04_challenge_04",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué podrías dejar de hacer por inercia para recuperar tiempo para ti?"
+      },
+      {
+        "id": "minor_water_04_challenge_05",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué emoción merece ser escuchada en lugar de ser distraída?"
+      },
+      {
+        "id": "minor_water_04_challenge_06",
+        "intensity": 4,
+        "tags": ["authenticity"],
+        "question": "¿Qué descubrirías si pasaras una tarde completamente a solas, sin pantallas?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_04_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién respeta tu necesidad de tener espacio cuando lo necesitas?"
+      },
+      {
+        "id": "minor_water_04_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién sabe escuchar tus silencios además de tus palabras?"
+      },
+      {
+        "id": "minor_water_04_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Quién te conoce tan bien que nota cuando algo no está bien sin que digas nada?"
+      },
+      {
+        "id": "minor_water_04_connection_04",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Con quién puedes compartir tus dudas sin sentirte juzgado?"
+      },
+      {
+        "id": "minor_water_04_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona te ha ayudado más a conocerte a ti mismo?"
+      },
+      {
+        "id": "minor_water_04_connection_06",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién le agradecerías haber respetado tus tiempos en un momento importante?"
+      }
+    ]
+  }
+}

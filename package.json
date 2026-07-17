@@ -5,6 +5,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "friends:validate": "node scripts/friends-validate.mjs",
     "lint": "eslint .",
     "start": "next start"
   },

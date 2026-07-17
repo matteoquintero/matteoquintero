@@ -1,0 +1,257 @@
+{
+  "id": "minor_water_05_clinging_to_the_past",
+  "name": "Clinging to the Past",
+  "arcana": "Minor",
+  "number": 5,
+  "traditionalEquivalent": "Five of Cups",
+  "meaning": "Representa la tendencia a aferrarse a recuerdos, versiones antiguas de nosotros mismos o momentos que ya terminaron. Aunque el pasado puede ofrecer aprendizajes, vivir atrapado en él impide descubrir las oportunidades que existen en el presente. La carta invita a honrar la historia sin convertirla en un hogar permanente.",
+  "coreMessage": "El pasado puede enseñarte, pero no puede seguir decidiendo quién eres hoy.",
+  "keywords": [
+    "Pasado",
+    "Apego",
+    "Memorias",
+    "Cambio",
+    "Aceptación",
+    "Duelo",
+    "Presente",
+    "Liberación"
+  ],
+  "light": [
+    "Aceptación",
+    "Madurez",
+    "Aprendizaje",
+    "Resiliencia",
+    "Renovación"
+  ],
+  "shadow": [
+    "Nostalgia excesiva",
+    "Resistencia al cambio",
+    "Idealización",
+    "Arrepentimiento",
+    "Estancamiento"
+  ],
+  "invitation": "Agradece lo que viviste, aprende de ello y permite que el presente tenga una oportunidad de sorprenderte.",
+  "axes": [
+    "Pasado",
+    "Aceptación",
+    "Cambio",
+    "Memoria",
+    "Renovación"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_water_05_playful_01",
+        "intensity": 1,
+        "tags": ["nostalgia"],
+        "question": "¿Qué moda del pasado te gustaría que volviera?"
+      },
+      {
+        "id": "minor_water_05_playful_02",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Qué canción te transporta inmediatamente a otra época de tu vida?"
+      },
+      {
+        "id": "minor_water_05_playful_03",
+        "intensity": 2,
+        "tags": ["childhood"],
+        "question": "¿Qué juego o actividad de tu infancia todavía disfrutas?"
+      },
+      {
+        "id": "minor_water_05_playful_04",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué costumbre antigua nunca has querido abandonar?"
+      },
+      {
+        "id": "minor_water_05_playful_05",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Cuál fue una etapa de tu vida que recuerdas con más cariño?"
+      },
+      {
+        "id": "minor_water_05_playful_06",
+        "intensity": 2,
+        "tags": ["personality"],
+        "question": "¿Guardas objetos por su utilidad o por los recuerdos que representan?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_water_05_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué recuerdo visitas con más frecuencia y por qué?"
+      },
+      {
+        "id": "minor_water_05_thoughtful_02",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué experiencia difícil terminó enseñándote algo valioso?"
+      },
+      {
+        "id": "minor_water_05_thoughtful_03",
+        "intensity": 3,
+        "tags": ["change"],
+        "question": "¿Qué cambio aceptaste mucho tiempo después de que ocurriera?"
+      },
+      {
+        "id": "minor_water_05_thoughtful_04",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué diferencia hay entre recordar y vivir anclado al pasado?"
+      },
+      {
+        "id": "minor_water_05_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué versión antigua de ti todavía influye en tus decisiones?"
+      },
+      {
+        "id": "minor_water_05_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué agradeces de tu historia, incluso de los momentos difíciles?"
+      },
+      {
+        "id": "minor_water_05_thoughtful_07",
+        "intensity": 3,
+        "tags": ["acceptance"],
+        "question": "¿Qué aprendiste al dejar ir algo que pensabas que sería para siempre?"
+      },
+      {
+        "id": "minor_water_05_thoughtful_08",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué consejo le darías a tu yo de hace diez años?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_water_05_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué parte de tu pasado todavía define cómo te ves hoy?"
+      },
+      {
+        "id": "minor_water_05_deep_02",
+        "intensity": 5,
+        "tags": ["forgiveness"],
+        "question": "¿Qué episodio de tu vida necesitas perdonar para poder avanzar?"
+      },
+      {
+        "id": "minor_water_05_deep_03",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué has dejado de vivir por seguir mirando hacia atrás?"
+      },
+      {
+        "id": "minor_water_05_deep_04",
+        "intensity": 5,
+        "tags": ["change"],
+        "question": "¿Qué oportunidad apareció solo después de perder algo importante?"
+      },
+      {
+        "id": "minor_water_05_deep_05",
+        "intensity": 5,
+        "tags": ["acceptance"],
+        "question": "¿Qué aceptarías más fácilmente si dejaras de compararlo con el pasado?"
+      },
+      {
+        "id": "minor_water_05_deep_06",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Cuál ha sido la despedida que más te transformó?"
+      },
+      {
+        "id": "minor_water_05_deep_07",
+        "intensity": 5,
+        "tags": ["life"],
+        "question": "¿Qué recuerdo merece quedarse y cuál ya cumplió su propósito?"
+      },
+      {
+        "id": "minor_water_05_deep_08",
+        "intensity": 5,
+        "tags": ["freedom"],
+        "question": "¿Qué cambiaría en tu vida si dejaras de cargar con lo que ya terminó?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_water_05_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué objeto, hábito o recuerdo podrías soltar para abrir espacio a algo nuevo?"
+      },
+      {
+        "id": "minor_water_05_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué conversación con tu pasado necesitas dejar de repetir?"
+      },
+      {
+        "id": "minor_water_05_challenge_03",
+        "intensity": 4,
+        "tags": ["acceptance"],
+        "question": "¿Qué realidad sería más ligera si dejaras de preguntarte 'qué habría pasado si...?'"
+      },
+      {
+        "id": "minor_water_05_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué primer paso puedes dar para construir un recuerdo nuevo?"
+      },
+      {
+        "id": "minor_water_05_challenge_05",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué te está ofreciendo el presente que todavía no has visto?"
+      },
+      {
+        "id": "minor_water_05_challenge_06",
+        "intensity": 4,
+        "tags": ["change"],
+        "question": "¿Qué decisión estás listo para tomar sin mirar hacia atrás?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_water_05_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién te ayudó a superar una etapa que parecía imposible?"
+      },
+      {
+        "id": "minor_water_05_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona merece un agradecimiento por haber formado parte de tu historia, aunque ya no esté cerca?"
+      },
+      {
+        "id": "minor_water_05_connection_03",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué tradición familiar te gustaría conservar?"
+      },
+      {
+        "id": "minor_water_05_connection_04",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amistad ha sobrevivido al paso del tiempo?"
+      },
+      {
+        "id": "minor_water_05_connection_05",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Quién conoció una versión de ti que ya no existe?"
+      },
+      {
+        "id": "minor_water_05_connection_06",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te recuerda que siempre es posible empezar de nuevo?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "minor_fire_05_totality",
+  "name": "Totality",
+  "arcana": "Minor",
+  "number": 5,
+  "traditionalEquivalent": "Five of Wands",
+  "meaning": "Representa el compromiso absoluto con aquello que estamos haciendo. Invita a dejar de dividir nuestra atención y entregar toda nuestra energía, presencia y autenticidad al momento. La total entrega transforma cualquier acción, sin importar su tamaño.",
+  "coreMessage": "No importa lo que hagas; hazlo con todo lo que eres.",
+  "keywords": [
+    "Totalidad",
+    "Compromiso",
+    "Entrega",
+    "Presencia",
+    "Enfoque",
+    "Pasión",
+    "Acción",
+    "Determinación"
+  ],
+  "light": [
+    "Compromiso",
+    "Disciplina",
+    "Enfoque",
+    "Pasión",
+    "Excelencia"
+  ],
+  "shadow": [
+    "Dispersión",
+    "Superficialidad",
+    "Procrastinación",
+    "Desinterés",
+    "Falta de compromiso"
+  ],
+  "invitation": "Haz menos cosas, pero involúcrate completamente en ellas.",
+  "axes": [
+    "Compromiso",
+    "Presencia",
+    "Disciplina",
+    "Pasión",
+    "Acción"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_fire_05_playful_01",
+        "intensity": 1,
+        "tags": ["focus"],
+        "question": "¿Qué actividad logra absorber toda tu atención sin darte cuenta?"
+      },
+      {
+        "id": "minor_fire_05_playful_02",
+        "intensity": 1,
+        "tags": ["hobbies"],
+        "question": "¿Qué proyecto te ha tenido despierto hasta tarde porque no querías dejarlo?"
+      },
+      {
+        "id": "minor_fire_05_playful_03",
+        "intensity": 2,
+        "tags": ["competition"],
+        "question": "¿En qué juego o actividad siempre das el 100%, aunque sea solo por diversión?"
+      },
+      {
+        "id": "minor_fire_05_playful_04",
+        "intensity": 2,
+        "tags": ["energy"],
+        "question": "¿Qué tema hace que olvides revisar el celular durante horas?"
+      },
+      {
+        "id": "minor_fire_05_playful_05",
+        "intensity": 2,
+        "tags": ["passion"],
+        "question": "¿Qué podrías hacer durante un día entero sin aburrirte?"
+      },
+      {
+        "id": "minor_fire_05_playful_06",
+        "intensity": 2,
+        "tags": ["challenge"],
+        "question": "¿Cuál ha sido el reto más divertido al que te has entregado por completo?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_fire_05_thoughtful_01",
+        "intensity": 3,
+        "tags": ["commitment"],
+        "question": "¿Qué proyecto te ha exigido dar lo mejor de ti?"
+      },
+      {
+        "id": "minor_fire_05_thoughtful_02",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué diferencia notas entre hacer algo por obligación y hacerlo con convicción?"
+      },
+      {
+        "id": "minor_fire_05_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad desarrollaste gracias a la constancia?"
+      },
+      {
+        "id": "minor_fire_05_thoughtful_04",
+        "intensity": 3,
+        "tags": ["purpose"],
+        "question": "¿Qué actividad merece hoy más de tu energía?"
+      },
+      {
+        "id": "minor_fire_05_thoughtful_05",
+        "intensity": 3,
+        "tags": ["focus"],
+        "question": "¿Qué suele distraerte cuando intentas hacer algo importante?"
+      },
+      {
+        "id": "minor_fire_05_thoughtful_06",
+        "intensity": 3,
+        "tags": ["discipline"],
+        "question": "¿Qué hábito ha demostrado que eres más disciplinado de lo que pensabas?"
+      },
+      {
+        "id": "minor_fire_05_thoughtful_07",
+        "intensity": 3,
+        "tags": ["motivation"],
+        "question": "¿Qué hace que mantengas el entusiasmo incluso cuando las cosas se ponen difíciles?"
+      },
+      {
+        "id": "minor_fire_05_thoughtful_08",
+        "intensity": 3,
+        "tags": ["achievement"],
+        "question": "¿De qué logro te sientes orgulloso porque sabes cuánto esfuerzo hubo detrás?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_fire_05_deep_01",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Por qué causa estarías dispuesto a dar lo mejor de ti durante años?"
+      },
+      {
+        "id": "minor_fire_05_deep_02",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué actividad refleja mejor quién eres cuando nadie te obliga a hacerla?"
+      },
+      {
+        "id": "minor_fire_05_deep_03",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué desafío te obligó a descubrir una fortaleza que no sabías que tenías?"
+      },
+      {
+        "id": "minor_fire_05_deep_04",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué proyecto sentirías que valió la pena incluso si nadie reconociera tu esfuerzo?"
+      },
+      {
+        "id": "minor_fire_05_deep_05",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿En qué parte de tu vida sientes que todavía no te estás entregando por completo?"
+      },
+      {
+        "id": "minor_fire_05_deep_06",
+        "intensity": 5,
+        "tags": ["authenticity"],
+        "question": "¿Qué harías con la misma pasión aunque nunca recibieras una recompensa?"
+      },
+      {
+        "id": "minor_fire_05_deep_07",
+        "intensity": 5,
+        "tags": ["courage"],
+        "question": "¿Qué compromiso importante has evitado por miedo al nivel de dedicación que exige?"
+      },
+      {
+        "id": "minor_fire_05_deep_08",
+        "intensity": 5,
+        "tags": ["fulfillment"],
+        "question": "¿Qué significa para ti vivir una vida sin hacer las cosas a medias?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_fire_05_challenge_01",
+        "intensity": 4,
+        "tags": ["focus"],
+        "question": "¿Qué merece toda tu atención y actualmente solo recibe una parte?"
+      },
+      {
+        "id": "minor_fire_05_challenge_02",
+        "intensity": 4,
+        "tags": ["discipline"],
+        "question": "¿Qué excusa usas con más frecuencia para no comprometerte del todo?"
+      },
+      {
+        "id": "minor_fire_05_challenge_03",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué resultado cambiaría si dieras un 10% más de esfuerzo constante?"
+      },
+      {
+        "id": "minor_fire_05_challenge_04",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué distracción deberías eliminar para enfocarte en lo realmente importante?"
+      },
+      {
+        "id": "minor_fire_05_challenge_05",
+        "intensity": 4,
+        "tags": ["commitment"],
+        "question": "¿Qué promesa contigo mismo necesita convertirse en acción?"
+      },
+      {
+        "id": "minor_fire_05_challenge_06",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué harás esta semana con una dedicación absoluta?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_fire_05_connection_01",
+        "intensity": 3,
+        "tags": ["mentors"],
+        "question": "¿Quién te enseñó con su ejemplo lo que significa comprometerse de verdad?"
+      },
+      {
+        "id": "minor_fire_05_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Con quién trabajarías en un proyecto que requiriera máxima dedicación?"
+      },
+      {
+        "id": "minor_fire_05_connection_03",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién siempre da el 100% en todo lo que hace?"
+      },
+      {
+        "id": "minor_fire_05_connection_04",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién admiras por su disciplina y constancia?"
+      },
+      {
+        "id": "minor_fire_05_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te inspira a esforzarte un poco más de lo que creías posible?"
+      },
+      {
+        "id": "minor_fire_05_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona ha demostrado con hechos, más que con palabras, lo que significa estar comprometido?"
+      }
+    ]
+  }
+}

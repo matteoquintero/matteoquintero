@@ -1,0 +1,257 @@
+{
+  "id": "major_20_beyond_illusion",
+  "name": "Beyond Illusion",
+  "arcana": "Major",
+  "number": 20,
+  "traditionalEquivalent": "Judgement",
+  "meaning": "Representa el momento en que dejamos de vivir según historias que inventamos sobre nosotros mismos o sobre los demás. Invita a ver la realidad sin filtros, expectativas ni suposiciones. Es el despertar que ocurre cuando distinguimos entre lo que realmente es y lo que solo existía en nuestra mente.",
+  "coreMessage": "La libertad comienza cuando dejas de creer todo lo que piensas.",
+  "keywords": [
+    "Ilusión",
+    "Realidad",
+    "Claridad",
+    "Verdad",
+    "Percepción",
+    "Despertar",
+    "Conciencia",
+    "Objetividad"
+  ],
+  "light": [
+    "Claridad",
+    "Honestidad",
+    "Aceptación",
+    "Sabiduría",
+    "Discernimiento"
+  ],
+  "shadow": [
+    "Autoengaño",
+    "Suposiciones",
+    "Idealización",
+    "Negación",
+    "Distorsión"
+  ],
+  "invitation": "Observa cuántas historias das por ciertas sin haberlas comprobado.",
+  "axes": [
+    "Verdad",
+    "Percepción",
+    "Conciencia",
+    "Realidad",
+    "Claridad"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "major_20_playful_01",
+        "intensity": 1,
+        "tags": ["first-impressions"],
+        "question": "¿Qué primera impresión tuviste de alguien que terminó siendo completamente equivocada?"
+      },
+      {
+        "id": "major_20_playful_02",
+        "intensity": 1,
+        "tags": ["surprises"],
+        "question": "¿Qué cosa parecía increíblemente difícil hasta que finalmente la intentaste?"
+      },
+      {
+        "id": "major_20_playful_03",
+        "intensity": 2,
+        "tags": ["perspective"],
+        "question": "¿Qué lugar cambió por completo después de conocerlo mejor?"
+      },
+      {
+        "id": "major_20_playful_04",
+        "intensity": 2,
+        "tags": ["people"],
+        "question": "¿Qué persona terminó siendo muy diferente a lo que imaginabas?"
+      },
+      {
+        "id": "major_20_playful_05",
+        "intensity": 2,
+        "tags": ["learning"],
+        "question": "¿Qué mito creías cuando eras niño y te dio mucha risa descubrir que era falso?"
+      },
+      {
+        "id": "major_20_playful_06",
+        "intensity": 2,
+        "tags": ["curiosity"],
+        "question": "¿Qué experiencia te enseñó que las apariencias engañan?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "major_20_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué creencia cambió completamente cuando conociste más información?"
+      },
+      {
+        "id": "major_20_thoughtful_02",
+        "intensity": 3,
+        "tags": ["judgment"],
+        "question": "¿Cuándo descubriste que habías juzgado injustamente a alguien?"
+      },
+      {
+        "id": "major_20_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué situación terminó siendo muy distinta a como la imaginabas?"
+      },
+      {
+        "id": "major_20_thoughtful_04",
+        "intensity": 3,
+        "tags": ["awareness"],
+        "question": "¿Qué historia te contabas sobre ti mismo y hoy ya no crees?"
+      },
+      {
+        "id": "major_20_thoughtful_05",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué te ayuda a distinguir entre hechos y suposiciones?"
+      },
+      {
+        "id": "major_20_thoughtful_06",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Qué conversación cambió completamente tu percepción sobre alguien?"
+      },
+      {
+        "id": "major_20_thoughtful_07",
+        "intensity": 3,
+        "tags": ["learning"],
+        "question": "¿Qué error de interpretación recuerdas como una gran lección?"
+      },
+      {
+        "id": "major_20_thoughtful_08",
+        "intensity": 3,
+        "tags": ["clarity"],
+        "question": "¿Qué hábito te ayuda a ver las situaciones con mayor objetividad?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "major_20_deep_01",
+        "intensity": 5,
+        "tags": ["identity"],
+        "question": "¿Qué mentira sobre ti mismo tardaste demasiado tiempo en dejar de creer?"
+      },
+      {
+        "id": "major_20_deep_02",
+        "intensity": 5,
+        "tags": ["fear"],
+        "question": "¿Qué miedo ha crecido más por tu imaginación que por la realidad?"
+      },
+      {
+        "id": "major_20_deep_03",
+        "intensity": 5,
+        "tags": ["relationships"],
+        "question": "¿Qué expectativa poco realista ha afectado una relación importante para ti?"
+      },
+      {
+        "id": "major_20_deep_04",
+        "intensity": 5,
+        "tags": ["truth"],
+        "question": "¿Qué verdad te costó aceptar porque cambiaba la historia que te contabas?"
+      },
+      {
+        "id": "major_20_deep_05",
+        "intensity": 5,
+        "tags": ["self-awareness"],
+        "question": "¿En qué aspecto de tu vida crees que todavía no estás viendo las cosas con total claridad?"
+      },
+      {
+        "id": "major_20_deep_06",
+        "intensity": 5,
+        "tags": ["growth"],
+        "question": "¿Qué descubrimiento sobre ti transformó la forma en que entiendes tu vida?"
+      },
+      {
+        "id": "major_20_deep_07",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué historia repetirías menos si pudieras volver a empezar?"
+      },
+      {
+        "id": "major_20_deep_08",
+        "intensity": 5,
+        "tags": ["awareness"],
+        "question": "¿Qué parte de la realidad has estado evitando mirar de frente?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "major_20_challenge_01",
+        "intensity": 4,
+        "tags": ["beliefs"],
+        "question": "¿Qué creencia deberías poner a prueba en lugar de seguir dándola por cierta?"
+      },
+      {
+        "id": "major_20_challenge_02",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué suposición podrías reemplazar por una conversación honesta?"
+      },
+      {
+        "id": "major_20_challenge_03",
+        "intensity": 4,
+        "tags": ["clarity"],
+        "question": "¿Qué situación merece ser observada con menos emociones y más hechos?"
+      },
+      {
+        "id": "major_20_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué expectativa irreal podrías dejar ir esta semana?"
+      },
+      {
+        "id": "major_20_challenge_05",
+        "intensity": 4,
+        "tags": ["awareness"],
+        "question": "¿Qué historia sobre otra persona necesitas dejar de completar con tu imaginación?"
+      },
+      {
+        "id": "major_20_challenge_06",
+        "intensity": 4,
+        "tags": ["truth"],
+        "question": "¿Qué verdad estás listo para aceptar aunque resulte incómoda?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "major_20_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién cambió por completo tu manera de ver el mundo?"
+      },
+      {
+        "id": "major_20_connection_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Quién tuvo la paciencia de mostrarte una verdad que no querías ver?"
+      },
+      {
+        "id": "major_20_connection_03",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Quién te ayuda a mantener los pies sobre la tierra cuando tu mente imagina demasiado?"
+      },
+      {
+        "id": "major_20_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué conversación familiar cambió una creencia importante para ti?"
+      },
+      {
+        "id": "major_20_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién te conoce lo suficiente como para decirte la verdad aunque no siempre quieras escucharla?"
+      },
+      {
+        "id": "major_20_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Con quién te gustaría tener una conversación para aclarar algo que quizás ambos han interpretado mal?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "minor_rainbow_09_ripeness",
+  "name": "Ripeness",
+  "arcana": "Minor",
+  "number": 9,
+  "traditionalEquivalent": "Nine of Pentacles",
+  "meaning": "Representa el momento en que todo el esfuerzo, la paciencia y el aprendizaje llegan a su máxima expresión. La madurez permite disfrutar los frutos sin ansiedad por el futuro ni nostalgia por el pasado. Esta carta celebra la satisfacción de reconocer cuánto has crecido y la capacidad de compartir esa abundancia con los demás.",
+  "coreMessage": "Disfruta lo que has cultivado; también forma parte del camino.",
+  "keywords": [
+    "Plenitud",
+    "Abundancia",
+    "Madurez",
+    "Gratitud",
+    "Realización",
+    "Disfrute",
+    "Cosecha",
+    "Sabiduría"
+  ],
+  "light": [
+    "Plenitud",
+    "Gratitud",
+    "Abundancia",
+    "Confianza",
+    "Generosidad"
+  ],
+  "shadow": [
+    "Perfeccionismo",
+    "Insatisfacción",
+    "No celebrar",
+    "Exigencia constante",
+    "Miedo a perder lo logrado"
+  ],
+  "invitation": "Detente a reconocer todo lo que ya has construido. Honrar tus logros no es conformarte; es agradecer el camino recorrido antes de iniciar el siguiente.",
+  "axes": [
+    "Plenitud",
+    "Gratitud",
+    "Abundancia",
+    "Madurez",
+    "Realización"
+  ],
+  "questions": {
+    "playful": [
+      {
+        "id": "minor_rainbow_09_playful_01",
+        "intensity": 1,
+        "tags": ["memories"],
+        "question": "¿Cuál fue la primera meta importante que recuerdas haber alcanzado?"
+      },
+      {
+        "id": "minor_rainbow_09_playful_02",
+        "intensity": 1,
+        "tags": ["personality"],
+        "question": "¿Celebras tus logros o pasas rápidamente al siguiente objetivo?"
+      },
+      {
+        "id": "minor_rainbow_09_playful_03",
+        "intensity": 2,
+        "tags": ["life"],
+        "question": "¿Qué logro pequeño te hizo sentir sorprendentemente orgulloso?"
+      },
+      {
+        "id": "minor_rainbow_09_playful_04",
+        "intensity": 2,
+        "tags": ["gratitude"],
+        "question": "¿Qué tienes hoy que hace algunos años era solo un deseo?"
+      },
+      {
+        "id": "minor_rainbow_09_playful_05",
+        "intensity": 2,
+        "tags": ["growth"],
+        "question": "¿Qué habilidad desarrollaste casi sin darte cuenta con el paso del tiempo?"
+      },
+      {
+        "id": "minor_rainbow_09_playful_06",
+        "intensity": 2,
+        "tags": ["reflection"],
+        "question": "¿Qué momento reciente te hizo pensar: 'valió la pena el esfuerzo'?"
+      }
+    ],
+    "thoughtful": [
+      {
+        "id": "minor_rainbow_09_thoughtful_01",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué logro has tardado demasiado en reconocer?"
+      },
+      {
+        "id": "minor_rainbow_09_thoughtful_02",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿Qué aspecto de tu vida te hace sentir verdaderamente afortunado?"
+      },
+      {
+        "id": "minor_rainbow_09_thoughtful_03",
+        "intensity": 3,
+        "tags": ["growth"],
+        "question": "¿Qué esfuerzo constante terminó transformando tu vida?"
+      },
+      {
+        "id": "minor_rainbow_09_thoughtful_04",
+        "intensity": 3,
+        "tags": ["balance"],
+        "question": "¿Cómo disfrutas un logro sin dejar de seguir creciendo?"
+      },
+      {
+        "id": "minor_rainbow_09_thoughtful_05",
+        "intensity": 3,
+        "tags": ["identity"],
+        "question": "¿Qué cualidad personal ha sido clave para llegar hasta donde estás?"
+      },
+      {
+        "id": "minor_rainbow_09_thoughtful_06",
+        "intensity": 3,
+        "tags": ["life"],
+        "question": "¿Qué etapa de tu vida consideras una verdadera cosecha?"
+      },
+      {
+        "id": "minor_rainbow_09_thoughtful_07",
+        "intensity": 3,
+        "tags": ["perspective"],
+        "question": "¿Qué aprendiste al descubrir que alcanzar una meta no resolvía todo?"
+      },
+      {
+        "id": "minor_rainbow_09_thoughtful_08",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué significa para ti sentirte realizado?"
+      }
+    ],
+    "deep": [
+      {
+        "id": "minor_rainbow_09_deep_01",
+        "intensity": 5,
+        "tags": ["purpose"],
+        "question": "¿Qué fruto de tu vida te emociona más porque sabes todo lo que costó conseguirlo?"
+      },
+      {
+        "id": "minor_rainbow_09_deep_02",
+        "intensity": 5,
+        "tags": ["reflection"],
+        "question": "¿Qué te impide disfrutar plenamente lo que ya has logrado?"
+      },
+      {
+        "id": "minor_rainbow_09_deep_03",
+        "intensity": 5,
+        "tags": ["gratitude"],
+        "question": "¿Qué persona fue indispensable para que hoy estés donde estás?"
+      },
+      {
+        "id": "minor_rainbow_09_deep_04",
+        "intensity": 5,
+        "tags": ["consciousness"],
+        "question": "¿Cómo sería tu vida si dejaras de medir tu valor únicamente por tus resultados?"
+      },
+      {
+        "id": "minor_rainbow_09_deep_05",
+        "intensity": 5,
+        "tags": ["abundance"],
+        "question": "¿Qué riqueza interior has desarrollado que nadie puede quitarte?"
+      },
+      {
+        "id": "minor_rainbow_09_deep_06",
+        "intensity": 5,
+        "tags": ["wisdom"],
+        "question": "¿Qué consejo le darías a tu versión de hace diez años al verla iniciar este camino?"
+      },
+      {
+        "id": "minor_rainbow_09_deep_07",
+        "intensity": 5,
+        "tags": ["legacy"],
+        "question": "¿Qué te gustaría que otras personas cosecharan gracias a tu esfuerzo?"
+      },
+      {
+        "id": "minor_rainbow_09_deep_08",
+        "intensity": 5,
+        "tags": ["fulfillment"],
+        "question": "¿Cómo sabrás que has vivido una vida verdaderamente plena?"
+      }
+    ],
+    "challenge": [
+      {
+        "id": "minor_rainbow_09_challenge_01",
+        "intensity": 4,
+        "tags": ["action"],
+        "question": "¿Qué logro puedes darte permiso de celebrar esta semana?"
+      },
+      {
+        "id": "minor_rainbow_09_challenge_02",
+        "intensity": 4,
+        "tags": ["gratitude"],
+        "question": "¿Qué cinco cosas que hoy forman parte de tu vida alguna vez parecían lejanas?"
+      },
+      {
+        "id": "minor_rainbow_09_challenge_03",
+        "intensity": 4,
+        "tags": ["reflection"],
+        "question": "¿Qué expectativa puedes dejar ir para disfrutar más el presente?"
+      },
+      {
+        "id": "minor_rainbow_09_challenge_04",
+        "intensity": 4,
+        "tags": ["growth"],
+        "question": "¿Qué nuevo reto quieres comenzar después de reconocer todo lo que ya has conseguido?"
+      },
+      {
+        "id": "minor_rainbow_09_challenge_05",
+        "intensity": 4,
+        "tags": ["balance"],
+        "question": "¿Cómo puedes compartir parte de tu abundancia con alguien más?"
+      },
+      {
+        "id": "minor_rainbow_09_challenge_06",
+        "intensity": 4,
+        "tags": ["presence"],
+        "question": "¿Qué harás hoy para disfrutar el fruto de tu esfuerzo sin sentir culpa?"
+      }
+    ],
+    "connection": [
+      {
+        "id": "minor_rainbow_09_connection_01",
+        "intensity": 3,
+        "tags": ["relationships"],
+        "question": "¿Quién ha celebrado tus logros con tanta alegría como si fueran propios?"
+      },
+      {
+        "id": "minor_rainbow_09_connection_02",
+        "intensity": 3,
+        "tags": ["friendship"],
+        "question": "¿Qué amistad ha crecido contigo durante muchos años?"
+      },
+      {
+        "id": "minor_rainbow_09_connection_03",
+        "intensity": 3,
+        "tags": ["gratitude"],
+        "question": "¿A quién te gustaría agradecer por haber confiado en ti incluso cuando tú dudabas?"
+      },
+      {
+        "id": "minor_rainbow_09_connection_04",
+        "intensity": 3,
+        "tags": ["family"],
+        "question": "¿Qué logro compartido con tu familia recuerdas con más cariño?"
+      },
+      {
+        "id": "minor_rainbow_09_connection_05",
+        "intensity": 3,
+        "tags": ["support"],
+        "question": "¿Quién merece celebrar contigo el momento que estás viviendo hoy?"
+      },
+      {
+        "id": "minor_rainbow_09_connection_06",
+        "intensity": 3,
+        "tags": ["reflection"],
+        "question": "¿Qué persona te ayudó a descubrir que el verdadero éxito también consiste en disfrutar el camino?"
+      }
+    ]
+  }
+}
