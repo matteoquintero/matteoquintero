@@ -44,5 +44,7 @@ Strategy: `single-pr` — one cohesive page (~700 authored lines forecast, mostl
 - Writer deviations (accepted): logos as static `<img>` assets with per-logo height map; topbar/contact centered at 1080px; status dots as spans; unused mockup CSS dropped.
 - Authored lines: 1,719 (content 475, page 443, CSS 801) — above the ~400 forecast; single-pr kept (one visual unit).
 
+- RDD: assess `a336951..6068d59` → risk `medium`, `review_due=true` (`slice_budget_reached`); consent relayed → user chose **declined** (candidate-scoped, `declined_this_candidate`). Off-path tier medium: writer self-verification + parent spot check (tsc) — writer was not a small-model profile, so no separate verifier.
+
 ## Next step
-RDD assess per commit range `a336951..HEAD`, then PR to `main`.
+Delivery decision (PR to `main` or merge) — user-owned.
